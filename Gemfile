@@ -9,6 +9,7 @@ source 'http://rubygems.org'
 
 # using bundler
 # sudo bundle install
+gem "capistrano", "2.15.5"
 
 gem 'subdomain-fu', '1.0.0.beta2' # :git => "git://github.com/nhowell/subdomain-fu.git"
 gem 'rails', '3.0.7'
@@ -35,7 +36,12 @@ gem 'whenever', :require => false
 gem 'acts-as-taggable-on'
 gem 'nested_set'
 gem "puffer"
-gem "capistrano"
+
+# gem 'highline'
+# gem 'net-scp', "1.0.0"
+# gem 'net-sftp', "2.0.0"
+# gem 'net-ssh', "2.0.14"
+# gem 'net-ssh-gateway', "1.1.0"
 
 # gem 'acts-as-list'
 # =========================================
