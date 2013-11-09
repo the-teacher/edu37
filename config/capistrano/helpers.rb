@@ -3,8 +3,10 @@ def _join *params
 end
 
 def template(from, to)
-  script_root = File.dirname File.absolute_path __FILE__
-  erb         = File.read script_root + "/templates/#{from}"
+  # File.absolute_path __FILE__
+  abs_path    = File.expand_path File.dirname __FILE__
+  script_root = File.dirname abs_path
+  erb         = File.read script_root + "/capistrano/templates/#{from}"
   put ERB.new(erb).result(binding), to
 end
 
