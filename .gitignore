@@ -4,7 +4,10 @@ db/*.sqlite3
 log/*.log
 tmp/**/*
 /public/uploads
-/config/database.yml
 /db/sphinx
 log/*
 db/sphinx/development/*
+
+
+config/database.yml
+config/capistrano/templates/database.production.yml
