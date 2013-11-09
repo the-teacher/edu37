@@ -8,6 +8,8 @@ tmp/**/*
 log/*
 db/sphinx/development/*
 
+vendor/cache
+vendor/cache/*
 
 config/database.yml
 config/capistrano/templates/database.production.yml
