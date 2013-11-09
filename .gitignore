@@ -1,5 +1,4 @@
 .bundle
-.Gemfile.lock
 db/*.sqlite3
 log/*.log
 tmp/**/*
@@ -9,6 +8,8 @@ log/*
 db/sphinx/development/*
 
 .rvmrc
+Gemfile.lock
+.Gemfile.lock
 
 vendor/cache
 vendor/cache/*
