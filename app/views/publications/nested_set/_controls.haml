@@ -1,0 +1,35 @@
+-# STATES INFO
+- state_icon = state_icon_for_controls_for(node) 
+- moderation_state_icon= moderation_state_for_controls_for(node) if current_user.has_role? :publications, :moderation_state_icon
+
+-# EDIT
+- edit= link_to '', edit_news_path(node.zip), :title=>t('publications.edit_this'), :class=>'button edit'
+
+-# DELETE
+- if opts[:has_childs]
+  - delete=  link_to('', news_path(node.zip, :page=>params[:page]),
+    :title=>t('publications.delete'),
+    :method=>:delete,
+    :confirm=>t('publications.delete_confirm'),
+    :class=>'button delete') 
+- else
+  - delete=  link_to('', '#',
+    :title=>t('publications.cant_be_deleted'),
+    :onclick=>t('publications.delete_nested_elements'),
+    :class=>'button undeleted')
+
+-# HARD DELETE
+- if current_user.top_manager?
+  - if opts[:has_childs]
+    - hard_delete=  link_to('', news_path(node.zip, :hard=>true, :page=>params[:page]),
+      :title=>t('publications.hard_delete'),
+      :method=>:delete,
+      :confirm=>t('publications.hard_delete_confirm'),
+      :class=>'button hard_delete')
+  - else
+    - hard_delete=  link_to('', '#',
+      :title=>t('publications.cant_be_deleted'),
+      :class=>'button undeleted',
+      :onclick=>t('publications.delete_nested_elements'))
+
+= state_icon + moderation_state_icon + edit + delete + hard_delete

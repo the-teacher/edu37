@@ -1,0 +1,19 @@
+.nested_set a.folder{
+  display:block;
+  -moz-border-radius: 10px 10px 10px 10px;
+  background:url("/images/basic/files.jpg") no-repeat scroll 0 center white;
+  margin-right: 50px;
+  overflow: hidden;
+  zoom:1;
+  height: 90px;
+  font-size: 14pt;
+  padding: 10px 0 0 125px;
+}
+.nested_set a.folder b{
+  display:block;
+  font-size: 12pt;
+  font-weight: normal;
+}
+.nested_set span.controls{
+  width:40px;
+}

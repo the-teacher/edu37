@@ -1,0 +1,7 @@
+- if opts[:admin]
+  %ol{:id=>"#{parent.id}_page_nested_set"}
+    = raw childs
+- else
+  %ol
+    = raw childs
+

@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="windows-1251"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>ДЛЯ ТЕХ, КТО ЛЮБИТ РИСОВАТЬ - Средняя общеобразовательная школа № 1 города Иванова</title>
+<meta name="title" content="ДЛЯ ТЕХ, КТО ЛЮБИТ РИСОВАТЬ" />
+<meta name="author" content="webmaster" />
+<meta name="description" content=" Официальный сайт средней общеобразовательной школы № 1 города Иванова Ивановской области" />
+<meta name="keywords" content=" школа иваново 1 средняя образование новости ученик учитель" />
+<meta name="distribution" content="global" />
+<meta name="rating" content="General" />
+<meta name="document-state" content="Dynamic" />
+<meta name="documentType" content="WebDocument" />
+<meta name="audience" content="all" />
+<meta name="revisit" content="10 days" />
+<meta name="revisit-after" content="10 days" />
+<meta name="allow-search" content="yes" />
+<meta name="language" content="russian" />
+<base href="http://school1.ivedu.ru/" />
+<link href="http://school1.ivedu.ru/templates/school1-1/css/template_css.css" rel="stylesheet" type="text/css" />
+<!--[if lt IE 7]>
+			<script type="text/javascript" src="/js/unitpngfix.js"></script>
+<![endif]-->  
+<!--[if (gt IE 5)&(lt IE 7)]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ieonly.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ie7only.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body id="page_bg">
+<div class="center" align="center">
+	<div id="wrapper">
+		<div id="wrapper_r">
+			<div id="header">
+				<a href="http://school1.ivedu.ru" id="logo">&nbsp;</a>
+				<table cellpadding="0" cellspacing="0" class="pill">
+					<tr>
+						<td class="pill_l">&nbsp;
+						</td>
+						<td class="pill_m">
+						<div id="pillmenu">
+													</div>
+						</td>
+					</tr>
+				</table>
+			</div>
+			<div id="tabarea">&nbsp;
+			</div>
+
+			<div class="clr"></div>
+			<div id="whitebox">
+<!--				<div id="whitebox_t">
+					<div id="whitebox_tl">
+						<div id="whitebox_tr">&nbsp;</div>
+					</div>
+				</div> -->
+
+				<div id="whitebox_m">
+					<div id="area">
+					  <div class="rightback">
+					  <div class="contentback">
+					  <div class="leftback">
+						<div id="leftcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+									<div class="module_menu">
+			<div>
+				<div>
+					<div>
+						<h3>Главное меню</h3>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="." title="Главная" class="mainlevel" >Главная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" title="Новости" class="mainlevel" id="active_menu">Новости</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=445&amp;Itemid=45" title="Портфолио школы" class="mainlevel" >Портфолио школы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=446&amp;Itemid=46" title="Учебный процесс" class="mainlevel" >Учебный процесс</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=448&amp;Itemid=47" title="Педагоги" class="mainlevel" >Педагоги</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=5&amp;Itemid=29" title="Документы" class="mainlevel" >Документы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=449&amp;Itemid=48" title="Публичные отчеты" class="mainlevel" >Публичные отчеты</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=450&amp;Itemid=49" title="Кабинет здоровья" class="mainlevel" >Кабинет здоровья</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=451&amp;Itemid=50" title="Родителям" class="mainlevel" >Родителям</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=452&amp;Itemid=51" title="Общественная приемная" class="mainlevel" >Общественная приемная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=453&amp;Itemid=52" title="Итоговая аттестация" class="mainlevel" >Итоговая аттестация</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=454&amp;Itemid=53" title="Школьная жизнь" class="mainlevel" >Школьная жизнь</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_contact&amp;Itemid=3" title="Контакты" class="mainlevel" >Контакты</a></td></tr>
+</table>					</div>
+				</div>
+			</div>
+		</div>
+																						</div>
+						<div id="maincolumn">
+						<div id="pathway">
+							<span class="pathway"><a href="http://school1.ivedu.ru" class="pathway" title="Главная">Главная</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" class="pathway" title="Новости">Новости</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=category&amp;sectionid=1&amp;id=1&amp;Itemid=2" class="pathway" title="Новое">Новое</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" />   ДЛЯ ТЕХ, КТО ЛЮБИТ РИСОВАТЬ </span>						</div>
+<!--											<table class="nopad user1user2">
+								<tr valign="top">
+									<td class="half1">
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Последние новости				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="latestnews">
+	<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=491&amp;Itemid=2" title="ЛЕТНИЙ ОТДЫХ" class="latestnews">ЛЕТНИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=490&amp;Itemid=2" title="ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ" class="latestnews">ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=489&amp;Itemid=2" title="ИГАСУ ЖДЕТ ВАС" class="latestnews">ИГАСУ ЖДЕТ ВАС</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+																			<td class="greyline">&nbsp;</td>
+																		<td>
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Популярное				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="mostread">
+	<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=104&amp;Itemid=2" title="Благодарность учителям начальной школы" class="mostread">
+			Благодарность учителям начальной школы</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=59&amp;Itemid=2" title="Слова благодарности" class="mostread">
+			Слова благодарности</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=51&amp;Itemid=2" title="День открытых дверей для родителей будущих первоклассников" class="mostread">
+			День открытых дверей для родителей будущих первоклассников</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+								</tr>
+							</table>
+							<div id="maindivider"></div>
+				 -->
+							<table class="nopad content">
+								<tr valign="top">
+									<td>
+																					
+			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+				<h3>ДЛЯ ТЕХ, КТО ЛЮБИТ РИСОВАТЬ</h3>				</td>
+										<td align="right" width="100%" class="buttonheading">
+															<a href="http://school1.ivedu.ru/index2.php?option=com_content&amp;task=view&amp;id=332&amp;pop=1&amp;page=0&amp;Itemid=2" target="_blank" title="Печать"><img src="http://school1.ivedu.ru/images/M_images/printButton.png"  alt="Печать" id="print" name="print" align="middle" border="0" /></a>
+													</td>
+								</tr>
+			</table>
+			
+		<table  class="contentpaneopen">
+				<tr>
+			<td width="70%" align="left" valign="top" colspan="2">
+			<span class="small">
+			 Автор webmaster			</span>
+			&nbsp;&nbsp;
+			</td>
+		</tr>
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+				16:11:2010 г.				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+			<p>
+<img width="1280" src="images/stories/konkurs/mp900409713.jpg" alt="mp900409713.jpg" height="974" style="float: left; margin: 5px; width: 221px; height: 164px; border: #000000 0px solid" title="mp900409713.jpg" />&nbsp;&nbsp; 
+</p>
+<p>
+&nbsp;&nbsp;<span style="color: #0000ff"> Приглашаем всех, у кого есть дети, племянники, внуки от 7 до 17 лет принять участие в конкурсе.</span> 
+</p>
+<p>
+<span style="color: #0000ff"></span>
+</p>
+<p align="center">
+<span style="color: #ff0000"><strong>ПОЛОЖЕНИЕ </strong></span>
+</p>
+<p align="center">
+<span style="color: #ff0000"><strong>О ВТОРОМ МЕЖДУНАРОДНОМ КОНКУРСЕ </strong></span>
+</p>
+<p align="center">
+<span style="color: #ff0000"><strong>ДЕТСКОГО РИСУНКА <u>&quot;МИР ГЛАЗАМИ ДЕТЕЙ&quot;.</u> </strong></span>
+</p>
+&nbsp;<span style="color: #0000ff"> </span>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">Общество инвалидов с детства, детей инвалидов и их родителей &quot;Веста&quot;, г. Москва, проводит конкурс детских рисунков, &quot;Мир глазами детей&quot;.</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<b><span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">Внимание: обновлена конечная дата подачи работ.</span></b> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">ЦЕЛИ И ЗАДАЧИ.</span> 
+</p>
+<ul>
+	<li><span style="font-size: 10pt; font-family: Symbol"><span><span style="font-family: 'Times New Roman'"></span></span></span><span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">Выявление и поддержка талантливых детей в области изобразительного искусства;</span></li>
+	<li><span style="font-size: 10pt; font-family: Symbol"><span><span style="font-family: 'Times New Roman'"></span></span></span><span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">воспитание патриотических чувств подрастающего поколения средствами изобразительного искусства;</span></li>
+	<li><span style="font-size: 10pt; font-family: Symbol"><span><span style="font-family: 'Times New Roman'"></span></span></span><span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">привлечение общественности к проблемам нравственного и патриотического воспитания подрастающего поколения.</span></li>
+</ul>
+<p align="center" style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #ff0000; font-family: Tahoma">НОМИНАЦИИ</span>&nbsp; 
+</p>
+<blockquote>
+	<blockquote>
+		<blockquote>
+			<blockquote>
+				<blockquote>
+					<p>
+					<span style="font-size: 10pt; font-family: Symbol"><span><span style="font-family: 'Times New Roman'"></span></span></span><span style="font-size: 10pt; color: #ff0000; font-family: Tahoma">Моя Родина, мой дом.</span> 
+					</p>
+					<p>
+					<span style="font-size: 10pt; font-family: Symbol"><span><span style="font-family: 'Times New Roman'"></span></span></span><span style="font-size: 10pt; color: #ff0000; font-family: Tahoma">Сыны Отечества.</span> 
+					</p>
+					<p>
+					<span style="font-size: 10pt; font-family: Symbol"><span><span style="font-family: 'Times New Roman'"></span></span></span><span style="font-size: 10pt; color: #ff0000; font-family: Tahoma">Герои любимых сказок.</span> 
+					</p>
+					<p>
+					<span style="font-size: 10pt; font-family: Symbol"><span><span style="font-family: 'Times New Roman'"></span></span></span><span style="font-size: 10pt; color: #ff0000; font-family: Tahoma">Праздник в моем доме.</span> 
+					</p>
+				</blockquote>
+			</blockquote>
+		</blockquote>
+	</blockquote>
+</blockquote>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">УЧАСТНИКИ КОНКУРСА</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">К участию в конкурсе приглашаются все авторы от 7 до 17 лет, приславшие работы в адрес организаторов конкурса.</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">КОНКУРС ПРОВОДИТСЯ В ТРЕХ ВОЗРАСТНЫХ ГРУППАХ:</span> 
+</p>
+<ul>
+	<li><span style="font-size: 10pt; font-family: Symbol"><span><span style="font-family: 'Times New Roman'"></span></span></span><span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">ДО 11 ЛЕТ</span></li>
+	<li><span style="font-size: 10pt; font-family: Symbol"><span><span style="font-family: 'Times New Roman'"></span></span></span><span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">12-14 ЛЕТ</span></li>
+	<li><span style="font-size: 10pt; font-family: Symbol"><span><span style="font-family: 'Times New Roman'"></span></span></span><span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">15-17 ЛЕТ</span></li>
+</ul>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">УСЛОВИЯ УЧАСТИЯ</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">На конкурс принимаются работы соответствующие тематике конкурса и имеющие название.</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">При подаче конкурсной работы на обратной стороне рисунка необходимо указать, название работы и свои данные: Ф И О, почтовый адрес с индексом, адрес электронной почты (если есть) и телефон. Укажите так же &nbsp;место учебы и возраст.</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">ФОРМАТ РАБОТЫ - А4(210х297мм),А3(297х420 мм) без паспарту, без деревянных (пластиковых) рамок, без стекла и ламинирования.</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">ТЕХНИКА ИСПОЛНЕНИЯ - карандаш, акварель, гуашь.</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; font-family: Tahoma"><span style="color: #0000ff">РАБОТЫ ДОСТАВЛЯЮТСЯ В АДРЕС ОРГАНИЗАТОРОВ КОНКУРСА - </span></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; font-family: Tahoma"><span style="color: #0000ff"><span style="color: #ff0000"><strong>в срок до 25 февраля 2011 г.</strong></span></span></span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">ОСНОВНЫЕ КРИТЕРИИ ОЦЕНКИ.</span> 
+</p>
+<ul>
+	<li><span style="font-size: 10pt; font-family: Symbol"><span><span style="font-family: 'Times New Roman'"></span></span></span><span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">Отражение темы конкурса.</span></li>
+	<li><span style="font-size: 10pt; font-family: Symbol"><span><span style="font-family: 'Times New Roman'"></span></span></span><span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">Оригинальность образного решения.</span></li>
+	<li><span style="font-size: 10pt; font-family: Symbol"><span><span style="font-family: 'Times New Roman'"></span></span></span><span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">Мастерство исполнения.</span></li>
+</ul>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">За авторство работы ответственность несет лицо,приславшее работу на конкурс.</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">ОРГАНИЗАТОР КОНКУРСА</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">Общее руководство проведением конкурса осуществляется Обществом инвалидов с детства,детей-инвалидов и их родителей &quot;Веста&quot;.</span> 
+</p>
+<ul>
+	<li><span style="font-size: 10pt; font-family: Symbol"><span><span style="font-family: 'Times New Roman'"></span></span></span><span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">Почтовый адрес Москва, ул. Кировоградская 44-1-127</span></li>
+	<li><span style="font-size: 10pt; font-family: Symbol"><span><span style="font-family: 'Times New Roman'"></span></span></span><span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">Электронный адрес</span><a href="mailto:
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy73176 = 'v&#101;st&#97;&#117;n&#105;&#111;n' + '&#64;';
+ addy73176 = addy73176 + 'm&#97;&#105;l' + '&#46;' + 'r&#117;';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy73176 + '\'>' );
+ document.write( addy73176 );
+ document.write( '<\/a>' );
+ //-->\n </script><script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script>Этот e-mail защищен от спам-ботов. Для его просмотра в вашем браузере должна быть включена поддержка Java-script
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script>"><span style="color: #0000ff; font-family: Tahoma">
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy73176 = 'v&#101;st&#97;&#117;n&#105;&#111;n' + '&#64;';
+ addy73176 = addy73176 + 'm&#97;&#105;l' + '&#46;' + 'r&#117;';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy73176 + '\'>' );
+ document.write( addy73176 );
+ document.write( '<\/a>' );
+ //-->\n </script><script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script>Этот e-mail защищен от спам-ботов. Для его просмотра в вашем браузере должна быть включена поддержка Java-script
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script></span></a><span style="font-size: 10pt; font-family: Tahoma"></span></li>
+	<li><span style="font-size: 10pt; font-family: Symbol"><span><span style="font-family: 'Times New Roman'"></span></span></span><span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">Телефон 8 (495) 387-14-04</span></li>
+</ul>
+<p align="center" style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">СПОСОБЫ ПОДАЧИ РАБОТ НА КОНКУРС.</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">- Работы высылаются на e-mail &nbsp;</span><a href="mailto:
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy73176 = 'v&#101;st&#97;&#117;n&#105;&#111;n' + '&#64;';
+ addy73176 = addy73176 + 'm&#97;&#105;l' + '&#46;' + 'r&#117;';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy73176 + '\'>' );
+ document.write( addy73176 );
+ document.write( '<\/a>' );
+ //-->\n </script><script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script>Этот e-mail защищен от спам-ботов. Для его просмотра в вашем браузере должна быть включена поддержка Java-script
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script>"><span style="color: #0000ff; font-family: Tahoma">
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy73176 = 'v&#101;st&#97;&#117;n&#105;&#111;n' + '&#64;';
+ addy73176 = addy73176 + 'm&#97;&#105;l' + '&#46;' + 'r&#117;';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy73176 + '\'>' );
+ document.write( addy73176 );
+ document.write( '<\/a>' );
+ //-->\n </script><script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script>Этот e-mail защищен от спам-ботов. Для его просмотра в вашем браузере должна быть включена поддержка Java-script
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script></span></a><span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">&nbsp;с пометкой &quot;Мир глазами детей&quot;</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">Пожалуйста, пишите в теме письма фамилию и имя участника. Если Вы посылаете работу с чужого e-mail, укажите способ связи с Вами. Не высылайте работу дважды, дождитесь подтверждения получения письма.</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">- Если у участника нет доступа к компьютеру, работа высылается по почте.</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">Поданные на конкурс работы не возвращаются и не рецензируются.</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">ПОДВЕДЕНИЕ ИТОГОВ И НАГРАЖДЕНИЕ ПОБЕДИТЕЛЕЙ.</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">В каждой возрастной группе, в каждой номинации определяются лауреаты и победители. Победители награждаются Дипломами и ценными подарками.</span> 
+</p>
+<ul>
+	<li><span style="font-size: 10pt; font-family: Symbol"><span><span style="font-family: 'Times New Roman'"></span></span></span><span style="font-size: 10pt; color: #ff0000; font-family: Tahoma"><strong>1 премия - денежный приз;</strong></span></li>
+	<li><span style="font-size: 10pt; font-family: Symbol"><span><span style="font-family: 'Times New Roman'"></span></span></span><span style="font-size: 10pt; color: #ff0000; font-family: Tahoma"><strong>2 премия - денежный при;</strong></span></li>
+	<li><span style="font-size: 10pt; font-family: Symbol"><span><span style="font-family: 'Times New Roman'"></span></span></span><span style="font-size: 10pt; color: #ff0000; font-family: Tahoma"><strong>3 премия - денежный приз.</strong></span></li>
+</ul>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">Общество &quot;Веста&quot; оставляет за собой право присуждения дополнительных наград и призов.</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">Все работы участников конкурса будут размещены на сайте:&nbsp;</span><a href="http://www.vestaunion.ru/"><span style="color: #0000ff; font-family: Tahoma">www.vestaunion.ru</span></a><span style="font-size: 10pt; font-family: Arial"></span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">При подведении итогов конкурса будут учтены итоги интернет - голосования.</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">РЕГИСТРАЦИОННЫЙ ВЗНОС.</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma"><u><strong>Участие в конкурсе платное. Регистрационный взнос за каждую работу - &nbsp;300 рублей.</strong></u></span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">Оплата регистрационного взноса участника осуществляется путем перечисления через отделение Сбербанка.</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">РЕКВИЗИТЫ:</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">КБ &quot;ЮНИАСТРУМ БАНК&quot; (ООО)</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">Р/сч 40703810700190005464</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">к/сч 30101810600000000184</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">В отд. №2 Моск. ГТУ Банка России</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">ОКПО 29296174</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">ИНН 7707286100 ОКОНХ 96120</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">БИК 044585184 КПП 774401001</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">Заявки на участие и квитанции об оплате регистрационного взноса высылаются обычной почтой.</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">Работы, предоставленные от организации, могут быть оплачены одной квитанцией (общей суммой).</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">Расходы по переводу средств осуществляет плательщик регистрационного сбора.</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">ВНИМАНИЕ ! Рекомендуем Вам &nbsp;регулярно посещать сайт <span style="color: #ff0000">&nbsp;</span></span><a href="http://www.vestaunion.ru/"><span style="color: #ff0000; font-family: Tahoma">www.vestaunion.ru</span></a><span style="font-size: 10pt; font-family: Arial"></span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #ff0000; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">Искренне желаем Вам творческих успехов и побед!</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">ЗАЯВКА НА УЧАСТИЕ В КОНКУРСЕ</span> 
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Arial"></span>
+</p>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">Сведения об авторе:</span> 
+</p>
+<ul>
+	<li><span style="color: #0000ff"><span style="font-size: 10pt; font-family: 'Courier New'"><span>o<span style="font-family: 'Times New Roman'"> </span></span></span><span style="font-size: 10pt; font-family: Tahoma">ФИО</span></span></li>
+	<li><span style="color: #0000ff"><span style="font-size: 10pt; font-family: 'Courier New'"><span>o<span style="font-family: 'Times New Roman'"> </span></span></span><span style="font-size: 10pt; font-family: Tahoma">Дата рождения</span></span></li>
+	<li><span style="color: #0000ff"><span style="font-size: 10pt; font-family: 'Courier New'"><span>o<span style="font-family: 'Times New Roman'"> </span></span></span><span style="font-size: 10pt; font-family: Tahoma">Адрес (почтовый, электронный)</span></span></li>
+	<li><span style="color: #0000ff"><span style="font-size: 10pt; font-family: 'Courier New'"><span>o<span style="font-family: 'Times New Roman'"> </span></span></span><span style="font-size: 10pt; font-family: Tahoma">Телефон</span></span></li>
+</ul>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">Сведения о конкурсной работе:</span> 
+</p>
+<ul>
+	<li><span style="color: #0000ff"><span style="font-size: 10pt; font-family: 'Courier New'"><span>o<span style="font-family: 'Times New Roman'"> </span></span></span><span style="font-size: 10pt; font-family: Tahoma">Название темы</span></span></li>
+	<li><span style="color: #0000ff"><span style="font-size: 10pt; font-family: 'Courier New'"><span>o<span style="font-family: 'Times New Roman'"> </span></span></span><span style="font-size: 10pt; font-family: Tahoma">Название работы</span></span></li>
+</ul>
+<p style="margin-bottom: 0pt; line-height: normal">
+<span style="font-size: 10pt; color: #0000ff; font-family: Tahoma">Сведения об учебном заведении</span> 
+</p>
+<ul>
+	<li><span style="color: #0000ff"><span style="font-size: 10pt; font-family: 'Courier New'"><span>o<span style="font-family: 'Times New Roman'"> </span></span></span><span style="font-size: 10pt; font-family: Tahoma">Наименование учебного заведения (официально, полностью)</span></span></li>
+	<li><span style="color: #0000ff"><span style="font-size: 10pt; font-family: 'Courier New'"><span>o<span style="font-family: 'Times New Roman'"> </span></span></span><span style="font-size: 10pt; font-family: Tahoma">Юридический адрес, тел/факс</span></span></li>
+	<li><span style="color: #0000ff"><span style="font-size: 10pt; font-family: 'Courier New'"><span>o<span style="font-family: 'Times New Roman'"> </span></span></span><span style="font-size: 10pt; font-family: Tahoma">ФИО (полностью) и должность руководителя учебного заведения и педагога</span></span></li>
+</ul>
+			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+					<table align="center" style="margin-top: 15px;">
+			<tr>
+									<th class="pagenav_prev">
+					<a href="index.php?option=com_content&amp;task=view&amp;id=333&amp;Itemid=2" title="ПОДДЕРЖИМ ШКОЛУ">
+							&laquo; ПОДДЕРЖИМ ШКОЛУ</a>
+					</th>
+										<td width="50">&nbsp;
+
+					</td>
+										<th class="pagenav_next">
+					<a href="index.php?option=com_content&amp;task=view&amp;id=331&amp;Itemid=2" title="ПОЗДРАВЛЯЕМ ЛУЧШИХ!">
+							ПОЗДРАВЛЯЕМ ЛУЧШИХ! &raquo;</a>
+					</th>
+								</tr>
+			</table>
+									<div class="back_button">
+						<a href='javascript:history.go(-1)'>
+					Вернуться</a>
+						</div>
+																																				<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+									</td>
+								</tr>
+							</table>
+						</div>
+						<div id="rightcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+						<div id="search">
+							
+<form action="index.php?option=com_search" method="get">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="100" alt="search" class="inputbox" type="text" size="20" value="Поиск..."  onblur="if(this.value=='') this.value='Поиск...';" onfocus="if(this.value=='Поиск...') this.value='';" />	</div>
+
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="" />	
+</form>						</div>
+													</div>
+						<div class="clr">&nbsp;</div>
+					  </div> 					  </div> 					  </div> 					</div>
+					<div class="clr">&nbsp;</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="bag">&nbsp;</div>
+		<div id="footer">
+							<div id="footer_r">Copyright 2010  ·  Дизайн <a target='_blank' href='http://www.desunk.com'>www.desunk.com</a>  ·  All Rights Reserved
+				</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

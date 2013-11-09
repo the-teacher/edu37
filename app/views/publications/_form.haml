@@ -1,0 +1,27 @@
+%p
+  = f.label :title, t('publications.form.title')
+  = f.text_field :title, :class=>:input
+
+  = state_icon(@publication)
+  = moderation_state_icon(@publication) if current_user.has_role? :publications, :moderation_state_icon
+
+%p
+  = f.label :textile_annotation, raw(t('publications.form.annotation'))
+  = f.text_area :textile_annotation, :id=>:markItUpAnnotation
+
+%p
+  = f.label :textile_content, t('publications.form.content')
+  = f.text_area :textile_content, :id=>:markItUp
+
+-if current_user.has_role? :publications, :tags
+  %p
+    = f.label :tag_list, raw(t('publications.form.tags_list'))
+    = f.text_field :tag_list
+
+= form_buttons_for(@publication)
+
+.submit_button
+  = submit_tag button, :class=>:submit
+  = preview_button
+
+= moderation_buttons_for(@publication)

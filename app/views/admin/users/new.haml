@@ -1,0 +1,11 @@
+- content_for :title do
+  = t('users.new')
+
+- content_for :css do
+  = stylesheet_link_tag 'modern/form', :media=>'screen'
+
+= object_errors(@user)
+
+#edit_form.form.overblock
+  = form_for :user, :url => admin_users_url(:subdomain=>false) do |f|
+    = render :partial => 'new_user_form', :locals => {:f => f, :user=>@user, :button=>t('users.new')}

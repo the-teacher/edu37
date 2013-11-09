@@ -1,0 +1,27 @@
+- @js_addons=   get_js_from_yaml(@publications)
+- @css_addons=  get_css_from_yaml(@publications)
+
+- content_for :title do
+  = t('publications.list')
+  = @user.site_name
+
+- content_for :js do
+  = raw array_to_js_include_tags(@js_addons)
+
+- content_for :css do
+  = stylesheet_link_tag 'modern/news/style', :media=>'screen'
+  = stylesheet_link_tag 'modern/pagination', :media=>'screen'
+  = raw array_to_css_include_tags(@css_addons)
+
+= raw(votes_js)
+= render :partial=>'shared/syntax_highlighter_initializer'
+= render :partial=>'publications/ql/index'
+= render :partial=>'publications/bc/index'
+
+.news_list= render(:partial=>'item', :collection => @publications)
+
+= will_paginate @publications
+
+.tag_cloud
+  %h5= t('publications.tags_cloud')
+  = tag_cloud_for(:publications)

@@ -1,0 +1,33 @@
+:javascript
+  function show_comment_form(){
+    $('#send_comment').hide();
+    $('#new_comment').show();
+  }
+#send_comment
+  .gray_rounder
+    =top_bordered_rounder
+    .content_rounder
+      =link_to_function 'Написать комментарий без регистрации', 'show_comment_form()'
+    =bottom_bordered_rounder
+#new_comment.form.overblock{:style=>'display:none;'}
+  = form_for @comment do |f|
+
+    %p
+      = f.label :title, t('comments.title')
+      = f.text_field :title, :class=>:input
+    %p
+      = f.label :contacts, t('comments.contacts')
+      = f.text_field :contacts, :class=>:input
+
+    = hidden_field_tag :object_type, object.class.to_s.downcase
+    = hidden_field_tag :object_zip, object.zip
+    = hidden_field_tag :php_5_2_zend_framework_captcha, Digest::SHA1.hexdigest(Time.now.to_s) # Easter Egg
+
+    %p
+      = f.label t('comments.content')
+      = f.text_area :textile_content, :rows=>10, :style=>'width:550px;', :class=>:textarea
+    
+    = show_simple_captcha(:object=>:comment, :distortion=>'medium', :image_style=>['embosed_silver', 'simply_red', 'distorted_black', 'charcoal_grey'].rand)
+
+    .actions
+      = f.submit t('comments.post'), :class=>:submit

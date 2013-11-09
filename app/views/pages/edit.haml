@@ -1,0 +1,26 @@
+- content_for :title do
+  = raw t('pages.editing')
+  = @page.title
+
+- content_for :js do
+  = javascript_include_tag 'markitup/markitup.js'
+  = javascript_include_tag 'markitup/sets/textile/set.js'
+  = render :partial=>'murkitup_init'
+
+- content_for :css do
+  = stylesheet_link_tag 'markitup/skins/markitup/style', :media=>'screen'
+  = stylesheet_link_tag 'markitup/sets/textile/style', :media=>'screen'
+  = stylesheet_link_tag 'modern/form', :media=>'screen'
+
+= render :partial=>'pages/ql/edit'
+= render :partial=>'pages/bc/edit'
+= render :partial=>'preview'
+= object_errors(@page)
+
+#edit_form.form.overblock
+  = form_for(:page, :url=>page_url(:subdomain=>@user.subdomain), :html=>{:method=>:put} ) do |f|
+    =render :partial => 'form', :locals => {:f => f, :button => t('pages.update')}
+
+- unless @page.new_record?
+  .delete_button#delete_button
+    = button_to t('pages.delete'), page_url(@page, :subdomain=>@user.subdomain), :method=>:delete, :confirm=>t('pages.delete_confirm')

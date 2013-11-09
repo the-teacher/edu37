@@ -1,0 +1,26 @@
+- content_for :title do
+  = raw t('publications.editing')
+  = @publication.title
+
+- content_for :js do
+  = javascript_include_tag 'markitup/markitup.js'
+  = javascript_include_tag 'markitup/sets/textile/set.js'
+  = render :partial=>'murkitup_init'
+
+- content_for :css do
+  = stylesheet_link_tag 'markitup/skins/markitup/style', :media=>'screen'
+  = stylesheet_link_tag 'markitup/sets/textile/style', :media=>'screen'
+  = stylesheet_link_tag 'modern/form', :media=>'screen'
+
+= render :partial=>'publications/ql/edit'
+= render :partial=>'publications/bc/edit'
+= render :partial=>'preview'
+= object_errors(@publication)
+
+#edit_form.form.overblock
+  = form_for(:publication, :url=>news_url(:subdomain=>@user.subdomain), :html=>{:method=>:put} ) do |f|
+    = render :partial => 'form', :locals => {:f => f, :button => t('publications.update')}
+
+- unless @publication.new_record?
+  .delete_button#delete_button
+    = button_to t('publications.delete'), news_url(@publication, :subdomain=>@user.subdomain), :method=>:delete, :confirm=>t('publications.delete_confirm')

@@ -1,0 +1,63 @@
+- content_for :title do
+  = t('storages.title')
+  = @user.login
+  |
+  = Project::ROOT_DOMAIN
+
+- content_for :css do
+  =stylesheet_link_tag 'modern/storages/style', :media=>'screen'
+  =stylesheet_link_tag 'modern/form', :media=>'screen'
+
+- content_for :quick_links do
+  %li
+    = link_to t('base.cabinet'), cabinet_users_url(:subdomain=>@user.subdomain)
+    = link_to_function(image_tag('basic/ext_link.gif'), popup_window(:left=>100, :top=>100), :href=>cabinet_users_url(:subdomain=>@user.subdomain))
+
+%h1= t('storages.title')
+
+= object_errors(@storage)
+
+.storages
+  %ul
+    - @storages.each do |storage|
+      %li.overblock
+        - folder= image_tag('basic/files.jpg')
+        %p.folder=  link_to(folder, storage_url(storage, :subdomain=>@user.subdomain))
+        %p.title=   link_to(storage.title, storage_url(storage, :subdomain=>@user.subdomain))
+        %p.size=    '('+sprintf("%.2f", storage.files_size/1.megabyte.to_f) + t('base.megabytes')+')'
+        %p.controls
+          = link_to 'Редактировать', edit_storage_url(storage, :subdomain=>@user.subdomain)
+          = link_to 'Удалить', storage_url(storage, :subdomain=>@user.subdomain), :method=>:delete, :confirm=>"Вы уверены?"
+
+%h4 Создать новое хранилище
+
+.edit_form.overblock
+  -form_for @storage, :url => storages_path do |f|
+    =render :partial => 'form', :locals => {:f => f, :storage=>@storage, :button=>'Создать'}
+
+%hr
+
+%h5
+  = t('storages.total_files_size')
+  = sprintf("%.2f", @user.files_size/1.megabyte.to_f)
+  = t('base.megabytes')
+%h5
+  Максимальный зафиксированный объём
+  = sprintf("%.2f", @user.files_size/1.megabyte.to_f)
+  = t('base.megabytes')
+
+-#
+  %p{:style=>'color:red'}
+    Внимание! Стоимость услуг по поддержке сайта напрямую зависит от использованного файлового пространства на сервере.
+  %p
+    Для расчета стоимости принимается <b>значение максимального использованного файлового пространства</b>.
+    Так, если Вы однажды загрузили файлы в объёме 100&nbsp;Мб, то в начале нового финансового периода для рачета будет принято именно это значение.
+  %p
+    Стоимость услуг пределяется из рассчета <b>1&nbsp;Мб*2&nbsp;рубля*3&nbsp;месяца</b>. Например, если в феврале вы загрузили файлов на 100&nbsp;Мб,
+    а январе и марте выших файлов на сервере было не более 50&nbsp;МБ. То, оплате подлежат именно 100&nbsp;Мб. Следовательно стоимость услуг будет равна:
+    100&nbsp;Мб*2*3&nbsp;=&nbsp;600&nbsp;рублей (без учета абонентской платы)
+  %p{:style=>'color:red'}
+    Оплата производится не позднее последнего рабочего банковского дня следующего месяца.
+  %p
+    В конце каждого финансовго периода вам выставляется счёт, а максимальный объём загруженных файлов приравнивается текущему объему файлов.  
+

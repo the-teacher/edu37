@@ -1,0 +1,64 @@
+:javascript
+  function show_edit_form(){
+    $('#edit_form').show();
+    $('#delete_button').show();
+    $('#preview').hide();  
+  }
+  function show_preview(){
+    $('#edit_form').hide();
+    $('#delete_button').hide();
+    $('#preview').show();  
+  }
+  function show_instruction(){
+    $('#edit_form').hide();
+    $('#preview').hide();  
+  }
+
+:javascript
+  var preview_form_block = '#preview_form_block';
+  var preview_form_name = 'preview_form';
+  var preview_iframe_name = 'html_preview';  
+
+  var preview_url = '#{preview_with_annotation_url}';
+  var preview_form_id = '#'+preview_form_name;
+  var preview_iframe_id = '#'+preview_iframe_name;
+  var textile_annotation = '#markItUpAnnotation';
+  var textile_content =    '#markItUp';
+  
+  function preview(){
+    show_preview();
+    $(preview_iframe_id).contents().find('body').html('Loading...');
+    source_content = $(textile_content).val();
+    annotation_content = $(textile_annotation).val();
+
+    var f = $('<form />', {
+              'id':     preview_form_name,
+              'class':  preview_form_name,
+              'name':   preview_form_name,
+              'method': 'post',
+              'target': preview_iframe_name,
+              'action': preview_url
+    });
+    var i = $('<input />', {'name':'utf8', 'value':'✓'}); 
+    $(f).append($(i));
+    var i = $('<input />', {'name':'authenticity_token', 'value':'#{form_authenticity_token}'}); 
+    $(f).append($(i));
+    var i = $('<input />', {'name':'content[content]', 'value': source_content });
+    $(f).append($(i));
+    if(typeof(annotation_content) == 'string'){
+      var i = $('<input />', {'name':'content[annotation]', 'value': annotation_content });
+      $(f).append($(i));
+    }
+    $(preview_form_block).append($(f));
+    $(preview_form_id).submit();
+    $(preview_form_id).remove();
+  }
+
+#preview{:style=>'display:none;'}
+  %p= button_to_function raw(t('buttons.back_to_edit')), "show_edit_form()", :name=>:edit_mode
+  #preview_form_block{:style=>'display:none;'}
+    &nbsp;
+  %iframe{:id=>:html_preview, :class=>:html_preview, :name=>:html_preview, :style=>'height:400px;width:99%;', :src=>blank_url}
+    &nbsp;
+  %br
+  %p= button_to_function raw(t('buttons.back_to_edit')), "show_edit_form()", :name=>:edit_mode

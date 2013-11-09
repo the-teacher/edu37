@@ -1,0 +1,9 @@
+h1.ZYKIN-ILYA installing
+
+# rake db:drop RAILS_ENV=development
+# rake db:create RAILS_ENV=development
+# rake db:migrate RAILS_ENV=development
+# rake db:roles:create RAILS_ENV=development
+# rake db:users:create RAILS_ENV=development
+# mysql -u root -pqwerty zykin_ilya_development < /home/user/dump.sql
+# rails s -e development

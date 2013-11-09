@@ -1,0 +1,21 @@
+- content_for :css do
+  = stylesheet_link_tag 'modern/form', :media=>'screen'
+
+.form.overblock
+  = form_tag session_path do
+    -#%span= text_field_tag :login, '', :class=>:input
+    %label{:for=>:password}
+      Просто введите пароль:
+    %p
+      = password_field_tag :password, '', :class=>:input
+    %p.unsefty_workplace
+      = check_box_tag 'unsefty_workplace', '1', true, :class=>:check_box
+      = t('sessions.new.unsefty_workplace')
+    %p
+      = submit_tag t('base.enter'), :class=>:submit
+  -#
+    %p
+      = link_to t('sessions.forgotten_password'), '#'
+    %p
+      = link_to t('base.signup'), new_user_url(:subdomain=>false)
+

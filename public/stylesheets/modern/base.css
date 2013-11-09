@@ -1,0 +1,70 @@
+/*BASE*/
+html, body {
+  width:100%;
+  height:100%;
+}
+body{
+  font-family:sans-serif, Verdana, Arial, Times New Roman; /*Arial,Tahoma,Times New Roman,Georgia,Trebuchet MS,Serif,Sans-serif,Comic Sans MS*/
+  font-size:10pt;
+}
+.body{  
+  margin:auto;
+  height:auto !important;
+  min-height:100%;
+  height: 100%;
+}
+.footer {
+  margin:auto;
+  margin-top: -100px;
+  background:#666;
+}
+.footer, .footer_guarantor {
+   height: 100px;
+}
+.body, .footer{
+  width:1000px;
+}
+.footer_guarantor {
+ border: 0px dashed #666;
+}
+/*LAYOUT*/
+.layout{
+  width:100%;
+  margin-bottom:15px;
+}
+.layout .center{
+  background:#FFF;
+}
+.layout .center .block{
+  background:#FFF;
+  margin:0 10px;
+  width:580px;
+  overflow:hidden;
+  zoom:1;
+}
+.layout .left, .layout .right{
+  width:200px;
+}
+.layout .left .block, .layout .right .block{
+  width:200px;
+  overflow:hidden;
+  zoom:1;
+}
+.layout .center p{
+  margin-bottom:15px;
+  font-size: 12pt;
+  color:#47494B;
+}
+/*HEADERS*/
+h1,h2,h3,h4,h5,h6 {
+  font-weight:bold;
+  font-family:sans-serif, Verdana, Arial, Times New Roman; /*Arial,Tahoma,Times New Roman,Georgia,Trebuchet MS,Serif,Sans-serif,Comic Sans MS*/
+  line-height:150%;
+  margin-bottom:15px;
+}
+h1{font-size:22pt;}
+h2{font-size:20pt;}
+h3{font-size:18pt;}
+h4{font-size:16pt;}
+h5{font-size:14pt;}
+h6{font-size:12pt;}

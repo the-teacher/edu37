@@ -1,0 +1,23 @@
+- content_for :css do
+  =stylesheet_link_tag 'modern/forums/style', :media=>'screen'
+
+=raw(votes_js)
+= render :partial => 'forums/ql/show'
+= render :partial => 'forums/bc/show'
+
+.forum
+  =link_to @forum.title, forum_url(@forum, :subdomain=>@user.subdomain), :class=>:title
+  %p.description= @forum.description
+  %p.info= forum_informer(@forum)
+  %p.tags= tags_block(@forum)
+  %p.info= forum_last_comment(@forum)
+
+%h5= @topics.blank? ? 'Пока нет ни одной темы' : 'Темы форума'
+
+%ul.marked_list
+  - @topics.each do |topic|
+    %li
+      .topic
+        = link_to topic.title, topic_url(topic), :class=>:title
+        %p.info= topic_informer(topic)
+        %p.info= topic_last_comment(topic)

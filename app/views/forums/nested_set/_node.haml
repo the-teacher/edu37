@@ -1,0 +1,26 @@
+-# node - current element of nested tree
+
+-# opts[:class_name] - string
+-# opts[:id_field] - string
+-# opts[:admin] - bool
+-# opts[:root] - bool
+-# opts[:first] - bool
+-# opts[:last] - bool
+-# opts[:has_childs] - bool
+-# opts[:level] - integer
+
+=# opts[:class_name]
+=# opts[:id_fileld]
+=# opts[:admin].to_s
+=# opts[:root].to_s
+=# opts[:first].to_s
+=# opts[:last].to_s
+=# opts[:has_childs].to_s
+=# opts[:level].to_s
+
+- state_icon = state_icon_for_manage(node)
+- link_txt= node.title
+- title= node.zip
+
+= content_tag(:div, state_icon + ' ' + link_to(link_txt, forum_path(node), :title=>title), :class=>"link #{'root' if root}")
+

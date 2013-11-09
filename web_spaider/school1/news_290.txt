@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="windows-1251"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>ОЛИМПИАДА ПО ФИНАНСОВОМУ РЫНКУ ДЛЯ СТАРШЕКЛАССНИКОВ - Средняя общеобразовательная школа № 1 города Иванова</title>
+<meta name="title" content="ОЛИМПИАДА ПО ФИНАНСОВОМУ РЫНКУ ДЛЯ СТАРШЕКЛАССНИКОВ" />
+<meta name="author" content="webmaster" />
+<meta name="description" content=" Официальный сайт средней общеобразовательной школы № 1 города Иванова Ивановской области" />
+<meta name="keywords" content=" школа иваново 1 средняя образование новости ученик учитель" />
+<meta name="distribution" content="global" />
+<meta name="rating" content="General" />
+<meta name="document-state" content="Dynamic" />
+<meta name="documentType" content="WebDocument" />
+<meta name="audience" content="all" />
+<meta name="revisit" content="10 days" />
+<meta name="revisit-after" content="10 days" />
+<meta name="allow-search" content="yes" />
+<meta name="language" content="russian" />
+<base href="http://school1.ivedu.ru/" />
+<link href="http://school1.ivedu.ru/templates/school1-1/css/template_css.css" rel="stylesheet" type="text/css" />
+<!--[if lt IE 7]>
+			<script type="text/javascript" src="/js/unitpngfix.js"></script>
+<![endif]-->  
+<!--[if (gt IE 5)&(lt IE 7)]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ieonly.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ie7only.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body id="page_bg">
+<div class="center" align="center">
+	<div id="wrapper">
+		<div id="wrapper_r">
+			<div id="header">
+				<a href="http://school1.ivedu.ru" id="logo">&nbsp;</a>
+				<table cellpadding="0" cellspacing="0" class="pill">
+					<tr>
+						<td class="pill_l">&nbsp;
+						</td>
+						<td class="pill_m">
+						<div id="pillmenu">
+													</div>
+						</td>
+					</tr>
+				</table>
+			</div>
+			<div id="tabarea">&nbsp;
+			</div>
+
+			<div class="clr"></div>
+			<div id="whitebox">
+<!--				<div id="whitebox_t">
+					<div id="whitebox_tl">
+						<div id="whitebox_tr">&nbsp;</div>
+					</div>
+				</div> -->
+
+				<div id="whitebox_m">
+					<div id="area">
+					  <div class="rightback">
+					  <div class="contentback">
+					  <div class="leftback">
+						<div id="leftcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+									<div class="module_menu">
+			<div>
+				<div>
+					<div>
+						<h3>Главное меню</h3>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="." title="Главная" class="mainlevel" >Главная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" title="Новости" class="mainlevel" id="active_menu">Новости</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=445&amp;Itemid=45" title="Портфолио школы" class="mainlevel" >Портфолио школы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=446&amp;Itemid=46" title="Учебный процесс" class="mainlevel" >Учебный процесс</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=448&amp;Itemid=47" title="Педагоги" class="mainlevel" >Педагоги</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=5&amp;Itemid=29" title="Документы" class="mainlevel" >Документы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=449&amp;Itemid=48" title="Публичные отчеты" class="mainlevel" >Публичные отчеты</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=450&amp;Itemid=49" title="Кабинет здоровья" class="mainlevel" >Кабинет здоровья</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=451&amp;Itemid=50" title="Родителям" class="mainlevel" >Родителям</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=452&amp;Itemid=51" title="Общественная приемная" class="mainlevel" >Общественная приемная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=453&amp;Itemid=52" title="Итоговая аттестация" class="mainlevel" >Итоговая аттестация</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=454&amp;Itemid=53" title="Школьная жизнь" class="mainlevel" >Школьная жизнь</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_contact&amp;Itemid=3" title="Контакты" class="mainlevel" >Контакты</a></td></tr>
+</table>					</div>
+				</div>
+			</div>
+		</div>
+																						</div>
+						<div id="maincolumn">
+						<div id="pathway">
+							<span class="pathway"><a href="http://school1.ivedu.ru" class="pathway" title="Главная">Главная</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" class="pathway" title="Новости">Новости</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=category&amp;sectionid=1&amp;id=1&amp;Itemid=2" class="pathway" title="Новое">Новое</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" />   ОЛИМПИАДА ПО ФИНАНСОВОМУ РЫНКУ ДЛЯ СТАРШЕКЛАССНИКОВ </span>						</div>
+<!--											<table class="nopad user1user2">
+								<tr valign="top">
+									<td class="half1">
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Последние новости				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="latestnews">
+	<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=491&amp;Itemid=2" title="ЛЕТНИЙ ОТДЫХ" class="latestnews">ЛЕТНИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=490&amp;Itemid=2" title="ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ" class="latestnews">ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=489&amp;Itemid=2" title="ИГАСУ ЖДЕТ ВАС" class="latestnews">ИГАСУ ЖДЕТ ВАС</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+																			<td class="greyline">&nbsp;</td>
+																		<td>
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Популярное				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="mostread">
+	<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=104&amp;Itemid=2" title="Благодарность учителям начальной школы" class="mostread">
+			Благодарность учителям начальной школы</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=59&amp;Itemid=2" title="Слова благодарности" class="mostread">
+			Слова благодарности</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=51&amp;Itemid=2" title="День открытых дверей для родителей будущих первоклассников" class="mostread">
+			День открытых дверей для родителей будущих первоклассников</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+								</tr>
+							</table>
+							<div id="maindivider"></div>
+				 -->
+							<table class="nopad content">
+								<tr valign="top">
+									<td>
+																					
+			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+				<h3>ОЛИМПИАДА ПО ФИНАНСОВОМУ РЫНКУ ДЛЯ СТАРШЕКЛАССНИКОВ</h3>				</td>
+										<td align="right" width="100%" class="buttonheading">
+															<a href="http://school1.ivedu.ru/index2.php?option=com_content&amp;task=view&amp;id=290&amp;pop=1&amp;page=0&amp;Itemid=2" target="_blank" title="Печать"><img src="http://school1.ivedu.ru/images/M_images/printButton.png"  alt="Печать" id="print" name="print" align="middle" border="0" /></a>
+													</td>
+								</tr>
+			</table>
+			
+		<table  class="contentpaneopen">
+				<tr>
+			<td width="70%" align="left" valign="top" colspan="2">
+			<span class="small">
+			 Автор webmaster			</span>
+			&nbsp;&nbsp;
+			</td>
+		</tr>
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+				21:09:2010 г.				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+			<span style="font-size: 13.5pt; color: #ff0000; font-family: times new roman,times"><span style="color: #ff0000; font-family: Verdana"><span style="font-family: times new roman,times"><strong>Прими участие во</strong></span> </span><strong><span style="color: #ff0000">Всероссийской олимпиаде по финансовому рынку для старшеклассников</span>.</strong></span> 
+&nbsp; 
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times">Департамент образования Ивановской области информирует о проведении в 2010/2011 году Всероссийской олимпиады по финансовому рынку для старшеклассников.</span> 
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times">Олимпиада проводится ежегодно Федеральной службой по финансовым рынкам (ФСФР России) и институтом фондового рынка и управления (ИФРУ).</span> 
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times">Оргкомитет Всероссийской олимпиады ставит цель предоставления талантливым старшеклассникам из регионов России дополнительной возможности поступления в лучшие учебные заведения страны.</span> 
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times"></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times">Порядок проведения Олимпиады в этом учебном году включает:</span> 
+</p>
+<p style="text-align: justify">
+<span style="font-family: times new roman,times"><span style="color: #0000ff"><span style="font-size: 12pt"><span style="font-size: 13.5pt">- регистрация участников на портале </span><b><span><a href="http://www.olimpiadaifru.ru/"><span style="color: #ff0000"><strong>http://www.olimpiadaifru.ru</strong></span>/</a></span></b><span>: </span><b><span style="font-size: 13.5pt">до 1 ноября 2010</span></b><span style="font-size: 13.5pt">;<b></b></span></span></span></span> 
+</p>
+<p style="text-align: justify">
+<span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times">- первый тур в форме открытого заочного конкурса: <b>октябрь - декабрь 2010</b>;</span> 
+</p>
+<p style="margin: 0cm 0cm 0pt; text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 13.5pt"><span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times">Участник заполняет анкету установленного образца и отправляет её в Оргкомитет Олимпиады (до 01.11.2010). После регистрации в Оргкомитете или на сайте Фонда &laquo;ИФРУ&raquo; участники Олимпиады получают тестовые задания посредством электронной почты или услуг Почты России. До 20.12.2010 участники Олимпиады направляют свои работы (заполненный бланк </span><a target="_blank" href="http://www.ifru.ru/workdir/docs/list_otvetov4.doc"><span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times; text-decoration: none; text-underline: none">листа ответов</span></a><span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times">) в Оргкомитет Фонда &laquo;ИФРУ&raquo; для подведения итогов I тура. </span></span>
+</p>
+<p style="margin: 0cm 0cm 0pt; text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times">По количеству баллов, набранных за правильные ответы, будут определены участники II тура Олимпиады по каждому региону.</span> 
+</p>
+<p style="text-align: justify">
+<span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times">- второй тур (региональный) в форме творческого эссе: <b>февраль 2011</b>;</span> 
+</p>
+<p style="margin: 0cm 0cm 0pt; text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times">Темы эссе и рекомендации по его написанию участники получают посредством электронной почты и услуг Почты России в январе 2011. </span>
+</p>
+<p style="margin: 0cm 0cm 0pt; text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times">До 28.02.2011 участникам II тура предоставляется <span>&nbsp;</span>возможность&nbsp;изучить и проанализировать литературу из предложенного списка, написать интересную творческую работу на одну из выбранных тем и выслать для проверки в Оргкомитет Олимпиады.</span> 
+</p>
+<p style="margin: 0cm 0cm 0pt; text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times">По итогам II тура определяется список Финалистов. </span>
+</p>
+<p style="text-align: justify">
+<span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times">- третий тур (финал) (Москва): <b>апрель 2011</b>.</span> 
+</p>
+<p style="text-indent: 35.45pt; text-align: justify; tab-stops: 35.4pt 70.8pt 106.2pt 141.6pt 177.0pt center 226.75pt">
+<span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times">Третий тур состоит из 3-х этапов (тестирование, письменный экзамен, блиц-игра).</span> 
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times">Победители и призёры Олимпиады определяются по результатам Финала (I, II и III место). Победители Олимпиады награждаются дипломом 1-й степени, призёры - дипломами 2-й и 3-й степени.</span> 
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times">Итоги&nbsp;Олимпиады будут освещены в СМИ, на сайте ИФРУ и специализированных Интернет порталах.</span> 
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times">Участие конкурсантов в финальном туре (оплата транспортных расходов, проживания и командировочных для старшеклассников и сопровождающих их учителей в пределах установленных норм) оплачивается из средств бюджета муниципального образования или из личных средств победителей регионального этапа олимпиады .</span> 
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span><span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times">Более подробная информация об олимпиаде размещена на сайте </span><a href="http://www.ifru.ru/"><span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times"><span style="color: #ff0000"><strong>http://www.ifru.ru/</strong></span></span></a><span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times"><span style="color: #ff0000"><strong>.</strong></span></span></span> 
+</p>
+<p style="text-indent: 35.45pt; margin-right: 0.3pt; text-align: justify; tab-stops: list 0cm">
+<span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times">Просим Вас довести информацию до руководителей и учащихся муниципальных образовательных учреждений, разместить на сайтах органов управления образованием и образовательных учреждений.</span> 
+</p>
+<p style="text-align: justify; tab-stops: 35.4pt center 207.65pt right 415.3pt">
+<b><span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times"></span></b>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times"></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times"></span>
+</p>
+<p style="text-align: justify">
+<span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times"></span>
+</p>
+<p style="text-align: justify; tab-stops: 35.4pt center 207.65pt right 415.3pt">
+<b><span style="font-size: 13.5pt"><span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times"></span></span></b>
+</p>
+<p style="text-align: justify; tab-stops: 35.4pt center 207.65pt right 415.3pt">
+<b><span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times">Начальник управления дошкольного, </span></b>
+</p>
+<p style="text-align: justify; tab-stops: 35.4pt center 207.65pt right 415.3pt">
+<b><span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times">общего, специального (коррекционного),</span></b> 
+</p>
+<p style="text-align: justify; tab-stops: 35.4pt center 207.65pt right 415.3pt">
+<b><span style="font-size: 12pt; color: #0000ff; font-family: times new roman,times">дополнительного образования и воспитания <span>&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>С.А.Горошко</span></b> 
+</p>
+			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+					<table align="center" style="margin-top: 15px;">
+			<tr>
+									<th class="pagenav_prev">
+					<a href="index.php?option=com_content&amp;task=view&amp;id=291&amp;Itemid=2" title="КОНКУРС "МОЯ СЕМЬЯ"">
+							&laquo; КОНКУРС "МОЯ СЕМЬЯ"</a>
+					</th>
+										<td width="50">&nbsp;
+
+					</td>
+										<th class="pagenav_next">
+					<a href="index.php?option=com_content&amp;task=view&amp;id=289&amp;Itemid=2" title="О ЛОМОНОСОВСКОМ ТУРНИРЕ">
+							О ЛОМОНОСОВСКОМ ТУРНИРЕ &raquo;</a>
+					</th>
+								</tr>
+			</table>
+									<div class="back_button">
+						<a href='javascript:history.go(-1)'>
+					Вернуться</a>
+						</div>
+																																				<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+									</td>
+								</tr>
+							</table>
+						</div>
+						<div id="rightcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+						<div id="search">
+							
+<form action="index.php?option=com_search" method="get">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="100" alt="search" class="inputbox" type="text" size="20" value="Поиск..."  onblur="if(this.value=='') this.value='Поиск...';" onfocus="if(this.value=='Поиск...') this.value='';" />	</div>
+
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="" />	
+</form>						</div>
+													</div>
+						<div class="clr">&nbsp;</div>
+					  </div> 					  </div> 					  </div> 					</div>
+					<div class="clr">&nbsp;</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="bag">&nbsp;</div>
+		<div id="footer">
+							<div id="footer_r">Copyright 2010  ·  Дизайн <a target='_blank' href='http://www.desunk.com'>www.desunk.com</a>  ·  All Rights Reserved
+				</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

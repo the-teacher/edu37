@@ -1,0 +1,43 @@
+%h1 Listing messages
+
+%table
+  %tr
+    %th Zip
+    %th Title
+    %th Content
+    %th Sender user
+    %th Sender user zip
+    %th Sender user login
+    %th Recipient user
+    %th Recipient user zip
+    %th Recipient user login
+    %th State
+    %th Remote ip
+    %th User agent
+    %th Referer log
+    %th
+    %th
+    %th
+
+  - @messages.each do |message|
+    %tr
+      %td= message.zip
+      %td= message.title
+      %td= message.content
+      %td= message.sender_user_id
+      %td= message.sender_user_zip
+      %td= message.sender_user_login
+      %td= message.recipient_user_id
+      %td= message.recipient_user_zip
+      %td= message.recipient_user_login
+      %td= message.state
+      %td= message.remote_ip
+      %td= message.user_agent
+      %td= message.referer_log
+      %td= link_to 'Show', message
+      %td= link_to 'Edit', edit_message_path(message)
+      %td= link_to 'Destroy', message, :confirm => 'Are you sure?', :method => :delete
+
+%br
+
+= link_to 'New Message', new_message_path

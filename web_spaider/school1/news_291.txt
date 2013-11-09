@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="windows-1251"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>КОНКУРС "МОЯ СЕМЬЯ" - Средняя общеобразовательная школа № 1 города Иванова</title>
+<meta name="title" content="КОНКУРС &quot;МОЯ СЕМЬЯ&quot;" />
+<meta name="author" content="webmaster" />
+<meta name="description" content=" Официальный сайт средней общеобразовательной школы № 1 города Иванова Ивановской области" />
+<meta name="keywords" content=" школа иваново 1 средняя образование новости ученик учитель" />
+<meta name="distribution" content="global" />
+<meta name="rating" content="General" />
+<meta name="document-state" content="Dynamic" />
+<meta name="documentType" content="WebDocument" />
+<meta name="audience" content="all" />
+<meta name="revisit" content="10 days" />
+<meta name="revisit-after" content="10 days" />
+<meta name="allow-search" content="yes" />
+<meta name="language" content="russian" />
+<base href="http://school1.ivedu.ru/" />
+<link href="http://school1.ivedu.ru/templates/school1-1/css/template_css.css" rel="stylesheet" type="text/css" />
+<!--[if lt IE 7]>
+			<script type="text/javascript" src="/js/unitpngfix.js"></script>
+<![endif]-->  
+<!--[if (gt IE 5)&(lt IE 7)]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ieonly.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ie7only.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body id="page_bg">
+<div class="center" align="center">
+	<div id="wrapper">
+		<div id="wrapper_r">
+			<div id="header">
+				<a href="http://school1.ivedu.ru" id="logo">&nbsp;</a>
+				<table cellpadding="0" cellspacing="0" class="pill">
+					<tr>
+						<td class="pill_l">&nbsp;
+						</td>
+						<td class="pill_m">
+						<div id="pillmenu">
+													</div>
+						</td>
+					</tr>
+				</table>
+			</div>
+			<div id="tabarea">&nbsp;
+			</div>
+
+			<div class="clr"></div>
+			<div id="whitebox">
+<!--				<div id="whitebox_t">
+					<div id="whitebox_tl">
+						<div id="whitebox_tr">&nbsp;</div>
+					</div>
+				</div> -->
+
+				<div id="whitebox_m">
+					<div id="area">
+					  <div class="rightback">
+					  <div class="contentback">
+					  <div class="leftback">
+						<div id="leftcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+									<div class="module_menu">
+			<div>
+				<div>
+					<div>
+						<h3>Главное меню</h3>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="." title="Главная" class="mainlevel" >Главная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" title="Новости" class="mainlevel" id="active_menu">Новости</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=445&amp;Itemid=45" title="Портфолио школы" class="mainlevel" >Портфолио школы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=446&amp;Itemid=46" title="Учебный процесс" class="mainlevel" >Учебный процесс</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=448&amp;Itemid=47" title="Педагоги" class="mainlevel" >Педагоги</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=5&amp;Itemid=29" title="Документы" class="mainlevel" >Документы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=449&amp;Itemid=48" title="Публичные отчеты" class="mainlevel" >Публичные отчеты</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=450&amp;Itemid=49" title="Кабинет здоровья" class="mainlevel" >Кабинет здоровья</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=451&amp;Itemid=50" title="Родителям" class="mainlevel" >Родителям</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=452&amp;Itemid=51" title="Общественная приемная" class="mainlevel" >Общественная приемная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=453&amp;Itemid=52" title="Итоговая аттестация" class="mainlevel" >Итоговая аттестация</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=454&amp;Itemid=53" title="Школьная жизнь" class="mainlevel" >Школьная жизнь</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_contact&amp;Itemid=3" title="Контакты" class="mainlevel" >Контакты</a></td></tr>
+</table>					</div>
+				</div>
+			</div>
+		</div>
+																						</div>
+						<div id="maincolumn">
+						<div id="pathway">
+							<span class="pathway"><a href="http://school1.ivedu.ru" class="pathway" title="Главная">Главная</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" class="pathway" title="Новости">Новости</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=category&amp;sectionid=1&amp;id=1&amp;Itemid=2" class="pathway" title="Новое">Новое</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" />   КОНКУРС "МОЯ СЕМЬЯ" </span>						</div>
+<!--											<table class="nopad user1user2">
+								<tr valign="top">
+									<td class="half1">
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Последние новости				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="latestnews">
+	<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=491&amp;Itemid=2" title="ЛЕТНИЙ ОТДЫХ" class="latestnews">ЛЕТНИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=490&amp;Itemid=2" title="ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ" class="latestnews">ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=489&amp;Itemid=2" title="ИГАСУ ЖДЕТ ВАС" class="latestnews">ИГАСУ ЖДЕТ ВАС</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+																			<td class="greyline">&nbsp;</td>
+																		<td>
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Популярное				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="mostread">
+	<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=104&amp;Itemid=2" title="Благодарность учителям начальной школы" class="mostread">
+			Благодарность учителям начальной школы</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=59&amp;Itemid=2" title="Слова благодарности" class="mostread">
+			Слова благодарности</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=51&amp;Itemid=2" title="День открытых дверей для родителей будущих первоклассников" class="mostread">
+			День открытых дверей для родителей будущих первоклассников</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+								</tr>
+							</table>
+							<div id="maindivider"></div>
+				 -->
+							<table class="nopad content">
+								<tr valign="top">
+									<td>
+																					
+			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+				<h3>КОНКУРС "МОЯ СЕМЬЯ"</h3>				</td>
+										<td align="right" width="100%" class="buttonheading">
+															<a href="http://school1.ivedu.ru/index2.php?option=com_content&amp;task=view&amp;id=291&amp;pop=1&amp;page=0&amp;Itemid=2" target="_blank" title="Печать"><img src="http://school1.ivedu.ru/images/M_images/printButton.png"  alt="Печать" id="print" name="print" align="middle" border="0" /></a>
+													</td>
+								</tr>
+			</table>
+			
+		<table  class="contentpaneopen">
+				<tr>
+			<td width="70%" align="left" valign="top" colspan="2">
+			<span class="small">
+			 Автор webmaster			</span>
+			&nbsp;&nbsp;
+			</td>
+		</tr>
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+				21:09:2010 г.				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+			<p align="center">
+<span style="color: #000080"><strong>Прими участие в конкурсе школьных сочинений <span style="color: #ff0000">&laquo;Моя семья&raquo;</span> </strong></span>
+</p>
+<p align="center">
+<span style="color: #000080"><strong>в регионах Центрального федерального округа в 2010 году</strong></span>
+</p>
+&nbsp; 
+<p align="center" style="margin: 0cm 0cm 0pt; text-align: center">
+<strong><span style="font-size: 10pt; color: #ff0000; font-family: times new roman,times">ПОЛОЖЕНИЕ</span></strong>
+</p>
+<p align="center" style="margin: 0cm 0cm 0pt; text-align: center">
+<strong><span style="font-size: 10pt; color: #ff0000; font-family: times new roman,times"></span></strong>
+</p>
+<p align="center" style="margin: 0cm 0cm 0pt; text-align: center">
+<span style="font-family: times new roman,times"><span style="font-size: 10pt"><span style="color: #ff0000"><strong><span>о проведении<span>&nbsp; </span></span></strong><b><span>конкурса школьных сочинений &laquo;Моя семья&raquo; в регионах Центрального федерального округа<strong> в 2010 году</strong></span></b></span></span></span>
+</p>
+<p align="center" style="margin: 0cm 0cm 0pt; text-align: center">
+<b><span style="font-size: 10pt; color: #000080; font-family: times new roman,times"></span></b>
+</p>
+<p style="margin: 0cm 0cm 0pt">
+<b><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">Глава I.<span>&nbsp; </span>Общие положения.</span></b><b><span></span></b>
+</p>
+<p style="margin: 0cm 0cm 0pt">
+<b><span style="font-size: 10pt; color: #000080; font-family: times new roman,times"></span></b>
+</p>
+<p style="margin: 0cm 0cm 0pt; text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times">1.1. Настоящее Положение регламентирует порядок и условия проведения конкурса школьных сочинений &laquo;Моя семья&raquo; (далее - Конкурс). </span>
+</p>
+<p style="margin: 0cm 0cm 0pt; text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times">1.2. Конкурс проводится Общественным советом Центрального федерального округа при поддержке полномочного представителя Президента Российской Федерации в Центральном федеральном округе.</span>
+</p>
+<p style="margin: 0cm 0cm 0pt; text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times">1.3. Для проведения Конкурса формируется Организационный комитет (далее - Оргкомитет) из представителей Общественного совета Центрального федерального округа, региональных общественных палат Центрального федерального округа, аппарата полномочного представителя Президента Российской Федерации в Центральном федеральном округе, Союза писателей России. </span>
+</p>
+<p style="margin: 0cm 0cm 0pt; text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times">1.4. Оргкомитет формирует жюри для подведения итогов межрегионального этапа Конкурса. Жюри осуществляет оценку предоставленных на конкурс сочинений, и определяет победителей Конкурса. </span>
+</p>
+<p style="margin: 0cm 0cm 0pt; text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times">1.5. Местонахождение Оргкомитета: 101000, Москва, Покровский бульвар, д. 4/17, стр.1, подъезд 2, офис 27. </span>
+</p>
+<p style="margin: 0cm 0cm 0pt">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times"></span>
+</p>
+<p style="margin: 0cm 0cm 0pt">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><b><span>Глава </span></b><b><span>II</span></b><b><span>. Цели и задачи конкурса.</span></b><span> </span><span></span></span></span></span>
+</p>
+<p style="margin: 0cm 0cm 0pt">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times"></span>
+</p>
+<p style="margin: 0cm 0cm 0pt">
+<u><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">2.1. Цели и задачи Конкурса: </span></u>
+</p>
+<ul type="disc" style="margin-top: 0cm">
+	<li style="text-align: justify; tab-stops: list 36.0pt"><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">популяризация семейных традиций и ценностей, воспитание уважения к старшему поколению;</span></li>
+	<li style="text-align: justify; tab-stops: list 36.0pt"><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">повышение роли семьи в духовно-нравственном воспитании детей;</span></li>
+	<li style="text-align: justify; tab-stops: list 36.0pt"><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">воспитание патриотизма через творческое исследование семьи, сопричастности конкретной семьи к&nbsp;истории страны;</span></li>
+	<li style="text-align: justify; tab-stops: list 36.0pt"><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">привлечение внимания молодежи к&nbsp;семейным ценностям общества;</span></li>
+	<li style="text-align: justify; tab-stops: list 36.0pt"><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">развитие у школьников творческой инициативы и интереса к истории своей семьи, района, города, региона, страны;</span></li>
+	<li style="text-align: justify; tab-stops: list 36.0pt"><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">развитие личностных нравственных, эстетических качеств школьников;</span></li>
+	<li style="text-align: justify; tab-stops: list 36.0pt"><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">выявление способных и одаренных детей;</span></li>
+	<li style="text-align: justify; tab-stops: list 36.0pt"><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">развитие предметных и содержательных связей между детьми, родителями, дедушками, бабушками в процессе творческой деятельности.</span></li>
+</ul>
+<p style="margin: 0cm 0cm 0pt">
+<strong><u><span style="font-weight: normal"><span style="font-size: 10pt; color: #000080; font-family: times new roman,times; text-decoration: none"></span></span></u></strong>
+</p>
+<p style="margin: 0cm 0cm 0pt">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><strong><u><span style="font-weight: normal">2.2. Для выполнения целей планируется</span></u></strong><b><u><span>: </span></u></b></span></span></span>
+</p>
+<p style="margin: 0cm 0cm 0pt 18pt; text-indent: 0cm; tab-stops: list 18.0pt">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span><span>&bull;&middot;<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>широкое освещение проведения Конкурса в печатных и электронных СМИ, в том числе региональных;</span></span></span></span>
+</p>
+<p style="margin: 0cm 0cm 0pt 18pt; text-indent: 0cm; tab-stops: list 18.0pt">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span><span>&bull;&middot;<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>взаимодействие с общественными палатами и государственными органами регионов.</span><span></span></span></span></span>
+</p>
+<p style="margin: 0cm 0cm 0pt">
+<span><br />
+</span><span><br />
+</span><span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><b><span>Глава III. Условия и порядок проведения Конкурса.</span></b><span> </span><span></span></span></span></span>
+</p>
+<p style="margin: 0cm 0cm 0pt">
+<u><span><span style="font-size: 10pt; color: #000080; font-family: times new roman,times; text-decoration: none"></span></span></u>
+</p>
+<p style="margin: 0cm 0cm 0pt">
+<u><span><span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt">3.1 Номинации Конкурса<b> </b><span>сочинений<b> &laquo;Моя семья&raquo;:</b></span></span></span></span></span></u>
+</p>
+<p>
+<b><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">№1. Традиции моей семьи.</span></b>
+</p>
+<p style="tab-stops: 183.75pt">
+<b><span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt">№2. Семейная реликвия.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></span></b>
+</p>
+<p>
+<b><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">№3. Моя семья в истории страны.</span></b>
+</p>
+<p>
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><b>№4. </b><b>Мой&nbsp;самый близкий&nbsp;человек</b> (рассказ о членах семьи).</span></span></span>
+</p>
+<p style="margin: 0cm 0cm 0pt">
+<u><span><span style="font-size: 10pt; color: #000080; font-family: times new roman,times; text-decoration: none"></span></span></u>
+</p>
+<p style="margin: 0cm 0cm 0pt">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><u><span>3.2. Участниками Конкурса</span></u><span> являются учащиеся общеобразовательных учреждений и других образовательных учреждений.</span><span></span></span></span></span>
+</p>
+<p style="margin: 0cm 0cm 0pt 36pt; text-indent: -0.6pt">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times">Конкурс проводится по трём возрастным группам:<br />
+1 группа - 1-4 классы;<br />
+2 группа - 5-8 классы;<br />
+3 группа - 9-11 классы.</span>
+</p>
+<p style="margin: 0cm 0cm 0pt">
+<u><span><span style="font-size: 10pt; color: #000080; font-family: times new roman,times; text-decoration: none"></span></span></u>
+</p>
+<p style="margin: 0cm 0cm 0pt">
+<u><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">3.3. Этапы проведения Конкурса:</span></u>
+</p>
+<p style="margin: 0cm 0cm 0pt">
+<b><u><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">I этап - региональный </span></u></b>
+</p>
+<p style="margin: 0cm 0cm 0pt 35.4pt; text-align: justify">
+<b><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">Срок проведения</span></b><span style="font-size: 10pt; color: #000080; font-family: times new roman,times"> - 1 сентября -&nbsp;30 сентября 2010 года.<br />
+<b>Проводят:</b> органы исполнительной власти субъектов Российской Федерации в Центральном федеральном округе совместно с региональными общественными палатами при участии региональных печатных СМИ. </span>
+</p>
+<p style="margin: 0cm 0cm 0pt; text-indent: 35.4pt; text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><b><span>Жюри: </span></b><span>в регионах формируют органы исполнительной власти совместно с региональными общественными палатами субъектов Российской Федерации.</span></span></span></span>
+</p>
+<p style="text-indent: 35.4pt; text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><b>Представление сочинений на межрегиональный этап</b> - до&nbsp;30 сентября 2010 года по одному сочинению-победителю в каждой номинации и в каждой возрастной группе в<span> </span>электронном виде в формате <span>Word</span>, направлять по электронной почте на адрес: <b><a href="mailto:
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy66769 = '&#105;nf&#111;' + '&#64;';
+ addy66769 = addy66769 + '&#111;scf&#111;' + '&#46;' + 'r&#117;';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy66769 + '\'>' );
+ document.write( addy66769 );
+ document.write( '<\/a>' );
+ //-->\n </script><script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script>Этот e-mail защищен от спам-ботов. Для его просмотра в вашем браузере должна быть включена поддержка Java-script
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script>"><span>
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy66769 = '&#105;nf&#111;' + '&#64;';
+ addy66769 = addy66769 + '&#111;scf&#111;' + '&#46;' + 'r&#117;';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy66769 + '\'>' );
+ document.write( addy66769 );
+ document.write( '<\/a>' );
+ //-->\n </script><script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script>Этот e-mail защищен от спам-ботов. Для его просмотра в вашем браузере должна быть включена поддержка Java-script
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script></span></a></b> с обязательной пометкой &laquo;На конкурс сочинений &laquo;МОЯ СЕМЬЯ&raquo;.</span></span></span>
+</p>
+<p style="text-indent: 35.4pt; text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times">Общий региональный список направляется по форме (приложение).</span>
+</p>
+<p style="margin: 0cm 0cm 0pt; text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><b><span>Награждение</span></b><span> <b>победителей I этапа Конкурса</b> проводится в регионах до 1&nbsp;октября&nbsp;2010 года. </span></span></span></span>
+</p>
+<p style="margin: 0cm 0cm 0pt">
+<b><u><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">II этап - межрегиональный</span></u></b>
+</p>
+<p style="margin: 0cm 0cm 0pt; text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><b><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Срок проведения</span></b><span> - с 1 по 20 октября 2010 года.</span></span></span></span>
+</p>
+<p style="margin: 0cm 0cm 0pt; text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><b><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Проводят:</span></b><span> Общественный совет ЦФО при поддержке полномочного представителя Президента Российской Федерации в Центральном федеральном округе.</span></span></span></span>
+</p>
+<p style="margin: 0cm 0cm 0pt; text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><b><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Жюри:</span></b><span> формирует Оргкомитет.</span></span></span></span>
+</p>
+<p style="margin: 0cm 0cm 0pt; text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><b><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Определение победителей:</span></b><span> до 20 октября 2010 года. В каждой номинации и возрастной группе определяется один победитель - автор сочинения.</span></span></span></span>
+</p>
+<p style="margin: 0cm 0cm 0pt; text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><b><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></b><b><span>Награждение победителей межрегионального этапа Конкурса </span></b><span>проводится в Москве в ноябре-декабре 2010 года. Точная дата церемонии награждения победителей&nbsp;будет объявлена дополнительно на сайте <a href="http://www.oscfo.ru/"><b><span style="color: #ff0000">http://www.oscfo.ru</span></b></a><span style="color: #ff0000">.<b></b></span></span></span></span></span>
+</p>
+<p>
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times"></span>
+</p>
+<p style="margin: 0cm 0cm 0pt; text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><u><span>3.4.Требования, предъявляемые к конкурсным работам.</span></u><u><span> </span></u></span></span></span>
+</p>
+<p style="text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span>Сочинение должно быть представлено на Конкурс в электронном виде</span> объемом до 3 листов формата А 4, через 1,5 интервала, 14-м шрифтом <span>Times</span><span> </span><span>New</span><span> </span><span>Roman</span><span>. </span></span></span></span>
+</p>
+<p style="text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times">На титульном листе сочинения должны быть указаны:</span>
+</p>
+<ul type="disc" style="margin-top: 0cm">
+	<li style="color: black; text-align: justify; tab-stops: list 36.0pt"><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">наименование, почтовый индекс и адрес образовательного учреждения, телефон; </span></li>
+	<li style="color: black; text-align: justify; tab-stops: list 36.0pt"><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">тема сочинения (номинация); </span></li>
+	<li style="color: black; text-align: justify; tab-stops: list 36.0pt"><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">сведения об авторе: фамилия, имя, отчество, класс, число, месяц и год рождения;</span></li>
+	<li style="color: black; text-align: justify; tab-stops: list 36.0pt"><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">сведения об учителе (руководителе): фамилия, имя, отчество, должность, телефон.</span></li>
+</ul>
+<p style="margin: 0cm 0cm 0pt; text-indent: 18pt; text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times">Присланные на Конкурс сочинения возврату не подлежат, при этом организаторы имеют право на их публикацию в СМИ и использование при организации массовых мероприятий.</span>
+</p>
+<p>
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times"></span>
+</p>
+<p style="margin: 0cm 0cm 0pt; text-align: justify">
+<u><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">3.5. Методика оценки конкурсных работ:</span></u>
+</p>
+<p style="margin: 0cm 0cm 0pt; text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times">Критерии и параметры, рекомендуемые для использования членами Жюри:</span>
+</p>
+<p style="margin-left: 72pt; text-indent: -54pt; text-align: justify; tab-stops: list 36.0pt">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span><span>&bull;&middot;<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>соответствие работы ученика теме (номинации) Конкурса;</span></span></span>
+</p>
+<p style="margin-left: 36pt; text-indent: -18pt; text-align: justify; tab-stops: list 36.0pt">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span><span>&bull;&middot;<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>полнота раскрытия темы, содержательность, исследовательская направленность;</span></span></span>
+</p>
+<p style="margin-left: 72pt; text-indent: -54pt; text-align: justify; tab-stops: list 36.0pt">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span><span>&bull;&middot;<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>художественный вкус и выразительность;</span></span></span>
+</p>
+<p style="margin-left: 72pt; text-indent: -54pt; text-align: justify; tab-stops: list 36.0pt">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span><span>&bull;&middot;<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>последовательность и оригинальность изложения;</span></span></span>
+</p>
+<p style="margin-left: 72pt; text-indent: -54pt; text-align: justify; tab-stops: list 36.0pt">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span><span>&bull;&middot;<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>нестандартный подход к раскрытию темы;</span></span></span>
+</p>
+<p style="margin-left: 36pt; text-indent: -18pt; text-align: justify; tab-stops: list 36.0pt">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span><span>&bull;&middot;<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>приветствуется наличие иллюстративного материала: семейной фотографии - архивной или современной, отображающей выбранную тему.</span></span></span>
+</p>
+<p style="margin: 0cm 0cm 0pt; text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span>На основе оценок жюри по 10-ти бальной системе будут определены финалисты и победители по указанным выше номинациям. Лучшие результаты будут опубликованы на сайте <a href="http://www.oscfo.ru/"><b><span style="color: #ff0000">http://www.oscfo.ru</span></b></a>. Решение Жюри является окончательным. </span></span></span></span>
+</p>
+<p style="margin: 0cm 0cm 0pt; text-align: justify">
+<span><span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>При голосовании не учитываются оценки членов жюри или экспертов Конкурса, прямо или косвенно связанные с заявкой участника, по которому проходит голосование.</span></span></span></span>
+</p>
+<p>
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times"></span>
+</p>
+<p style="margin: 0cm 0cm 0pt">
+<u><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">3.6. Награды.</span></u>
+</p>
+<p style="margin: 0cm 0cm 0pt; text-align: justify">
+<span><span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>По решению Жюри победители награждаются дипломом Конкурса.</span></span></span></span>
+</p>
+<p style="margin: 0cm 0cm 0pt; text-indent: 35.4pt; text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times">В регионах по решению Жюри могут быть предусмотрены дополнительные награды и призы.</span>
+</p>
+<p style="margin: 0cm 0cm 0pt; text-align: justify">
+<span><span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>По результатам Конкурса Жюри имеет право отметить достойные работы и наградить участника поощрительным призом. Оргкомитет вправе отметить организаторов, принявших активное участие в подготовке и проведении Конкурса.</span></span></span></span>
+</p>
+<p style="margin: 0cm 0cm 0pt">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times"></span>
+</p>
+<p style="margin: 0cm 0cm 0pt">
+<u><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">3.7. Информационная поддержка Конкурса.</span></u>
+</p>
+<p style="margin: 0cm 0cm 0pt; text-align: justify">
+<span><span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Ход проведения Конкурса будет освещаться в СМИ, на официальном сайте Общественного совета Центрального федерального округа </span></span></span><a href="http://www.oscfo.ru/"><b><span style="font-size: 10pt; color: #ff0000; font-family: times new roman,times">http://www.oscfo.ru</span></b></a><span style="font-size: 10pt; color: #ff0000; font-family: times new roman,times">.</span></span>
+</p>
+			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+					<table align="center" style="margin-top: 15px;">
+			<tr>
+									<th class="pagenav_prev">
+					<a href="index.php?option=com_content&amp;task=view&amp;id=293&amp;Itemid=2" title="ДЕРЗАЙ БЫТЬ МУДРЫМ!">
+							&laquo; ДЕРЗАЙ БЫТЬ МУДРЫМ!</a>
+					</th>
+										<td width="50">&nbsp;
+
+					</td>
+										<th class="pagenav_next">
+					<a href="index.php?option=com_content&amp;task=view&amp;id=290&amp;Itemid=2" title="ОЛИМПИАДА ПО ФИНАНСОВОМУ РЫНКУ ДЛЯ СТАРШЕКЛАССНИКОВ">
+							ОЛИМПИАДА ПО ФИНАНСОВОМУ РЫНКУ ДЛЯ СТАРШЕКЛАССНИКОВ &raquo;</a>
+					</th>
+								</tr>
+			</table>
+									<div class="back_button">
+						<a href='javascript:history.go(-1)'>
+					Вернуться</a>
+						</div>
+																																				<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+									</td>
+								</tr>
+							</table>
+						</div>
+						<div id="rightcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+						<div id="search">
+							
+<form action="index.php?option=com_search" method="get">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="100" alt="search" class="inputbox" type="text" size="20" value="Поиск..."  onblur="if(this.value=='') this.value='Поиск...';" onfocus="if(this.value=='Поиск...') this.value='';" />	</div>
+
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="" />	
+</form>						</div>
+													</div>
+						<div class="clr">&nbsp;</div>
+					  </div> 					  </div> 					  </div> 					</div>
+					<div class="clr">&nbsp;</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="bag">&nbsp;</div>
+		<div id="footer">
+							<div id="footer_r">Copyright 2010  ·  Дизайн <a target='_blank' href='http://www.desunk.com'>www.desunk.com</a>  ·  All Rights Reserved
+				</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

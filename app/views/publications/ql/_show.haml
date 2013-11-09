@@ -1,0 +1,17 @@
+-if logged_in?
+  - content_for :quick_links do
+    %li
+      = link_to t('users.cabinet'), cabinet_users_url(:subdomain=>current_user.subdomain)
+      = link_to_function(image_tag('basic/ext_link.gif'), popup_window(:left=>100, :top=>100), :href=>cabinet_users_url(:subdomain=>current_user.subdomain))
+
+    - if current_user.has_role?(:publications, :manage)
+      %li
+        = link_to t('publications.manage'), manage_news_index_url(:subdomain=>current_user.subdomain)
+        = link_to_function(image_tag('basic/ext_link.gif'), popup_window(:left=>100, :top=>100), :href=>manage_news_index_url(:subdomain=>current_user.subdomain))
+
+    -if current_user.has_role?(:publications, :edit) && current_user.owner?(@publication)
+      %li
+        = link_to t('publications.edit_this'), edit_news_url(@publication, :subdomain=>@user.subdomain)
+        = link_to_function(image_tag('basic/ext_link.gif'), popup_window(:left=>100, :top=>100), :href=>edit_news_url(@publication, :subdomain=>@user.subdomain))
+
+

@@ -1,0 +1,23 @@
+= f.hidden_field :forum_zip if @topic.new_record?
+
+%p
+  = f.label :title, 'Название темы'
+  = f.text_field :title, :class=>:input
+
+  = publication_state_icon(@topic)
+  =# moderation_state_icon(@topic)
+
+%p
+  = f.label :textile_content, 'Укажите тему обсуждения'
+  = f.text_area :textile_content, :id=>:markItUp
+
+%p
+  = f.label :tag_list, 'Ключевые слова через запятую'
+  = f.text_field :tag_list, :class=>:input
+
+= publication_buttons_for(@topic)
+
+.submit_button
+  = submit_tag button, :class=>:submit
+
+= moderation_buttons_for(@topic)

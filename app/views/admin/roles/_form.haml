@@ -1,0 +1,26 @@
+- role= @role.settings.is_a?(String) ? YAML::load(@role.settings) : Hash.new
+- role= role.is_a?(Hash) ? role : Hash.new
+- if role.blank?
+  %h3  
+    = t('roles.empty')
+- else
+  -role.each do |name, set|
+    %h4
+      = name
+      %span.controls
+        = link_to(t('roles.delete'), admin_role_section_url(@role, name), :method=>:delete, :confirm=>t('roles.destroy_section_confirm'))
+
+    - if set.is_a?(Hash)
+      %ul.rights
+        - set.each do |n, v|
+          %li
+            = check_box_tag "role[settings][#{name}][#{n}]", true, v
+            =n
+            .controls
+              =link_to t('roles.delete'), delete_rule_admin_role_section_path(@role, name, :name=>n), :method=>:delete, :confirm=>t('roles.delete_policy_confirm')
+
+  = f.submit button
+
+
+
+  

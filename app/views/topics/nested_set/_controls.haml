@@ -1,0 +1,33 @@
+-# node - current element of nested tree
+-# opts[:class_name] - string
+-# opts[:id_field] - string
+-# opts[:admin] - bool
+-# opts[:root] - bool
+-# opts[:first] - bool
+-# opts[:last] - bool
+-# opts[:childs] - bool
+-# opts[:level] - integer
+
+-# FIRST
+- if opts[:first]
+  - up = link_to '', '#',:title=>'Эту тему нельзя переместить еще выше', :class=>'button cantup'
+- else
+  - up = link_to '', up_topic_url(node), :title=>'Переместить тему вверх', :class=>'button up'
+
+-# LAST
+- if opts[:last]
+  - down= link_to '', '#', :title=>'Эту тему нельзя переместить еще ниже', :class=>'button cantdown'
+- else
+  - down= link_to '', down_topic_url(node), :title=>'Переместить тему вниз', :class=>'button down'
+
+-# EDIT
+- edit= link_to '', edit_topic_url(node), :title=>'Редактировать эту тему', :class=>'button edit'
+
+-# DELETE
+- if opts[:has_childs]
+  - delete=  link_to('', topic_url(node), :method=>:delete, :title=>'Удалить эту тему', :confirm=>'Вы уверенны, что хотите удалить тему?', :class=>'button delete') 
+- else
+  - delete=  link_to('', '#',  :title=>'Эту тему нельзя удалить', :class=>'button undeleted', :onclick=>"javascript:alert('Эту тему нельзя удалить');return false;")
+
+-# CONTROLS
+= up+down+edit+delete

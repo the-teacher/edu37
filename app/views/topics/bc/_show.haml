@@ -1,0 +1,9 @@
+%p.breadcrumbs
+  = link_to @user.site_name, root_url(:subdomain=>@user.subdomain)
+  &raquo;
+  = link_to 'Форумы', forums_url(:subdomain=>@user.subdomain)
+  &raquo;
+  Форум:
+  = link_to @forum.title, forum_url(@forum, :subdomain=>@user.subdomain)
+  &raquo;
+  Тема

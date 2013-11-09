@@ -1,0 +1,28 @@
+- @js_addons=   get_array_from_yaml(@page.js_addons)
+- @css_addons=  get_array_from_yaml(@page.css_addons)
+
+- content_for :title do
+  = raw t('pages.show')
+  = @page.title
+
+- content_for :meta do
+  =raw array_to_js_include_tags(@js_addons)
+  =raw array_to_css_include_tags(@css_addons)
+
+- content_for :css do
+  =stylesheet_link_tag 'modern/form.css', :media=>'screen'
+  =stylesheet_link_tag 'modern/pages/style', :media=>'screen'
+
+= raw(votes_js)
+= render :partial=>'shared/syntax_highlighter_initializer'
+= render :partial => 'pages/ql/show'
+= render :partial => 'pages/bc/show'
+
+.content
+  %h3= @page.title
+  = raw @page.html_content
+  %p.tags= tags_block(@page)
+  %p.info= news_informer(@page)
+
+= comment_block_for(@page)
+= qr_block_to page_url(@page)

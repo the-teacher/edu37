@@ -1,0 +1,25 @@
+- content_for :css do
+  =stylesheet_link_tag 'modern/form', :media=>'screen'
+  =stylesheet_link_tag 'markitup/skins/markitup/style', :media=>'screen'
+  =stylesheet_link_tag 'markitup/sets/textile/style', :media=>'screen'
+
+-# MURKITUP EDITOR
+- content_for :js do
+  = javascript_include_tag 'markitup/markitup.js'
+  = javascript_include_tag 'markitup/sets/textile/set.js'
+
+  :javascript
+    $(document).ready(function() {
+      $("#markItUp").markItUp(mySettings);
+    });
+
+= render :partial => 'topics/ql/new'
+= render :partial => 'topics/bc/new'
+= object_errors(@topic)
+
+#edit_form.form.overblock
+  = form_for :topic, :url => topics_path do |f|
+    =hidden_field_tag :top_root, true if params[:top_root]
+    =render :partial => 'form', :locals => {:f => f, :topic=>@topic, :button=>'Создать новую тему'}
+
+= render :partial => 'preview'

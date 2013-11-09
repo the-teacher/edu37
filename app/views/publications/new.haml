@@ -1,0 +1,23 @@
+- content_for :title do
+  = t('publications.create_for')
+  = @user.site_name
+
+- content_for :css do
+  = stylesheet_link_tag 'modern/form', :media=>'screen'
+  = stylesheet_link_tag 'markitup/skins/markitup/style', :media=>'screen'
+  = stylesheet_link_tag 'markitup/sets/textile/style', :media=>'screen'
+
+-# MURKITUP EDITOR
+- content_for :js do
+  = javascript_include_tag 'markitup/markitup.js'
+  = javascript_include_tag 'markitup/sets/textile/set.js'
+  = render :partial=>'murkitup_init'
+
+= render :partial=>'publications/ql/new'
+= render :partial=>'publications/bc/new'
+= render :partial => 'preview'
+= object_errors(@publication)
+
+#edit_form.form.overblock
+  = form_for :publication, :url => news_index_url(:subdomain=>@user.subdomain) do |f|
+    = render :partial => 'form', :locals => {:f => f, :page=>@publication, :button=>t('publications.create')}

@@ -1,0 +1,30 @@
+development:
+  port: 9312
+  config_file: "config/development.sphinx.conf"
+  pid_file: "log/searchd.development.pid"
+  bin_path: '/usr/local/bin'
+  searchd_binary_name: 'searchd'
+  indexer_binary_name: 'indexer'
+  mem_limit: 128M
+  min_prefix_len: 3
+  min_word_len: 1
+  enable_star: true
+  morphology: 'stem_ru, stem_en'
+  max_matches: 10000
+production:
+  port: 9312
+  config_file: "config/production.sphinx.conf"
+  pid_file: "log/searchd.production.pid"
+  bin_path: '/usr/local/bin'
+  searchd_binary_name: 'searchd'
+  indexer_binary_name: 'indexer'
+  mem_limit: 30M
+  min_prefix_len: 3
+  min_word_len: 1
+  enable_star: true
+  morphology: 'stem_ru, stem_en'
+  max_matches: 10000
+
+
+
+

@@ -1,0 +1,80 @@
+- content_for :title do
+  = t('pages.manage_of')
+  = @user.site_name
+
+- content_for :js do
+  = javascript_include_tag 'jquery-ui.min'
+  = javascript_include_tag 'nested_sortable'
+
+- content_for :css do
+  =stylesheet_link_tag 'modern/nested_set/style', :media=>'screen'
+  =stylesheet_link_tag 'modern/pagination', :media=>'screen'
+
+= render :partial => 'pages/ql/manage'
+= render :partial => 'pages/bc/manage'
+
+:javascript
+
+  function send_nested_sets_new_structure(item_id, parent_id, prev_id, next_id){
+    jQuery.ajax({
+      type: 'POST',
+      url: '#{rebuild_pages_url(:subdomain=>@user.subdomain)}',
+      data: {id: item_id, parent_id: parent_id, prev_id: prev_id, next_id: next_id},
+      dataType: 'script',
+      beforeSend: function(xhr){
+        $('#pages_nested_set .handle').hide();
+      },
+      success: function(data, status, xhr){
+        $('#pages_nested_set .handle').show();
+      },
+      error: function(xhr, status, error){alert(error);}
+    });//jQuery.ajax
+  }//fn
+
+  $(document).ready(function(){
+    $('ol.sortable').nestedSortable({
+      disableNesting: 'no-nest',
+      forcePlaceholderSize: true,
+      handle: 'div.handle',
+      helper:	'clone',
+      items: 'li',
+      maxLevels: 3,
+      opacity: .6,
+      placeholder: 'placeholder',
+      revert: 250,
+      tabSize: 25,
+      tolerance: 'pointer',
+      toleranceElement: '> div'
+    })
+
+    $('ol.sortable').sortable({
+      update: function(event, ui){
+        parent_id = ui.item.parent().attr('id');
+
+        item_id = ui.item.attr('id');
+        if(typeof(item_id) != 'undefined'){
+          $('#item').html(item_id);
+        }
+
+        prev_id = ui.item.prev().attr('id');
+        if(typeof(prev_id) != 'undefined'){
+          $('#prev').html(prev_id);
+        }
+
+        next_id = ui.item.next().attr('id');
+        if(typeof(next_id) != 'undefined'){
+          $('#next').html(next_id);
+        }
+
+        send_nested_sets_new_structure(item_id, parent_id, prev_id, next_id);
+      }
+    });
+  });
+
+-# NESTED SET TREE OF PAGES
+- path = 'pages/nested_set'
+= create_root_element_link(:path=>path, :top_root=>true)
+%ol.sortable.ui-sortable.nested_set#pages_nested_set
+  = raw nested_set_tree(@pages, :path=>path, :id_field=>:zip, :admin=>true)
+
+= will_paginate @pages

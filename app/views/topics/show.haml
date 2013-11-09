@@ -1,0 +1,31 @@
+- @js_addons=   get_array_from_yaml(@topic.js_addons)
+- @css_addons=  get_array_from_yaml(@topic.css_addons)
+
+- content_for :meta do
+  =raw array_to_js_include_tags(@js_addons)
+  =raw array_to_css_include_tags(@css_addons)
+
+- content_for :css do
+  =stylesheet_link_tag 'modern/form', :media=>'screen'
+  =stylesheet_link_tag 'modern/forums/style', :media=>'screen'
+
+= raw(votes_js)
+= render :partial=>'topics/ql/show'
+= render :partial=>'topics/bc/show'
+
+- unless @js_addons.blank?
+  :javascript
+    SyntaxHighlighter.config.tagName="code";
+    SyntaxHighlighter.config.strings.print = 'Печать исходного кода';
+    SyntaxHighlighter.config.strings.viewSource = 'Просмотр исходника';  
+    SyntaxHighlighter.all();
+
+.content
+  .topic.overblock
+    %h3= link_to @topic.title, topic_url(@topic)
+    =raw @topic.html_content
+    %p.info= news_informer(@topic)
+    %p= topic_last_comment @topic
+    %p.tags= tags_block(@topic)
+
+= render :partial=>'comments/block', :locals => {:object=>@topic, :comment => @comment, :comments=>@comments}

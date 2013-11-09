@@ -1,0 +1,28 @@
+- content_for :css do
+  =stylesheet_link_tag 'modern/users/style', :media=>'screen'
+  =stylesheet_link_tag 'modern/pagination', :media=>'screen'
+
+= will_paginate @users
+
+.users
+  -@users.each do |user|
+    .black_rounder
+      =top_bordered_rounder
+      .content_rounder
+        .user
+          .overblock
+            .avatar
+              = image_tag user.avatar(:mini), :alt=>user.name
+            %p.login
+              %span.name= user.name
+            %p.site_name
+              Личный сайт: 
+              = link_to user.site_name, root_url(:subdomain=>user.subdomain)
+            %p.actions
+              = link_to 'Визитка пользователя', user_url(user, :subdomain=>false)
+              = link_to 'Написать письмо', root_url(:subdomain=>user.subdomain)
+              = link_to 'Мы знакомы!', root_url(:subdomain=>user.subdomain)
+      =bottom_bordered_rounder
+
+
+= will_paginate @users

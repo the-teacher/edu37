@@ -1,0 +1,35 @@
+-# STATES INFO
+- state_icon = state_icon_for_controls_for(node) if current_user.has_role? :storages, :state_icon
+- moderation_state_icon= moderation_state_for_controls_for(node) if current_user.has_role? :storages, :moderations_state_icon
+
+-# EDIT
+- edit= link_to '', edit_storage_path(node), :title=>t('storages.edit_this'), :class=>'button edit'
+
+-# DELETE
+- if opts[:has_childs]
+  - delete=  link_to('', storage_path(node, :page=>params[:page]),
+    :title=>t('storages.delete'),
+    :method=>:delete,
+    :confirm=>t('storages.delete_confirm'),
+    :class=>'button delete') 
+- else
+  - delete=  link_to('', '#',
+    :title=>t('storages.cant_be_deleted'),
+    :onclick=>t('storages.delete_nested_elements'),
+    :class=>'button undeleted')
+
+-# HARD DELETE
+- if current_user.top_manager?
+  - if opts[:has_childs]
+    - hard_delete=  link_to('', storage_path(node, :hard=>true, :page=>params[:page]),
+      :title=>t('storages.hard_delete'),
+      :method=>:delete,
+      :confirm=>t('storages.hard_delete_confirm'),
+      :class=>'button hard_delete')
+  - else
+    - hard_delete=  link_to('', '#',
+      :title=>t('storages.cant_be_deleted'),
+      :class=>'button undeleted',
+      :onclick=>t('storages.delete_nested_elements'))
+
+= raw(state_icon.to_s + moderation_state_icon.to_s + edit + delete + hard_delete.to_s)

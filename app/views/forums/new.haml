@@ -1,0 +1,11 @@
+- content_for :css do
+  = stylesheet_link_tag 'modern/form', :media=>'screen'
+
+= render :partial => 'forums/ql/new'
+= render :partial => 'forums/bc/new'  
+= object_errors(@forum)
+
+#edit_form.form.overblock
+  = form_for :forum, :url => forums_path do |f|
+    =hidden_field_tag :top_root, true if params[:top_root]
+    =render :partial => 'form', :locals => {:f => f, :forum=>@forum, :button=>'Создать форум' }

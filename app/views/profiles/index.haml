@@ -1,0 +1,53 @@
+- @js_addons=   get_array_from_yaml(@profile.js_addons)
+- @css_addons=  get_array_from_yaml(@profile.css_addons)
+
+- content_for :title do
+  = raw t('profiles.index')
+  = @user.login
+
+- content_for :meta do
+  =raw array_to_js_include_tags(@js_addons)
+  =raw array_to_css_include_tags(@css_addons)
+
+- content_for :css do
+  =stylesheet_link_tag 'modern/form.css', :media=>'screen'
+  =stylesheet_link_tag 'modern/users/style', :media=>'screen'
+
+= raw(votes_js)
+= render :partial=>'shared/syntax_highlighter_initializer'
+=# render :partial => 'pages/ql/show'
+=# render :partial => 'pages/bc/show'
+
+:css
+  .profile{
+    border-bottom:3px solid gray;
+  }
+  .profile .avatar{
+    float:left;
+    margin:0 15px 10px 0;
+  }
+  img.avatar{border:1px solid gray;}
+.profile.overblock
+  = image_tag @user.avatar(:normal), :title=>@user.name, :class=>:avatar
+  %h4= @user.name
+  = raw @profile.html_content
+
+=# comment_block_for(@profile)
+= qr_block_to page_url(@profile)
+
+=# render :partial=>'comments/block', :locals => {:object=>@user, :comment => @comment, :comments=>@comments}
+
+-#
+  .contacts
+    %p
+      www:
+      %b= @profile.www
+    %p
+      skype:
+      %b= @profile.skype
+    %p
+      phone:
+      %b= @profile.phone
+    %p
+      icq:
+      %b= @profile.icq

@@ -1,0 +1,33 @@
+-# node - current element of nested tree
+-# opts[:class_name] - string
+-# opts[:id_field] - string
+-# opts[:admin] - bool
+-# opts[:root] - bool
+-# opts[:first] - bool
+-# opts[:last] - bool
+-# opts[:childs] - bool
+-# opts[:level] - integer
+
+- # FIRST
+- if opts[:first]
+  - up= link_to '', '#',:title=>'Этот форум нельзя переместить еще выше', :class=>'button cantup'
+- else
+  - up= link_to '', up_forum_path(node), :title=>'Поднять форум вверх', :class=>'button up'
+
+- # LAST
+- if opts[:last]
+  - down= link_to '', '#', :title=>'Этот форум нельзя переместить еще ниже', :class=>'button cantdown'
+- else
+  - down= link_to '', down_forum_path(node), :title=>'Переместить форум вниз', :class=>'button down'
+
+- # EDIT
+- edit= link_to '', edit_forum_path(node), :title=>'Редактировать форум', :class=>'button edit'
+
+- # DELETE
+- if opts[:has_childs]
+  - delete= link_to('', forum_path(node), :method=>:delete, :title=>'Удалить этот форум', :confirm=>'Вы уверены, что хотите удалить форум?', :class=>'button delete') 
+- else
+  - delete= link_to('', '#',  :title=>'Нельзя удалить этот форум', :class=>'button undeleted', :onclick=>"javascript:alert('Нальзя удалить форум');return false;")
+
+-# CONTROLS
+= up+down+edit+delete

@@ -1,0 +1,16 @@
+- content_for :title do
+  = raw t('users.editing')
+  = @user.login
+
+- content_for :css do
+  = stylesheet_link_tag 'modern/form', :media=>'screen'
+
+= render :partial=>'admin/users/ql/edit'
+= render :partial=>'admin/users/bc/edit'
+
+= object_errors(@user)
+
+#edit_form.form.overblock
+  = form_for(:user, :url=>admin_user_url(:subdomain=>false), :html=>{:method=>:put} ) do |f|
+    = render :partial => 'form', :locals => {:f => f, :button => t('users.update')}
+

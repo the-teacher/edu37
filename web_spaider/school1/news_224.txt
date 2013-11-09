@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="windows-1251"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>СЛОВО ОБ УЧИТЕЛЕ - Средняя общеобразовательная школа № 1 города Иванова</title>
+<meta name="title" content="СЛОВО ОБ УЧИТЕЛЕ" />
+<meta name="author" content="webmaster" />
+<meta name="description" content=" Официальный сайт средней общеобразовательной школы № 1 города Иванова Ивановской области" />
+<meta name="keywords" content=" школа иваново 1 средняя образование новости ученик учитель" />
+<meta name="distribution" content="global" />
+<meta name="rating" content="General" />
+<meta name="document-state" content="Dynamic" />
+<meta name="documentType" content="WebDocument" />
+<meta name="audience" content="all" />
+<meta name="revisit" content="10 days" />
+<meta name="revisit-after" content="10 days" />
+<meta name="allow-search" content="yes" />
+<meta name="language" content="russian" />
+<base href="http://school1.ivedu.ru/" />
+<link href="http://school1.ivedu.ru/templates/school1-1/css/template_css.css" rel="stylesheet" type="text/css" />
+<!--[if lt IE 7]>
+			<script type="text/javascript" src="/js/unitpngfix.js"></script>
+<![endif]-->  
+<!--[if (gt IE 5)&(lt IE 7)]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ieonly.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ie7only.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body id="page_bg">
+<div class="center" align="center">
+	<div id="wrapper">
+		<div id="wrapper_r">
+			<div id="header">
+				<a href="http://school1.ivedu.ru" id="logo">&nbsp;</a>
+				<table cellpadding="0" cellspacing="0" class="pill">
+					<tr>
+						<td class="pill_l">&nbsp;
+						</td>
+						<td class="pill_m">
+						<div id="pillmenu">
+													</div>
+						</td>
+					</tr>
+				</table>
+			</div>
+			<div id="tabarea">&nbsp;
+			</div>
+
+			<div class="clr"></div>
+			<div id="whitebox">
+<!--				<div id="whitebox_t">
+					<div id="whitebox_tl">
+						<div id="whitebox_tr">&nbsp;</div>
+					</div>
+				</div> -->
+
+				<div id="whitebox_m">
+					<div id="area">
+					  <div class="rightback">
+					  <div class="contentback">
+					  <div class="leftback">
+						<div id="leftcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+									<div class="module_menu">
+			<div>
+				<div>
+					<div>
+						<h3>Главное меню</h3>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="." title="Главная" class="mainlevel" >Главная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" title="Новости" class="mainlevel" id="active_menu">Новости</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=445&amp;Itemid=45" title="Портфолио школы" class="mainlevel" >Портфолио школы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=446&amp;Itemid=46" title="Учебный процесс" class="mainlevel" >Учебный процесс</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=448&amp;Itemid=47" title="Педагоги" class="mainlevel" >Педагоги</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=5&amp;Itemid=29" title="Документы" class="mainlevel" >Документы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=449&amp;Itemid=48" title="Публичные отчеты" class="mainlevel" >Публичные отчеты</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=450&amp;Itemid=49" title="Кабинет здоровья" class="mainlevel" >Кабинет здоровья</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=451&amp;Itemid=50" title="Родителям" class="mainlevel" >Родителям</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=452&amp;Itemid=51" title="Общественная приемная" class="mainlevel" >Общественная приемная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=453&amp;Itemid=52" title="Итоговая аттестация" class="mainlevel" >Итоговая аттестация</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=454&amp;Itemid=53" title="Школьная жизнь" class="mainlevel" >Школьная жизнь</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_contact&amp;Itemid=3" title="Контакты" class="mainlevel" >Контакты</a></td></tr>
+</table>					</div>
+				</div>
+			</div>
+		</div>
+																						</div>
+						<div id="maincolumn">
+						<div id="pathway">
+							<span class="pathway"><a href="http://school1.ivedu.ru" class="pathway" title="Главная">Главная</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" class="pathway" title="Новости">Новости</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=category&amp;sectionid=5&amp;id=15&amp;Itemid=2" class="pathway" title="Год Учителя">Год Учителя</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" />   СЛОВО ОБ УЧИТЕЛЕ </span>						</div>
+<!--											<table class="nopad user1user2">
+								<tr valign="top">
+									<td class="half1">
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Последние новости				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="latestnews">
+	<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=491&amp;Itemid=2" title="ЛЕТНИЙ ОТДЫХ" class="latestnews">ЛЕТНИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=490&amp;Itemid=2" title="ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ" class="latestnews">ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=489&amp;Itemid=2" title="ИГАСУ ЖДЕТ ВАС" class="latestnews">ИГАСУ ЖДЕТ ВАС</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+																			<td class="greyline">&nbsp;</td>
+																		<td>
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Популярное				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="mostread">
+	<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=104&amp;Itemid=2" title="Благодарность учителям начальной школы" class="mostread">
+			Благодарность учителям начальной школы</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=59&amp;Itemid=2" title="Слова благодарности" class="mostread">
+			Слова благодарности</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=51&amp;Itemid=2" title="День открытых дверей для родителей будущих первоклассников" class="mostread">
+			День открытых дверей для родителей будущих первоклассников</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+								</tr>
+							</table>
+							<div id="maindivider"></div>
+				 -->
+							<table class="nopad content">
+								<tr valign="top">
+									<td>
+																					
+			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+				<h3>СЛОВО ОБ УЧИТЕЛЕ</h3>				</td>
+										<td align="right" width="100%" class="buttonheading">
+															<a href="http://school1.ivedu.ru/index2.php?option=com_content&amp;task=view&amp;id=224&amp;pop=1&amp;page=0&amp;Itemid=2" target="_blank" title="Печать"><img src="http://school1.ivedu.ru/images/M_images/printButton.png"  alt="Печать" id="print" name="print" align="middle" border="0" /></a>
+													</td>
+								</tr>
+			</table>
+			
+		<table  class="contentpaneopen">
+				<tr>
+			<td width="70%" align="left" valign="top" colspan="2">
+			<span class="small">
+			 Автор webmaster			</span>
+			&nbsp;&nbsp;
+			</td>
+		</tr>
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+				19:03:2010 г.				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+			<p align="justify">
+Больше 20 лет назад я закончила школу. Тогда мне казалось, что это так здорово, что начинается взрослая, самостоятельная жизнь, гораздо более интересная и насыщенная. Все это так. Но сейчас я вспоминаю школьные годы как самые беззаботные и счастливые. Я вернулась в школу через 5 лет после ее окончания уже учителем. И сейчас безумно завидую своим ученикам&hellip; 
+</p>
+<p align="justify">
+Школа для меня &ndash; основная составляющая моей жизни, моя профессия. И моими первыми наставниками были мои школьные учителя. Я и сейчас ловлю себя на том, что во время урока копирую манеру моего классного руководителя Светланы Валерьяновны. Планируя опрос, вспоминаю Клавдию Алексеевну (&laquo;6 человек на первые парты&raquo;)&hellip; 
+</p>
+<p align="justify">
+При подготовке уроков вспоминаю добросовестность и педантичность Натальи Семеновны. Мои школьные учителя стали и моими первыми наставниками в профессии, определили мой выбор. Мне очень повезло. Каждого своего учителя я помню и люблю, у каждого учусь. Учусь профессионализму, терпению, снисходительности, пониманию. 
+</p>
+<p align="justify">
+Именно благодаря моим учителям мне не хотелось уходить из школы после уроков. Остаться, поиграть с одноклассниками, сделать вместе уроки, просто походить по кабинетам&hellip; Нас никогда не прогоняли, и, уходя вечером после второй смены в девятом часу домой, нас всегда провожал свет в окнах школы. Учителя еще работали. Тогда я не задумывалась, а как же их семьи, дети&hellip; мне не приходило в голову спрашивать, а когда они отдыхают? Сейчас эти вопросы отпали сами собой. 
+</p>
+<p align="justify">
+От школьных лет осталось удивительное ощущение тепла. И еще невыраженная и неотданная благодарность. Только спустя много лет понимаешь, как много труда, терпения вложено в тебя каждым учителем, как нелегко дается эта работа, какое опустошение испытываешь в конце каждого учебного года&hellip; 
+</p>
+<p align="justify">
+Я хочу обратиться со словами огромной благодарности ко всем моим учителям, сказать, что их труд, любовь, понимание никогда не будут забыты их учениками. 
+</p>
+<p align="justify">
+Я очень хорошо помню, что стать учителем я захотела, придя на первый урок истории в 5 классе. Нас встретила Таисия Давыдовна Айнбиндер. Меня ее уроки завораживали. Я слушала ее, боясь пропустить слово, так мне было интересно. Я до сих пор помню эти уроки. Очень ярко и детально. У Таисии Давыдовны был необыкновенный талант рассказчика. И совершенно немыслимое терпение по отношению к нам, неумелым пятиклашкам. Именно благодаря ей я начала много читать. А история стала моим главным и любимым предметом. И в дальнейшем у меня никогда не было сомнений, кем я буду, когда вырасту. Однозначно, учителем истории. 
+</p>
+<p align="justify">
+Таисия Давыдовна вела у нас историю всего год. Потом нас взяла Ольга Борисовна Исаева. Молодая, очень изящная, с прекрасным чувством юмора. С ней я постигала логику истории, мучилась с причинно-следственными связями. Я с удовольствием шла на уроки к ней, потому что это всегда было ожиданием чего-то необычного, нестандартного, нового. И эти ожидания всегда оправдывались. Сейчас, когда я готовлюсь к своим урокам, я часто вспоминаю Ольгу Борисовну. Она &ndash; мой первый наставник в профессии. 
+</p>
+<p align="justify">
+В старших классах историю у нас вела Татьяна Назарьевна. Для меня она &ndash; недостижимый идеал. Блестящий интеллект, профессионализм, критичность, требовательность. Я ужасно боялась ударить в грязь лицом, что-то не выучить. Татьяна Назарьевна редко хвалила, но уж если похвалит &ndash; чувствуешь себя на седьмом небе. Я до сих пор помню ее слова о том, что профессия историка &ndash; это не только профессия, но и особый взгляд на мир, особая философия. А еще она говорила, что учитель благодаря своим ученикам не стареет. А еще уроки. Она заставляла нас думать, осмысливать то, что написано в учебнике, не ограничиваться только им. Татьяна Назарьевна приносила на уроки книги, статьи, мы обсуждали передачи. И еще она требовала от нас критичного осмысления печатного слова. Тогда, в начале 80-х, это было крайне необычно, хотя я поняла это уже много лет спустя. И больше всего она не любила интеллектуальную лень, нежелание думать. 
+</p>
+<p align="justify">
+К сожалению, нет уже Таисии Давыдовны, очень рано ушла из жизни Татьяна Назарьевна. Но сейчас, когда я пишу эти строчки, я помню их так ярко, как будто вчера покинула их класс&hellip; 
+</p>
+<p align="justify">
+Для меня школа &ndash; это вся жизнь. Моя мама &ndash; учитель. В школе я работаю, в школе познакомилась со своим мужем, в школу в этом году пошла моя дочка. И я ничего не хочу менять в своей жизни. Я благодарна моим школьным учителям и наставникам за то, что именно в школе определилось мое будущее, именно мои учителя привили мне глубочайшую любовь и уважение к профессии учителя. Юлия Чернявская (сейчас Литвинцева) 
+</p>
+			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+								<div class="back_button">
+						<a href='javascript:history.go(-1)'>
+					Вернуться</a>
+						</div>
+																																				<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+									</td>
+								</tr>
+							</table>
+						</div>
+						<div id="rightcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+						<div id="search">
+							
+<form action="index.php?option=com_search" method="get">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="100" alt="search" class="inputbox" type="text" size="20" value="Поиск..."  onblur="if(this.value=='') this.value='Поиск...';" onfocus="if(this.value=='Поиск...') this.value='';" />	</div>
+
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="" />	
+</form>						</div>
+													</div>
+						<div class="clr">&nbsp;</div>
+					  </div> 					  </div> 					  </div> 					</div>
+					<div class="clr">&nbsp;</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="bag">&nbsp;</div>
+		<div id="footer">
+							<div id="footer_r">Copyright 2010  ·  Дизайн <a target='_blank' href='http://www.desunk.com'>www.desunk.com</a>  ·  All Rights Reserved
+				</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

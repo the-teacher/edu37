@@ -1,0 +1,20 @@
+- content_for :title do
+  = t('pages.list')
+  = @user.site_name
+
+- content_for :css do
+  = stylesheet_link_tag 'modern/nested_set/style', :media=>:screen
+  = stylesheet_link_tag 'modern/pagination', :media=>'screen'
+  = stylesheet_link_tag 'modern/pages/style', :media=>'screen'
+
+= render :partial => 'pages/ql/index'
+= render :partial => 'pages/bc/index'
+
+= will_paginate @pages
+
+-# NESTED SET TREE OF PAGES
+- path = 'pages/nested_set'
+%ol.nested_set.pages_index
+  = raw nested_set_tree(@pages, :path=>path)
+
+= will_paginate @pages

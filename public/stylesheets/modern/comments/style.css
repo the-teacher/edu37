@@ -1,0 +1,118 @@
+.comment{
+  border:1px solid grey;
+  margin:0 0 10px 0;
+  padding:5px;
+  -moz-border-radius: 5px;
+}
+.comment p{margin:0;}
+.comment p.title{
+  color: Purple;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+.comment p.content{margin-bottom:10px;}
+
+#send_comment{
+  margin-bottom:10px;
+  font-size:15pt;
+}
+#send_comment a{
+  color:green;
+}
+#send_comment .content_rounder{
+  padding:0;
+  text-align:center;
+}
+
+/*STATES*/
+.state{
+  padding:3px;
+  font-size:10pt;
+}
+
+.comment .state.unsafe_and_show{
+  background:#FFF200;
+}
+.comment .state.unsafe{
+  background:#a3f6a3;
+}
+.comment .state.blocked{
+  background:#CCC;
+}
+.comment .state.deleted{
+  background:#ff3000;
+}
+.comment .state.undesirable{
+  background:#cb6f5a;
+}
+/*MANAGE*/
+.comment_managed{
+  border:1px solid #AAA;
+  border-top:3px solid #AAA;
+  border-bottom:3px solid #AAA;
+  padding:10px;
+  margin-bottom:10px;
+}
+.comment_managed .title,
+.comment_managed .contacts,
+.comment_managed .content,
+.comment_managed .commentator,
+.comment_managed .controls,
+.comment_managed .inplace_edit{
+  line-height:140%;
+  margin-bottom:5px;
+  padding:3px;
+  background:#EEE;
+  border-left:2px solid orange;
+}
+.comment_managed .loader{
+  text-align:center;
+}
+/*EDIT*/
+.comment_managed .edit a{
+  color:white;
+  background:green;
+  padding:3px;
+  margin-right:5px;
+}
+.comment_managed .edit a:hover{
+  color:black;
+  background:white;
+  border:1px solid green;
+}
+/*PUBLICATE*/
+.comment_managed .publicate a{
+  color:white;
+  background:orange;
+  padding:3px;
+  margin-right:5px;
+}
+.comment_managed .publicate a:hover{
+  color:black;
+  background:white;
+  border:1px solid orange;
+}
+/*DELETE*/
+.comment_managed .delete a{
+  color:white;
+  background:red;
+  padding:3px;
+  margin-right:5px;
+}
+.comment_managed .delete a:hover{
+  color:black;
+  background:white;
+  border:1px solid red;
+}
+/*UNDESIRABLE*/
+.comment_managed .undesirable a{
+  color:white;
+  background:gray;
+  padding:3px;
+  margin-right:5px;
+}
+.comment_managed .undesirable a:hover{
+  color:black;
+  background:white;
+  border:1px solid gray;
+}

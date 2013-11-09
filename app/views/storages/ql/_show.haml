@@ -1,0 +1,8 @@
+-if logged_in?
+  - content_for :quick_links do
+    %li
+      = link_to t('base.cabinet'), cabinet_users_url(:subdomain=>@user.subdomain)
+      = link_to_function(image_tag('basic/ext_link.gif'), popup_window(:left=>100, :top=>100), :href=>cabinet_users_url(:subdomain=>@user.subdomain))
+    %li
+      = link_to t('storages.title'), storages_url(:subdomain=>@user.subdomain)
+      = link_to_function(image_tag('basic/ext_link.gif'), popup_window(:left=>100, :top=>100), :href=>storages_url(:subdomain=>@user.subdomain))

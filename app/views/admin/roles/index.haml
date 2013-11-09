@@ -1,0 +1,23 @@
+- content_for :css do
+  =stylesheet_link_tag 'basic/paginator', :media=>'screen'
+  =stylesheet_link_tag 'basic/edit_form.css', :media=>'screen'
+
+.panel
+  = link_to t('base.cabinet'), cabinet_users_url(:subdomain=>current_user.subdomain)
+
+  %p 
+    = will_paginate @roles
+  
+  %h3
+    = t('roles.list')
+  %ul
+    - @roles.each do |role|
+      %li
+        = link_to role.title, edit_admin_role_url(role)
+        = link_to t('roles.delete'), admin_role_url(role), :method=>:delete
+
+  %p
+    = will_paginate @roles
+  
+  %p
+    = link_to t('roles.new'),  new_admin_role_path

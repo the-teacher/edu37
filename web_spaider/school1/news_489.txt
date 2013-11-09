@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="windows-1251"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>ИГАСУ ЖДЕТ ВАС - Средняя общеобразовательная школа № 1 города Иванова</title>
+<meta name="title" content="ИГАСУ ЖДЕТ ВАС" />
+<meta name="author" content="webmaster" />
+<meta name="description" content=" Официальный сайт средней общеобразовательной школы № 1 города Иванова Ивановской области" />
+<meta name="keywords" content=" школа иваново 1 средняя образование новости ученик учитель" />
+<meta name="distribution" content="global" />
+<meta name="rating" content="General" />
+<meta name="document-state" content="Dynamic" />
+<meta name="documentType" content="WebDocument" />
+<meta name="audience" content="all" />
+<meta name="revisit" content="10 days" />
+<meta name="revisit-after" content="10 days" />
+<meta name="allow-search" content="yes" />
+<meta name="language" content="russian" />
+<base href="http://school1.ivedu.ru/" />
+<link href="http://school1.ivedu.ru/templates/school1-1/css/template_css.css" rel="stylesheet" type="text/css" />
+<!--[if lt IE 7]>
+			<script type="text/javascript" src="/js/unitpngfix.js"></script>
+<![endif]-->  
+<!--[if (gt IE 5)&(lt IE 7)]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ieonly.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ie7only.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body id="page_bg">
+<div class="center" align="center">
+	<div id="wrapper">
+		<div id="wrapper_r">
+			<div id="header">
+				<a href="http://school1.ivedu.ru" id="logo">&nbsp;</a>
+				<table cellpadding="0" cellspacing="0" class="pill">
+					<tr>
+						<td class="pill_l">&nbsp;
+						</td>
+						<td class="pill_m">
+						<div id="pillmenu">
+													</div>
+						</td>
+					</tr>
+				</table>
+			</div>
+			<div id="tabarea">&nbsp;
+			</div>
+
+			<div class="clr"></div>
+			<div id="whitebox">
+<!--				<div id="whitebox_t">
+					<div id="whitebox_tl">
+						<div id="whitebox_tr">&nbsp;</div>
+					</div>
+				</div> -->
+
+				<div id="whitebox_m">
+					<div id="area">
+					  <div class="rightback">
+					  <div class="contentback">
+					  <div class="leftback">
+						<div id="leftcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+									<div class="module_menu">
+			<div>
+				<div>
+					<div>
+						<h3>Главное меню</h3>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="." title="Главная" class="mainlevel" >Главная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" title="Новости" class="mainlevel" id="active_menu">Новости</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=445&amp;Itemid=45" title="Портфолио школы" class="mainlevel" >Портфолио школы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=446&amp;Itemid=46" title="Учебный процесс" class="mainlevel" >Учебный процесс</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=448&amp;Itemid=47" title="Педагоги" class="mainlevel" >Педагоги</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=5&amp;Itemid=29" title="Документы" class="mainlevel" >Документы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=449&amp;Itemid=48" title="Публичные отчеты" class="mainlevel" >Публичные отчеты</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=450&amp;Itemid=49" title="Кабинет здоровья" class="mainlevel" >Кабинет здоровья</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=451&amp;Itemid=50" title="Родителям" class="mainlevel" >Родителям</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=452&amp;Itemid=51" title="Общественная приемная" class="mainlevel" >Общественная приемная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=453&amp;Itemid=52" title="Итоговая аттестация" class="mainlevel" >Итоговая аттестация</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=454&amp;Itemid=53" title="Школьная жизнь" class="mainlevel" >Школьная жизнь</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_contact&amp;Itemid=3" title="Контакты" class="mainlevel" >Контакты</a></td></tr>
+</table>					</div>
+				</div>
+			</div>
+		</div>
+																						</div>
+						<div id="maincolumn">
+						<div id="pathway">
+							<span class="pathway"><a href="http://school1.ivedu.ru" class="pathway" title="Главная">Главная</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" class="pathway" title="Новости">Новости</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=category&amp;sectionid=1&amp;id=1&amp;Itemid=2" class="pathway" title="Новое">Новое</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" />   ИГАСУ ЖДЕТ ВАС </span>						</div>
+<!--											<table class="nopad user1user2">
+								<tr valign="top">
+									<td class="half1">
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Последние новости				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="latestnews">
+	<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=491&amp;Itemid=2" title="ЛЕТНИЙ ОТДЫХ" class="latestnews">ЛЕТНИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=490&amp;Itemid=2" title="ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ" class="latestnews">ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=489&amp;Itemid=2" title="ИГАСУ ЖДЕТ ВАС" class="latestnews">ИГАСУ ЖДЕТ ВАС</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+																			<td class="greyline">&nbsp;</td>
+																		<td>
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Популярное				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="mostread">
+	<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=104&amp;Itemid=2" title="Благодарность учителям начальной школы" class="mostread">
+			Благодарность учителям начальной школы</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=59&amp;Itemid=2" title="Слова благодарности" class="mostread">
+			Слова благодарности</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=51&amp;Itemid=2" title="День открытых дверей для родителей будущих первоклассников" class="mostread">
+			День открытых дверей для родителей будущих первоклассников</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+								</tr>
+							</table>
+							<div id="maindivider"></div>
+				 -->
+							<table class="nopad content">
+								<tr valign="top">
+									<td>
+																					
+			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+				<h3>ИГАСУ ЖДЕТ ВАС</h3>				</td>
+										<td align="right" width="100%" class="buttonheading">
+															<a href="http://school1.ivedu.ru/index2.php?option=com_content&amp;task=view&amp;id=489&amp;pop=1&amp;page=0&amp;Itemid=2" target="_blank" title="Печать"><img src="http://school1.ivedu.ru/images/M_images/printButton.png"  alt="Печать" id="print" name="print" align="middle" border="0" /></a>
+													</td>
+								</tr>
+			</table>
+			
+		<table  class="contentpaneopen">
+				<tr>
+			<td width="70%" align="left" valign="top" colspan="2">
+			<span class="small">
+			 Автор webmaster			</span>
+			&nbsp;&nbsp;
+			</td>
+		</tr>
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+				30:05:2011 г.				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+			<img height="652" width="472" src="images/stories/pages/_3.jpg" alt="_3.jpg" title="_3.jpg" style="margin: 5px; width: 113px; float: left; height: 120px" />&nbsp; 
+<p align="center" style="text-align: center; text-indent: 49.65pt; margin-left: -14.2pt">
+<b><span style="color: #0000ff">Государственное образовательное учреждение</span></b> 
+</p>
+<p align="center" style="text-align: center; text-indent: 49.65pt; margin-left: -14.2pt">
+<b><span style="color: #0000ff">Высшего профессионального образования</span></b> 
+</p>
+<p align="center" style="text-align: center; text-indent: 49.65pt; margin-left: -14.2pt">
+<span style="color: #0000ff"><b>&laquo;Ивановский государственный архитектурно-строительный университет&raquo; </b><b><span></span></b></span>
+</p>
+<p align="center" style="text-align: center; text-indent: 49.65pt; margin-left: -14.2pt">
+<b><span style="color: #0000ff">приглашает выпускников школы</span></b> 
+</p>
+<p align="center" style="text-align: center; text-indent: 49.65pt; margin-left: -14.2pt">
+<span style="color: #0000ff"></span>
+</p>
+<p align="center" style="text-align: center; text-indent: 49.65pt; margin-left: -14.2pt">
+<b><span style="color: #0000ff">Направление подготовки 190109 НАЗЕМНЫЕ ТРАНСПОРТНО-ТЕХНОЛОГИЧЕСКИЕ СРЕДСТВА (квалификация (степень) &laquo;специалист&raquo;) Специализация ПОДЪЕМНО &ndash; ТРАНСПОРТНЫЕ, СТРОИТЕЛЬНЫЕ, ДОРОЖНЫЕ СРЕДСТВА И ОБОРУДОВАНИЕ (ПТСДСиО) Выпускающая кафедра &ndash; &laquo;Подъемно-транспортные, строительно-дорожные машины и системы гидроприводов&raquo; (ПТСДМ и СГ) </span></b>
+</p>
+<p align="center" style="text-align: center; text-indent: 49.65pt; margin-left: -14.2pt">
+<b><span style="color: #0000ff">Срок обучения &ndash; 5 лет с присвоением квалификации &ndash; специалист (дипломированный инженер). </span></b>
+</p>
+<p align="left" style="text-align: center; text-indent: 49.65pt; margin-left: -14.2pt">
+<b><span style="color: #0000ff">В процессе изучения специальных дисциплин будущие инженеры получают необходимые навыки,</span></b>&nbsp;<b><span style="color: #0000ff">&nbsp;связанные с выполнением следующих видов профессиональной деятельности:</span></b> 
+</p>
+<p align="left" style="text-align: center; text-indent: 49.65pt; margin-left: -14.2pt">
+<b><span style="color: #0000ff">&nbsp;&nbsp;- проектно- конструкторской;</span></b> 
+</p>
+<p align="left" style="text-align: center; text-indent: 49.65pt; margin-left: -14.2pt">
+<b><span style="color: #0000ff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;- производственно &ndash; технологической; </span></b>
+</p>
+<p align="left" style="text-align: center; text-indent: 49.65pt; margin-left: -14.2pt">
+<b><span style="color: #0000ff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;- организационно - управленческой;</span></b> 
+</p>
+<p align="left" style="text-align: center; text-indent: 49.65pt; margin-left: -14.2pt">
+<b><span style="color: #0000ff">&nbsp;- научно- исследовательской; </span></b>
+</p>
+<p align="left" style="text-align: center; text-indent: 49.65pt; margin-left: -14.2pt">
+<b><span style="color: #0000ff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;- ремонт и техническое обслуживание. </span></b>
+</p>
+<p>
+<span style="color: #0000ff"></span>
+</p>
+<p>
+<img height="600" width="828" src="images/stories/pages/_5.jpg" alt="_5.jpg" title="_5.jpg" style="margin: 5px; width: 234px; float: left; height: 194px; border: #000000 1px solid" /><img height="450" width="800" src="images/stories/pages/_6.jpg" alt="_6.jpg" title="_6.jpg" style="margin: 5px; width: 244px; float: left; height: 196px; border: #000000 1px solid" /> 
+</p>
+<span style="color: #0000ff"><strong>Объекты профессиональной деятельности Объектами профессиональной деятельности являются: грузоподъемные краны, подъемники, лифты, подъемно-транспортирующие манипуляторы и роботы, конвейеры, эскалаторы, элеваторы, подвесные канатные дороги, пневматический и гидравлический транспорт, складское оборудование, машины для земляных работ, машины и оборудование для устройства оснований и фундаментов, бетонных работ, карьерных работ при добыче и обогащении рудных и нерудных материалов, коммунальные машины и оборудование, путевые машины, погрузочно-разгрузочные машины, машины и оборудование метрополитенов, технологические машины для производства строительных материалов, погрузочно-транспортные системы автоматизированных производств, машины и оборудование для комплексной механизации и автоматизации погрузочно-разгрузочных, транспортных и складских работ, дорожно-строительные погрузочно-разгрузочные комплексы для постройки цементобетонных и асфальтовых покрытий, машины и оборудование для ремонта и содержания дорог, машины и оборудование для городского хозяйства, наземные мобильные транспортные машины, подвижные технологические машины и транспортно &ndash; технологические комплексы сельскохозяйственного, строительного, транспортного, военно-транспортного и транспортно &ndash; технологического назначения, конструкторская и нормативно &ndash; техническая документация, система стандартизации, методы и средства испытания и контроля качества изделий и др. </strong></span>
+<p>
+<span style="color: #ff0000"><u><strong>Вступительные экзамены (ЕГЭ): математика, физика, русский язык. </strong></u></span>
+</p>
+<p>
+<strong><span style="color: #0000ff">Контактная информация для поступающих:</span></strong> 
+</p>
+<p>
+<strong><span style="color: #0000ff">&nbsp;Адрес: 153037, г. Иваново, ул. 8 Марта, д. 20, к.101а (приёмная комиссия). Телефон: (4932) 30-89-53. </span></strong>
+</p>
+<p>
+<strong><span style="color: #0000ff">Сайт: </span><span style="color: #ff0000">www.igasu.ru </span></strong>
+</p>
+			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+					<table align="center" style="margin-top: 15px;">
+			<tr>
+									<th class="pagenav_prev">
+					<a href="index.php?option=com_content&amp;task=view&amp;id=490&amp;Itemid=2" title="ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ">
+							&laquo; ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ</a>
+					</th>
+										<td width="50">&nbsp;
+
+					</td>
+										<th class="pagenav_next">
+					<a href="index.php?option=com_content&amp;task=view&amp;id=488&amp;Itemid=2" title="ИНТЕРНЕТ-ПОРТАЛ ФСНК ПО ИВАНОВСКОЙ ОБЛАСТИ">
+							ИНТЕРНЕТ-ПОРТАЛ ФСНК ПО ИВАНОВСКОЙ ОБЛАСТИ &raquo;</a>
+					</th>
+								</tr>
+			</table>
+									<div class="back_button">
+						<a href='javascript:history.go(-1)'>
+					Вернуться</a>
+						</div>
+																																				<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+									</td>
+								</tr>
+							</table>
+						</div>
+						<div id="rightcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+						<div id="search">
+							
+<form action="index.php?option=com_search" method="get">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="100" alt="search" class="inputbox" type="text" size="20" value="Поиск..."  onblur="if(this.value=='') this.value='Поиск...';" onfocus="if(this.value=='Поиск...') this.value='';" />	</div>
+
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="" />	
+</form>						</div>
+													</div>
+						<div class="clr">&nbsp;</div>
+					  </div> 					  </div> 					  </div> 					</div>
+					<div class="clr">&nbsp;</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="bag">&nbsp;</div>
+		<div id="footer">
+							<div id="footer_r">Copyright 2010  ·  Дизайн <a target='_blank' href='http://www.desunk.com'>www.desunk.com</a>  ·  All Rights Reserved
+				</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

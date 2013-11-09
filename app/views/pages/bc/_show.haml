@@ -1,0 +1,4 @@
+%p.breadcrumbs
+  = link_to @user.site_name, root_url(:subdomain=>@user.subdomain)
+  &raquo;
+  = link_to t('pages.title'), pages_url(:subdomain=>@user.subdomain)

@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="windows-1251"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>polozhenie ob us - Средняя общеобразовательная школа № 1 города Иванова</title>
+<meta name="title" content="polozhenie ob us" />
+<meta name="author" content="webmaster" />
+<meta name="robots" content="index, follow" />
+<meta name="description" content=" Официальный сайт средней общеобразовательной школы № 1 города Иванова Ивановской области" />
+<meta name="keywords" content=" школа иваново 1 средняя образование новости ученик учитель" />
+<meta name="distribution" content="global" />
+<meta name="rating" content="General" />
+<meta name="document-state" content="Dynamic" />
+<meta name="documentType" content="WebDocument" />
+<meta name="audience" content="all" />
+<meta name="revisit" content="10 days" />
+<meta name="revisit-after" content="10 days" />
+<meta name="allow-search" content="yes" />
+<meta name="language" content="russian" />
+<base href="http://school1.ivedu.ru/" />
+<link href="http://school1.ivedu.ru/templates/school1-1/css/template_css.css" rel="stylesheet" type="text/css" />
+<!--[if lt IE 7]>
+			<script type="text/javascript" src="/js/unitpngfix.js"></script>
+<![endif]-->  
+<!--[if (gt IE 5)&(lt IE 7)]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ieonly.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ie7only.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body id="page_bg">
+<div class="center" align="center">
+	<div id="wrapper">
+		<div id="wrapper_r">
+			<div id="header">
+				<a href="http://school1.ivedu.ru" id="logo">&nbsp;</a>
+				<table cellpadding="0" cellspacing="0" class="pill">
+					<tr>
+						<td class="pill_l">&nbsp;
+						</td>
+						<td class="pill_m">
+						<div id="pillmenu">
+													</div>
+						</td>
+					</tr>
+				</table>
+			</div>
+			<div id="tabarea">&nbsp;
+			</div>
+
+			<div class="clr"></div>
+			<div id="whitebox">
+<!--				<div id="whitebox_t">
+					<div id="whitebox_tl">
+						<div id="whitebox_tr">&nbsp;</div>
+					</div>
+				</div> -->
+
+				<div id="whitebox_m">
+					<div id="area">
+					  <div class="rightback">
+					  <div class="contentback">
+					  <div class="leftback">
+						<div id="leftcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+									<div class="module_menu">
+			<div>
+				<div>
+					<div>
+						<h3>Главное меню</h3>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="." title="Главная" class="mainlevel" >Главная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" title="Новости" class="mainlevel" id="active_menu">Новости</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=445&amp;Itemid=45" title="Портфолио школы" class="mainlevel" >Портфолио школы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=446&amp;Itemid=46" title="Учебный процесс" class="mainlevel" >Учебный процесс</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=448&amp;Itemid=47" title="Педагоги" class="mainlevel" >Педагоги</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=5&amp;Itemid=29" title="Документы" class="mainlevel" >Документы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=449&amp;Itemid=48" title="Публичные отчеты" class="mainlevel" >Публичные отчеты</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=450&amp;Itemid=49" title="Кабинет здоровья" class="mainlevel" >Кабинет здоровья</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=451&amp;Itemid=50" title="Родителям" class="mainlevel" >Родителям</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=452&amp;Itemid=51" title="Общественная приемная" class="mainlevel" >Общественная приемная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=453&amp;Itemid=52" title="Итоговая аттестация" class="mainlevel" >Итоговая аттестация</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=454&amp;Itemid=53" title="Школьная жизнь" class="mainlevel" >Школьная жизнь</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_contact&amp;Itemid=3" title="Контакты" class="mainlevel" >Контакты</a></td></tr>
+</table>					</div>
+				</div>
+			</div>
+		</div>
+																						</div>
+						<div id="maincolumn">
+						<div id="pathway">
+							<span class="pathway"><a href="http://school1.ivedu.ru" class="pathway" title="Главная">Главная</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" class="pathway" title="Новости">Новости</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=category&amp;sectionid=&amp;id=0&amp;Itemid=2" class="pathway" title=""></a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" />   polozhenie ob us </span>						</div>
+<!--											<table class="nopad user1user2">
+								<tr valign="top">
+									<td class="half1">
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Последние новости				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="latestnews">
+	<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=491&amp;Itemid=2" title="ЛЕТНИЙ ОТДЫХ" class="latestnews">ЛЕТНИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=490&amp;Itemid=2" title="ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ" class="latestnews">ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=489&amp;Itemid=2" title="ИГАСУ ЖДЕТ ВАС" class="latestnews">ИГАСУ ЖДЕТ ВАС</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+																			<td class="greyline">&nbsp;</td>
+																		<td>
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Популярное				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="mostread">
+	<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=104&amp;Itemid=2" title="Благодарность учителям начальной школы" class="mostread">
+			Благодарность учителям начальной школы</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=59&amp;Itemid=2" title="Слова благодарности" class="mostread">
+			Слова благодарности</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=51&amp;Itemid=2" title="День открытых дверей для родителей будущих первоклассников" class="mostread">
+			День открытых дверей для родителей будущих первоклассников</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+								</tr>
+							</table>
+							<div id="maindivider"></div>
+				 -->
+							<table class="nopad content">
+								<tr valign="top">
+									<td>
+																					
+			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+				<h3>polozhenie ob us</h3>				</td>
+										<td align="right" width="100%" class="buttonheading">
+															<a href="http://school1.ivedu.ru/index2.php?option=com_content&amp;task=view&amp;id=254&amp;pop=1&amp;page=0&amp;Itemid=2" target="_blank" title="Печать"><img src="http://school1.ivedu.ru/images/M_images/printButton.png"  alt="Печать" id="print" name="print" align="middle" border="0" /></a>
+													</td>
+								</tr>
+			</table>
+			
+		<table  class="contentpaneopen">
+				<tr>
+			<td width="70%" align="left" valign="top" colspan="2">
+			<span class="small">
+			 Автор webmaster			</span>
+			&nbsp;&nbsp;
+			</td>
+		</tr>
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+				27:05:2010 г.				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+			<p>
+№1 Н.В.Степович
+</p>
+<p align="center">
+<strong>&nbsp;ПРИНЯТО На собрании трудового Коллектива 2008 26.03.2008</strong>&nbsp;
+</p>
+<p align="center">
+&nbsp;<strong>Положение об управляющем совете муниципального учреждения средняя общеобразовательная школа №1</strong> 
+</p>
+<p>
+<em>Общие положения</em> 
+</p>
+<p>
+1. Управляющий Совет общеобразовательного учреждения (далее - Совет) является коллегиальным органом самоуправления, осуществляющим в соответствии с уставом общеобразовательного учреждения решение отдельных вопросов, относящихся к компетенции общеобразовательного учреждения.
+</p>
+<p>
+&nbsp;2. Совет осуществляет свою деятельность в соответствии с законами и иными нормативными правовыми актами Российской Федерации, Ивановской области, органов местного самоуправления, уставом общеобразовательного учреждения, а также регламентом Совета, локальными актами руководителя общеобразовательного учреждения. 
+</p>
+<p>
+3. Деятельность Совета основывается на принципах добровольности и безвозмездности участия в его работе, коллегиальности принятия решений, гласности. 
+</p>
+<p>
+4. Уставом общеобразовательного учреждения предусматривается: а) численность и порядок формирования Совета; б) компетенция Совета; 5. Члены Совета принимают участие в его работе на общественных началах. П. Порядок формирования Совета 
+</p>
+<p>
+6. Совет состоит из равного количества представителей ( по 5 человек): а) родителей (законных представителей) обучающихся всех ступеней общего образования; б) обучающихся третьей ступени общего образования; в) работников общеобразовательного учреждения и в их числе представителей профсоюзной организации. В состав Совета также входят руководитель общеобразовательного учреждения по должности и может быть введен представитель учредителя, назначаемый приказом управления образования. По решению Совета в его состав могут быть включены с правом совещательного голоса граждане, чья профессиональная и (или) общественная деятельность связана с данной общеобразовательной организацией или территорией, где она расположена. 
+</p>
+<p>
+7. Члены Совета избираются на общешкольной конференции из числа делегатов, присутствующих на конференции. Конференция по выбору членов Совета правомочна, если в ее работе принимают участие не менее двух третей избранных делегатов. Делегаты на общешкольную конференцию по выборам Совета избираются: - от родителей ( законных представителей ) на общем собрании работников учреждения; От каждого представительства равное количество. Общее количество делегатов не менее 75 человек. 
+</p>
+<p>
+8.Конференция избирает из своего состава председателя, секретаря и при необходимости счетную комиссию. Члены Совета избираются из числа делегатов, присутствующих на конференции. Предложения по кандидатурам членов Совета могут быть внесены делегатами конференции, руководителем общеобразовательного учреждения, представителем учредителя в составе Совета. Решения конференции; принимаются открытым голосованием большинством голосов присутствующих делегатов и оформляются протоколом, подписываемым председателем и секретарем конференции. В случае избрания счетной комиссии к протоколу конференции прилагается протокол счетной комиссии. 
+</p>
+<p>
+9. Совет считается сформированным и вправе приступить к осуществлению своих полномочий с момента избрания (назначения) не менее двух третей от общей численности членов Совета, определенной уставом общеобразовательного учреждения. III. Компетенция Совета 
+</p>
+<p>
+10. Основными задачами Совета являются: а) определение основных направлений развития общеобразовательного учреждения; б) повышение эффективности финансово-экономической деятельности, стимулирования труда работников общеобразовательного учреждения; в) содействие созданию в общеобразовательном учреждении оптимальных условий и форм организации образовательного процесса; г) контроль за соблюдением надлежащих условий обучения, воспитания и труда в общеобразовательном учреждении, сохранения и укрепления здоровья обучающихся. 
+</p>
+<p>
+11. Совет осуществляет следующие функции: 
+</p>
+<p>
+11.1. Вносит на рассмотрение учредителя предложения по изменению и (или) дополнению устава общеобразовательного учреждения в части определения: а) режима занятий обучающихся; б) порядка предоставления платных образовательных услуг (на договорной основе); в) порядка регламентации и оформления отношений общеобразовательного учреждения и обучающихся и (или) их родителей (законных представителей); г) структуры, порядка формирования органов управления общеобразовательного учреждения, их компетенции и порядка организации деятельности; ; д) прав и обязанностей участников образовательного процесса. 
+</p>
+<p>
+11.2. Согласовывает по представлению руководителя общеобразовательного учреждения: а) изменение компонента общеобразовательного учреждения государственного образовательного стандарта общего образования, образовательных программ, учебного плана; б) изменение и (или) дополнение перечня платных образовательных и иных услуг, оказываемых общеобразовательной организацией; в) изменение и (или) дополнение правил внутреннего распорядка общеобразовательного учреждения. 
+</p>
+<p>
+11.3. Вносит руководителю общеобразовательного учреждения предложения в части: а) материально-технического обеспечения и оснащения образовательного процесса,'оборудования помещений общеобразовательного учреждения; б) направлений расходования средств, привлекаемых общеобразовательной организацией из внебюджетных источников; в) создания в общеобразовательного учреждения необходимых условий для организации питания, медицинского обслуживания обучающихся. 
+</p>
+<p>
+11.4. Принимает решение о введении (отмене) единой формы одежды для обучающихся в период занятий.
+</p>
+<p>
+&nbsp;11.5.По представлению руководителя общеобразовательного учреждения участвует в решении вопросов стимулирующих выплат педагогическому персоналу общеобразовательного учреждения, установленные локальными актами организации и (или) коллективным договором. 
+</p>
+<p>
+11.6. Рассматривает вопросы состояния здоровья и воспитания обучающихся. 
+</p>
+<p>
+11.7. Координирует деятельность в общеобразовательном учреждении общественных (в том числе детских и молодежных) организаций (объединений), не запрещенную законом. 
+</p>
+<p>
+11.8. Регулярно информирует участников образовательного процесса о своей деятельности и принимаемых решениях. 
+</p>
+<p>
+11.9. Рассматривает иные вопросы, отнесенные к компетенции Совета уставом общеобразовательного учреждения. 
+</p>
+<p>
+12. Решения Совета, принимаемые по вопросам, входящим в его компетенцию, носят рекомендательный характер. IV. Организация деятельности Совета 
+</p>
+<p>
+13. Порядок и условия деятельности Совета определяются регламентом Совета. 
+</p>
+<p>
+14. Организационной формой работы Совета являются заседания, которые проводятся по мере необходимости, но не реже одного раза в квартал. Заседания Совета созываются председателем Совета, а в его отсутствие -заместителем председателя. Правом созыва заседания Совета обладают также руководитель общеобразовательного учреждения и представитель учредителя в составе Совета. Заседания Совета проводятся открыто. На заседании в порядке, установленном регламентом Совета, может быть решен любой вопрос, отнесенный к компетенции Совета. 
+</p>
+<p>
+15. Первое заседание Совета созывается руководителем общеобразовательного учреждения не позднее чем через месяц после его формирования. На первом заседании Совета, в частности, утверждаются регламент Совета, избираются председатель и секретарь Совета, при необходимости заместитель председателя Совета. Председатель Совета и его заместитель могут избираться только из числа представителей родителей (законных представителей) обучающихся в составе Совета. 
+</p>
+<p>
+16. Планирование работы Совета осуществляется при необходимости в порядке, определенном регламентом Совета. 
+</p>
+<p>
+17. Заседание Совета правомочно, если на нем присутствуют не менее половины от числа членов Совета, определенного уставом общеобразовательного учреждения. Заседание Совета ведет председатель, а в его отсутствие - заместитель председателя. 
+</p>
+<p>
+18. Решения Совета, как правило, принимаются большинством голосов членов Совета, присутствующих на заседании, при открытом голосовании, и оформляются протоколом, который подписывается председателем и секретарем Совета. 
+</p>
+<p>
+19. При осуществлении функции, предусмотренной пунктом 11.5 настоящего Положения, в заседании Совета не вправе участвовать представители обучающихся . Решение Совета по данному вопросу принимается большинством в две трети голосов от числа участников голосования.
+</p>
+<p>
+&nbsp;20. Для осуществления своих функций Совет вправе: а) приглашать на заседания Совета любых работников общеобразовательного учреждения для получения разъяснений, консультаций, заслушивания отчетов по вопросам, входящим в компетенцию Совета; б) запрашивать и получать у руководителя общеобразовательного учреждения и (или) учредителя информацию, необходимую для осуществления функций Совета, в том числе в порядке контроля за реализацией решений Совета. 
+</p>
+<p>
+21. Организационно-техническое обеспечение деятельности Совета возлагается на администрацию общеобразовательного учреждения, в случае необходимости при содействии учредителя. 
+</p>
+			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+								<div class="back_button">
+						<a href='javascript:history.go(-1)'>
+					Вернуться</a>
+						</div>
+																																				<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+									</td>
+								</tr>
+							</table>
+						</div>
+						<div id="rightcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+						<div id="search">
+							
+<form action="index.php?option=com_search" method="get">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="100" alt="search" class="inputbox" type="text" size="20" value="Поиск..."  onblur="if(this.value=='') this.value='Поиск...';" onfocus="if(this.value=='Поиск...') this.value='';" />	</div>
+
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="" />	
+</form>						</div>
+													</div>
+						<div class="clr">&nbsp;</div>
+					  </div> 					  </div> 					  </div> 					</div>
+					<div class="clr">&nbsp;</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="bag">&nbsp;</div>
+		<div id="footer">
+							<div id="footer_r">Copyright 2010  ·  Дизайн <a target='_blank' href='http://www.desunk.com'>www.desunk.com</a>  ·  All Rights Reserved
+				</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

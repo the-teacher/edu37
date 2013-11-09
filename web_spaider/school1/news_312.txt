@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="windows-1251"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>Порядок распределения фонда оплаты труда - Средняя общеобразовательная школа № 1 города Иванова</title>
+<meta name="title" content="Порядок распределения фонда оплаты труда" />
+<meta name="author" content="webmaster" />
+<meta name="description" content=" Официальный сайт средней общеобразовательной школы № 1 города Иванова Ивановской области" />
+<meta name="keywords" content=" школа иваново 1 средняя образование новости ученик учитель" />
+<meta name="distribution" content="global" />
+<meta name="rating" content="General" />
+<meta name="document-state" content="Dynamic" />
+<meta name="documentType" content="WebDocument" />
+<meta name="audience" content="all" />
+<meta name="revisit" content="10 days" />
+<meta name="revisit-after" content="10 days" />
+<meta name="allow-search" content="yes" />
+<meta name="language" content="russian" />
+<base href="http://school1.ivedu.ru/" />
+<link href="http://school1.ivedu.ru/templates/school1-1/css/template_css.css" rel="stylesheet" type="text/css" />
+<!--[if lt IE 7]>
+			<script type="text/javascript" src="/js/unitpngfix.js"></script>
+<![endif]-->  
+<!--[if (gt IE 5)&(lt IE 7)]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ieonly.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ie7only.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body id="page_bg">
+<div class="center" align="center">
+	<div id="wrapper">
+		<div id="wrapper_r">
+			<div id="header">
+				<a href="http://school1.ivedu.ru" id="logo">&nbsp;</a>
+				<table cellpadding="0" cellspacing="0" class="pill">
+					<tr>
+						<td class="pill_l">&nbsp;
+						</td>
+						<td class="pill_m">
+						<div id="pillmenu">
+													</div>
+						</td>
+					</tr>
+				</table>
+			</div>
+			<div id="tabarea">&nbsp;
+			</div>
+
+			<div class="clr"></div>
+			<div id="whitebox">
+<!--				<div id="whitebox_t">
+					<div id="whitebox_tl">
+						<div id="whitebox_tr">&nbsp;</div>
+					</div>
+				</div> -->
+
+				<div id="whitebox_m">
+					<div id="area">
+					  <div class="rightback">
+					  <div class="contentback">
+					  <div class="leftback">
+						<div id="leftcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+									<div class="module_menu">
+			<div>
+				<div>
+					<div>
+						<h3>Главное меню</h3>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="." title="Главная" class="mainlevel" >Главная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" title="Новости" class="mainlevel" id="active_menu">Новости</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=445&amp;Itemid=45" title="Портфолио школы" class="mainlevel" >Портфолио школы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=446&amp;Itemid=46" title="Учебный процесс" class="mainlevel" >Учебный процесс</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=448&amp;Itemid=47" title="Педагоги" class="mainlevel" >Педагоги</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=5&amp;Itemid=29" title="Документы" class="mainlevel" >Документы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=449&amp;Itemid=48" title="Публичные отчеты" class="mainlevel" >Публичные отчеты</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=450&amp;Itemid=49" title="Кабинет здоровья" class="mainlevel" >Кабинет здоровья</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=451&amp;Itemid=50" title="Родителям" class="mainlevel" >Родителям</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=452&amp;Itemid=51" title="Общественная приемная" class="mainlevel" >Общественная приемная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=453&amp;Itemid=52" title="Итоговая аттестация" class="mainlevel" >Итоговая аттестация</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=454&amp;Itemid=53" title="Школьная жизнь" class="mainlevel" >Школьная жизнь</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_contact&amp;Itemid=3" title="Контакты" class="mainlevel" >Контакты</a></td></tr>
+</table>					</div>
+				</div>
+			</div>
+		</div>
+																						</div>
+						<div id="maincolumn">
+						<div id="pathway">
+							<span class="pathway"><a href="http://school1.ivedu.ru" class="pathway" title="Главная">Главная</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" class="pathway" title="Новости">Новости</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=category&amp;sectionid=1&amp;id=1&amp;Itemid=2" class="pathway" title="Новое">Новое</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" />   Порядок распределения фонда оплаты труда </span>						</div>
+<!--											<table class="nopad user1user2">
+								<tr valign="top">
+									<td class="half1">
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Последние новости				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="latestnews">
+	<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=491&amp;Itemid=2" title="ЛЕТНИЙ ОТДЫХ" class="latestnews">ЛЕТНИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=490&amp;Itemid=2" title="ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ" class="latestnews">ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=489&amp;Itemid=2" title="ИГАСУ ЖДЕТ ВАС" class="latestnews">ИГАСУ ЖДЕТ ВАС</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+																			<td class="greyline">&nbsp;</td>
+																		<td>
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Популярное				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="mostread">
+	<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=104&amp;Itemid=2" title="Благодарность учителям начальной школы" class="mostread">
+			Благодарность учителям начальной школы</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=59&amp;Itemid=2" title="Слова благодарности" class="mostread">
+			Слова благодарности</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=51&amp;Itemid=2" title="День открытых дверей для родителей будущих первоклассников" class="mostread">
+			День открытых дверей для родителей будущих первоклассников</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+								</tr>
+							</table>
+							<div id="maindivider"></div>
+				 -->
+							<table class="nopad content">
+								<tr valign="top">
+									<td>
+																					
+			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+				<h3>Порядок распределения фонда оплаты труда</h3>				</td>
+										<td align="right" width="100%" class="buttonheading">
+															<a href="http://school1.ivedu.ru/index2.php?option=com_content&amp;task=view&amp;id=312&amp;pop=1&amp;page=0&amp;Itemid=2" target="_blank" title="Печать"><img src="http://school1.ivedu.ru/images/M_images/printButton.png"  alt="Печать" id="print" name="print" align="middle" border="0" /></a>
+													</td>
+								</tr>
+			</table>
+			
+		<table  class="contentpaneopen">
+				<tr>
+			<td width="70%" align="left" valign="top" colspan="2">
+			<span class="small">
+			 Автор webmaster			</span>
+			&nbsp;&nbsp;
+			</td>
+		</tr>
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+				13:10:2010 г.				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+			Приложение к прказу о НСОТ.
+&nbsp; 
+<p align="center" style="text-align: center">
+<b><span style="font-size: 16pt; line-height: 115%"><span style="font-size: 8pt">Муниципальное учреждение средняя общеобразовательная школа №1</span></span></b>
+</p>
+<p align="center" style="text-align: center">
+<span style="font-size: 8pt"><b>153004 г. Иваново, ул.9 Января, д.39, тел/факс 376782, </b><b><span>e</span>-</b><b><span>mail</span><span> </span></b><b><span><a href="mailto:
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy17022 = 'sch&#111;&#111;l1' + '&#64;';
+ addy17022 = addy17022 + '&#105;v&#101;d&#117;' + '&#46;' + 'r&#117;';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy17022 + '\'>' );
+ document.write( addy17022 );
+ document.write( '<\/a>' );
+ //-->\n </script><script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script>Этот e-mail защищен от спам-ботов. Для его просмотра в вашем браузере должна быть включена поддержка Java-script
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script>">school<span>1@</span>ivedu<span>.</span>ru</a></span></b></span>
+</p>
+<p>
+<b><span style="font-size: 8pt">Согласовано<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Утверждаю</span></b>
+</p>
+<p>
+<b><span style="font-size: 8pt">Председатель Управляющего Совета<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Директор МУСОШ№1</span></b>
+</p>
+<p>
+<b><span style="font-size: 8pt">________________А.Е. Гужова<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>___________Н.В.Степович</span></b>
+</p>
+<p>
+<b><span style="font-size: 8pt">12.08.2010<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>12.08.2010</span></b>
+</p>
+<p>
+<b><span style="font-size: 8pt">Председатель ПК</span></b>
+</p>
+<p>
+<b><span style="font-size: 8pt">_____________Г.Г. Хрящева</span></b>
+</p>
+<p>
+<b><span style="font-size: 8pt">12.08.2010</span></b>
+</p>
+<p>
+<span style="font-size: 8pt"><b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></b><b><span style="font-size: 12pt; line-height: 115%; letter-spacing: -0.25pt">Порядок распределения фонда оплаты труда</span></b></span>
+</p>
+<p style="background: white; margin: 12.7pt 0cm 0pt; text-indent: 0cm; line-height: 12.95pt; tab-stops: 11.3pt">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'; letter-spacing: -1.15pt"><span>&bull;1.<span style="font: 7pt 'Times New Roman'"> </span></span></span><span style="font-size: 12pt; letter-spacing: -0.3pt">Порядок распределения фонда оплаты труда является приложением к Положению о </span><span style="font-size: 12pt; letter-spacing: -0.25pt">новой системе оплаты труда и утверждается директором школы по согласованию с </span><span style="font-size: 12pt">профсоюзным комитетом и Управляющим советом.<span style="letter-spacing: -1.15pt"></span></span></span>
+</p>
+<p style="background: white; margin: 12.5pt 0cm 0pt; text-indent: 0cm; line-height: 12.95pt; tab-stops: 11.3pt">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'; letter-spacing: -0.55pt"><span>&bull;2.<span style="font: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size: 12pt; letter-spacing: -0.25pt">Внесение изменений в Порядок распределения ФОТ образовательного учреждения осуществляется 1 раз в год при составлении тарификации на следующий учебный год или </span><span style="font-size: 12pt">при изменении ФОТ по согласованию с профсоюзным комитетоми Управляющим советом.<span style="letter-spacing: -0.55pt"></span></span></span>
+</p>
+<p style="background: white; margin: 13.2pt 0cm 0pt; text-indent: 0cm; line-height: 13.2pt; tab-stops: 11.3pt">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'; letter-spacing: -0.65pt"><span>&bull;3.<span style="font: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size: 12pt; letter-spacing: -0.25pt">Доля базовой части фонда оплаты труда (ФОТб) в доле фонда оплаты труда </span><span style="font-size: 12pt; letter-spacing: -0.3pt">образовательного учреждения (ФОТоу) составляет 80% (доля стимулирующей части ФОТ </span><span style="font-size: 12pt">соответственно- 20%).<span style="letter-spacing: -0.65pt"></span></span></span>
+</p>
+<p style="background: white; margin: 12.95pt 22.1pt 0pt 0cm; text-indent: 0cm; line-height: 13.2pt; tab-stops: 11.3pt">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'; letter-spacing: -0.6pt"><span>&bull;4.<span style="font: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size: 12pt; letter-spacing: -0.25pt">Доля фонда оплаты труда педагогического персонала непосредственно </span><span style="font-size: 12pt; letter-spacing: -0.3pt">осуществляющего учебный процесс (ФОТпп) в базовой части фонда оплаты труда </span><span style="font-size: 12pt">(ФОТб)составляет 70% (доля ФОТуп соответственно -30%).<span style="letter-spacing: -0.6pt"></span></span></span>
+</p>
+<p style="background: white; margin: 13.2pt 0cm 0pt; text-indent: 0cm; line-height: 13.45pt; tab-stops: 11.3pt">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'; letter-spacing: -0.8pt"><span>&bull;5.<span style="font: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size: 12pt; letter-spacing: -0.3pt">Базовая часть фонда оплаты труда педагогического персонала (ФОТпп) делится в следующем </span><span style="font-size: 12pt">соотношении: на общую часть 70% и специальную часть 30%, общая часть в свою очередь делится на<span style="letter-spacing: -0.8pt"></span></span></span>
+</p>
+<p style="background: white; margin: 0cm 353.3pt 10pt 0.5pt; line-height: 12.95pt">
+<span style="font-size: 12pt"><span style="font-size: 8pt">ФОТаз-85,0%, <span style="letter-spacing: -0.3pt">ФОТнз 15,0%</span></span></span>
+</p>
+<p style="background: white; margin: 12.95pt 21.35pt 10pt 0cm; line-height: 13.2pt; text-align: justify; tab-stops: 11.3pt">
+<span style="font-size: 12pt; letter-spacing: -0.55pt"><span style="font-size: 8pt">6.</span></span><span style="font-size: 12pt"><span><span style="font-size: 8pt"> </span></span><span style="letter-spacing: -0.25pt"><span style="font-size: 8pt">Перечень видов работ с обучающимися в соответствии с должностной инструкцией<br />
+</span></span><span style="font-size: 8pt"><span style="letter-spacing: -0.3pt">учителя, включаемых в неаудиторную занятость педагогических работников, и размер<br />
+</span>устанавливается в рамках ФОТнз. (п.5):</span></span>
+</p>
+<p style="background: white; margin: 13.2pt 22.1pt 10pt 0.5pt; line-height: 13.2pt">
+<span style="font-size: 8pt"><i><span style="font-size: 12pt; letter-spacing: -0.3pt">6. 1.Осуществление функций классного руководителя по организации и координации </span></i><i><span style="font-size: 12pt">воспитательной работы с обучающимися:</span></i></span>
+</p>
+<p style="background: white; margin: 0cm 0cm 0pt 0.5pt; text-indent: 0cm; line-height: 13.2pt; tab-stops: 6.95pt">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span>&bull;-<span style="font: 7pt 'Times New Roman'">&nbsp; </span></span></span><span style="font-size: 12pt; letter-spacing: -0.15pt">в 1-11 классах -850 рублей,</span><span style="font-size: 12pt"></span></span>
+</p>
+<p style="background: white; margin: 0cm 0cm 0pt 0.5pt; line-height: 13.2pt; tab-stops: 6.95pt">
+<span style="font-size: 12pt"><span style="font-size: 8pt"></span></span>
+</p>
+<p>
+<span style="font-size: 12pt; line-height: 115%; letter-spacing: -0.2pt"><span style="font-size: 8pt">6.2. <i>Руководство работой методического объединения учителей - </i>800</span></span>
+</p>
+<p style="background: white; margin: 0cm 42.25pt 10pt 6.95pt; line-height: 12.7pt; tab-stops: 27.1pt">
+<span style="font-size: 12pt; letter-spacing: -0.4pt"><span style="font-size: 8pt">6.3.</span></span><span style="font-size: 12pt"><span><span style="font-size: 8pt">&nbsp; </span></span><span style="font-size: 8pt"><i><span style="letter-spacing: -0.25pt">Выполнение внеклассной работы сучащимися по организации общешкольных<br />
+</span>мероприятий в том числе спортивных - </i>от 50 до 60 рублей в час.</span></span>
+</p>
+<p style="background: white; margin: 12.25pt 0cm 10pt 7.45pt; tab-stops: 30.7pt">
+<span style="font-size: 8pt"><span style="font-size: 12pt; line-height: 115%; letter-spacing: -0.45pt">6.4.</span><span style="font-size: 12pt; line-height: 115%"><span>&nbsp;&nbsp; </span><i><span style="letter-spacing: -0.35pt">Организация работы учащихся на пришкольном участке </span></i><span style="letter-spacing: -0.35pt">- 400 рублей.</span></span></span>
+</p>
+<p style="background: white; margin: 12.7pt 42.25pt 10pt 6.95pt; line-height: 12.7pt; tab-stops: 26.65pt">
+<span style="font-size: 12pt; letter-spacing: -0.4pt"><span style="font-size: 8pt">6.5.</span></span><span style="font-size: 12pt"><span><span style="font-size: 8pt">&nbsp; </span></span><span style="font-size: 8pt"><i><span style="letter-spacing: -0.3pt">Проведение консультаций по отдельным предметам и подготовка учащихся к<br />
+олимпиадам </span></i><span style="letter-spacing: -0.3pt">-60 рубл</span>ей за час.</span></span>
+</p>
+<p style="background: white; margin: 12.5pt 0cm 10pt 6.7pt; line-height: 12.95pt">
+<span style="font-size: 8pt"><span style="font-size: 12pt; letter-spacing: -0.3pt">7. Распределение специальной части ФОТ педагогических работников устанавливается в </span><span style="font-size: 12pt">рамках ФОТс. (п.5).</span></span>
+</p>
+<p style="background: white; margin: 12.25pt 0cm 10pt 6.95pt">
+<i><span style="font-size: 12pt; line-height: 115%; letter-spacing: -0.35pt"><span style="font-size: 8pt">7.1 .Повышающий коэффициент сложности и приоритетности предмета:</span></span></i>
+</p>
+<p style="margin-bottom: 12.25pt; line-height: 0.05pt">
+<span style="font-size: 1pt"><span style="font-size: 8pt"></span></span>
+</p>
+<table border="0" cellPadding="0" cellSpacing="0" style="margin-left: 2pt; border-collapse: collapse">
+	<tbody>
+		<tr style="height: 14.15pt">
+			<td width="307" vAlign="top" style="padding-right: 2pt; padding-left: 2pt; background: white; padding-bottom: 0cm; width: 230.15pt; padding-top: 0cm; height: 14.15pt; border: windowtext 1pt solid">
+			<p align="center" style="background: white; text-align: center">
+			<span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">Предмет</span></span>
+			</p>
+			</td>
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: windowtext 1pt solid; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: medium none; width: 230.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 14.15pt">
+			<p align="center" style="background: white; text-align: center">
+			<span style="font-size: 8pt"><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'">Значение</span><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"> </span><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'">коэффициента</span></span>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 13.45pt">
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 230.15pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.45pt">
+			<p align="center" style="background: white; text-align: center">
+			<span style="font-size: 8pt"><i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'">Русский</span></i><i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"> </span></i><i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'">язык</span></i></span>
+			</p>
+			</td>
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: medium none; width: 230.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.45pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">1,15</span></span></i>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 13.45pt">
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 230.15pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.45pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">Литература</span></span></i>
+			</p>
+			</td>
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: medium none; width: 230.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.45pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">1,15</span></span></i>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 13.45pt">
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 230.15pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.45pt">
+			<p align="center" style="background: white; text-align: center">
+			<span style="font-size: 8pt"><i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'">Иностранный</span></i><i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"> </span></i><i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'">язык</span></i></span>
+			</p>
+			</td>
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: medium none; width: 230.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.45pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">1,15</span></span></i>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 13.45pt">
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 230.15pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.45pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">Математика</span></span></i>
+			</p>
+			</td>
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: medium none; width: 230.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.45pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">1,15</span></span></i>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 13.7pt">
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 230.15pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.7pt">
+			<p align="center" style="background: white; text-align: center">
+			<span style="font-size: 8pt"><i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'; letter-spacing: -0.4pt">1-</span></i><i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'; letter-spacing: -0.4pt">й</span></i><i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'; letter-spacing: -0.4pt"> </span></i><i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'; letter-spacing: -0.4pt">класс</span></i><i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'; letter-spacing: -0.4pt"> </span></i><i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'; letter-spacing: -0.4pt">начальной</span></i><i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'; letter-spacing: -0.4pt"> </span></i><i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'; letter-spacing: -0.4pt">школы</span></i></span>
+			</p>
+			</td>
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: medium none; width: 230.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.7pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">1,15</span></span></i>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 13.45pt">
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 230.15pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.45pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">История</span></span></i>
+			</p>
+			</td>
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: medium none; width: 230.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.45pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">1,10</span></span></i>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 13.7pt">
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 230.15pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.7pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">Обществознание</span></span></i>
+			</p>
+			</td>
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: medium none; width: 230.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.7pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">1,10</span></span></i>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 13.45pt">
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 230.15pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.45pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">География</span></span></i>
+			</p>
+			</td>
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: medium none; width: 230.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.45pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">1,10</span></span></i>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 13.45pt">
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 230.15pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.45pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">Биология</span></span></i>
+			</p>
+			</td>
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: medium none; width: 230.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.45pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">1,10</span></span></i>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 13.45pt">
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 230.15pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.45pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">Информатика</span></span></i>
+			</p>
+			</td>
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: medium none; width: 230.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.45pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">1,10</span></span></i>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 13.45pt">
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 230.15pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.45pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">Физика</span></span></i>
+			</p>
+			</td>
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: medium none; width: 230.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.45pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">1,10</span></span></i>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 13.9pt">
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 230.15pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.9pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">Химия</span></span></i>
+			</p>
+			</td>
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: medium none; width: 230.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.9pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">1,10</span></span></i>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 13.7pt">
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 230.15pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.7pt">
+			<p align="center" style="background: white; text-align: center">
+			<span style="font-size: 8pt"><i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'; letter-spacing: -0.35pt">2-4 </span></i><i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'; letter-spacing: -0.35pt">классы</span></i><i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'; letter-spacing: -0.35pt"> </span></i><i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'; letter-spacing: -0.35pt">начальной</span></i><i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'; letter-spacing: -0.35pt"> </span></i><i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'; letter-spacing: -0.35pt">школы</span></i></span>
+			</p>
+			</td>
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: medium none; width: 230.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.7pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">1,10</span></span></i>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 13.7pt">
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 230.15pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.7pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">Право</span></span></i>
+			</p>
+			</td>
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: medium none; width: 230.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.7pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">1,05</span></span></i>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 13.7pt">
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 230.15pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.7pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">Экономика</span></span></i>
+			</p>
+			</td>
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: medium none; width: 230.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.7pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">1,05</span></span></i>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 13.7pt">
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 230.15pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.7pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">Технология</span></span></i>
+			</p>
+			</td>
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: medium none; width: 230.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.7pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">1,05</span></span></i>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 13.45pt">
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 230.15pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.45pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 8pt">МХК</span></i>
+			</p>
+			</td>
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: medium none; width: 230.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.45pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">1,05</span></span></i>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 13.7pt">
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 230.15pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.7pt">
+			<p align="center" style="background: white; text-align: center">
+			<span style="font-size: 8pt"><i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'">Физическое</span></i><i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"> </span></i><i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'">воспитание</span></i></span>
+			</p>
+			</td>
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: medium none; width: 230.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.7pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">1,00</span></span></i>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 13.45pt">
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 230.15pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.45pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">ИЗО</span></span></i>
+			</p>
+			</td>
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: medium none; width: 230.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.45pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">1,00</span></span></i>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 13.7pt">
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 230.15pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.7pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">Музыка</span></span></i>
+			</p>
+			</td>
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: medium none; width: 230.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.7pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">1,00</span></span></i>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 13.7pt">
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 230.15pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.7pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">Черчение</span></span></i>
+			</p>
+			</td>
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: medium none; width: 230.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 13.7pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">1,00</span></span></i>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 14.65pt">
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 230.15pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 14.65pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">ОБЖ</span></span></i>
+			</p>
+			</td>
+			<td width="307" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 2pt; border-top: medium none; padding-left: 2pt; background: white; padding-bottom: 0cm; border-left: medium none; width: 230.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 14.65pt">
+			<p align="center" style="background: white; text-align: center">
+			<i><span style="font-size: 12pt; line-height: 115%; font-family: 'Arial','sans-serif'"><span style="font-size: 8pt">1,00</span></span></i>
+			</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style="background: white; margin: 12.5pt 0cm 10pt 5.5pt; tab-stops: 25.2pt">
+<span style="font-size: 8pt"><span style="font-size: 12pt; line-height: 115%; letter-spacing: -0.4pt">7.2.</span><span style="font-size: 12pt; line-height: 115%"><span>&nbsp; </span><i><span style="letter-spacing: -0.25pt">Повышающий коэффициент за квалификационную категорию:</span></i></span></span>
+</p>
+<p style="background: white; margin-left: 5.75pt; tab-stops: 22.3pt">
+<span style="font-size: 8pt"><span style="font-size: 12pt; line-height: 115%; letter-spacing: -0.6pt">1.0</span><span style="font-size: 12pt; line-height: 115%"><span> </span><span style="letter-spacing: -0.2pt">- для педагогических работников, не имеющих квалификационной категории;</span></span></span>
+</p>
+<p style="background: white; margin-left: 6pt; line-height: 13.45pt">
+<span style="font-size: 8pt"><span style="font-size: 12pt; letter-spacing: -0.3pt">1,05 - для педагогических работников, имеющих вторую квалификационной категорию и </span><span style="font-size: 12pt; letter-spacing: -0.25pt">молодым специалистам имеющим стаж работы от 0 до 3 лет</span></span>
+</p>
+<p style="background: white; margin-left: 5.75pt; line-height: 13.2pt; tab-stops: 22.3pt">
+<span style="font-size: 12pt; letter-spacing: -0.7pt"><span style="font-size: 8pt">1.1</span></span><span style="font-size: 12pt"><span><span style="font-size: 8pt"> </span></span><span style="font-size: 8pt"><span style="letter-spacing: -0.2pt">- для педагогических работников, имеющих первую квалификационную категорию;<br />
+</span><span style="letter-spacing: -0.25pt">1,15 - для педагогических работников, имеющих высшую квалификационную категорию.</span></span></span>
+</p>
+<p style="background: white; margin: 13.2pt 0cm 10pt 5.5pt; line-height: 13.2pt; tab-stops: 25.2pt">
+<span style="font-size: 12pt; letter-spacing: -0.6pt"><span style="font-size: 8pt">7.3.</span></span><span style="font-size: 12pt"><span><span style="font-size: 8pt">&nbsp; </span></span><i><span style="letter-spacing: -0.3pt"><span style="font-size: 8pt">Повышающий коэффициент за наличие почетного звания, государственных наград ,<br />
+</span></span></i><span style="letter-spacing: -0.25pt"><span style="font-size: 8pt">учитывающий научно- педагогическую квалификацию и признание научно-<br />
+педагогическим сообществом вклада учителя в педагогическую теорию и практику:</span></span></span>
+</p>
+<p style="background: white; margin: 0.25pt 44.15pt 10pt 5.75pt; line-height: 13.2pt; tab-stops: 22.3pt">
+<span style="font-size: 12pt; letter-spacing: -0.6pt"><span style="font-size: 8pt">1.2</span></span><span style="font-size: 12pt"><span><span style="font-size: 8pt"> </span></span><span style="font-size: 8pt"><span style="letter-spacing: -0.25pt">- народный, заслуженный, доктор наук, профессор (при совпадении профиля<br />
+</span>преподаваемого предмета и специальности);</span></span>
+</p>
+<p style="background: white; margin-left: 1.9pt; line-height: 12.7pt">
+<span style="font-size: 8pt"><span style="font-size: 12pt; letter-spacing: -0.3pt">1,10 - отличник, почетный работник, кандидат наук, доцент (при совпадении профиля </span><span style="font-size: 12pt">преподаваемого предмета и специальности), 1,0 - без звания.</span></span>
+</p>
+<p style="background: white; margin: 12.7pt 0cm 10pt 1.45pt; line-height: 12.95pt">
+<span style="font-size: 8pt"><span style="font-size: 12pt; letter-spacing: -0.3pt">7. <i>4Ловышающий коэффициент при проведении занятий с группой учащихся </i>(деление </span><span style="font-size: 12pt; letter-spacing: -0.25pt">классов на группы, элективные курсы, консультации, факультативы):</span></span>
+</p>
+<p style="background: white; margin-left: 20.9pt; line-height: 10.8pt">
+<span style="font-size: 8pt"><i><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.2pt">1,25 - </span></i><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.2pt">учитель</span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.2pt"> </span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.2pt">работает</span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.2pt"> </span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.2pt">с</span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.2pt"> </span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.2pt">одной</span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.2pt"> </span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.2pt">группой</span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.2pt"> </span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.2pt">от</span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.2pt"> 17 </span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.2pt">человек</span></span>
+</p>
+<p style="background: white; margin-left: 20.9pt; line-height: 10.8pt">
+<span style="font-size: 8pt"><i><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.15pt">1,5- </span></i><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.15pt">учитель</span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.15pt"> </span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.15pt">работает</span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.15pt"> </span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.15pt">с</span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.15pt"> </span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.15pt">одной</span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.15pt"> </span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.15pt">группой</span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.15pt"> </span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.15pt">от</span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.15pt"> 14 </span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.15pt">до</span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.15pt"> 16 </span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.15pt">человек</span></span>
+</p>
+<p style="background: white; margin-left: 20.65pt; line-height: 10.8pt">
+<span style="font-size: 8pt"><i><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.2pt">1,75 - </span></i><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.2pt">учитель</span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.2pt"> </span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.2pt">работает</span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.2pt"> </span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.2pt">с</span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.2pt"> </span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.2pt">одной</span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.2pt"> </span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.2pt">группой</span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.2pt"> </span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.2pt">до</span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.2pt"> 13 </span><span style="font-family: 'Arial','sans-serif'; letter-spacing: -0.2pt">человек</span></span>
+</p>
+<p style="background: white; margin: 12.5pt 0cm 10pt 0.5pt; line-height: 12.95pt; tab-stops: 20.15pt">
+<span style="font-size: 12pt; letter-spacing: -0.4pt"><span style="font-size: 8pt">7.5.</span></span><span style="font-size: 12pt"><span style="font-size: 8pt"><span>&nbsp; </span><i><span style="letter-spacing: -0.3pt">Повышающий коэффициент, учитывающий число параллелей, </span></i></span><span style="font-size: 8pt"><span style="letter-spacing: -0.3pt">объединяемых класс-<br />
+</span>комплектов или групп для проведения занятий:</span></span>
+</p>
+<p style="background: white; margin: 0cm 0cm 0pt 1.45pt; text-indent: 0cm; line-height: 12.95pt; tab-stops: 17.5pt">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'; letter-spacing: -0.65pt"><span>&bull;1.2<span style="font: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size: 12pt; letter-spacing: -0.2pt">- на уроке объединены учащиеся из 2-х параллелей,</span><span style="font-size: 12pt; letter-spacing: -0.65pt"></span></span>
+</p>
+<p style="background: white; margin: 0cm 0cm 0pt 1.45pt; text-indent: 0cm; line-height: 12.95pt; tab-stops: 17.5pt">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'; letter-spacing: -0.65pt"><span>&bull;1.3<span style="font: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size: 12pt; letter-spacing: -0.25pt">- на уроке объединены учащиеся более, чем из 2-х параллелей.</span><span style="font-size: 12pt; letter-spacing: -0.65pt"></span></span>
+</p>
+<p style="background: white; margin: 0cm 0cm 0pt 1.45pt; line-height: 12.95pt; tab-stops: 17.5pt">
+<span style="font-size: 12pt; letter-spacing: -0.65pt"><span style="font-size: 8pt"></span></span>
+</p>
+<p style="background: white; margin-left: 0.5pt; line-height: 12.95pt; tab-stops: 20.15pt">
+<span style="font-size: 12pt; letter-spacing: -0.4pt"><span style="font-size: 8pt">7.6.</span></span><span style="font-size: 12pt"><span style="font-size: 8pt"><span>&nbsp; </span>За </span><i><span style="font-size: 8pt"><span style="letter-spacing: -0.25pt"><span>&nbsp;</span>заведывание кабинетом, содержащим<br />
+</span><span style="letter-spacing: -0.3pt">специальное учебное оборудование, </span></span></i><span style="letter-spacing: -0.3pt"><span style="font-size: 8pt">поддержание его в рабочем состоянии и обеспечение<br />
+</span></span><span style="font-size: 8pt"><span style="letter-spacing: -0.15pt">учебного процесса материальными запасами : кабинет физики, химии,<br />
+</span>биологии, информатики, спортивный зал, мастерские- 600р.</span></span>
+</p>
+<p style="background: white; margin: 0cm 22.1pt 10pt 0.7pt; line-height: 12.95pt">
+<span style="font-size: 8pt"><span style="font-size: 12pt; letter-spacing: -0.35pt">7.7 <i>Повышающий коэффициент учитывающий организацию работы лаборатории, </i></span><i><span style="font-size: 12pt">подготовку оборудования к работе: кабинеты химии, физики, биологии, информатики 1700рублей.</span></i></span>
+</p>
+<p style="background: white; margin: 0cm 22.1pt 10pt 0.7pt; line-height: 12.95pt">
+<span style="font-size: 8pt"><span style="font-size: 12pt; letter-spacing: -0.3pt">8. При организации <span>&nbsp;</span>индивидуального обучения на дому в оплате труда педагогических работников </span><span style="font-size: 12pt">устанавливается повышающий коэффициент 20.</span></span>
+</p>
+<p style="background: white; margin: 0cm 22.1pt 10pt 0.7pt; line-height: 12.95pt">
+<span style="font-size: 12pt"><span style="font-size: 8pt">9.За выполнение функций уполномоченного по правам участников образовательного процесса -2000р в месяц.</span></span>
+</p>
+<p style="background: white; margin: 0cm 22.1pt 10pt 0.7pt; line-height: 12.95pt">
+<span style="font-size: 8pt">10.За обеспечение методической помощи молодым специалистам -500рублей в месяц.</span>
+</p>
+<p>
+<b><u><span style="text-decoration: none"><span style="font-size: 8pt"></span></span></u></b>
+</p>
+			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+					<table align="center" style="margin-top: 15px;">
+			<tr>
+									<th class="pagenav_prev">
+					<a href="index.php?option=com_content&amp;task=view&amp;id=314&amp;Itemid=2" title="РЕЗУЛЬТАТЫ  15 ОСЕННЕГО МАТЕМАТИЧЕСКОГО ТУРНИРА">
+							&laquo; РЕЗУЛЬТАТЫ  15 ОСЕННЕГО МАТЕМАТИЧЕСКОГО ТУРНИРА</a>
+					</th>
+										<td width="50">&nbsp;
+
+					</td>
+										<th class="pagenav_next">
+					<a href="index.php?option=com_content&amp;task=view&amp;id=311&amp;Itemid=2" title="Приказ о введении в действие Положения о НСОТ">
+							Приказ о введении в действие Положения о НСОТ &raquo;</a>
+					</th>
+								</tr>
+			</table>
+									<div class="back_button">
+						<a href='javascript:history.go(-1)'>
+					Вернуться</a>
+						</div>
+																																				<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+									</td>
+								</tr>
+							</table>
+						</div>
+						<div id="rightcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+						<div id="search">
+							
+<form action="index.php?option=com_search" method="get">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="100" alt="search" class="inputbox" type="text" size="20" value="Поиск..."  onblur="if(this.value=='') this.value='Поиск...';" onfocus="if(this.value=='Поиск...') this.value='';" />	</div>
+
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="" />	
+</form>						</div>
+													</div>
+						<div class="clr">&nbsp;</div>
+					  </div> 					  </div> 					  </div> 					</div>
+					<div class="clr">&nbsp;</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="bag">&nbsp;</div>
+		<div id="footer">
+							<div id="footer_r">Copyright 2010  ·  Дизайн <a target='_blank' href='http://www.desunk.com'>www.desunk.com</a>  ·  All Rights Reserved
+				</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,14 @@
+- content_for :title do
+  = t('storages.create_for')
+  = @user.site_name
+
+- content_for :css do
+  = stylesheet_link_tag 'modern/form', :media=>'screen'
+
+= render :partial=>'storages/ql/new'
+= render :partial=>'storages/bc/new'
+= object_errors(@storage)
+
+#edit_form.form.overblock
+  = form_for :storage, :url => storages_url(:subdomain=>@user.subdomain) do |f|
+    = render :partial => 'form', :locals => {:f => f, :storage=>@storage, :button=>t('storages.create')}

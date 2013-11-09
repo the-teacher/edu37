@@ -1,0 +1,10 @@
+- content_for :quick_links do
+  %li
+    = link_to 'Просмотр форумов', forums_url(:subdomain=>@user.subdomain)
+    = link_to_function(image_tag('basic/ext_link.gif'), popup_window(:left=>100, :top=>100), :href=>forums_url(:subdomain=>@user.subdomain))
+  %li
+    = link_to 'Просмотр этого форума', forum_url(@forum, :subdomain=>@user.subdomain)
+    = link_to_function(image_tag('basic/ext_link.gif'), popup_window(:left=>100, :top=>100), :href=>forum_url(@forum, :subdomain=>@user.subdomain))
+  %li
+    = link_to t('base.files'), storages_url(:subdomain=>@user.subdomain)
+    = link_to_function(image_tag('basic/ext_link.gif'), popup_window(:left=>100, :top=>100), :href=>storages_url(:subdomain=>@user.subdomain))

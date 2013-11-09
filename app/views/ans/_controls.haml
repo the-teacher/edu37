@@ -1,0 +1,38 @@
+-# node - current element of nested tree
+-# opts[:class_name] - string
+-# opts[:id_field] - string
+-# opts[:admin] - bool
+-# opts[:root] - bool
+-# opts[:first] - bool
+-# opts[:last] - bool
+-# opts[:childs] - bool
+-# opts[:level] - integer
+
+- if opts[:first]
+  - up = link_to '', '#',:title=>t("ansvh.#{opts[:class_name]}.cant_be_moved"), :class=>'button cantup'
+- else
+  - link_path= eval("up_#{opts[:class_name]}_path(node.send(opts[:id_field]).to_s)")
+  - up = link_to '', link_path, :title=>t("ansvh.#{opts[:class_name]}.move_up")+"#{node.title}", :class=>'button up'
+
+- if opts[:last]
+  - down= link_to '', '#', :title=>t("ansvh.#{opts[:class_name]}.cant_be_moved"), :class=>'button cantdown'
+- else
+  - link_path= eval("down_#{opts[:class_name]}_path(node.send(opts[:id_field]).to_s)")
+  - down= link_to '', link_path, :title=>t("ansvh.#{opts[:class_name]}.move_down") + "#{node.title}", :class=>'button down'
+
+- if opts[:level]<3
+  - link_path= eval("edit_#{opts[:class_name]}_path(node.send(opts[:id_field]).to_s)")
+  - edit= link_to '', link_path, :title=>t("ansvh.#{opts[:class_name]}.edit") + "#{node.title}", :class=>'button edit'
+
+- new= ''
+- link_path= eval("new_#{opts[:class_name]}_path(:parent_id=>node.send(opts[:id_field]).to_s)")
+- new= link_to '', link_path, :title=>t("ansvh.#{opts[:class_name]}.create_child") + "#{node.title}", :class=>'button new'
+
+- if opts[:has_childs]
+  - link_path= eval("#{opts[:class_name]}_path(node.send(opts[:id_field]).to_s)")
+  - delete=  link_to('', link_path, :method=>:delete, :title=>t("ansvh.#{opts[:class_name]}.delete") + "#{node.title}", :confirm=>t("ansvh.#{opts[:class_name]}.delete_confirm"), :class=>'button delete') 
+- else
+  - text= t("ansvh.#{opts[:class_name]}.sub_sections_must_be_deleted")
+  - delete=  link_to('', '#',  :title=>text, :class=>'button undeleted', :onclick=>"javascript:alert('#{text}');return false;")
+
+= up+down+edit+new+delete

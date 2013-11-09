@@ -1,0 +1,9 @@
+%p.breadcrumbs
+  = link_to @user.site_name, root_url(:subdomain=>@user.subdomain)
+  &raquo;
+  = link_to t('users.cabinet'), cabinet_users_url(:subdomain=>@user.subdomain)
+  &raquo;
+  = link_to t('pages.manage'), manage_pages_url(:subdomain=>@user.subdomain)
+  &raquo;
+  %b= raw t('pages.editing')
+

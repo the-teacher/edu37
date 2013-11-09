@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="windows-1251"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>Положение об оплате труда - Средняя общеобразовательная школа № 1 города Иванова</title>
+<meta name="title" content="Положение об оплате труда" />
+<meta name="author" content="webmaster" />
+<meta name="description" content=" Официальный сайт средней общеобразовательной школы № 1 города Иванова Ивановской области" />
+<meta name="keywords" content=" школа иваново 1 средняя образование новости ученик учитель" />
+<meta name="distribution" content="global" />
+<meta name="rating" content="General" />
+<meta name="document-state" content="Dynamic" />
+<meta name="documentType" content="WebDocument" />
+<meta name="audience" content="all" />
+<meta name="revisit" content="10 days" />
+<meta name="revisit-after" content="10 days" />
+<meta name="allow-search" content="yes" />
+<meta name="language" content="russian" />
+<base href="http://school1.ivedu.ru/" />
+<link href="http://school1.ivedu.ru/templates/school1-1/css/template_css.css" rel="stylesheet" type="text/css" />
+<!--[if lt IE 7]>
+			<script type="text/javascript" src="/js/unitpngfix.js"></script>
+<![endif]-->  
+<!--[if (gt IE 5)&(lt IE 7)]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ieonly.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ie7only.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body id="page_bg">
+<div class="center" align="center">
+	<div id="wrapper">
+		<div id="wrapper_r">
+			<div id="header">
+				<a href="http://school1.ivedu.ru" id="logo">&nbsp;</a>
+				<table cellpadding="0" cellspacing="0" class="pill">
+					<tr>
+						<td class="pill_l">&nbsp;
+						</td>
+						<td class="pill_m">
+						<div id="pillmenu">
+													</div>
+						</td>
+					</tr>
+				</table>
+			</div>
+			<div id="tabarea">&nbsp;
+			</div>
+
+			<div class="clr"></div>
+			<div id="whitebox">
+<!--				<div id="whitebox_t">
+					<div id="whitebox_tl">
+						<div id="whitebox_tr">&nbsp;</div>
+					</div>
+				</div> -->
+
+				<div id="whitebox_m">
+					<div id="area">
+					  <div class="rightback">
+					  <div class="contentback">
+					  <div class="leftback">
+						<div id="leftcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+									<div class="module_menu">
+			<div>
+				<div>
+					<div>
+						<h3>Главное меню</h3>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="." title="Главная" class="mainlevel" >Главная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" title="Новости" class="mainlevel" id="active_menu">Новости</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=445&amp;Itemid=45" title="Портфолио школы" class="mainlevel" >Портфолио школы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=446&amp;Itemid=46" title="Учебный процесс" class="mainlevel" >Учебный процесс</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=448&amp;Itemid=47" title="Педагоги" class="mainlevel" >Педагоги</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=5&amp;Itemid=29" title="Документы" class="mainlevel" >Документы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=449&amp;Itemid=48" title="Публичные отчеты" class="mainlevel" >Публичные отчеты</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=450&amp;Itemid=49" title="Кабинет здоровья" class="mainlevel" >Кабинет здоровья</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=451&amp;Itemid=50" title="Родителям" class="mainlevel" >Родителям</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=452&amp;Itemid=51" title="Общественная приемная" class="mainlevel" >Общественная приемная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=453&amp;Itemid=52" title="Итоговая аттестация" class="mainlevel" >Итоговая аттестация</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=454&amp;Itemid=53" title="Школьная жизнь" class="mainlevel" >Школьная жизнь</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_contact&amp;Itemid=3" title="Контакты" class="mainlevel" >Контакты</a></td></tr>
+</table>					</div>
+				</div>
+			</div>
+		</div>
+																						</div>
+						<div id="maincolumn">
+						<div id="pathway">
+							<span class="pathway"><a href="http://school1.ivedu.ru" class="pathway" title="Главная">Главная</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" class="pathway" title="Новости">Новости</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=category&amp;sectionid=1&amp;id=1&amp;Itemid=2" class="pathway" title="Новое">Новое</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" />   Положение об оплате труда </span>						</div>
+<!--											<table class="nopad user1user2">
+								<tr valign="top">
+									<td class="half1">
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Последние новости				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="latestnews">
+	<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=491&amp;Itemid=2" title="ЛЕТНИЙ ОТДЫХ" class="latestnews">ЛЕТНИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=490&amp;Itemid=2" title="ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ" class="latestnews">ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=489&amp;Itemid=2" title="ИГАСУ ЖДЕТ ВАС" class="latestnews">ИГАСУ ЖДЕТ ВАС</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+																			<td class="greyline">&nbsp;</td>
+																		<td>
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Популярное				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="mostread">
+	<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=104&amp;Itemid=2" title="Благодарность учителям начальной школы" class="mostread">
+			Благодарность учителям начальной школы</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=59&amp;Itemid=2" title="Слова благодарности" class="mostread">
+			Слова благодарности</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=51&amp;Itemid=2" title="День открытых дверей для родителей будущих первоклассников" class="mostread">
+			День открытых дверей для родителей будущих первоклассников</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+								</tr>
+							</table>
+							<div id="maindivider"></div>
+				 -->
+							<table class="nopad content">
+								<tr valign="top">
+									<td>
+																					
+			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+				<h3>Положение об оплате труда</h3>				</td>
+										<td align="right" width="100%" class="buttonheading">
+															<a href="http://school1.ivedu.ru/index2.php?option=com_content&amp;task=view&amp;id=113&amp;pop=1&amp;page=0&amp;Itemid=2" target="_blank" title="Печать"><img src="http://school1.ivedu.ru/images/M_images/printButton.png"  alt="Печать" id="print" name="print" align="middle" border="0" /></a>
+													</td>
+								</tr>
+			</table>
+			
+		<table  class="contentpaneopen">
+				<tr>
+			<td width="70%" align="left" valign="top" colspan="2">
+			<span class="small">
+			 Автор webmaster			</span>
+			&nbsp;&nbsp;
+			</td>
+		</tr>
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+				22:01:2009 г.				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+			&nbsp; 
+<p style="text-indent: 35.45pt; text-align: justify">
+Настоящее <span>&nbsp;</span>Положение разработано в целях формирования единых подходов к регулированию заработной платы работников учреждения, повышения заинтересованности в конечных результатах труда, совершенствования управления финансовыми, материальными и кадровыми ресурсами.
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+&nbsp;
+</p>
+<p align="center" style="text-align: center">
+<a name="_Toc178743295" title="_Toc178743295"></a><b>1.Основные понятия</b><b></b>
+</p>
+<p>
+&nbsp;
+</p>
+<p style="text-indent: 26.95pt; text-align: justify">
+<u>Заработная плата (оплата труда работника)</u> - вознаграждение за труд в зависимости от квалификации работника, сложности, количества, качества и условий выполняемой работы, а также компенсационные и стимулирующие выплаты.
+</p>
+<p style="text-indent: 26.95pt; text-align: justify">
+<u>Д<span>олжностной оклад</span></u> (ставка заработной платы)- фиксированный размер оплаты труда работника за исполнение трудовых (должностных) обязанностей определенной сложности и в пределах нормы часов рабочего времени за календарный месяц без учета компенсационных, стимулирующих выплат, состоящий из минимального оклада, увеличенного на повышающие коэффициенты.
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+<u><span style="font-size: 12pt; font-family: 'Times New Roman'">Минимальные оклады (ставки заработной платы) по квалификационным уровням</span></u><span style="font-size: 12pt; font-family: 'Times New Roman'"> -<span>&nbsp; </span>минимальный размер оплаты труда работника определенного квалификационного уровня и определенной профессиональной квалификационной группы за выполнение нормы труда определенной сложности (квалификации) за единицу времени без учета компенсационных, стимулирующих выплат.<u></u></span>
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+<u><span style="font-size: 12pt; font-family: 'Times New Roman'">Повышающий коэффициент к минимальному окладу (ставке заработной платы) - </span></u><span style="font-size: 12pt; font-family: 'Times New Roman'">размер увеличения минимального оклада (ставки заработной платы).</span><u><span style="font-size: 12pt"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></u><span style="font-size: 12pt; background: yellow"><span>&nbsp;</span></span><span style="font-size: 12pt"></span>
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+<u><span>Компенсационные выплаты</span></u><b> - </b>дополнительные выплаты работнику за работы: во вредных и (или) опасных и иных особых условиях труда; в условиях труда, отклоняющихся от нормальных; не входящие в круг основных обязанностей и другие. 
+</p>
+<p style="text-indent: 26.95pt">
+<u><span style="font-size: 12pt">Стимулирующие выплаты</span></u><b><span style="font-size: 12pt"> - </span></b><span style="font-size: 12pt">выплаты, предусматриваемые системами оплаты труда работников учреждений с целью повышения мотивации качественного труда работников и их поощрения за результаты труда.</span>
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman'">Заместителям директора МУСОШ№1 стимулирующие выплаты по результатам работы устанавливаются <span>&nbsp;</span>как процент от стимулирующих выплат директору школы, установленных управлением<span>&nbsp; </span>образования администрации города Иванова с учетом наличия достаточных средств.</span>
+</p>
+&nbsp; 
+<p align="center" style="text-align: center">
+<a name="_Toc178743297" title="_Toc178743297"></a><b>2. Порядок расчета заработной платы работников</b><b> муниципального </b>
+</p>
+<p align="center" style="text-align: center">
+<b><span>&nbsp;</span>учреждения</b>
+</p>
+<p>
+&nbsp;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+2.1. Заработная плата работников МУСОШ№1 <span>&nbsp;</span>определяется на основе:
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+- отнесения должностей работников к соответствующим профессиональным квалификационным группам должностей работников образования (ПКГ) и квалификационным уровням в составе профессиональных групп;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+- установления минимальных окладов (ставок заработной платы) по ПКГ и квалификационным уровням (приложение 1 к настоящему постановлению);
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+- установления должностных окладов (ставок заработной платы) по соответствующим ПКГ путем умножения минимальных окладов на повышающие коэффициенты;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+- установления выплат компенсационного характера;
+</p>
+<p>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>- установления выплат стимулирующего характера.<span style="font-family: Arial"> <a name="sub_10106" title="sub_10106"></a></span>
+</p>
+<p>
+<span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>2.1.1 Изменение размеров должностных окладов производится:</span>
+</p>
+<span></span>
+<p style="text-indent: 36pt; text-align: justify">
+<span>&nbsp;</span>- при увеличении стажа педагогической работы, стажа работы по специальности - со дня достижения соответствующего стажа, если документы находятся в образовательном учреждении, или со дня представления документа о стаже, дающем право на повышение размера ставок заработной платы;
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+<span>&nbsp;</span>- при получении образования или восстановлении документов об образовании - со дня представления соответствующего документа;
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+<span>&nbsp;</span>- при присвоении квалификационной категории - со дня вынесения решения аттестационной комиссией;
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+<span>&nbsp;</span>- при присвоении почетного звания - со дня присвоения;
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+<span>&nbsp;</span>- при присуждении ученой степени кандидата наук - со дня вынесения решения Высшей аттестационной комиссией федерального органа управления образованием о выдаче диплома;
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+<span>&nbsp;</span>- при присуждении ученой степени доктора наук - со дня присуждения Высшей аттестационной комиссией федерального органа управления образованием ученой степени доктора наук.
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+<span>&nbsp;</span>При наступлении у работника права на изменение размера ставки заработной платы (должностного оклада) в период пребывания его в ежегодном или другом отпуске, а также в период его временной нетрудоспособности выплата заработной платы исходя из более высокого должностного оклада производится со дня окончания отпуска или временной нетрудоспособности.
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+<span>&nbsp;</span>2.1.2. Администрация МУСОШ№1:
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+<span>&nbsp;</span>- проверяет документы об образовании и стаже педагогической работы (работы по специальности, в определенной должности) и других оснований, в соответствии с которыми определяются размеры ставок заработной платы<span>&nbsp; </span>(должностных окладов) учителей, воспитателей, других работников, исчисляет их заработную плату;
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+<span>&nbsp;</span>- ежегодно составляет и утверждает на работников, выполняющих педагогическую работу, включая работников, выполняющих эту работу в том же образовательном учреждении помимо основной работы, тарификационные списки;
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+<span>&nbsp;</span>- несет ответственность за своевременное и правильное определение размеров заработной платы работников образовательных учреждений.
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+2.2. Месячная заработная плата работника ПКГ должностей<b> </b>педагогических работников определяется как сумма оплаты труда, исчисленной с учетом фактически установленного объема учебной нагрузки, компенсационных и стимулирующих выплат по формуле: 
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+Зп = Оф+К+С,<span>&nbsp; </span>где: 
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+&nbsp;
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+Зп - месячная заработная плата;
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+Оф - оплата за фактическую учебную нагрузку;
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+К - компенсационные выплаты;
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+С - <span>стимулирующие выплаты</span>.
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+2.3. Оплата за фактическую учебную нагрузку работника ПКГ должностей педагогических работников за фактически установленный ему объем учебной нагрузки определяется путем умножения размеров окладов по квалификационным уровням профессиональной квалификационной группы должностей педагогических работников на фактическую учебную нагрузку в неделю (год) и деления полученного произведения на норму часов педагогической работы в неделю (год) за должностной оклад по следующей формуле:
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+Оф = <u>Ст х Фн ,</u><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>где:
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Нчс
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+&nbsp;
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+Оф - оплата за фактическую учебную нагрузку педагогического работника;
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+Ст - оклад (ставка заработной платы) по квалификационному уровню ПКГ должностей педагогических работников;
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+Фн - фактическая учебная нагрузка в неделю (год);
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+Нчс - норма часов педагогической работы в неделю (год) за должностной оклад в соответствии с постановлением Правительства Российской Федерации от 3 апреля 2003 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>№ 191 &laquo;О продолжительности рабочего времени (норме часов педагогической работы за ставку заработной платы) педагогических работников образовательных учреждений&raquo;.
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+Объем учебной нагрузки педагогических работников устанавливается исходя из количества часов по учебному плану и программам, обеспеченности кадрами, других конкретных условий в образовательном учреждении.
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+Установленная при тарификации оплата<span>&nbsp; </span>за фактическую нагрузку педагогического работника выплачивается ежемесячно независимо от числа недель и рабочих дней в разные месяцы года.
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+В период школьных каникул педагогические работники привлекаются к педагогической, методической и организационной работе в пределах своей фактической нагрузки, оплата труда осуществляется в соответствии с периодом, предшествующим каникулам.
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+2.4. Размеры окладов (ставок заработной платы) по квалификационным уровням ПКГ должностей педагогических работников определяется путем умножения минимальных окладов (ставок заработной платы) по квалификационным уровням ПКГ должностей педагогических работников на повышающие коэффициенты, предусмотренные в зависимости от имеющегося уровня образования, квалификационной категории, присвоенной по результатам аттестации:<b><i></i></b>
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+Ст = Мо х Ко х Кк, где 
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+&nbsp;
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+Ст - должностной оклад педагогического работника;
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+Мо - минимальный оклад по квалификационному уровню ПКГ должностей педагогических работников;
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+Ко - коэффициент образования или стажа;
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+Кк - коэффициент квалификации.
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+&nbsp;
+</p>
+<p style="text-indent: 35.4pt; text-align: justify">
+Значения коэффициентов представлены в приложении 1 к настоящему положению.
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+2.5. Месячная з<span>аработная плата, размеры ставок заработной платы или должностных окладов других педагогических работников (в т.ч. педагогов дополнительного образования, воспитателей, педагогов-психологов, педагогов-организаторов и т.п.) определяются в порядке, предусмотренном для педагогических работников, в том числе для отдельных педагогических работников (педагогов дополнительного образования, воспитателей, музыкальных руководителей и др.) с учетом определения оплаты за педагогическую работу в зависимости от ее объема и норм часов педагогической работы, установленных за ставку.</span>
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+<span>Должностные оклады педагогических работников, для которых не предусмотрены отдельные нормы часов работы за ставку, определяются </span>путем умножения минимальных окладов (ставок) по квалификационным уровням ПКГ должностей педагогических работников на повышающие коэффициенты, предусмотренные в зависимости от имеющегося уровня образования, квалификационной категории, присвоенной по результатам аттестации: 
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+О = Мо х Ко х Кк, где 
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+О - должностной оклад работника; 
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+Мо - минимальный оклад по квалификационному уровню ПКГ должностей педагогических работников;
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+Ко -коэффициент образования или стажа;
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+Кк - коэффициент квалификации.
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+2.6. Заработная плата работников ПКГ должностей работников учебно-вспомогательного персонала первого уровня, должностей работников учебно-вспомогательного персонала второго уровня, должностей руководителей структурных подразделений определяется как сумма <span>должностного </span>оклада работника, компенсационных выплат, и стимулирующих выплат:
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+Зп = О+К+С, где: 
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+&nbsp;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+Зп - заработная плата работника;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+О - <span>должностной </span>оклад<span> </span>работника;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+К - <span>компенсационные выплаты;</span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+С - с<span>тимулирующие выплаты.</span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+2.7. Должностные оклады работников ПКГ должностей работников учебно-вспомогательного персонала первого уровня, должностей работников учебно-вспомогательного персонала второго уровня, должностей руководителей структурных подразделений определяются путем умножения минимальных окладов по квалификационному уровню ПКГ должностей педагогических работников на повышающие коэффициенты предусмотренные в зависимости от имеющегося уровня образования, стажа, квалификационной категории, присвоенной по результатам аттестации:
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+О= Мох Ко х Кк, где 
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+О - должностной оклад работника; 
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+Мо - минимальный оклад по квалификационному уровню ПКГ должностей работников учебно-вспомогательного персонала первого уровня, должностей работников учебно-вспомогательного персонала второго уровня, должностей руководителей структурных подразделений;
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+Ко - коэффициент образования или стажа;
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+Кк - коэффициент квалификации.
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+Размеры повышающих коэффициентов устанавливаются руководителем учреждения в пределах средств, предусмотренных на оплату труда.
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+2.8. Заработная плата работников ПКГ общеотраслевых должностей руководителей, специалистов и служащих определяется как сумма <span>должностного </span>оклада работника, компенсационных выплат, и стимулирующих выплат:
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+Зп = О+К+С, где: 
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+&nbsp;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+Зп - заработная плата работника;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+О - <span>должностной </span>оклад<span> </span>работника;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+К - <span>компенсационные выплаты;</span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+С - с<span>тимулирующие выплаты.</span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+2.9. Должностные оклады работников ПКГ общеотраслевых должностей руководителей, специалистов и служащих определяются путем умножения минимальных окладов по квалификационному уровню ПКГ общеотраслевых должностей руководителей, специалистов и служащих на повышающие коэффициенты предусмотренные в зависимости от имеющегося уровня образования, стажа, квалификационной категории, присвоенной по результатам аттестации:
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+О= Мо х Ко х <span>&nbsp;</span>Кк<b>,</b> где 
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+О - должностной оклад работника; 
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+Мо - минимальный оклад по квалификационному уровню ПКГ общеотраслевых должностей руководителей, специалистов и служащих;
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+Ко - коэффициент образования или стажа;
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+Кк - коэффициент квалификации.
+</p>
+<p style="text-align: justify">
+Размеры повышающих коэффициентов устанавливаются руководителем учреждения в пределах средств, предусмотренных на оплату труда.
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+2.10. Заработная плата работников ПКГ общеотраслевых профессий<b> </b>рабочих определяется как сумма <span>должностного оклада (ставки заработной платы) </span>работника, компенсационных выплат, и стимулирующих выплат:
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+Зп = О+К+С, где: 
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+Зп - заработная плата работника;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+О - <span>должностная оклад (ставка заработной платы) </span>работника;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+К - <span>компенсационные выплаты;</span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+С - с<span>тимулирующие выплаты.</span>
+</p>
+<p style="text-align: justify">
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>2.11. Должностные ставки работников ПКГ общеотраслевых профессий рабочих соответствует минимальным окладам по квалификационным уровням ПКГ общеотраслевых профессий рабочих. 
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+2.12. <span>Т</span><span>арификация работ производится с учетом Единого тарифно-квалификационного справочника работ и профессий рабочих (ЕТКС), утверждение и применение, которого определяется в порядке, устанавливаемом Правительством Российской Федерации. </span>
+</p>
+<p style="text-indent: 35.4pt; text-align: justify">
+2.13. Должностные оклады (ставки заработной платы), а также другие условия оплаты труда работников, с которыми в порядке, предусмотренном<span>&nbsp; </span>трудовым законодательством Российской Федерации, заключен трудовой договор о работе по совместительству, устанавливаются в порядке и размерах, предусмотренных для аналогичных категорий работников данного учреждения. <span style="font-family: Arial"></span>
+</p>
+<p style="text-indent: 1cm; text-align: justify">
+Другие гарантии и компенсации, предусмотренные трудовым законодательством и иными нормативными правовыми актами, содержащими нормы трудового права, коллективными договорами, соглашениями, локальными нормативными актами, предоставляются лицам, работающим по совместительству, в полном объеме.
+</p>
+<p style="text-indent: 1cm; text-align: justify">
+Оплата труда работников, занятых по совместительству, а также на условиях неполного рабочего времени, производится пропорционально отработанному<span>&nbsp; </span>времени либо на других условиях, определенных трудовым договором. 
+</p>
+<p style="text-indent: 1cm; text-align: justify">
+Определение размеров<span>&nbsp; </span>и начисления заработной платы по основной должности и по должности, занимаемой в порядке совместительства, производится раздельно по каждой из должностей.
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+2.14. Заработная плата руководителей учреждений, их заместителей<b> </b>и главных бухгалтеров состоит из должностного оклада, выплат компенсационного и стимулирующего характера:
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+Зп = О+К+С, где: 
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+&nbsp;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+Зп - заработная плата работника;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+О - <span>должностной </span>оклад<span> </span>работника;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+К - <span>компенсационные выплаты, за исключением выплаты за работу с учетом специфики образовательного учреждения (классов, групп);</span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+С - с<span>тимулирующие выплаты.</span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+2.15. Должностной оклад руководителя учреждения, определяемый трудовым договором, устанавливается в кратном отношении к средней заработной плате работников, которые относятся к основному персоналу возглавляемого им учреждения: 
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+О = Сзп х Кг
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+О - оклад руководителя учреждения
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+Сзп - средняя заработная плата основного персонала учреждения
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+Кг - повышающий коэффициент в зависимости от группы по оплате труда руководителя учреждения. 
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+К основному персоналу учреждения относятся работники, непосредственно обеспечивающие выполнение основных функций, для реализации которых создано учреждение (приложение 2 к<span>&nbsp; </span>настоящему постановлению).
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+Порядок исчисления средней заработной платы для определения размера должностного оклада руководителя<span>&nbsp; </span>учреждения осуществляется в соответствии с Приказом<span>&nbsp; </span>Министерства здравоохранения и социального развития Российской Федерации от 08.04.2008 № 167н &laquo;Об утверждении Порядка исчисления размера средней заработной платы для определения размера должностного оклада руководителя федерального бюджетного учреждения&raquo;.
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+Размеры повышающих коэффициентов и порядок отнесения к группам по оплате труда установлены<span>&nbsp; </span>приложением 3 к<span>&nbsp; </span>настоящему постановлению. 
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+2.16. Должностные оклады заместителей руководителя <span>&nbsp;</span>и главных бухгалтеров учреждения <span>&nbsp;</span>устанавливаются на 10-30 процентов ниже должностного оклада руководителя учреждения приказом руководителя.
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+2.17. С учетом условий труда руководителю учреждения и его заместителям, главному бухгалтеру устанавливаются выплаты<span>&nbsp; </span>компенсационного характера. 
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+2.18. Стимулирующие выплаты руководителю<span>&nbsp; </span>учреждения устанавливаются в соответствии с положением о стимулирующих выплатах к должностным окладам руководителям. Указанное положение принимается Коллегией управления образования администрации города Иванова, утвержденной приказом начальника управления образования администрации города от 29.08.2007 № 309. 
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman'">2.19. Выплаты стимулирующего и компенсационного характера устанавливаются руководителю и заместителям руководителя <span>&nbsp;</span>в пределах средств фонда оплаты труда.</span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<b><span style="letter-spacing: -0.4pt"></span></b>
+</p>
+<p align="center" style="text-indent: 35.45pt; text-align: center">
+<b><span style="letter-spacing: -0.4pt">3. Порядок и условия установления выплат компенсационного характера</span></b>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<b><span style="letter-spacing: -0.4pt"></span></b>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+3.1. Выплаты компенсационного характера, размеры и условия их осуществления устанавливаются коллективным договором, соглашениями, локальными нормативными актами, трудовыми договорами в соответствии с трудовым законодательством Российской Федерации и иными нормативными правовыми актами, содержащими нормы трудового права.
+</p>
+<p style="text-indent: 26.95pt; text-align: justify">
+Размер компенсационных выплат может устанавливаться как в абсолютном значении, так и в процентном отношении к должностному окладу (ставке заработной платы). 
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+3.2. Могут быть осуществлены следующие выплаты компенсационного характера:
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+- выплаты работникам, занятым на тяжелых работах, работах с вредными и (или) опасными и иными особыми условиями труда;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+-<span>&nbsp; </span>выплаты за работу в условиях,<span>&nbsp; </span>отклоняющихся от нормальных (при совмещении профессий (должностей), при расширении зон обслуживания, при увеличении объема работы или при исполнении обязанностей временно отсутствующего работника без освобождения от работы, определенной трудовым договором, сверхурочной работе, работе в ночное время, за работу в выходные и нерабочие<span>&nbsp; </span>праздничные дни, а также при выполнении работ в других условиях, отклоняющихся от нормальных); 
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+- выплаты за выполнение дополнительных работ, не входящих в круг основных обязанностей педагогического работника;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+- выплаты с учетом специфики работы в образовательных учреждениях (приложение 1 к настоящему положению). 
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+3.3. Выплата работникам, занятым на тяжелых работах, работах с вредными и (или) опасными и иными особыми условиями труда устанавливается в соответствии со статьей 147 Трудового<span>&nbsp; </span>кодекса Российской Федерации.
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+Размер указанных выплат определяется путем умножения<span>&nbsp; </span>должностных окладов на соответствующий повышающий коэффициент и составляет до 12 процентов<span>&nbsp; </span>должностного оклада.
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+На момент введения новых систем оплаты труда указанная выплата устанавливается всем работникам, получавшим ее ранее. При этом работодатель принимает меры по проведению аттестации рабочих мест с целью разработки и реализации программы действий по обеспечению безопасных условий и охраны труда.
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+Если по итогам аттестации рабочее место признается безопасным, то осуществление указанной выплаты прекращается.
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+3.4. Выплаты за работу в условиях, отклоняющихся от нормальных (совмещение профессий (должностей), сверхурочная работа, работа в ночное время, расширение зон обслуживания, увеличение объема работы или исполнение обязанностей временно отсутствующего работника без освобождения от работы, определенной трудовым договором, работа в выходные и нерабочие праздничные дни) устанавливаются в соответствии с трудовым законодательством Российской Федерации и иными нормативными правовыми актами, содержащими нормы трудового права.
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+3.4.1. Размер выплаты за совмещение профессий (должностей); за расширение зон обслуживания; за увеличение объема работы или исполнение обязанностей временно отсутствующего работника без освобождения от работы, определенной трудовым договором; и срок, на который она устанавливается, определяется по соглашению сторон трудового договора с учетом содержания и (или) объема дополнительной работы. 
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+3.4.2.<span style="letter-spacing: -0.4pt"> <span>Выплата за работу в ночное время</span> производится работникам за каждый час работы в ночное время. </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="letter-spacing: -0.4pt">Ночным считается время с 22 часов до 6 часов утра.</span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+Размер выплаты - от 20 до 35 процентов оклада (должностного оклада) за каждый час работы работника в ночное время. 
+</p>
+<p style="margin: 0cm 0cm 0pt; text-indent: 36pt; text-align: justify">
+<span style="font-size: 12pt; letter-spacing: -0.4pt">Расчет выплаты за час работы в ночное время определяется путем деления оклада (должностного оклада, ставки заработной платы) работника на среднемесячное количество<span>&nbsp; </span>рабочих часов в году<span>&nbsp; </span>в зависимости от установленной продолжительности рабочего времени для данной категории работников.</span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="letter-spacing: -0.4pt">3.4.3. Выплата <span>за работу в выходные и нерабочие праздничные </span>дни производится работникам, привлекавшимся к работе в выходные и нерабочие праздничные дни. </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="letter-spacing: -0.4pt">Размер выплаты составляет:</span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="letter-spacing: -0.4pt">- не менее одинарной дневной ставки </span>(должностного оклада, ставки заработной платы) <span style="letter-spacing: -0.4pt">сверх</span> оклада (должностного оклада, ставки) при работе полный день, если работа в выходной или нерабочий праздничный день производилась в пределах месячной нормы рабочего времени и в размере не менее двойной<span>&nbsp; </span>дневной ставки (должностного оклада, ставки заработной платы) сверх оклада (должностного оклада, ставки), если работа производилась сверх месячной нормы рабочего времени;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+- не менее одинарной часовой ставки (должностного оклада, ставки заработной платы) сверх оклада (должностного оклада, ставки) за каждый час работы, если работа в выходной или нерабочий праздничный день производилась в пределах месячной нормы рабочего времени и в размере не менее двойной дневной ставки (должностного оклада, ставки заработной платы) сверх оклада (должностного оклада, ставки заработной платы) за каждый час работы, если работа производилась сверх месячной нормы рабочего времени. 
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+По желанию работника, работавшего в выходной или нерабочий праздничный день, ему может быть представлен другой день отдыха. В этом случае работа в выходной или<span>&nbsp; </span>нерабочий праздничный день оплачивается в одинарном размере, а день отдыха оплате не подлежит.
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="letter-spacing: -0.4pt">3.4.4. Сверхурочная работа оплачивается за первые два часа работы не менее чем в полуторном размере, за последующие часы - не менее чем в двойном размере </span><span style="letter-spacing: -0.3pt">в соответствии со статьей 152 Трудового кодекса Российской Федерации. Конкретные размеры оплаты за сверхурочную работу определяются коллективным договором, локальным нормативным актом или трудовым договором.</span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="letter-spacing: -0.3pt">По желанию работника сверхурочная работа вместо повышенной оплаты может компенсироваться предоставлением дополнительного времени отдыха, но не менее времени, отработанного сверхурочно.</span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="letter-spacing: -0.3pt">Для<span>&nbsp; </span>пп.. 3.4.2 - 3.4.4<span>&nbsp; </span>в случае выплат за час (день) последняя определяется путем деления оклада (должностного оклада), ставки заработной платы на<span>&nbsp; </span>среднемесячное количество рабочих часов (дней) в году, в зависимости от установленной продолжительности<span>&nbsp; </span>рабочего времени для данной категории работников.</span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="letter-spacing: -0.3pt">3.5. </span>Перечень и размеры выплат за выполнение дополнительных работ, связанных с образовательным процессом и не входящих в круг основных обязанностей педагогического работника, а также порядок их установления определяются учреждением образования самостоятельно, но не менее 6% в пределах выделенных бюджетных ассигнований<span>&nbsp; </span>и устанавливаются локальным нормативным актом учреждения с учетом мнения представительного органа работников или коллективным договором (соглашением).
+</p>
+<p style="text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman'">В перечень видов дополнительно оплачиваемых работ могут включаться: классное руководство, проверка тетрадей, заведование отделениями, учебными мастерскими, лабораториями, учебно-опытными участками; руководство предметными комиссиями, цикловыми и методическими комиссиями; проведение работы по дополнительным образовательным программам; организация трудового обучения, профессиональной ориентации, пополнение школьного сайта и другие.</span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span>&nbsp; </span>3.6. Размер выплаты за работу с учетом специфики образовательных учреждений (классов, групп) определяется путем умножения<span>&nbsp; </span>должностных окладов на соответствующий коэффициент специфики работы, указанный в приложении 1 к настоящему положению.
+</p>
+<p style="text-align: justify">
+<b></b>
+</p>
+<p align="center" style="text-indent: 26.95pt; text-align: center">
+<b>4. Порядок и условия<span>&nbsp; </span>выплат стимулирующего характера</b>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<b></b>
+</p>
+<p style="text-indent: 26.95pt; text-align: justify">
+4.1. Выплаты стимулирующего характера производятся по основаниям, предусмотренным настоящим Положением и локальными нормативными актами, принимаемыми<span>&nbsp; </span>учреждением<span>&nbsp; </span>в пределах фонда оплаты труда. Размеры и условия осуществления выплат стимулирующего характера устанавливаются коллективными договорами, соглашениями, локальными нормативными актами, трудовыми договорами.
+</p>
+<p style="text-indent: 26.95pt; text-align: justify">
+4.2. Размер стимулирующих выплат (в том числе премии) может устанавливаться как в абсолютном значении, так и в процентном отношении к должностному окладу (ставке заработной платы). 
+</p>
+<p style="text-indent: 26.95pt; text-align: justify">
+4.3. В целях поощрения работников муниципальных образовательных учреждений за выполненную работу могут быть установлены следующие виды выплат стимулирующего характера:
+</p>
+<p style="text-indent: 26.95pt; text-align: justify">
+- выплаты за интенсивность, высокие результаты работы;
+</p>
+<p style="text-indent: 26.95pt; text-align: justify">
+- выплаты за качество выполняемых работ;
+</p>
+<p style="text-indent: 26.95pt; text-align: justify">
+- выплаты за стаж непрерывной работы, выслугу лет;
+</p>
+<p style="text-indent: 26.95pt; text-align: justify">
+- премиальные выплаты по итогам работы.
+</p>
+<p style="text-indent: 26.95pt; text-align: justify">
+4.4. Выплаты за интенсивность и высокие результаты работы осуществляются в зависимости от интенсивности, напряженности, трудоемкости работы и работы в условиях ненормированного рабочего дня. 
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+4.4.1. Выплаты за ученую степень, почетное звание:
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+- за почетные звания &laquo;Народный учитель&raquo;, &laquo; Заслуженный учитель&raquo; и другие почетные звания по профилю учреждения или педагогической деятельности (преподаваемых дисциплин) - 20%;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+- за ученую степень по профилю образовательного учреждения или педагогической деятельности (преподаваемых дисциплин):
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>-<span>&nbsp; </span>кандидат наук<span>&nbsp; </span>-25%;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span>&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>-<span>&nbsp; </span>доктор наук<span>&nbsp;&nbsp;&nbsp;&nbsp; </span>- 45%.
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+-<span>&nbsp;&nbsp; </span>за ведомственный нагрудный знак -10%
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+4.5. Выплаты за качество выполняемых работ осуществляются с учетом оценки критериев качества оказанных услуг и выполненной работы, разработанных и утвержденных коллективными договорами, соглашениями, локальными нормативными актами.
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+Могут быть установлены следующие виды выплат за качество выполняемых работ:
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+- выплата<span>&nbsp; </span>за содействие в обеспечении платных услуг и иной приносящей доход деятельности; 
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+- за оперативное выполнение особо важных заданий руководства учреждения;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+- персональная выплата в зависимости от степени самостоятельности и ответственности<span>&nbsp; </span>при выполнении поставленных задач, сложности и важности выполняемой работы;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+- иные виды выплат, которые можно использовать в качестве стимулирования за выполняемую работу.
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+4.6. Работникам муниципальных образовательных учреждений могут быть установлены выплаты за выслугу лет или за стаж непрерывной работы в образовательных учреждениях. 
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+4.7. Премиальные выплаты по итогам работы: 
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+- премия по итогам работы за месяц, квартал, полугодие, 9 месяцев, год;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+- премия за образцовое качество выполняемых работ;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+- премия за выполнение особо важных и срочных работ;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt">4.8. Решение о введении каждой конкретной стимулирующей выплаты принимает руководитель учреждения, при этом:</span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt">- показатели,</span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt">- условия<span>&nbsp; </span>начисления,</span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt">- категории работников, которым она устанавливается,</span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt">- период, за который выплачивается премия или<span>&nbsp; </span>назначается надбавка,</span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span>&nbsp;</span><span>&nbsp;</span>определяются в положении о стимулирующих выплатах соответствующего учреждения с учетом мнения представительного органа работников учреждения.
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+4.9. При премировании учитывается:
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+- успешное и добросовестное исполнение работником своих должностных обязанностей в соответствующем периоде;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+-<span>&nbsp; </span>инициатива, творчество и применение в работе современных форм и методов организации труда;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+- качественная подготовка и проведение мероприятий, связанных с уставной деятельностью учреждения;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+-<span>&nbsp; </span>выполнение порученной работы, связанной с обеспечением рабочего процесса или уставной деятельности учреждения;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+-<span>&nbsp; </span>качественная подготовка и своевременная сдача отчетности;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+- участие в течение<span>&nbsp; </span>соответствующего рабочего периода в выполнении важных работ, мероприятий и т.д.
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+- особый режим работы, связанный с обеспечение безаварийной, безотказной и бесперебойной работы инженерных и хозяйственно-эксплуатационных систем жизнеобеспечения учреждения, обеспечение платных образовательных услуг<span>&nbsp; </span>и иной внебюджетной деятельностью;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+- организация и проведение мероприятий, направленных на повышение авторитета и имиджа учреждения среди населения;
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+- непосредственное участие в реализации национальных проектов, федеральных и региональных целевых программ и т.д.
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span>&nbsp;</span>Размеры премии предельными размерами не ограничиваются.
+</p>
+<p>
+<b></b>
+</p>
+<p align="center" style="text-indent: 35.45pt; text-align: center">
+<b>5.Другие вопросы оплаты труда</b>
+</p>
+<p align="center" style="text-indent: 35.45pt; text-align: center">
+<b></b>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+5.1. В случае задержки выплаты работникам заработной платы и других нарушений оплаты труда руководитель учреждения несет ответственность в соответствии с законодательством Российской Федерации.
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+5.2.<span>&nbsp; </span>По должностям служащих и профессиям рабочих, по которым размеры минимальных окладов (ставок заработной платы) не определены настоящим<span>&nbsp; </span>Положением, размеры окладов устанавливаются по решению руководителя учреждения.
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+5.3. Оплата труда педагогических работников устанавливается исходя из тарифицируемой педагогической нагрузки. Норма часов преподавательской работы за ставку заработной платы, являющейся нормируемой частью педагогической работы, устанавливается в соответствии с постановлением Правительства Российской Федерации от 03.04.2003 №191 &laquo;О продолжительности рабочего времени (норме часов педагогической работы за ставку заработной платы) педагогических работников образовательных учреждений&raquo;.
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+Для педагогических работников образовательного учреждения может применяться<span>&nbsp; </span>почасовая оплата:<span>&nbsp; </span>за часы, отработанные за отсутствующих по болезни или другим причинам учителей, преподавателей, воспитателей и других педагогических работников с их письменного согласия, продолжавшегося не свыше двух месяцев, за педагогическую работу специалистов других учреждений и организаций (в том числе работников органов государственной власти и местного самоуправления, методических и учебно-методических кабинетов), привлекаемых к проведению учебных занятий в учреждениях.
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+Размер оплаты за один час педагогической работы определяется путем деления установленной месячной ставки заработной платы педагогического работника за установленную норму часов педагогической работы в неделю на среднемесячное количество рабочих часов.
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+Оплата труда педагогического работника за замещение отсутствующего работника, если оно осуществлялось свыше двух месяцев, производится<span>&nbsp; </span>со дня начала замещения за все часы фактической преподавательской работы на общих основаниях с соответствующим увеличением его начальной (месячной) учебной нагрузки путем внесения изменений в тарификацию. 
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+5.4. Условия оплаты труда, включая размер оклада (ставки заработной платы, должностного оклада) работника, повышающие коэффициенты к окладам, выплаты компенсационного характера, выплаты стимулирующего характера являются обязательными для включения в трудовой договор. 
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+5.5. Заработная плата работника предельными размерами не ограничивается.
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+5.6. Штатное расписание учреждения утверждается руководителем учреждения и включает в себя все должности служащих и профессии рабочих данного учреждения.
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+5.7.Численный состав работников учреждения должен быть достаточным для гарантированного выполнения его функций, задач, объемов работ. 
+</p>
+<p align="right" style="text-align: right">
+<span style="font-size: 14pt; line-height: 115%"></span>
+</p>
+<p align="right" style="text-align: right">
+<span style="font-size: 14pt; line-height: 115%"></span>
+</p>
+<p align="right" style="text-align: right">
+<span style="font-size: 14pt; line-height: 115%"></span>
+</p>
+<p>
+<span style="font-size: 14pt; line-height: 115%"></span>
+</p>
+<span style="font-size: 11pt; line-height: 115%; font-family: Calibri"></span>
+			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+					<table align="center" style="margin-top: 15px;">
+			<tr>
+									<th class="pagenav_prev">
+					<a href="index.php?option=com_content&amp;task=view&amp;id=115&amp;Itemid=2" title="На заседании Совета школы">
+							&laquo; На заседании Совета школы</a>
+					</th>
+										<td width="50">&nbsp;
+
+					</td>
+										<th class="pagenav_next">
+					<a href="index.php?option=com_content&amp;task=view&amp;id=112&amp;Itemid=2" title="О переходе на новую систему оплаты труда">
+							О переходе на новую систему оплаты труда &raquo;</a>
+					</th>
+								</tr>
+			</table>
+									<div class="back_button">
+						<a href='javascript:history.go(-1)'>
+					Вернуться</a>
+						</div>
+																																				<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+									</td>
+								</tr>
+							</table>
+						</div>
+						<div id="rightcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+						<div id="search">
+							
+<form action="index.php?option=com_search" method="get">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="100" alt="search" class="inputbox" type="text" size="20" value="Поиск..."  onblur="if(this.value=='') this.value='Поиск...';" onfocus="if(this.value=='Поиск...') this.value='';" />	</div>
+
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="" />	
+</form>						</div>
+													</div>
+						<div class="clr">&nbsp;</div>
+					  </div> 					  </div> 					  </div> 					</div>
+					<div class="clr">&nbsp;</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="bag">&nbsp;</div>
+		<div id="footer">
+							<div id="footer_r">Copyright 2010  ·  Дизайн <a target='_blank' href='http://www.desunk.com'>www.desunk.com</a>  ·  All Rights Reserved
+				</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

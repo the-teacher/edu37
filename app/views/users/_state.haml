@@ -1,0 +1,24 @@
+.state
+  .violet_header
+    = top_rounder
+    %h3= t('base.information')
+    = bottom_rounder
+  .gray_rounder
+    .content_rounder
+      %ul
+        %li
+          = link_to t('comments.income')+" (#{current_user.incoming_comments.unsafe.count})", manage_comments_url(:subdomain=>current_user.subdomain)
+        -#
+          - if current_user.has_role?(:system, :administrator)
+            %li
+              =link_to "Заявки на регистрацию (#{Prereg.pending.count})", preregs_url(:subdomain=>false)
+          %li
+            =link_to t('messages.income'), '#'
+          %li
+            =link_to t('questions.income'), '#'
+
+          %li
+            =link_to t('forums.income'), '#'
+        %li
+          = link_to t('base.exit'), logout_url(:subdomain=>false)
+    = bottom_bordered_rounder

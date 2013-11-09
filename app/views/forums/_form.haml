@@ -1,0 +1,21 @@
+%p
+  = f.label :title, 'Название форума'
+  = f.text_field :title, :class=>:input
+
+  = publication_state_icon(@forum)
+  =# moderation_state_icon(@forum)
+
+%p
+  = f.label :title, 'Краткое описание форума'
+  = f.text_field :description, :class=>:input
+
+%p
+  = f.label :tag_list, 'Ключевые слова через запятую'
+  = f.text_field :tag_list, :class=>:input
+
+= publication_buttons_for(@forum, :preview=>false)
+
+.submit_button
+  = submit_tag button, :class=>:submit
+
+= moderation_buttons_for(@forum)

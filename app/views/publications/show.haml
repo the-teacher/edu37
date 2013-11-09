@@ -1,0 +1,29 @@
+- @js_addons=   get_array_from_yaml(@publication.js_addons)
+- @css_addons=  get_array_from_yaml(@publication.css_addons)
+
+- content_for :title do
+  = raw t('publications.show')
+  = @publication.title
+
+- content_for :meta do
+  =raw array_to_js_include_tags(@js_addons)
+  =raw array_to_css_include_tags(@css_addons)
+
+- content_for :css do
+  =stylesheet_link_tag 'modern/form.css', :media=>'screen'
+
+= raw(votes_js)
+= render :partial=>'shared/syntax_highlighter_initializer'
+= render :partial => 'publications/ql/show'
+= render :partial => 'publications/bc/show'
+
+.content
+  %h3= @publication.title
+  =raw @publication.html_annotation
+  =raw @publication.html_content
+  %p.tags= tags_block(@publication)
+  %p.info= news_informer(@publication)
+
+= comment_block_for(@publication)
+= qr_block_to news_url(@publication)
+

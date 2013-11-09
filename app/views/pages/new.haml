@@ -1,0 +1,23 @@
+- content_for :title do
+  = t('pages.create_for')
+  = @user.site_name
+
+- content_for :css do
+  = stylesheet_link_tag 'modern/form', :media=>'screen'
+  = stylesheet_link_tag 'markitup/skins/markitup/style', :media=>'screen'
+  = stylesheet_link_tag 'markitup/sets/textile/style', :media=>'screen'
+
+-# MURKITUP EDITOR
+- content_for :js do
+  = javascript_include_tag 'markitup/markitup.js'
+  = javascript_include_tag 'markitup/sets/textile/set.js'
+  = render :partial=>'murkitup_init'
+
+= render :partial=>'pages/ql/new'
+= render :partial=>'pages/bc/new'
+= render :partial=>'preview'
+= object_errors(@page)
+
+#edit_form.form.overblock
+  = form_for :page, :url => pages_url(:subdomain=>@user.subdomain) do |f|
+    = render :partial => 'form', :locals => {:f => f, :page=>@page, :button=>t('pages.create')}

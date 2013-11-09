@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="windows-1251"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>ДЕРЗАЙ БЫТЬ МУДРЫМ! - Средняя общеобразовательная школа № 1 города Иванова</title>
+<meta name="title" content="ДЕРЗАЙ БЫТЬ МУДРЫМ!" />
+<meta name="author" content="webmaster" />
+<meta name="description" content=" Официальный сайт средней общеобразовательной школы № 1 города Иванова Ивановской области" />
+<meta name="keywords" content=" школа иваново 1 средняя образование новости ученик учитель" />
+<meta name="distribution" content="global" />
+<meta name="rating" content="General" />
+<meta name="document-state" content="Dynamic" />
+<meta name="documentType" content="WebDocument" />
+<meta name="audience" content="all" />
+<meta name="revisit" content="10 days" />
+<meta name="revisit-after" content="10 days" />
+<meta name="allow-search" content="yes" />
+<meta name="language" content="russian" />
+<base href="http://school1.ivedu.ru/" />
+<link href="http://school1.ivedu.ru/templates/school1-1/css/template_css.css" rel="stylesheet" type="text/css" />
+<!--[if lt IE 7]>
+			<script type="text/javascript" src="/js/unitpngfix.js"></script>
+<![endif]-->  
+<!--[if (gt IE 5)&(lt IE 7)]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ieonly.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ie7only.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body id="page_bg">
+<div class="center" align="center">
+	<div id="wrapper">
+		<div id="wrapper_r">
+			<div id="header">
+				<a href="http://school1.ivedu.ru" id="logo">&nbsp;</a>
+				<table cellpadding="0" cellspacing="0" class="pill">
+					<tr>
+						<td class="pill_l">&nbsp;
+						</td>
+						<td class="pill_m">
+						<div id="pillmenu">
+													</div>
+						</td>
+					</tr>
+				</table>
+			</div>
+			<div id="tabarea">&nbsp;
+			</div>
+
+			<div class="clr"></div>
+			<div id="whitebox">
+<!--				<div id="whitebox_t">
+					<div id="whitebox_tl">
+						<div id="whitebox_tr">&nbsp;</div>
+					</div>
+				</div> -->
+
+				<div id="whitebox_m">
+					<div id="area">
+					  <div class="rightback">
+					  <div class="contentback">
+					  <div class="leftback">
+						<div id="leftcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+									<div class="module_menu">
+			<div>
+				<div>
+					<div>
+						<h3>Главное меню</h3>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="." title="Главная" class="mainlevel" >Главная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" title="Новости" class="mainlevel" id="active_menu">Новости</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=445&amp;Itemid=45" title="Портфолио школы" class="mainlevel" >Портфолио школы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=446&amp;Itemid=46" title="Учебный процесс" class="mainlevel" >Учебный процесс</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=448&amp;Itemid=47" title="Педагоги" class="mainlevel" >Педагоги</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=5&amp;Itemid=29" title="Документы" class="mainlevel" >Документы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=449&amp;Itemid=48" title="Публичные отчеты" class="mainlevel" >Публичные отчеты</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=450&amp;Itemid=49" title="Кабинет здоровья" class="mainlevel" >Кабинет здоровья</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=451&amp;Itemid=50" title="Родителям" class="mainlevel" >Родителям</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=452&amp;Itemid=51" title="Общественная приемная" class="mainlevel" >Общественная приемная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=453&amp;Itemid=52" title="Итоговая аттестация" class="mainlevel" >Итоговая аттестация</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=454&amp;Itemid=53" title="Школьная жизнь" class="mainlevel" >Школьная жизнь</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_contact&amp;Itemid=3" title="Контакты" class="mainlevel" >Контакты</a></td></tr>
+</table>					</div>
+				</div>
+			</div>
+		</div>
+																						</div>
+						<div id="maincolumn">
+						<div id="pathway">
+							<span class="pathway"><a href="http://school1.ivedu.ru" class="pathway" title="Главная">Главная</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" class="pathway" title="Новости">Новости</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=category&amp;sectionid=1&amp;id=1&amp;Itemid=2" class="pathway" title="Новое">Новое</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" />   ДЕРЗАЙ БЫТЬ МУДРЫМ! </span>						</div>
+<!--											<table class="nopad user1user2">
+								<tr valign="top">
+									<td class="half1">
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Последние новости				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="latestnews">
+	<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=491&amp;Itemid=2" title="ЛЕТНИЙ ОТДЫХ" class="latestnews">ЛЕТНИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=490&amp;Itemid=2" title="ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ" class="latestnews">ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=489&amp;Itemid=2" title="ИГАСУ ЖДЕТ ВАС" class="latestnews">ИГАСУ ЖДЕТ ВАС</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+																			<td class="greyline">&nbsp;</td>
+																		<td>
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Популярное				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="mostread">
+	<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=104&amp;Itemid=2" title="Благодарность учителям начальной школы" class="mostread">
+			Благодарность учителям начальной школы</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=59&amp;Itemid=2" title="Слова благодарности" class="mostread">
+			Слова благодарности</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=51&amp;Itemid=2" title="День открытых дверей для родителей будущих первоклассников" class="mostread">
+			День открытых дверей для родителей будущих первоклассников</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+								</tr>
+							</table>
+							<div id="maindivider"></div>
+				 -->
+							<table class="nopad content">
+								<tr valign="top">
+									<td>
+																					
+			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+				<h3>ДЕРЗАЙ БЫТЬ МУДРЫМ!</h3>				</td>
+										<td align="right" width="100%" class="buttonheading">
+															<a href="http://school1.ivedu.ru/index2.php?option=com_content&amp;task=view&amp;id=293&amp;pop=1&amp;page=0&amp;Itemid=2" target="_blank" title="Печать"><img src="http://school1.ivedu.ru/images/M_images/printButton.png"  alt="Печать" id="print" name="print" align="middle" border="0" /></a>
+													</td>
+								</tr>
+			</table>
+			
+		<table  class="contentpaneopen">
+				<tr>
+			<td width="70%" align="left" valign="top" colspan="2">
+			<span class="small">
+			 Автор webmaster			</span>
+			&nbsp;&nbsp;
+			</td>
+		</tr>
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+				21:09:2010 г.				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+			<p align="center">
+<span style="color: #ff0000; font-family: Verdana"><strong>ПРИМИ УЧАСТИЕ В&nbsp; III ОБЛАСТНОМ КОНКУРСЕ ХИМИКОВ</strong></span> 
+</p>
+&nbsp; 
+<p align="center" style="margin: 0cm 0cm 0pt; text-align: center">
+<i><span style="font-size: 10pt; color: #000080">Sapere aude!</span></i> 
+</p>
+<p align="center" style="margin: 0cm 0cm 0pt; text-align: center">
+<span style="color: #000080"><span style="font-size: 10pt"><i><span>(</span></i><i><span>Дерзай</span></i><i><span> </span></i><i><span>быть</span></i><i><span> </span></i><i><span>мудрым</span></i><i><span>!)</span></i></span></span> 
+</p>
+<p align="center" style="text-align: center">
+<span style="font-size: 10pt; color: #000080; font-family: 'Times New Roman','serif'"></span>
+</p>
+<p align="center" style="text-align: center">
+<span style="color: #000080"><span style="font-size: 8pt"><span style="font-size: 22pt; font-family: 'Times New Roman','serif'">III</span><span style="font-size: 22pt; font-family: 'Times New Roman','serif'"> </span><span style="font-size: 22pt; font-family: 'Times New Roman','serif'">ОБЛАСТНОЙ КОНКУРС</span></span></span> 
+</p>
+<p align="center" style="text-align: center">
+<b><span style="font-size: 22pt"><span style="color: #000080"><span style="font-size: 10pt">ЮНЫХ ХИМИКОВ<span></span></span></span></span></b> 
+</p>
+<p align="center" style="margin-left: -35.45pt; text-indent: 35.45pt; text-align: center">
+<b><i><span style="font-size: 10pt; color: #000080"></span></i></b>
+</p>
+<p align="center" style="text-align: center">
+<b><i><span style="font-size: 10pt; color: #000080">Уважаемые старшеклассники!</span></i></b> 
+</p>
+<p align="center" style="text-align: center">
+<span style="font-size: 14pt"></span>
+</p>
+<p style="text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span>Приглашаем Вас принять участие в </span><b><span>III</span></b><b><i><span> Областном конкурсе юных химиков</span></i></b><span> (далее - Конкурс), который будет проведен <b>25 </b>и<b> 26 ноября 2010 года</b> на базе Ивановского государственного химико-технологического университета.</span></span></span></span> 
+</p>
+<p>
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times"></span>
+</p>
+<p style="text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><b><span>Цели и задачи Конкурса</span></b><span> - активизация научно-исследовательской деятельности учащихся средних учебных заведений в области химии, возможность для учащихся проявить свои творческие способности, реализовать научные и познавательные интересы, ознакомиться с современными проблемами химии, создать фундамент своего будущего обучения в ВУЗе и работы в интересующей области.</span></span></span></span> 
+</p>
+<p style="text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times"></span>
+</p>
+<p style="text-align: justify">
+<b><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">Организаторы:</span></b> 
+</p>
+<p style="text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times">Департамент образования Ивановской области</span> 
+</p>
+<p style="text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times">Ивановский государственный химико-технологический университет</span> 
+</p>
+<p style="text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times">Институт химии растворов Российской академии наук</span> 
+</p>
+<p style="text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times">Ивановское отделение Высшего химического колледжа Российской академии наук</span> 
+</p>
+<p style="text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times">Российское химическое общество им. Д. И. Менделеева</span> 
+</p>
+<p style="text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times"></span>
+</p>
+<p style="text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><b><span>Предмет конкурса и заявочные материалы</span></b><span>. На конкурс принимаются рефераты, результаты исследований, изобретения, программные и методические разработки, экспериментальные наблюдения, лабораторные исследования, эссе&nbsp;- работы и т. д. во всех областях химической науки, выполненные учащимися средних учебных заведений Ивановской области (<b>9-11 классы</b>) самостоятельно или в соавторстве под руководством преподавателя среднего или высшего учебного заведения. Примерный перечень возможных тем работ представлен на сайте </span><span>www</span><span>.</span><span>isuct</span><span>.</span><span>ru</span><span>, а также в Приложении 1.</span></span></span></span> 
+</p>
+<p style="text-align: justify">
+<b><span style="font-size: 10pt; color: #000080; font-family: times new roman,times"></span></b>
+</p>
+<p style="text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><b><span>ВНИМАНИЕ!</span></b><span> Организационный комитет конкурса предоставляет возможность учащимся выполнить работы под руководством ученых ИГХТУ. С этой целью <b>2 октября (суббота) в 10.00</b> по адресу: 153000, Иваново, пр. Ф. Энгельса, д. 10 (Высотный корпус ИГХТУ, вход через &laquo;БАНКУ&raquo;), 3 этаж, кафедра неорганической химии, к. 305, организуется встреча представителей Организационного комитета со старшеклассниками, где они могут выбрать темы и согласовать план проведения работы до подачи ее на Конкурс.</span></span></span></span> 
+</p>
+<p style="text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times"></span>
+</p>
+<p align="center" style="text-align: center">
+<b><i><span style="font-size: 10pt; color: #000080; font-family: times new roman,times"></span></i></b>
+</p>
+<p align="center" style="text-align: center">
+<b><i><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">Заявочные материалы</span></i></b> 
+</p>
+<p align="center" style="text-align: center">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><b><i><span style="font-size: 5pt"></span></i></b><b><i><span></span></i></b></span></span></span>
+</p>
+<p style="text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times"></span>
+</p>
+<p style="text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span style="font-size: 11.5pt">Желающим принять участие в Конкурсе необходимо до <b>15 ноября 2010 года</b> представить в Конкурсную комиссию <b>регистрационную карту и тезисы в электронном и бумажном виде</b>, оформленные в соответствии с правилами, опубликованными на сайте </span><span style="color: #ff0000"><strong><span style="font-size: 11.5pt">www</span><span style="font-size: 11.5pt">.</span><span style="font-size: 11.5pt">isuct</span><span style="font-size: 11.5pt">.</span><span style="font-size: 11.5pt">ru</span></strong></span><span style="font-size: 11.5pt">, а также в Приложениях 2 и 3, по адресу:</span></span></span></span> 
+</p>
+<p style="text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><b><span style="font-size: 11.5pt">153000, Иваново, пр. Ф. Энгельса, д. 7, с пометкой на конверте &laquo;</span></b><b><span style="font-size: 11.5pt">III</span></b><b><span style="font-size: 11.5pt"> Областной конкурс юных химиков&raquo;</span></b><span style="font-size: 11.5pt">.</span></span></span></span> 
+</p>
+<p style="text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span style="font-size: 11.5pt">Электронный вариант - вложенными файлами на </span><span style="color: #ff0000"><span style="font-size: 11.5pt">e</span><span style="font-size: 11.5pt">-</span><span style="font-size: 11.5pt">mail</span><span style="font-size: 11.5pt">: <b>young_chemist@</b></span><b><span style="font-size: 11.5pt">isuct</span></b><b><span style="font-size: 11.5pt">.</span></b><b><span style="font-size: 11.5pt">ru</span></b></span><span style="font-size: 11.5pt"><span style="color: #ff0000">.</span> </span></span></span></span>
+</p>
+<p style="text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times">Формат и названия файлов электронного варианта заявочных материалов:</span> 
+</p>
+<p style="text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span style="font-size: 11.5pt">для регистрационной карты - REG_</span><span style="font-size: 11.5pt">Ivanov</span><span style="font-size: 11.5pt">.</span><span style="font-size: 11.5pt">doc</span><span style="font-size: 11.5pt"> или REG_</span><span style="font-size: 11.5pt">Ivanov</span><span style="font-size: 11.5pt">.</span><span style="font-size: 11.5pt">rtf</span><span style="font-size: 11.5pt"></span></span></span></span> 
+</p>
+<p style="text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span style="font-size: 11.5pt">для тезисов - T</span><span style="font-size: 11.5pt">H</span><span style="font-size: 11.5pt">E</span><span style="font-size: 11.5pt">S</span><span style="font-size: 11.5pt">_</span><span style="font-size: 11.5pt">Ivanov</span><span style="font-size: 11.5pt">.</span><span style="font-size: 11.5pt">doc</span><span style="font-size: 11.5pt"> или T</span><span style="font-size: 11.5pt">HES</span><span style="font-size: 11.5pt">_</span><span style="font-size: 11.5pt">Ivanov</span><span style="font-size: 11.5pt">.rtf</span></span></span></span> 
+</p>
+<p style="text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times">Всем зарегистрированным участникам до 20 ноября 2010 года будет выслано приглашение к участию в Конкурсе.</span> 
+</p>
+<p align="center" style="text-align: center">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><b><i><span style="font-size: 11.5pt"></span></i></b><b><i><span></span></i></b></span></span></span>
+</p>
+<p align="center" style="text-align: center">
+<b><i><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">Организационные моменты проведения Конкурса</span></i></b> 
+</p>
+<p align="center" style="text-align: center">
+<b><i><span style="font-size: 10pt; color: #000080; font-family: times new roman,times"></span></i></b>
+</p>
+<p align="center" style="text-align: center">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times"></span>
+</p>
+<p style="text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times">Конкурсные мероприятия организуются <b>25 </b>и<b> 26 ноября 2010 года</b>.</span> 
+</p>
+<p style="text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times">Все участники приглашаются сделать стендовый доклад, отражающий результаты работы (правила оформления стендов (постеров) будут высланы вместе с приглашением). После проведения стендовой сессии Конкурсная комиссия произведет отбор участников, которые сделают краткое, 5-минутное устное сообщение - презентацию своей работы с последующими ответами на вопросы Конкурсной комиссии и аудитории.</span> 
+</p>
+<p style="text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times">В программе очного этапа планируется проведение следующих мероприятий:</span> 
+</p>
+<p style="margin-left: 1cm; text-indent: -10.35pt; text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span style="font-size: 11.5pt"><span>&bull;&middot;<span>&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size: 11.5pt">стендовая сессия;</span></span></span></span> 
+</p>
+<p style="margin-left: 1cm; text-indent: -10.35pt; text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span style="font-size: 11.5pt"><span>&bull;&middot;<span>&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size: 11.5pt">устные выступления участников Конкурса;</span></span></span></span> 
+</p>
+<p style="margin-left: 1cm; text-indent: -10.35pt; text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span style="font-size: 11.5pt"><span>&bull;&middot;<span>&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size: 11.5pt">научно-популярные лекции крупных ученых о последних достижениях современной химии;</span></span></span></span> 
+</p>
+<p style="margin-left: 1cm; text-indent: -10.35pt; text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span style="font-size: 11.5pt"><span>&bull;&middot;<span>&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size: 11.5pt">экскурсии по научно-исследовательским лабораториям ИГХТУ и ИХР РАН;</span></span></span></span> 
+</p>
+<p style="margin-left: 1cm; text-indent: -10.35pt; text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span style="font-size: 11.5pt"><span>&bull;&middot;<span>&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size: 11.5pt">тренинг для старшеклассников &laquo;Наука - дело молодых&raquo;;</span></span></span></span> 
+</p>
+<p style="margin-left: 1cm; text-indent: -10.35pt; text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span style="font-size: 11.5pt"><span>&bull;&middot;<span>&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size: 11.5pt">подведение итогов Конкурса и торжественное награждение победителей.</span></span></span></span> 
+</p>
+<p style="text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times">Детальная программа очного этапа Конкурса будет сообщена участникам дополнительно. </span>
+</p>
+<p style="text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times"></span>
+</p>
+<p style="text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><b><span style="font-size: 11.5pt">Подведение итогов конкурса и награждение победителей</span></b><span style="font-size: 11.5pt">. По результатам оценки устных сообщений участников, Конкурсная комиссия принимает решение о присвоении <b>дипломов </b></span><b><span style="font-size: 11.5pt">I</span></b><b><span style="font-size: 11.5pt">, </span></b><b><span style="font-size: 11.5pt">II</span></b><b><span style="font-size: 11.5pt"> и </span></b><b><span style="font-size: 11.5pt">III</span></b><b><span style="font-size: 11.5pt"> степени</span></b><span style="font-size: 11.5pt">. Дипломанты конкурса получают премии и ценные подарки. Участники конкурса имеют возможность подключиться к выполнению научно-исследовательских работ. Руководители дипломантов также будут награждены соответствующими грамотами. Самому юному участнику конкурса предполагается вручить набор <span>&laquo;Юный химик&raquo;, позволяющий школьнику самостоятельно проводить химические опыты в домашних условиях. Все работы в виде тезисов будут опубликованы в <i>Сборнике тезисов докладов участников </i>I</span></span><span style="font-size: 11.5pt">I</span><span style="font-size: 11.5pt">I<i> Областного конкурса юных химиков</i>.</span><span style="font-size: 11.5pt"></span></span></span></span> 
+</p>
+<p style="text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times"></span>
+</p>
+<p style="text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><b><span>Контакты, информация</span></b><span>. По всем интересующим вопросам обращаться:</span></span></span></span> 
+</p>
+<p style="text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times">153000, Иваново, пр. Ф. Энгельса, д. 10, к. 206 (&laquo;БАНКА&raquo; ИГХТУ), кафедра неорганической химии, Румянцев Евгений Владимирович.</span> 
+</p>
+<p style="text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times">Тел./факс.: (4932)327256, моб.тел.: +79109964246</span> 
+</p>
+<p style="text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span>E</span><span>-</span><span>mail</span><span>: </span><b><span>young</span></b><b><span>_</span></b><b><span>chemist</span></b><b><span>@</span></b><b><span>isuct</span></b><b><span>.</span></b><b><span>ru</span></b><b><span></span></b></span></span></span> 
+</p>
+<p style="text-align: justify">
+<span style="color: #000080"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span>Вся информация о Конкурсе размещена на сайтах </span><span style="color: #ff0000"><b><span>www</span></b><b><span>.</span></b><b><span>isuct</span></b><b><span>.</span></b><b><span>ru</span></b><b><span>, chemschool.ucoz.ru.</span></b></span></span></span></span> 
+</p>
+<p style="text-align: justify">
+<span style="font-size: 10pt; color: #000080; font-family: times new roman,times"></span>
+</p>
+<p style="text-align: justify">
+<b><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">Председатель Организационного</span></b> 
+</p>
+<p style="text-align: justify">
+<b><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">комитета Конкурса, ректор ИГХТУ,</span></b> 
+</p>
+<p style="text-align: justify">
+<b><span style="font-size: 10pt; color: #000080; font-family: times new roman,times">член-корреспондент РАН<span>&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>О. И. Койфман</span></b><span></span> 
+</p>
+<p style="text-align: justify">
+&nbsp;
+</p>
+<p style="text-align: justify">
+&nbsp;
+</p>
+<p align="right" style="text-align: right">
+<span style="font-size: 12pt"></span>
+</p>
+<p align="center" style="text-align: center">
+<b><span style="font-size: 10pt; color: #000080">Примерные темы работ, которые могут быть представлены на Конкурс*</span></b>
+</p>
+<p align="center" style="text-align: center">
+<span style="font-size: 10pt; color: #000080"></span>
+</p>
+<p>
+<i><span style="font-size: 10pt; color: #000080">Работы теоретического характера (рефераты, эссе, программные и методические разработки и т. д.)</span></i><b><span></span></b>
+</p>
+<p>
+<span style="font-size: 10pt"><span style="color: #000080"><span>1. Проблемы химии в </span><span>XXI</span><span> веке</span></span></span>
+</p>
+<p>
+<span style="font-size: 10pt; color: #000080">2. Где кончается Периодическая система химических элементов?</span>
+</p>
+<p>
+<span style="font-size: 10pt; color: #000080">3. Возможности и перспективы конкретной области химии (радиационной химии, химического катализа, биологической химии, координационной химии, супрамолекулярной химии, лазерной химии, фотохимии, нанохимии и т. д.)</span>
+</p>
+<p>
+<span style="font-size: 10pt; color: #000080">4. Бумага в будущем - из чего и для чего?</span>
+</p>
+<p>
+<span style="font-size: 10pt; color: #000080">5. Химия наноразмерных эффектов</span>
+</p>
+<p>
+<span style="font-size: 10pt; color: #000080">6. &laquo;Элегантные&raquo; молекулы</span>
+</p>
+<p>
+<span style="font-size: 10pt; color: #000080">7. Молекулы жизни</span>
+</p>
+<p>
+<span style="font-size: 10pt; color: #000080">8. Ключ к азоту воздуха</span>
+</p>
+<p>
+<span style="font-size: 10pt; color: #000080">9. Разработка лекарств - высшая школа органической химии</span>
+</p>
+<p>
+<span style="font-size: 10pt; color: #000080">10. Белок - главная проблема!</span>
+</p>
+<p>
+<span style="font-size: 10pt; color: #000080">11. БАДы: за и против</span>
+</p>
+<p>
+<span style="font-size: 10pt; color: #000080">12. Эта многоликая ДНК</span>
+</p>
+<p>
+<span style="font-size: 10pt; color: #000080">13. Химия в борьбе с раковыми заболеваниями</span>
+</p>
+<p>
+<span style="font-size: 10pt; color: #000080">14. Химические сенсоры</span>
+</p>
+<p>
+<span style="font-size: 10pt; color: #000080">15. Молекулярные машины и компьютеры</span>
+</p>
+<p>
+<span style="font-size: 10pt; color: #000080">16. Разработка программных модулей для обработки данных простейшего химического эксперимента</span>
+</p>
+<p>
+<span style="font-size: 10pt; color: #000080">17. Разработка программных модулей для расчетов химических равновесий, модулей-решебников химических задач и т. д.</span>
+</p>
+<p>
+<span style="font-size: 10pt; color: #000080">18. Разработка мультимедийных технологий по отдельным темам школьного курса химии</span>
+</p>
+<p>
+<span style="font-size: 10pt; color: #000080">19. Жизнь и деятельность великих химиков</span>
+</p>
+<p>
+<span style="font-size: 10pt; color: #000080"></span>
+</p>
+<p>
+<i><span style="font-size: 10pt; color: #000080">Экспериментальные работы</span></i><span></span>
+</p>
+<p>
+<span style="font-size: 10pt; color: #000080">1. Анализ витаминов и других биологически активных веществ в продуктах питания, напитках, биологическом материале и т. д.</span>
+</p>
+<p>
+<span style="font-size: 10pt; color: #000080">2. Изучение свойств конкретного соединения, материала (неорганического, органического происхождения)</span>
+</p>
+<p>
+<span style="font-size: 10pt; color: #000080">3. Изучение свойств группы веществ</span>
+</p>
+<p>
+<span style="font-size: 10pt; color: #000080">4. Определение токсичных соединений в сточных водах, почвах, водопроводной воде и т. д. химическими методами</span>
+</p>
+<p>
+<span style="font-size: 10pt; color: #000080"></span>
+</p>
+<p style="text-align: justify">
+<span style="font-size: 10pt; color: #000080">* Приведены названия и обозначены примерные темы работ, на которые можно ориентироваться учащемуся и его руководителю при выборе собственной темы.</span>
+</p>
+			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+					<table align="center" style="margin-top: 15px;">
+			<tr>
+									<th class="pagenav_prev">
+					<a href="index.php?option=com_content&amp;task=view&amp;id=294&amp;Itemid=2" title="ХИМИЯ МОИМИ ГЛАЗАМИ">
+							&laquo; ХИМИЯ МОИМИ ГЛАЗАМИ</a>
+					</th>
+										<td width="50">&nbsp;
+
+					</td>
+										<th class="pagenav_next">
+					<a href="index.php?option=com_content&amp;task=view&amp;id=291&amp;Itemid=2" title="КОНКУРС "МОЯ СЕМЬЯ"">
+							КОНКУРС "МОЯ СЕМЬЯ" &raquo;</a>
+					</th>
+								</tr>
+			</table>
+									<div class="back_button">
+						<a href='javascript:history.go(-1)'>
+					Вернуться</a>
+						</div>
+																																				<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+									</td>
+								</tr>
+							</table>
+						</div>
+						<div id="rightcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+						<div id="search">
+							
+<form action="index.php?option=com_search" method="get">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="100" alt="search" class="inputbox" type="text" size="20" value="Поиск..."  onblur="if(this.value=='') this.value='Поиск...';" onfocus="if(this.value=='Поиск...') this.value='';" />	</div>
+
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="" />	
+</form>						</div>
+													</div>
+						<div class="clr">&nbsp;</div>
+					  </div> 					  </div> 					  </div> 					</div>
+					<div class="clr">&nbsp;</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="bag">&nbsp;</div>
+		<div id="footer">
+							<div id="footer_r">Copyright 2010  ·  Дизайн <a target='_blank' href='http://www.desunk.com'>www.desunk.com</a>  ·  All Rights Reserved
+				</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

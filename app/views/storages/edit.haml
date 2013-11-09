@@ -1,0 +1,19 @@
+- content_for :title do
+  = raw t('storages.editing')
+  = @storage.title
+
+- content_for :css do
+  = stylesheet_link_tag 'modern/form', :media=>'screen'
+  =stylesheet_link_tag 'modern/edit_form', :media=>'screen'
+
+= render :partial=>'storages/ql/edit'
+= render :partial=>'storages/bc/edit'
+= object_errors(@storage)
+
+#edit_form.form.overblock
+  = form_for(@storage, :url=>storage_url(:subdomain=>@user.subdomain), :html=>{:method=>:put} ) do |f|
+    = render :partial => 'form', :locals => {:f => f, :button=>t('storages.update')}
+
+- unless @storage.new_record?
+  .delete_button#delete_button
+    = button_to t('storages.delete'), storages_url(@storage, :subdomain=>@user.subdomain), :method=>:delete, :confirm=>t('storages.delete_confirm')

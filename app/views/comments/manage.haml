@@ -1,0 +1,65 @@
+- content_for :css do
+  =stylesheet_link_tag 'modern/form', :media=>'screen'
+  =stylesheet_link_tag 'modern/pagination', :media=>'screen'
+  =stylesheet_link_tag 'modern/comments/style', :media=>'screen'
+
+:javascript
+  function edit(id, url){
+    comment_block_id      = '#comment_managed_comment_'+id;
+    controls_block        = comment_block_id + ' .controls';
+    loader_block          = comment_block_id + ' .loader';
+    inplace_edit_block    = comment_block_id + ' .inplace_edit:first';
+    item_block            = comment_block_id + ' .item:first';
+
+    jQuery.ajax({
+      type: "POST",
+      url: url,
+      data: {id: id},
+      dataType: "html",
+      success: function(data, status, xhr){
+        $(inplace_edit_block).html(data).show();
+        $(loader_block).hide();
+        $(item_block).hide();
+      },
+      beforeSend: function(xhr){
+        $(controls_block).hide();
+        $(loader_block).show();
+      },
+      error: function(xhr, status, error){alert(error);}
+    });//jQuery.ajax
+  }//edit
+
+  function publicate(id, url){
+    comment_block_id      = '#comment_managed_comment_'+id;
+    controls_block        = comment_block_id + ' .controls';
+    loader_block          = comment_block_id + ' .loader';
+    item_block            = comment_block_id + ' .item:first';
+
+    jQuery.ajax({
+      type: "POST",
+      url: url,
+      data: {id: id},
+      dataType: "script",
+      success: function(data, status, xhr){
+        $(loader_block).hide();
+      },
+      beforeSend: function(xhr){
+        $(controls_block).hide();
+        $(loader_block).show();
+      },
+      error: function(xhr, status, error){alert(error);}
+    });//jQuery.ajax
+  }
+
+  function undesirable(id){
+    alert(id);
+  }
+  function delete(id){
+    alert(id);
+  }
+
+= will_paginate @comments
+
+= render :partial=>'comments/managed', :collection => @comments, :as => :comment
+
+= will_paginate @comments

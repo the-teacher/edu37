@@ -1,0 +1,45 @@
+%p#notice= notice
+
+%p
+  %b Zip:
+  = @message.zip
+%p
+  %b Title:
+  = @message.title
+%p
+  %b Content:
+  = @message.content
+%p
+  %b Sender user:
+  = @message.sender_user_id
+%p
+  %b Sender user zip:
+  = @message.sender_user_zip
+%p
+  %b Sender user login:
+  = @message.sender_user_login
+%p
+  %b Recipient user:
+  = @message.recipient_user_id
+%p
+  %b Recipient user zip:
+  = @message.recipient_user_zip
+%p
+  %b Recipient user login:
+  = @message.recipient_user_login
+%p
+  %b State:
+  = @message.state
+%p
+  %b Remote ip:
+  = @message.remote_ip
+%p
+  %b User agent:
+  = @message.user_agent
+%p
+  %b Referer log:
+  = @message.referer_log
+
+= link_to 'Edit', edit_message_path(@message)
+\|
+= link_to 'Back', messages_path

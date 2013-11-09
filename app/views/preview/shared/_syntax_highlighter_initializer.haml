@@ -1,0 +1,6 @@
+- unless @js_addons.blank?
+  :javascript
+    SyntaxHighlighter.config.tagName="code";
+    SyntaxHighlighter.config.strings.print = "#{t('syntax_highlighter.print')}";
+    SyntaxHighlighter.config.strings.viewSource = "#{t('syntax_highlighter.view_source')}";
+    SyntaxHighlighter.all();

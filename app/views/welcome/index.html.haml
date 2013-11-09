@@ -1,0 +1,46 @@
+- content_for :css do
+  = stylesheet_link_tag 'modern/sessions/new', :media=>'screen'
+
+- content_for :title do
+  =# t('sessions.new.welcome')
+  = Project::ROOT_DOMAIN
+
+- content_for :quick_links do
+  %ul
+    %li
+      = link_to t('base.cabinet'), cabinet_users_url(:subdomain=>@user.subdomain)
+      = link_to(image_tag('basic/ext_link.gif'), '#')
+    %li
+      =link_to t('messages.send_message'), '#', :class=>:new_message
+    %li
+      = link_to t('base.pages_manage'),   manage_pages_url(:subdomain=>@user.subdomain)
+      = link_to(image_tag('basic/ext_link.gif'), '#')
+    %li
+      = link_to t('base.files'),          storages_url(:subdomain=>@user.subdomain)
+      = link_to(image_tag('basic/ext_link.gif'), '#')
+    %li
+      = link_to t('base.exit'), logout_url(:subdomain=>false)
+
+%h1 Welcome#index
+%p
+  curr sd: 
+  = current_subdomain
+%p
+  curr sd class: 
+  = current_subdomain.class
+
+%p
+  @user is:
+  %b
+    = @user.login
+
+%p
+  current user
+  %b
+    = current_user ? current_user.login : 'unregistred user'
+    %br    
+    = current_user.site_name if current_user  
+%p
+  = link_to image_tag('basic/the-teacher-is-author.jpg')
+
+

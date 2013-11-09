@@ -1,0 +1,4 @@
+%p.breadcrumbs
+  = link_to @user.site_name, root_url(:subdomain=>@user.subdomain)
+  &raquo;
+  = link_to t('publications.title'), news_index_url(:subdomain=>@user.subdomain)

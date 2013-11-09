@@ -1,0 +1,17 @@
+%p.breadcrumbs
+  = link_to @user.site_name, root_url(:subdomain=>@user.subdomain)
+  &raquo;
+  = link_to 'Управление форумами', manage_forums_url(:subdomain=>@user.subdomain)
+  = link_to_function(image_tag('basic/ext_link.gif'), popup_window(:left=>100, :top=>100), :href=>manage_forums_url(:subdomain=>@user.subdomain))
+  &raquo;
+  Форум:
+  = link_to @forum.title, forum_url(@forum, :subdomain=>@user.subdomain)
+  = link_to_function(image_tag('basic/ext_link.gif'), popup_window(:left=>100, :top=>100), :href=>forum_url(@forum, :subdomain=>@user.subdomain))
+  &raquo;
+  Тема:
+  = link_to @topic.title, topic_url(@topic, :subdomain=>@user.subdomain)
+  = link_to_function(image_tag('basic/ext_link.gif'), popup_window(:left=>100, :top=>100), :href=>topic_url(@topic, :subdomain=>@user.subdomain))
+  &raquo;
+  %b
+    Редктирование
+

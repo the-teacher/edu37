@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="windows-1251"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>ЧЕЛОВЕК НЕУЧЕНЫЙ – ЧТО ТОПОР НЕТОЧЕНЫЙ. - Средняя общеобразовательная школа № 1 города Иванова</title>
+<meta name="title" content="ЧЕЛОВЕК НЕУЧЕНЫЙ – ЧТО ТОПОР НЕТОЧЕНЫЙ." />
+<meta name="author" content="webmaster" />
+<meta name="description" content=" Официальный сайт средней общеобразовательной школы № 1 города Иванова Ивановской области" />
+<meta name="keywords" content=" школа иваново 1 средняя образование новости ученик учитель" />
+<meta name="distribution" content="global" />
+<meta name="rating" content="General" />
+<meta name="document-state" content="Dynamic" />
+<meta name="documentType" content="WebDocument" />
+<meta name="audience" content="all" />
+<meta name="revisit" content="10 days" />
+<meta name="revisit-after" content="10 days" />
+<meta name="allow-search" content="yes" />
+<meta name="language" content="russian" />
+<base href="http://school1.ivedu.ru/" />
+<link href="http://school1.ivedu.ru/templates/school1-1/css/template_css.css" rel="stylesheet" type="text/css" />
+<!--[if lt IE 7]>
+			<script type="text/javascript" src="/js/unitpngfix.js"></script>
+<![endif]-->  
+<!--[if (gt IE 5)&(lt IE 7)]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ieonly.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ie7only.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body id="page_bg">
+<div class="center" align="center">
+	<div id="wrapper">
+		<div id="wrapper_r">
+			<div id="header">
+				<a href="http://school1.ivedu.ru" id="logo">&nbsp;</a>
+				<table cellpadding="0" cellspacing="0" class="pill">
+					<tr>
+						<td class="pill_l">&nbsp;
+						</td>
+						<td class="pill_m">
+						<div id="pillmenu">
+													</div>
+						</td>
+					</tr>
+				</table>
+			</div>
+			<div id="tabarea">&nbsp;
+			</div>
+
+			<div class="clr"></div>
+			<div id="whitebox">
+<!--				<div id="whitebox_t">
+					<div id="whitebox_tl">
+						<div id="whitebox_tr">&nbsp;</div>
+					</div>
+				</div> -->
+
+				<div id="whitebox_m">
+					<div id="area">
+					  <div class="rightback">
+					  <div class="contentback">
+					  <div class="leftback">
+						<div id="leftcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+									<div class="module_menu">
+			<div>
+				<div>
+					<div>
+						<h3>Главное меню</h3>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="." title="Главная" class="mainlevel" >Главная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" title="Новости" class="mainlevel" id="active_menu">Новости</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=445&amp;Itemid=45" title="Портфолио школы" class="mainlevel" >Портфолио школы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=446&amp;Itemid=46" title="Учебный процесс" class="mainlevel" >Учебный процесс</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=448&amp;Itemid=47" title="Педагоги" class="mainlevel" >Педагоги</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=5&amp;Itemid=29" title="Документы" class="mainlevel" >Документы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=449&amp;Itemid=48" title="Публичные отчеты" class="mainlevel" >Публичные отчеты</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=450&amp;Itemid=49" title="Кабинет здоровья" class="mainlevel" >Кабинет здоровья</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=451&amp;Itemid=50" title="Родителям" class="mainlevel" >Родителям</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=452&amp;Itemid=51" title="Общественная приемная" class="mainlevel" >Общественная приемная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=453&amp;Itemid=52" title="Итоговая аттестация" class="mainlevel" >Итоговая аттестация</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=454&amp;Itemid=53" title="Школьная жизнь" class="mainlevel" >Школьная жизнь</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_contact&amp;Itemid=3" title="Контакты" class="mainlevel" >Контакты</a></td></tr>
+</table>					</div>
+				</div>
+			</div>
+		</div>
+																						</div>
+						<div id="maincolumn">
+						<div id="pathway">
+							<span class="pathway"><a href="http://school1.ivedu.ru" class="pathway" title="Главная">Главная</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" class="pathway" title="Новости">Новости</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=category&amp;sectionid=1&amp;id=1&amp;Itemid=2" class="pathway" title="Новое">Новое</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" />   ЧЕЛОВЕК НЕУЧЕНЫЙ – ЧТО ТОПОР НЕТОЧЕНЫЙ.  </span>						</div>
+<!--											<table class="nopad user1user2">
+								<tr valign="top">
+									<td class="half1">
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Последние новости				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="latestnews">
+	<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=491&amp;Itemid=2" title="ЛЕТНИЙ ОТДЫХ" class="latestnews">ЛЕТНИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=490&amp;Itemid=2" title="ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ" class="latestnews">ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=489&amp;Itemid=2" title="ИГАСУ ЖДЕТ ВАС" class="latestnews">ИГАСУ ЖДЕТ ВАС</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+																			<td class="greyline">&nbsp;</td>
+																		<td>
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Популярное				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="mostread">
+	<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=104&amp;Itemid=2" title="Благодарность учителям начальной школы" class="mostread">
+			Благодарность учителям начальной школы</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=59&amp;Itemid=2" title="Слова благодарности" class="mostread">
+			Слова благодарности</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=51&amp;Itemid=2" title="День открытых дверей для родителей будущих первоклассников" class="mostread">
+			День открытых дверей для родителей будущих первоклассников</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+								</tr>
+							</table>
+							<div id="maindivider"></div>
+				 -->
+							<table class="nopad content">
+								<tr valign="top">
+									<td>
+																					
+			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+				<h3>ЧЕЛОВЕК НЕУЧЕНЫЙ – ЧТО ТОПОР НЕТОЧЕНЫЙ. </h3>				</td>
+										<td align="right" width="100%" class="buttonheading">
+															<a href="http://school1.ivedu.ru/index2.php?option=com_content&amp;task=view&amp;id=383&amp;pop=1&amp;page=0&amp;Itemid=2" target="_blank" title="Печать"><img src="http://school1.ivedu.ru/images/M_images/printButton.png"  alt="Печать" id="print" name="print" align="middle" border="0" /></a>
+													</td>
+								</tr>
+			</table>
+			
+		<table  class="contentpaneopen">
+				<tr>
+			<td width="70%" align="left" valign="top" colspan="2">
+			<span class="small">
+			 Автор webmaster			</span>
+			&nbsp;&nbsp;
+			</td>
+		</tr>
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+				08:02:2011 г.				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+			<p>
+<span style="color: #0000ff">&nbsp;<img height="124" width="131" src="images/stories/00288928.gif" alt="00288928.gif" title="00288928.gif" style="margin: 5px; width: 131px; float: left; height: 124px" /></span> 
+</p>
+<p align="center">
+<span style="color: #0000ff"><strong>Дорогие ребята! </strong></span>
+</p>
+<p>
+<span style="color: #0000ff"><strong>Если вы здоровы,бодры и уже соскучились по школе, наши преподаватели советуют вам повторять материал:</strong></span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff"><strong>История.</strong></span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">7 класс. &sect;6-8, подготовить сообщения &laquo;Церковные деятели 17 века&raquo;</span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">10 класс. &sect;25-30, составить тезисный план &laquo;Россия: особенности экономического развития 17-18 веков&raquo;.</span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff"><strong>Обществознание.</strong></span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'"><span style="color: #0000ff"><span>&nbsp;</span>7 класс. &sect;9-10, подготовить краткое сообщение по теме &laquo;Я б в рабочие пошел...&raquo;</span></span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff"><strong>Краеведение.</strong></span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">9 класс. &sect;15-16, ответы на вопросы после &sect;&sect; письменно.</span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff"><strong>Английский язык <span>&nbsp;</span>учитель Егорова А.А.</strong></span> 
+</p>
+<p>
+<span style="color: #0000ff"><span style="line-height: 115%; font-family: 'Times New Roman'">5 </span><span style="line-height: 115%; font-family: 'Times New Roman'">А класс</span><span style="line-height: 115%; font-family: 'Times New Roman'">. Amelia Bedelia , chapter 1, 2 </span></span>
+</p>
+<p>
+<span style="color: #0000ff"><span style="line-height: 115%; font-family: 'Times New Roman'">5 </span><span style="line-height: 115%; font-family: 'Times New Roman'">Б</span><span style="line-height: 115%; font-family: 'Times New Roman'">, 5</span><span style="line-height: 115%; font-family: 'Times New Roman'">В</span><span style="line-height: 115%; font-family: 'Times New Roman'"> </span><span style="line-height: 115%; font-family: 'Times New Roman'">классы</span><span style="line-height: 115%; font-family: 'Times New Roman'"> Amelia Bedelia, chapter 6</span></span> 
+</p>
+<p>
+<span style="color: #0000ff"><span style="line-height: 115%; font-family: 'Times New Roman'">6</span><span style="line-height: 115%; font-family: 'Times New Roman'">А</span><span style="line-height: 115%; font-family: 'Times New Roman'">, 6</span><span style="line-height: 115%; font-family: 'Times New Roman'">Б</span><span style="line-height: 115%; font-family: 'Times New Roman'"> </span><span style="line-height: 115%; font-family: 'Times New Roman'">классы</span><span style="line-height: 115%; font-family: 'Times New Roman'"> <span>Jenny the Joker, chapter 2</span></span></span> 
+</p>
+<p>
+<span style="color: #0000ff"><span style="line-height: 115%; font-family: 'Times New Roman'">9А класс Подготовить тему &quot;</span><span style="line-height: 115%; font-family: 'Times New Roman'">Well</span><span style="line-height: 115%; font-family: 'Times New Roman'">-</span><span style="line-height: 115%; font-family: 'Times New Roman'">known</span><span style="line-height: 115%; font-family: 'Times New Roman'"> </span><span style="line-height: 115%; font-family: 'Times New Roman'">inventions</span><span style="line-height: 115%; font-family: 'Times New Roman'">&quot;</span></span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff"></span>
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff"><strong>Английский язык <span>&nbsp;</span>учитель Попова И.Л.</strong></span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">7Г класс. </span>
+</p>
+<ol type="1" style="margin-top: 0cm">
+	<li><span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">упражнение<span>&nbsp; </span>№20 стр. 94, в рабочей тетради №2 стр. 50.</span></li>
+	<li><span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">упражнение<span>&nbsp; </span>№24 стр. 58, в рабочей тетради №1 стр. 38.</span></li>
+	<li><span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">упражнение<span>&nbsp; </span>№22 стр. 94, №43 стр.70.</span></li>
+</ol>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">8А, 8В классы.</span> 
+</p>
+<ol type="1" style="margin-top: 0cm">
+	<li><span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">упражнение<span>&nbsp; </span>№7 стр. 159,</span></li>
+	<li><span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">упражнение<span>&nbsp; </span>№11-12 стр. 162,</span></li>
+	<li><span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">упражнение<span>&nbsp; </span>№7 стр. 169,</span></li>
+</ol>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">10 класс. В рабочей тетради:</span> 
+</p>
+<p style="text-indent: -18pt; margin-left: 38.85pt; tab-stops: list 38.85pt">
+<span style="color: #0000ff"><span style="line-height: 115%; font-family: 'Times New Roman'"><span>1.<span style="font-family: 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="line-height: 115%; font-family: 'Times New Roman'">упражнение<span>&nbsp; </span>№7-8 стр. 54,</span></span> 
+</p>
+<p style="text-indent: -18pt; margin-left: 38.85pt; tab-stops: list 38.85pt">
+<span style="color: #0000ff"><span style="line-height: 115%; font-family: 'Times New Roman'"><span>2.<span style="font-family: 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="line-height: 115%; font-family: 'Times New Roman'">упражнение<span>&nbsp; </span>№5-6 стр. 53,</span></span> 
+</p>
+<p style="text-indent: -18pt; margin-left: 38.85pt; tab-stops: list 38.85pt">
+<span style="color: #0000ff"><span style="line-height: 115%; font-family: 'Times New Roman'"><span>3.<span style="font-family: 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="line-height: 115%; font-family: 'Times New Roman'">на странице 56 выучить слова.</span></span> 
+</p>
+<p style="text-indent: -18pt; margin-left: 38.85pt; tab-stops: list 38.85pt">
+&nbsp;
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; font-size: 12pt"><strong>Английский язык учитель Попова Л.А.</strong></span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; font-size: 12pt">10 класс: упр.50-52. 54. 55. 57-59 стр.102-104</span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; font-size: 12pt">9 класс : упр.3 - 4. правило. Упр.5-12 стр.155-158</span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; font-size: 12pt">8 класс:<span>&nbsp; </span>упр.2-5. 6 -7. правило. Упр.8 -12 стр.228 -<span>&nbsp; </span>231</span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; font-size: 12pt">7 класс :<span>&nbsp; </span>упр.33. 35 -39. 41-43 стр.68 - 70.<span>&nbsp; </span></span><span style="line-height: 115%; font-family: 'Times New Roman'; font-size: 12pt">WB</span><span style="line-height: 115%; font-family: 'Times New Roman'; font-size: 12pt"><span>&nbsp; </span>упр. 1- 4 стр.50 -52</span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; font-size: 12pt">4 &laquo;Б&raquo; класс :<span>&nbsp; </span>Урок 77</span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; font-size: 12pt"></span>
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff"></span>
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff"><strong>Биология.</strong></span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">5 класс.<span>&nbsp; </span>Природоведение. &sect;40-41.</span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">Экология. Повторить материал по записям в тетради.</span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">6 А класс. Биология <span>&nbsp;</span>&sect;28-29.</span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">6 Б, 6В классы. Биология &sect;32-33.</span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">Экология. 6АБВ &sect;38-39.</span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">7 АБГ классы. Повторить &sect;36-37.</span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">7В класс. &sect;38-39.</span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">8 класс. &sect;39-40.</span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">9 классы.<span>&nbsp; </span>&sect;37-38.</span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">10 класс. Повторить главу 5 и 6. </span>
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">11 классы. Повторять &laquo;Происхождение человека&raquo;. Глава 14.</span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff"></span>
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff"><strong>Геграфия.</strong></span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">6 класс &sect;32-33, ответить устно на вопросы после &sect;&sect;.</span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">7 класс<span>&nbsp; </span>&sect;42-43, ответить устно на вопросы после &sect;&sect;.</span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">8 класс &sect;33-34, ответить устно на вопросы после &sect;&sect;.</span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">9 класс &sect;36-37, ответить устно на вопросы после &sect;&sect;.</span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">10 класс<span>&nbsp; </span>тема 4 НТР</span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">11 класс тема 3. Африка.</span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff"><strong>Математика.</strong></span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">9А, 9В. Классы. Из сборника заданий для подготовки к ИГА стр.7 Работа №1 вар.1,<span>&nbsp; </span>стр. 15 Работа №2 вар.№1</span> 
+</p>
+<p>
+<span style="font-family: 'Times New Roman'; color: #0000ff">Русский язык</span><span style="line-height: 115%; font-family: 'Times New Roman'"></span> 
+</p>
+<p>
+<span style="font-family: 'Times New Roman'; color: #0000ff">6 А класс Повторить параграфы 59-67, упражнение № 388.</span><span style="line-height: 115%; font-family: 'Times New Roman'"></span> 
+</p>
+<p>
+<span style="font-family: 'Times New Roman'; color: #0000ff">8 А, 8 Б Повторить параграфы 26-28, упражнение 289.</span><span style="line-height: 115%; font-family: 'Times New Roman'"></span> 
+</p>
+<p>
+<span style="font-family: 'Times New Roman'; color: #0000ff">9 Б, 9 В Упражнения 200, 203. </span>
+</p>
+<p>
+<span style="font-family: 'Times New Roman'; color: #0000ff"><strong>Литература</strong></span> 
+</p>
+<p>
+<span style="font-family: 'Times New Roman'; color: #0000ff">6 А класс Наизусть любое стихотворение на стр. 304-308 учебника.</span> 
+</p>
+<p>
+<span style="font-family: 'Times New Roman'; color: #0000ff">6 Б,В классы - пересказ рассказа Чехова . Выучить наизусть стихотворение русского поэта 19 века(в конце учебника на выбор)</span> 
+</p>
+<p>
+<span style="font-family: 'Times New Roman'; color: #0000ff">7А, 7Г&nbsp; Биография И.С.Тургенева. Прочитать рассказ &laquo;Бирюк&raquo;, ответить на вопросы №2 (устно) и 4 (письменно) на стр. 223 </span>
+</p>
+<p>
+<span style="font-family: 'Times New Roman'; color: #0000ff">8 А, 8 Б Прочитать повесть Н. В. Гоголя &laquo;Шинель&raquo;, ответить устно на первый вопрос<span>&nbsp; </span>стр. 390 учебника.</span> 
+</p>
+<p>
+<span style="font-family: 'Times New Roman'; color: #0000ff">9 Б, 9 В Из романа &laquo;Евгений Онегин&raquo; выучить наизусть девочкам - письмо Татьяны Онегину, мальчикам - письмо Онегина Татьяне.</span> 
+</p>
+<p>
+<span style="font-family: 'Times New Roman'; color: #0000ff"><strong>&nbsp;</strong>8В класс:&nbsp; Образ Хлестакова. Проанализировать, цитаты по образу выписать. Рассказать о Хлестакове и хлестаковщине. Русский язык: параграф 27 упр. 277,280&nbsp;</span> 
+</p>
+<p>
+<span style="font-family: 'Times New Roman'; color: #0000ff"><span style="font-family: 'Times New Roman'; color: #0000ff">&nbsp;11 класс- сочинение &laquo; Мои любимые страницы романа-эпопеи &laquo;Тихий Дон&raquo;М.Шолохова </span></span>
+</p>
+<p>
+<span style="font-family: 'Times New Roman'; color: #0000ff"><strong>Русский язык:</strong> </span>
+</p>
+<p>
+<span style="font-family: 'Times New Roman'; color: #0000ff">6 класс- №375, №378 (числа пиши словами) </span>
+</p>
+<span style="font-family: 'Times New Roman'; color: #0000ff">
+<p>
+<span style="font-family: 'Times New Roman'; color: #0000ff">7А, 7Г класс: Параграф 40 упр.241, 242, 243 </span>
+</p>
+<p>
+11 класс-№448,тесты вариант 10. 
+</p>
+</span>
+<p>
+<span style="font-family: 'Times New Roman'; color: #0000ff"></span>
+</p>
+<p>
+<span style="font-family: 'Times New Roman'; color: #0000ff"><strong>Химия.</strong></span> 
+</p>
+<p>
+<span style="color: #0000ff"><span style="font-family: 'Times New Roman'">8 классы. </span><span style="line-height: 115%; font-family: 'Times New Roman'">Химические реакции &sect;26-33</span></span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">9 классы. Неметаллы. &sect;15-28</span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">10 классы. Спирты. Альдегиды.</span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">11А класс Металлы</span> 
+</p>
+<p>
+<span style="line-height: 115%; font-family: 'Times New Roman'; color: #0000ff">11Б класс. Окислительно-восстановительные реакции. Электролиз.</span> 
+</p>
+			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+					<table align="center" style="margin-top: 15px;">
+			<tr>
+									<th class="pagenav_prev">
+					<a href="index.php?option=com_content&amp;task=view&amp;id=385&amp;Itemid=2" title="УРА! КАРАНТИН ЗАКОНЧЕН!">
+							&laquo; УРА! КАРАНТИН ЗАКОНЧЕН!</a>
+					</th>
+										<td width="50">&nbsp;
+
+					</td>
+										<th class="pagenav_next">
+					<a href="index.php?option=com_content&amp;task=view&amp;id=376&amp;Itemid=2" title="О ПРОДЛЕНИИ КАРАНТИНА">
+							О ПРОДЛЕНИИ КАРАНТИНА &raquo;</a>
+					</th>
+								</tr>
+			</table>
+									<div class="back_button">
+						<a href='javascript:history.go(-1)'>
+					Вернуться</a>
+						</div>
+																																				<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+									</td>
+								</tr>
+							</table>
+						</div>
+						<div id="rightcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+						<div id="search">
+							
+<form action="index.php?option=com_search" method="get">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="100" alt="search" class="inputbox" type="text" size="20" value="Поиск..."  onblur="if(this.value=='') this.value='Поиск...';" onfocus="if(this.value=='Поиск...') this.value='';" />	</div>
+
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="" />	
+</form>						</div>
+													</div>
+						<div class="clr">&nbsp;</div>
+					  </div> 					  </div> 					  </div> 					</div>
+					<div class="clr">&nbsp;</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="bag">&nbsp;</div>
+		<div id="footer">
+							<div id="footer_r">Copyright 2010  ·  Дизайн <a target='_blank' href='http://www.desunk.com'>www.desunk.com</a>  ·  All Rights Reserved
+				</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

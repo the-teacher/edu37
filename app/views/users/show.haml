@@ -1,0 +1,20 @@
+- content_for :css do
+  =stylesheet_link_tag 'modern/edit_form.css', :media=>'screen'
+  =stylesheet_link_tag 'modern/users/style', :media=>'screen'
+  =stylesheet_link_tag 'modern/comments/style', :media=>'screen'
+
+.user_data.overblock
+  .avatar
+    = image_tag @user.avatar(:normal)
+  %p= @user.name
+  %p= @user.login
+  %p= @user.email
+  %p= @user.last_login_at ? @user.last_login_at : 'не известно'
+
+  = form_for(:user, :url=>avatar_upload_user_url(@user), :html=>{:multipart => true, :method=>:post} ) do |f|
+    =f.file_field :avatar
+    =submit_tag t('base.to_upload'), :class=>:submit
+
+%hr
+
+= render :partial=>'comments/block', :locals => {:object=>@user, :comment => @comment, :comments=>@comments}

@@ -1,0 +1,33 @@
+.users .black_rounder{
+  margin-bottom:15px;
+}
+.users .content_rounder{
+  padding:0 0 0 10px;
+}
+.users .content_rounder p{
+  margin:0;
+}
+.users .user .login .name{
+  color: black;
+  font-size: 15pt;
+  font-style: italic;
+  padding-right: 20px;
+}
+.users .user .avatar{
+  float: left;
+  margin-right: 15px;
+}
+.users .user .actions a{
+  font-size:9pt;
+  color:blue;
+  padding-right: 15px;
+}
+.user_data .avatar{
+  float:left;
+  margin:0 15px 15px 0;
+}
+.user_data .avatar .avtar_input{
+  width:100px;
+}
+
+

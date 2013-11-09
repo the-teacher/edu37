@@ -1,0 +1,21 @@
+=hidden_field_tag 'storage', storage.to_param
+
+%p
+  = f.label :title, t('uploaded_files.form.title')
+  = f.text_field :title, :class=>:input
+
+%p
+  = f.label :file, t('uploaded_files.form.file')
+  = f.file_field :file
+.file_notice
+  %ul
+    %li= t('uploaded_files.file_size_for_uploading_notice')
+    %li= t('uploaded_files.file_foto_for_uploading_notice')
+
+
+= form_buttons_for(uploaded_file)
+
+.submit_button
+  = submit_tag button, :class=>:submit
+
+= moderation_buttons_for(uploaded_file)

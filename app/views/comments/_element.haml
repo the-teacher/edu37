@@ -1,0 +1,22 @@
+.comment
+  - if comment.unsafe? # UNSAFE
+    - if comment.show_on_local_machine?(cookies)
+      = render :partial=>'comments/comment_body', :locals => { :comment => comment }
+      .state.unsafe_and_show
+        = t('comments.descriptions.unsafe_and_show')
+    - else
+      .state.unsafe
+        = t('comments.descriptions.unsafe')
+  - elsif comment.blocked? # BLOCKED
+    .state.blocked
+      = t('comments.descriptions.blocked')
+  - elsif comment.undesirable? # UNDESIRABLE
+    = render :partial=>'comments/comment_body', :locals => { :comment => comment }
+    .state.undesirable
+      = t('comments.descriptions.undesirable')
+  - elsif comment.deleted? # DELETED
+    .state.deleted
+      = t('comments.descriptions.deleted')
+  - else    
+    = render :partial=>'comments/comment_body', :locals => { :comment => comment }
+

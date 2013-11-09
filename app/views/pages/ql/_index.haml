@@ -1,0 +1,12 @@
+- if logged_in?
+  - content_for :quick_links do
+    %li
+      = link_to t('base.cabinet'), cabinet_users_url(:subdomain=>@user.subdomain)
+      = link_to_function(image_tag('basic/ext_link.gif'), popup_window(:left=>100, :top=>100), :href=>cabinet_users_url(:subdomain=>@user.subdomain))
+    - if current_user.has_role?(:publications, :manage)
+      %li
+        = link_to t('pages.manage'), manage_pages_url(:subdomain=>current_user.subdomain)
+        = link_to_function(image_tag('basic/ext_link.gif'), popup_window(:left=>100, :top=>100), :href=>manage_pages_url(:subdomain=>current_user.subdomain))
+    %li
+      = link_to t('base.files'), storages_url(:subdomain=>@user.subdomain)
+      = link_to_function(image_tag('basic/ext_link.gif'), popup_window(:left=>100, :top=>100), :href=>storages_url(:subdomain=>@user.subdomain))

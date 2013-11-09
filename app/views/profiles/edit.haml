@@ -1,0 +1,78 @@
+- content_for :title do
+  = raw t('profiles.editing')
+  = @user.login
+
+- content_for :js do
+  = javascript_include_tag 'markitup/markitup.js'
+  = javascript_include_tag 'markitup/sets/textile/set.js'
+  = render :partial=>'murkitup_init'
+
+- content_for :css do
+  = stylesheet_link_tag 'markitup/skins/markitup/style', :media=>'screen'
+  = stylesheet_link_tag 'markitup/sets/textile/style', :media=>'screen'
+  = stylesheet_link_tag 'modern/form', :media=>'screen'
+
+= render :partial=>'profiles/ql/edit'
+= render :partial=>'profiles/bc/edit'
+= render :partial=>'preview'
+= object_errors(@profile)
+=# object_errors(@user)
+
+:css
+  #avatar_form ul{margin-bottom:5px;}
+  #avatar_form ul li.avatar{
+    float:left;
+  }
+  #avatar_form .avatar img{
+    border:1px solid gray;
+  }
+  #avatar_form ul li.upload{
+    margin-left: 220px;
+  }
+  #avatar_form ol, #site_header ol{
+    margin-left:15px;
+  }
+  
+#avatar_form.form.overblock
+  %ul.overblock
+    %li.avatar
+      = image_tag @user.avatar(:normal), :title=>@user.name
+    %li.upload
+      %h4= @user.name
+      %ol.marked_list
+        %li= t('users.avatar.photo_uploading')
+        %li= t('users.avatar.photo_best_size')
+        %li= t('users.avatar.photo_best_volume')
+
+      - form_for(:user, :url=>avatar_upload_user_url(@user), :html=>{:multipart => true, :method=>:post} ) do |f|
+        %p= f.file_field :avatar
+        %p= submit_tag t('base.to_upload'), :class=>:submit
+
+%h4= t('users.site_header_title')
+#site_header.form.overblock
+  %ol.marked_list
+    %li= t('users.site_header.uploading')
+    %li= t('users.site_header.best_size')
+    %li= t('users.site_header.best_volume')
+
+  - form_for(:user, :url=>site_header_upload_user_url(@user), :html=>{:multipart => true, :method=>:post} ) do |f|
+    %p= f.file_field :site_header
+    %p= submit_tag t('base.to_upload'), :class=>:submit
+
+%h4= t('users.basic_info_title')
+#user.form.overblock
+  - form_for(:user, :url=>user_url(@user), :html=>{:multipart => true, :method=>:put} ) do |f|
+    %h4= @user.site_name
+    %p
+      = f.label :name, t('users.form.name')
+      = f.text_field :name, :class=>:input
+    %p
+      = f.label :email, t('users.form.email')
+      = f.text_field :email, :class=>:input
+
+    %p= submit_tag t('users.update'), :class=>:submit
+
+%h4= t('users.vcard_content_title')
+#edit_form.form.overblock
+  - form_for(:profile, :url=>profile_url(:subdomain=>@user.subdomain), :html=>{:method=>:put} ) do |f|
+    = render :partial => 'form', :locals => {:f => f, :button => t('profiles.update')}

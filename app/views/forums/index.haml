@@ -1,0 +1,17 @@
+- content_for :css do
+  =stylesheet_link_tag 'modern/forums/style', :media=>'screen'
+
+=raw(votes_js)
+
+= render :partial => 'forums/ql/index'
+= render :partial => 'forums/bc/index'
+
+%ul
+  - @forums.each do |forum|
+    %li
+      .forum
+        =link_to forum.title, forum_url(forum, :subdomain=>@user.subdomain), :class=>:title
+        %p.description= forum.description
+        %p.info= forum_informer(forum)
+        %p.tags= tags_block(forum)
+        %p.info= forum_last_comment(forum)

@@ -1,0 +1,7 @@
+.news_item
+  .content
+    %h1= link_to item.title, news_url(item.friendly_url, :subdomain=>item.subdomain)
+    = raw(item.html_annotation)
+    %p= read_more_link(item, :news_url)
+    %p.tags= tags_block(item)
+    %p.info= news_informer(item)

@@ -1,0 +1,8 @@
+- if opts[:admin]
+  %li{:id=>"#{node.id}_page"}
+    = raw link
+    = childs
+- else
+  %li
+    = raw link
+    = childs

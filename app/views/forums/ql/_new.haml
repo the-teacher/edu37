@@ -1,0 +1,7 @@
+- content_for :quick_links do
+  %li
+    = link_to 'Просмотр форумов', forums_url(:subdomain=>@user.subdomain)
+    = link_to_function(image_tag('basic/ext_link.gif'), popup_window(:left=>100, :top=>100), :href=>forums_url(:subdomain=>@user.subdomain))
+  %li
+    = link_to 'Хранилище файлов', storages_url(:subdomain=>@user.subdomain)
+    = link_to(image_tag('basic/ext_link.gif'), storages_url(:subdomain=>@user.subdomain))

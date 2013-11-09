@@ -1,0 +1,313 @@
+# https://github.com/svenfuchs/rails-i18n/blob/master/rails/locale/ru.yml
+en:
+  # BASE
+  base:
+    versitcard: 'Profile'
+    news: 'News'
+    pages: 'Pages'
+    documents: 'Documents'
+    methods: 'Study Methodics'
+    albums: 'Albums'
+    questions: 'Questions&Answeres'    
+    forums: 'Forums'
+    updates: 'Updates'
+
+    files: 'Files'
+    comments: 'Comments'
+    messages: 'Messages'
+    site_settings: 'Settings'
+    roles: 'Roles'
+    administrator_panel: 'Admin panel'
+    image_for_your_site: 'Image for header of your site (900x250 точек)'
+    to_set: 'Set'
+    to_upload: 'Upload'
+
+    site_map: 'Site map'
+    login: 'Login'
+    signup: 'Registration'
+    exit: 'Exit'
+    enter: 'Enter'
+    cabinet: 'Personal cabinet'
+
+    project_description: 'JosephStalin.com'
+
+    pages_manage: 'Pages management'
+    files_manage: 'Files managements'
+    profile_manage: 'Profile managements'
+    invalid_captcha: 'Invalid captcha numbers'
+    captcha_description: 'Spam robots can not insert secret numbers'
+    megabytes: 'Mbytes'
+    name_undefined: 'undefined name'
+    email: 'E-mail'
+    select_your_locale: 'Select your lang'
+    quick_links: 'Quick links'
+    can_be_interesting: 'Can be interesting: '
+    information: 'Information'
+    read_more: 'read&nbsp;more&nbsp;&raquo;'
+    access_denied: 'Access denied.'
+
+    about: 'About'
+    schools: 'Schools'
+    teachers: 'Teachers'
+    students: 'Students'
+    users: 'Users'
+
+    create_new_site_for: 'Create new site for: '
+    school: 'School'
+    teacher: 'Teacher'
+    student: 'Student'
+    user: 'User'
+
+  # NEWS aka Publications
+  news:
+    title: 'News'
+  # MESSAGES
+  messages:
+    send_message: 'Send messages'
+    income: 'New messages '
+  #QUESTIONS
+  questions:
+    income: 'New questions '
+  # FORUMS
+  forums:
+    income: 'New forum topics '
+  #TRICKS
+  tricks:
+    title: 'Tricks'
+  # PROFILES
+  profiles:
+    edit_your_profile: 'Edit your profile'
+  # STORAGES
+  storages:
+    title: 'File storage'
+    created: 'File storage created'
+    failure_on_create: 'Problems with file storage creating'
+    uploaded_files_size: 'Site of uploaded files: '
+    total_files_size: 'Total size of uploaded files : '
+
+  # UPLOADED FILES
+  uploaded_files:
+    created: 'File was uploaded'
+    deleted: 'File destroyed'
+    attachment_size: 'Size of file must be more 1 Kb and less then 1 Mb'
+    title_is_blank: 'Empty title'
+    file_name_must_be_uniqueness: 'File name must be uniqueness'
+    storage_not_found: 'Storage not found'
+    uploaded_file_not_found: 'Uploaded file uninitializated'
+    failure_on_create: 'Problem with file uploading'
+    upload_new_file: 'I want to upload file'
+    add_file: 'Upload new file'
+    upload_file_warn: 'Please, adecvatly names for files'
+    file_name: 'File name'
+    file_path: 'File path'
+    file_show: 'file show'
+    url_paste_code: 'URL address of file'
+    link_paste_code: 'Code for inserting link to this file'
+    table_paste_code: 'Code for inserting table'
+    image_paste_code: 'Code for inserting image'
+    image_center_paste_code: 'Code for inserting image by center'
+    file_size: 'File size:'
+    zoom_image: 'Image zooming'
+    delete_confirm: 'Do you really want delete this file?'
+    delete_file: 'Delete file'
+
+  # COMMENTS
+  comments:
+    income: 'New comments '
+    post: 'Send comment'
+    title: 'You name or topic of message'
+    content: 'Your message'
+    contacts: 'Feedback contacts (can see only administrator)'
+    commentable_object_type_error: 'This object can not be commented'
+    commentable_object_id_blank: 'There is no commentable object'
+    commentable_object_not_found: 'Recipient object for commenting are not founded'
+    commented: 'Commented'
+    commenting_failure: 'Problems with commenting'
+    descriptions:
+      unsafe_and_show: 'You comment under moderation'
+      unsafe: 'Comment wating for moderation'
+      deleted: 'Comment deleted'
+      blocked: 'Comment was blocked'
+      undesirable: 'Comment marked as undesirable'
+
+  # EDITOR
+  editor:
+    view:
+      textile_title: 'Source content'
+      html_title: 'Resulted content'
+      help_title: 'Instruction for markup'
+      
+      markup: 'Markup'
+      preview: 'Preview'
+      instruction: 'Instruction'
+      read_markup_instruction: 'MURKUP (see Instruction)'
+
+  # PAGES
+  pages:
+    has_comments: 'Count of comments: '
+    model:
+      validator:
+        user_id_undefined: "Must has owner"
+        zip_undefined: "Needs zip field"
+        title_undefined: "Title is blank"
+    view:
+      manage: 'Pages management'
+      pages_manage: 'Management of site pages'
+      create_root_element: 'Create root page'
+      update_button: 'Update page'
+      create_button: 'Create page'
+      editing: 'editing page'
+      page_name: 'Page name'
+      edit: 'Page editing'
+      new_page_creating: 'Create new page for '
+      page_is_child_of: 'This page will be child for :'
+      create_new_page: 'Create new page'
+      back_to_edit: '&laquo; Back to edit screen'
+      publicate: "Publication"
+      to_drafts: "To drafts"
+      to_blocked: "Block this post"
+    notices:
+      created: 'Page is created'
+      updated: 'Page is updated'
+      deleted: 'Page is deleted'
+      up: 'Page moved up'
+      down: 'Page moved down'
+    errors:
+      cant_be_move: 'Page can not be moved'
+      on_create: 'Problem with page creating'
+      on_updated: 'Problem with updating'
+    states:
+      title: 'State of page'
+      publicate: "Publicate"
+      to_drafts: "Draft"
+      to_blocked: "Blocked"
+      clear: "Set default state"
+      descriptions:
+        draft: "This page - is Draft. For publication set state - PUBLICATION"
+        blocked: "This page if Blocked - set another stete for make it visiable"
+        published: 'It is published - users can see and read this'
+
+  # AWESOME NESTED SET VIEW HELPER (HELPER IS AWESOME TOO)
+  ansvh:
+    page:
+      id_of_element: 'Id of page: '
+      cant_be_moved: 'Element can not be moved'
+      move_up: 'Moving up: '
+      move_down: 'Moving down: '
+      edit: 'Edit this element: '
+      delete: 'Delete: '
+      create_child: 'Create child element: '
+      delete_confirm: 'Do you shure?'
+      sub_sections_must_be_deleted: 'Can not be deleted - all childs must be deleted first'
+
+  #ROLES
+  roles:
+    name: 'Policy group: '
+    new: 'Create new role'
+    title: 'Roles and policies management'
+    sections: '&laquo; Policy groups'
+    empty: 'There is no groups'
+    destroy_section_confirm: 'Delete set of policies?'
+    delete_policy_confirm: 'Delete this access policy?'
+    delete: 'Delete'
+    update: 'Update'
+    create_access_policy: 'Create policy in group policies'
+    create_policy: "Create policy"
+    create_section: 'Create policy group'
+    section_needs: 'Create policy group first'
+    created: 'Role created'
+    updated: 'Role updated'
+    roles: 'Role updated'
+    list: 'List of Roles in system'
+    section_name_is_blank: 'Empty section name'
+    section_name_is_wrong: 'Incorrect name of policy section'
+    section_exists: 'Policy section exists'
+    section_created: 'Policy group created'
+    section_destroyed: 'Policy group deleted'
+    section_rule_wrong_name: 'Incorrect name of policy'
+    section_rule_created: 'Policy created'
+    section_rule_destroyed: 'Policy deleted'
+
+  # USERS
+  users:
+    create: 'You are registered'
+    error_on_create: 'Problems with registration. Try again'
+    signup_new_user: 'Just insert EMAIL and<br />you will be registered user'
+
+  # PREREGS
+  preregs:
+    blank_email: 'inser you email, please'
+    instruction_sended: 'Check you email box. Letter with actiovation code sended'
+    email_notice: 'Just this most popular mail-servers can be registered: '
+    wrong_email: 'Incorrect email'
+
+  # SESSIONS
+  sessions:
+    new:
+      welcome: "Login"
+      description: "Form for entering"
+      login_label: "Login <strong>(you system name)</strong>"
+      login: "Login is your nic-name for JosephStalin.com"
+      password_label: "Password"
+      password: "You secret password"
+      unsefty_workplace_label: 'It is not my computer'
+      unsefty_workplace: 'uncheck this and you will automatic loggined for 14 days'
+    forgotten_password: 'I forgot my password'
+    notice:
+      logined: "Welcome"
+      logged_out: "Goodbay!"
+
+  # FLASH
+  flash:
+    notice:
+      title: 'System notice: '
+    error:
+      title: 'Errors: '
+
+  # SYSTEM
+  system:
+    have_no_users: 'NOBODY HERE! Please, signup or execute rake: rake db:users:create'
+
+  # VIEW ERRORS HELPER
+  object_errors:
+    errors:
+      one: 'Form error'
+      many: 'Form errors'
+
+  # AUTH MESSAGES
+  authentication:
+    login_presence: 'cant be blank'
+    login_uniqueness: 'hmm.. sorry, it cant be use'
+    bad_login_message: 'only latin symbnols, dash, point and underscore are valid symbols for login'
+    bad_name_message: 'incorrect name'
+    bad_email_message: 'incorrect email format'
+
+  #SEARCH
+  search:
+    title: 'Search'
+
+  # ACTIVE RECORD
+  activerecord:
+    errors:
+      models:
+        page:
+          attributes:
+            state:
+              invalid: 'Incorrect state'
+    attributes:
+
+      users:
+        login: "Login: "
+        email: "Email: "
+        password_confirmation: "Password confirmation: "
+        password: "Password: "
+        name: "Name: "
+
+      preregs:
+        email: 'Email: '
+
+      pages:
+        user_id: 'User id: '
+        state: 'Page state: '
+        title: 'Page title: '
+        captcha: 'Security symbols: '

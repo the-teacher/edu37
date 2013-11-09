@@ -1,0 +1,15 @@
+%h3
+  Список заявок на регистрацию
+
+%table
+  - @preregs.each do |prereg|
+    %tr
+      %td
+        %p{:style=>'padding-right:10px;'}
+          %b
+            = prereg.name
+      %td
+        %p
+          = link_to prereg.email, prereg.email
+          = link_to 'Пригласить', invite_prereg_url(prereg, :subdomain=>false), :method=>:post
+          = link_to 'Удалить', prereg_url(prereg), :method=>:delete

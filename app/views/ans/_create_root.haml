@@ -1,0 +1,16 @@
+-# opts[:class_name] - string
+-# opts[:id_field] - string
+-# opts[:admin] - bool
+-# opts[:root] - bool
+-# opts[:first] - bool
+-# opts[:last] - bool
+-# opts[:has_childs] - bool
+-# opts[:level] - integer
+=# opts.to_yaml
+
+- if opts[:admin]
+  - is = 'vertical-align:middle; border:none;'
+  - ls = 'font-weight:bold;'
+  - image = 'iconza/blue/add.png'
+  - link = link_to image_tag(image, :style=>is)+ t("ansvh.#{class_name}.create_root_element"), eval("new_#{class_name}_path"), :style=>ls
+  = content_tag(:div, link, :style=>'margin:25px 0 0 0;')

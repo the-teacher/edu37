@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="windows-1251"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>Положение о введении новой системы оплаты труда - Средняя общеобразовательная школа № 1 города Иванова</title>
+<meta name="title" content="Положение о введении новой системы оплаты труда" />
+<meta name="author" content="webmaster" />
+<meta name="description" content=" Официальный сайт средней общеобразовательной школы № 1 города Иванова Ивановской области" />
+<meta name="keywords" content=" школа иваново 1 средняя образование новости ученик учитель" />
+<meta name="distribution" content="global" />
+<meta name="rating" content="General" />
+<meta name="document-state" content="Dynamic" />
+<meta name="documentType" content="WebDocument" />
+<meta name="audience" content="all" />
+<meta name="revisit" content="10 days" />
+<meta name="revisit-after" content="10 days" />
+<meta name="allow-search" content="yes" />
+<meta name="language" content="russian" />
+<base href="http://school1.ivedu.ru/" />
+<link href="http://school1.ivedu.ru/templates/school1-1/css/template_css.css" rel="stylesheet" type="text/css" />
+<!--[if lt IE 7]>
+			<script type="text/javascript" src="/js/unitpngfix.js"></script>
+<![endif]-->  
+<!--[if (gt IE 5)&(lt IE 7)]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ieonly.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ie7only.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body id="page_bg">
+<div class="center" align="center">
+	<div id="wrapper">
+		<div id="wrapper_r">
+			<div id="header">
+				<a href="http://school1.ivedu.ru" id="logo">&nbsp;</a>
+				<table cellpadding="0" cellspacing="0" class="pill">
+					<tr>
+						<td class="pill_l">&nbsp;
+						</td>
+						<td class="pill_m">
+						<div id="pillmenu">
+													</div>
+						</td>
+					</tr>
+				</table>
+			</div>
+			<div id="tabarea">&nbsp;
+			</div>
+
+			<div class="clr"></div>
+			<div id="whitebox">
+<!--				<div id="whitebox_t">
+					<div id="whitebox_tl">
+						<div id="whitebox_tr">&nbsp;</div>
+					</div>
+				</div> -->
+
+				<div id="whitebox_m">
+					<div id="area">
+					  <div class="rightback">
+					  <div class="contentback">
+					  <div class="leftback">
+						<div id="leftcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+									<div class="module_menu">
+			<div>
+				<div>
+					<div>
+						<h3>Главное меню</h3>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="." title="Главная" class="mainlevel" >Главная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" title="Новости" class="mainlevel" id="active_menu">Новости</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=445&amp;Itemid=45" title="Портфолио школы" class="mainlevel" >Портфолио школы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=446&amp;Itemid=46" title="Учебный процесс" class="mainlevel" >Учебный процесс</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=448&amp;Itemid=47" title="Педагоги" class="mainlevel" >Педагоги</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=5&amp;Itemid=29" title="Документы" class="mainlevel" >Документы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=449&amp;Itemid=48" title="Публичные отчеты" class="mainlevel" >Публичные отчеты</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=450&amp;Itemid=49" title="Кабинет здоровья" class="mainlevel" >Кабинет здоровья</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=451&amp;Itemid=50" title="Родителям" class="mainlevel" >Родителям</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=452&amp;Itemid=51" title="Общественная приемная" class="mainlevel" >Общественная приемная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=453&amp;Itemid=52" title="Итоговая аттестация" class="mainlevel" >Итоговая аттестация</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=454&amp;Itemid=53" title="Школьная жизнь" class="mainlevel" >Школьная жизнь</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_contact&amp;Itemid=3" title="Контакты" class="mainlevel" >Контакты</a></td></tr>
+</table>					</div>
+				</div>
+			</div>
+		</div>
+																						</div>
+						<div id="maincolumn">
+						<div id="pathway">
+							<span class="pathway"><a href="http://school1.ivedu.ru" class="pathway" title="Главная">Главная</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" class="pathway" title="Новости">Новости</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=category&amp;sectionid=1&amp;id=1&amp;Itemid=2" class="pathway" title="Новое">Новое</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" />   Положение о введении новой системы оплаты труда  </span>						</div>
+<!--											<table class="nopad user1user2">
+								<tr valign="top">
+									<td class="half1">
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Последние новости				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="latestnews">
+	<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=491&amp;Itemid=2" title="ЛЕТНИЙ ОТДЫХ" class="latestnews">ЛЕТНИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=490&amp;Itemid=2" title="ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ" class="latestnews">ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=489&amp;Itemid=2" title="ИГАСУ ЖДЕТ ВАС" class="latestnews">ИГАСУ ЖДЕТ ВАС</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+																			<td class="greyline">&nbsp;</td>
+																		<td>
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Популярное				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="mostread">
+	<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=104&amp;Itemid=2" title="Благодарность учителям начальной школы" class="mostread">
+			Благодарность учителям начальной школы</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=59&amp;Itemid=2" title="Слова благодарности" class="mostread">
+			Слова благодарности</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=51&amp;Itemid=2" title="День открытых дверей для родителей будущих первоклассников" class="mostread">
+			День открытых дверей для родителей будущих первоклассников</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+								</tr>
+							</table>
+							<div id="maindivider"></div>
+				 -->
+							<table class="nopad content">
+								<tr valign="top">
+									<td>
+																					
+			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+				<h3>Положение о введении новой системы оплаты труда </h3>				</td>
+										<td align="right" width="100%" class="buttonheading">
+															<a href="http://school1.ivedu.ru/index2.php?option=com_content&amp;task=view&amp;id=307&amp;pop=1&amp;page=0&amp;Itemid=2" target="_blank" title="Печать"><img src="http://school1.ivedu.ru/images/M_images/printButton.png"  alt="Печать" id="print" name="print" align="middle" border="0" /></a>
+													</td>
+								</tr>
+			</table>
+			
+		<table  class="contentpaneopen">
+				<tr>
+			<td width="70%" align="left" valign="top" colspan="2">
+			<span class="small">
+			 Автор webmaster			</span>
+			&nbsp;&nbsp;
+			</td>
+		</tr>
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+				11:10:2010 г.				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+			<p>
+<span style="font-size: 8pt"></span>
+</p>
+&nbsp; 
+<p>
+<span style="font-size: 8pt"><b>&laquo;СОГЛАСОВАНО&raquo;<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&laquo;УТВЕРЖДАЮ&raquo;</b> </span>
+</p>
+<p>
+<span style="font-size: 8pt">Председатель Управляющего Совета<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;</span>Директор <span>&nbsp;</span>МУ средней </span>
+</p>
+<p>
+<span style="font-size: 8pt"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;</span>общеобразовательной школы № 1 </span>
+</p>
+<p>
+<span style="font-size: 8pt">____________А.Е.Гужова <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;</span>_______________ Н.В.Степович<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span> </span>
+</p>
+<p>
+<span style="font-size: 8pt">Протокол № ___ от __12.08.2010г.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>12.08.2010 </span>
+</p>
+<p align="center" style="text-align: center">
+<span style="font-size: 8pt"><b><span style="font-size: 14pt"><span></span></span></b><b><span style="font-size: 11pt"></span></b></span>
+</p>
+<p align="center" style="margin-right: 1.4pt; text-align: center">
+<span style="font-size: 8pt"><span style="font-size: 14pt; font-family: 'Times New Roman','serif'">П О Л О Ж Е Н И Е</span> </span>
+</p>
+<p align="center" style="margin-right: 1.4pt; text-align: center">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">о введении новой системы оплаты труда</span><span style="font-size: 14pt; font-family: 'Times New Roman','serif'"> </span><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">работников </span></span>
+</p>
+<p align="center" style="margin-right: 1.4pt; text-align: center">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt">МУ средней общеобразовательной школы № 1 </span></span>
+</p>
+<p align="center" style="text-align: center">
+<span style="font-size: 8pt"><b><span>1. ОБЩИЕ ПОЛОЖЕНИЯ</span></b> </span>
+</p>
+<p style="text-align: justify">
+<span style="font-size: 8pt"><span>1.1. Настоящее Положение определяет общие требования к системе оплаты труда работников </span>Муниципального учреждения средней общеобразовательной школы<span> <span>&nbsp;</span>№ 1 (далее - школа), реализующей образовательные программы начального общего, основного общего, среднего (полного) общего образования в соответствии с <b>федеральными государственными образовательными стандартами.</b></span> </span>
+</p>
+<p style="margin-right: 1.4pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-weight: normal; font-size: 12pt; font-family: 'Times New Roman','serif'">1.2.</span><span style="font-size: 12pt; font-family: 'Times New Roman','serif'"> </span><span style="font-weight: normal; font-size: 12pt; font-family: 'Times New Roman','serif'">Новая система оплаты труда работников школы устанавливается<span>&nbsp; </span>коллективным договором, соглашениями, локальными нормативными актами в соответствии с федеральными законами и иными нормативными правовыми актами Российской Федерации, Положением о новой системе оплаты труда работников общеобразовательных учреждений в рамках комплексного проекта модернизации образования Ивановской области и принимаемыми в соответствии с ним нормативными правовыми актами органов местного самоуправления. </span></span>
+</p>
+<p align="center" style="text-indent: 35.45pt; text-align: center">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p align="center" style="text-indent: 35.45pt; text-align: center">
+<span style="font-size: 8pt"><b><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">2. ФОРМИРОВАНИЕ ФОНДА ОПЛАТЫ ТРУДА</span></b> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<b><span style="font-size: 12pt; color: #0000ff; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span></b>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span><span style="font-size: 8pt">Формирование фонда оплаты труда школы осуществляется в пределах объема бюджетных средств на текущий финансовый год. </span></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">Управляющий Совет<span>&nbsp; </span>определяет в общем объеме средств долю:</span> </span>
+</p>
+<p style="margin-left: 71.45pt; text-indent: -18pt; text-align: justify; tab-stops: list 71.45pt">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: Symbol"><span>&bull;&middot;<span style="font-family: 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">на материально-техническое обеспечение и оснащение образовательного процесса;</span> </span>
+</p>
+<p style="margin-left: 71.45pt; text-indent: -18pt; text-align: justify; tab-stops: list 71.45pt">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: Symbol"><span>&bull;&middot;<span style="font-family: 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">на заработную плату работников общеобразовательного учреждения, (далее - ФОТоу).</span><span style="font-size: 12pt"></span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt"><span style="font-size: 8pt"></span></span>
+</p>
+<p align="center" style="text-indent: 35.45pt; text-align: center">
+<span style="font-size: 8pt"><b><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">3. РАСПРЕДЕЛЕНИЕ ФОНДА ОПЛАТЫ ТРУДА</span></b> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<b><span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span></b>
+</p>
+<p style="margin-left: -7.1pt; text-indent: 42.55pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">3.1. Фонд оплаты труда школы (ФОТ оу) состоит из базовой части (ФОТб) и стимулирующей части (ФОТст):</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">ФОТоу = ФОТб + ФОТст</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p style="text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span>&nbsp;</span>Объем стимулирующей части определяется по формуле:</span> </span>
+</p>
+<p style="text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p style="text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">ФОТст = ФОТоу х ш, где</span> </span>
+</p>
+<p style="text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p style="text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">ш - стимулирующая доля ФОТоу.</span> </span>
+</p>
+<p style="text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">Значение ш устанавливается Управляющим Советом школы и утверждается приказом директора школы.</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt">3.2. Базовая часть фонда оплаты труда обеспечивает гарантированную заработную плату административно-управленческого персонала (директор школы, заместители директора школы), педагогического персонала, непосредственно осуществляющего учебный процесс (учителя), учебно-вспомогательного (воспитатель групп продленного дня, преподаватель- организатор ОБЖ, педагог-психолог, старшая вожатая, библиотекарь, секретарь-машинистка, др.) и младшего обслуживающего (рабочие по обслуживанию здания, уборщики,<span>&nbsp; </span>гардеробщик, сторожа и др.) персонала школы и складывается из:<i> </i></span></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<i><span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span></i>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">ФОТб = ФОТуп + ФОТпп , где:</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt">ФОТуп - фонд оплаты труда для административно-управленческого персонала, фонд оплаты труда для учебно-вспомогательного персонала, фонд оплаты труда для младшего обслуживающего персонала; </span></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">ФОТпп - фонд оплаты труда для педагогического персонала, непосредственно осуществляющего учебный процесс;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">3.3. Директор школы формирует и утверждает штатное расписание школы в пределах базовой части фонда оплаты труда, при этом</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">доля фонда оплаты труда для педагогического персонала, непосредственно осуществляющего учебный процесс (ФОТпп), устанавливается не менее фактического уровня за предыдущий финансовой год;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">доля фонда оплаты труда&nbsp;для&nbsp;руководителей,&nbsp;учебно-вспомогательного и младшего обслуживающего персонала (ФОТуп) устанавливается, не превышающей фактический уровень за предыдущий финансовый<span>&nbsp; </span>год.</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">Объем фонда оплаты труда педагогического персонала определяется по формуле:</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt">ФОТпп = ФОТб х пп, где </span></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span><span style="font-size: 8pt"></span></span></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">пп - доля ФОТ педагогического персонала, непосредственно осуществляющего учебный процесс, в базовой части ФОТ.</span> </span>
+</p>
+<p style="text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Значение пп (не менее 60%) устанавливается<span>&nbsp; </span><span>&nbsp;</span>Управляющим Советом школы и утверждается приказом директора школы.</span> </span>
+</p>
+<p style="text-indent: 0cm; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">3.4.<span>&nbsp; </span>Размеры окладов работников школы, а также выплат компенсационного характера (в рублях или в процентном отношении к размеру должностного оклада) устанавливаются в соответствии с трудовым законодательством, штатным расписанием и иными локальными правовыми актами школы в трудовых договорах, заключаемых с работниками директором школы.</span> </span>
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+<span style="font-size: 8pt">В<span>&nbsp; </span>случае<span>&nbsp; </span>изменения<span>&nbsp; </span>фонда оплаты труда школы и (или) показателей, используемых при расчете окладов работников школы в соответствии с настоящим Положением, с ними заключаются дополнительные соглашения к трудовому договору, предусматривающие соответствующее изменение размеров окладов и (или) выплат компенсационного характера. </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt"><span style="font-size: 8pt"></span></span>
+</p>
+<p align="center" style="text-indent: 35.45pt; text-align: center">
+<span style="font-size: 8pt"><b><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">4. ОПРЕДЕЛЕНИЕ СТОИМОСТИ БЮДЖЕТНОЙ ОБРАЗОВАТЕЛЬНОЙ УСЛУГИ</span></b> </span>
+</p>
+<p align="center" style="text-indent: 35.45pt; text-align: center">
+<b><span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span></b>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">4.1. Базовая часть фонда оплаты труда для педагогического персонала, непосредственно осуществляющего учебный процесс (ФОТпп), состоит из общей части (ФОТо) и специальной части (ФОТс):</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">ФОТпп = ФОТо + ФОТс.</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">Объем<span>&nbsp; </span>специальной части определяется по формуле:</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">ФОТс = ФОТпп х с, где</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">с - доля специальной части ФОТпп.</span> </span>
+</p>
+<p style="text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span>&nbsp;</span>Значение <b>с</b> устанавливается Советом школы и утверждается приказом директора школы.</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">4.2. Общая и специальная части фонда оплаты труда педагогического персонала,<span>&nbsp; </span>непосредственно осуществляющего учебный процесс, распределяются исходя из стоимости бюджетной образовательной услуги на одного обучающегося с учетом повышающих коэффициентов ( за сложность и приоритетность предмета в зависимости от специфики образовательной программы школы, за квалификационную категорию педагога).</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">4.3. Общая часть фонда оплаты труда обеспечивает гарантированную оплату труда педагогического работника исходя из количества проведенных им учебных часов и численности обучающихся<span>&nbsp; </span>в классах (часы аудиторной занятости), а так же часов неаудиторной занятости.</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">Аудиторная занятость педагогических работников включает проведение уроков. Неаудиторная занятость педагогических работников включает следующие виды работы с обучающимися в соответствии с должностными обязанностями: консультации и дополнительные занятия с обучающимися,<span>&nbsp; </span>подготовка учащихся к олимпиадам, конференциям, смотрам, осуществление функций классного руководителя по организации и координации воспитательной работы с обучающимися, иные формы работы с обучающимися и (или) их родителями (законными представителями). Другие виды неаудиторной занятости педагогических работников могут быть учтены при<span>&nbsp; </span>начислении повышающих коэффициентов (п. 4.7.)</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">Общая часть фонда оплаты труда педагогического персонала, непосредственно осуществляющего учебный процесс (ФОТо) состоит из двух частей: фонд оплаты аудиторной занятости (ФОТаз) и неаудиторной занятости (ФОТнз):</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">ФОТо = ФОТаз + ФОТнз.</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p style="text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span>&nbsp;&nbsp;&nbsp; </span>Соотношение ФОТаз и ФОТнз устанавливается <span>&nbsp;</span>Управляющим Советом школы и утверждается приказом директора школы.</span> </span>
+</p>
+<p style="text-indent: 0cm; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Для определения величины гарантированной оплаты труда педагогического работника за аудиторную занятость вводится условная единица &laquo;стоимость 1 ученико-часа&raquo;. </span></span>
+</p>
+<p style="text-indent: 35.45pt">
+<span style="font-size: 8pt"><span style="font-size: 12pt">Стоимость 1 ученико-часа<b> - </b><span>стоимость бюджетной образовательной услуги, включающей 1 расчетный час учебной работы с 1 расчетным учеником в соответствии с учебным планом.</span></span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">Стоимость 1 ученико-часа<span> </span>рассчитывается школой в пределах объема части фонда оплаты труда, отведённой на оплату аудиторной занятости педагогического персонала, непосредственно осуществляющего учебный процесс (ФОТаз), по формуле, указанной в п.4.4</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">4.4.Стоимость 1 ученико-часа (руб./ученико-час)<span>&nbsp; </span>определяется по формуле:</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p style="text-indent: 35.45pt">
+<span style="font-size: 8pt"><b><span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ФОТаз </span></b><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">х<b> 34</b></span> </span>
+</p>
+<p style="text-indent: 35.45pt">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">Стп = --------------------------------------------------------------------------------,</span> </span>
+</p>
+<p style="text-indent: 35.45pt">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(<b>а1</b> х <b>в</b>1 + <b>а2</b> х <b>в2</b> + <b>а3</b> х <b>в3</b> + ... + <b>а10</b> х <b>в10</b> + <b>а11</b> х <b>в11</b>) х <b>52</b></span> </span>
+</p>
+<p style="text-indent: 35.45pt">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p style="text-indent: 35.45pt">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">где</span> </span>
+</p>
+<p style="text-indent: 35.45pt">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">Стп - стоимость 1 ученико-часа;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">52 - количество недель в календарном году;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">34 - количество недель в учебном году;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">ФОТаз -часть фонда оплаты труда, отведённая на оплату часов аудиторной занятости педагогического персонала, непосредственно осуществляющего учебный процесс;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">а1 - количество обучающихся в первых классах;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">а2 - количество обучающихся во вторых классах;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">а3 - количество обучающихся в третьих классах;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">а4 - количество обучающихся в четвертых классах;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">а5 - количество обучающихся в пятых классах;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">а6 - количество обучающихся в шестых классах;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">а7 - количество обучающихся в седьмых классах;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">а8 - количество обучающихся в восьмых классах;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">а9 - количество обучающихся в девятых классах;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">а10 - количество обучающихся в десятых классах;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">а11- количество обучающихся в одиннадцатых классах;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">в1 - годовое количество часов по учебному плану в первом классе;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">в2 - годовое количество часов по учебному плану во втором классе;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">в3 - годовое количество часов по учебному плану в третьем классе;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">в4 - годовое количество часов по учебному плану в четвертом классе;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">в5 - годовое количество часов по учебному плану в пятом классе;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">в6 - годовое количество часов по учебному плану в шестом классе;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">в7 - годовое количество часов по учебному плану в седьмом классе;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">в8 - годовое количество часов по учебному плану в восьмом классе;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">в9 - годовое количество часов по учебному плану в девятом классе;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">в10 - годовое количество часов по учебному плану во десятом классе;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">в11 - годовое количество часов по учебному плану в одиннадцатом классе.</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">4.5. Учебный план разрабатывается школой самостоятельно. Максимальная учебная нагрузка обучающихся не может превышать нормы, установленные федеральным базисным учебным планом и санитарными правилами и нормами.</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">При этом должна быть обеспечена в полном объеме реализация федерального компонента государственного образовательного стандарта общего образования.</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">4.6. Специальная часть фонда оплаты труда педагогического персонала, непосредственно осуществляющего учебный процесс (ФОТс), включает в себя: повышающие коэффициенты за сложность и приоритетность предмета, за квалификационную категорию педагога, за деление классов на группы, за почетные звания и ученые степени.</span> </span>
+</p>
+<p>
+<span style="font-size: 8pt"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>4.7. Повышающие коэффициенты устанавливаются на основании<span>&nbsp; </span><span style="color: #000000">&laquo;Положения о специальной части доли базовой части фонда оплаты труда педагогических работников М</span>муниципального учреждения средней общеобразовательной школы №1&raquo; с учетом мнения соответствующего органа профсоюзной организации. </span>
+</p>
+<p style="text-indent: 0cm; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>4.8. В случае экономии ФОТс школа<span>&nbsp; </span>имеет право перераспределять неиспользованные средства<span>&nbsp; </span>в ФОТст и осуществлять выплаты согласно решения Управляющего Совета школы.</span> </span>
+</p>
+<p>
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>4.9. Расчет окладов педагогического персонала, непосредственно осуществляющего учебный процесс (учителей),</span> </span>
+</p>
+<p>
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p>
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p style="text-indent: 35.45pt">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">рассчитывается по формуле:</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<b><span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span></b>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt">О= Стп х У х Чаз х К х А + Днз, где: </span></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">О - оклад учителя, непосредственно осуществляющего учебный процесс;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">Стп - расчетная стоимость ученико-часа (руб./ученико-час);</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">У - количество обучающихся по предмету в каждом классе;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">Чаз - количество часов по предмету<span>&nbsp; </span>по учебному плану в месяц в каждом классе;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt">К - повышающий коэффициент за сложность и приоритетность предмета </span></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">А - повышающий коэффициент за квалификационную категорию педагога;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">Днз - доплата за неаудиторную занятость (за классное руководство, за методическое обеспечение образовательного процесса, за подготовку учащихся к олимпиадам, конференциям, смотрам, за<span>&nbsp; </span>иные формы работы с учащимися и (или) их родителями(законными представителями).</span> </span>
+</p>
+<p style="text-indent: 35.45pt">
+<span style="font-size: 8pt"><span style="font-size: 12pt">Если учитель ведет несколько предметов<span>&nbsp; </span>в разных классах, то его оклад рассчитывается как сумма оплат труда по каждому предмету и классу по следующей формуле:</span> </span>
+</p>
+<p style="text-indent: 35.45pt">
+<span style="font-size: 12pt"><span style="font-size: 8pt"></span></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt">О= Стп х( У1 х Чаз1 х К1хА1+ У2 х Чаз2 х К2хА2+... У11 х Чаз 11х К11хА11)+Днз </span></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p style="text-align: justify">
+<span style="font-size: 8pt"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>4.10.<span> Компенсационные выплаты </span>работникам, занятым на тяжелых работах, работах с вредными и (или) опасными и иными особыми условиями труда, в условиях труда, отклоняющихся от нормальных, в т.ч. при выполнении работ, связанных с образовательным процессом, но не входящих в круг основных обязанностей работников устанавливаются на основании &laquo;Положения о компенсационных выплатах штатным сотрудникам Муниципального учреждения средней общеобразовательной школы №1&raquo;. </span>
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+<span style="font-size: 8pt"></span>
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">4.11.Расчет оплаты труда учебно-вспомогательного и младшего обслуживающего персонала:</span> </span>
+</p>
+<p style="text-align: justify">
+<span style="font-size: 8pt"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>4.11.1. Заработная плата этих работников<span>&nbsp; </span>определяется на основе: </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt">- отнесения должностей работников к соответствующим профессиональным квалификационным группам (далее-ПКГ) и квалификационным уровням в составе профессиональных групп; </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt">- установления должностных окладов (окладов, ставок заработной платы) на основе<span>&nbsp; </span>размеров<span>&nbsp; </span>минимальных окладов (минимальных ставок заработной платы) работников по соответствующим ПКГ, повышающих коэффициентов по занимаемым должностям (профессиям) в зависимости от предъявляемых требований к профессиональной подготовке<span>&nbsp; </span>и уровню квалификации, которые необходимы для осуществления соответствующей<span>&nbsp; </span>профессиональной деятельности, с учетом<span>&nbsp; </span>сложности и объема выполняемой работы; </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt">- установления выплат компенсационного характера; </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt">- установления выплат стимулирующего характера; </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt">- установления доплаты работнику для доведения его<span>&nbsp; </span>заработной платы до<span>&nbsp; </span>минимального размера оплаты труда, установленного федеральным законодательством. </span>
+</p>
+<p>
+<a name="sub_10106" title="sub_10106"></a><span style="font-size: 8pt"></span><span style="font-family: 'Arial','sans-serif'"></span>
+</p>
+<span></span>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt">4.11.2. Заработная плата этих работников общеобразовательных учреждений определяется<span>&nbsp; </span>по следующей формуле: </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<b><span style="font-size: 8pt">Зп = О+К+С+Д, где: </span></b>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt">Зп - заработная плата работника; </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt">О - <span>должностной </span>оклад<span> </span>работника; </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt">К -<span>&nbsp; </span>выплаты <span>компенсационного характера;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt">С -<span>&nbsp; </span><span>выплаты стимулирующего характера;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span>&nbsp;</span>Д- доплата до доведения заработной платы работника до<span>&nbsp; </span>минимального размера оплаты труда, установленного федеральным законодательством. </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt">4.11.3. Должностные оклады этих работников общеобразовательных учреждений<span>&nbsp; </span>определяются путем умножения минимальных окладов по квалификационному уровню ПКГ должностей работников<span>&nbsp; </span>образовательного учреждения на повышающий коэффициент <span>&nbsp;</span>по занимаемой должности в зависимости от имеющегося уровня образования, стажа, квалификационной категории: </span>
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+<span style="font-size: 8pt"><b>О= Мо х Кд ,</b> где </span>
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+<span style="font-size: 8pt">О - должностной оклад работника; </span>
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+<span style="font-size: 8pt">Мо - минимальный оклад по квалификационному уровню ПКГ должностей работников образовательного учреждения; </span>
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+<span style="font-size: 8pt">Кд - коэффициент по занимаемой должности. </span>
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">4.11.4. Тарификация работ производится с учетом Единого тарифно-квалификационного справочника работ и профессий рабочих (ЕТКС), утверждение и применение, которого определяется в порядке, устанавливаемом Правительством Российской Федерации.</span> </span>
+</p>
+<p align="center" style="text-indent: 0cm; text-align: center">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p align="center" style="text-indent: 0cm; text-align: center">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p align="center" style="text-indent: 35.45pt; text-align: center">
+<span style="font-size: 8pt"><b><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">5. РАСЧЕТ ЗАРАБОТНОЙ ПЛАТЫ ДИРЕКТОРА</span></b> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<b><span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span></b>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">5.1. Заработная плата директора школы устанавливается учредителем на основании трудового договора, исходя из средней заработной платы педагогических работников школы, непосредственно осуществляющих<span>&nbsp; </span>учебный процесс и группы оплаты труда, по следующей формуле:</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">ЗПр = ЗПпср х К, где:</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">ЗПр - заработная плата директора школы</span> </span>
+</p>
+<p style="text-indent: 35.4pt; text-align: justify">
+<span style="font-size: 8pt">ЗПпср - средняя заработная плата педагогического персонала, непосредственно осуществляющего учебный процесс в школе (при расчете средней заработной платы педагогического персонала <span>учитываются оклады и выплаты стимулирующего характера)</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">К - коэффициент, соответствующий группе оплаты труда, установленной директору школы учредителем школы.</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">5.2. Отнесение к группам оплаты труда руководителей <s><span>&nbsp;&nbsp;&nbsp;</span></s>общеобразовательных учреждений осуществляется в зависимости от количественных показателей школы. Для расчета повышающего коэффициента по группе оплаты труда руководителей общеобразовательных учреждений учредителем может вводиться система рейтинговых баллов.</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">5.3. Из специальной части ФОТ уп могут осуществляться доплаты директору школы за наличие почетного звания, государственных наград и т.п. Величина выплат рассчитывается учредителем.</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">5.4.Оплата труда заместителей директора школы устанавливается руководителем в процентном отношении от должностного оклада директора.</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p align="center" style="text-indent: 35.45pt; text-align: center">
+<span style="font-size: 8pt"><b><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">6. ФОРМИРОВАНИЕ ЦЕНТРАЛИЗОВАННОГО ФОНДА</span></b> </span>
+</p>
+<p align="center" style="text-indent: 35.45pt; text-align: center">
+<span style="font-size: 8pt"><b><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">СТИМУЛИРОВАНИЯ ДИРЕКТОРА ШКОЛЫ</span></b> </span>
+</p>
+<p align="center" style="text-indent: 35.45pt; text-align: center">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">6.1. Орган местного самоуправления (учредитель образовательного учреждения) может формировать централизованный фонд стимулирования руководителей образовательных учреждений<span>&nbsp; </span>по следующей формуле:</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">ФОТцст = ФОТ х ц, где:</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">ФОТцст - отчисление в централизованный фонд стимулирования руководителей образовательных учреждений;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">ФОТ - фонд оплаты труда образовательного учреждения;</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">ц - централизуемая доля ФОТ.</span> </span>
+</p>
+<p style="text-indent: 0cm; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span>&nbsp;</span>Размер централизуемой доли ФОТ -<span>&nbsp; </span>до 5% от<span>&nbsp; </span>ФОТ<span>&nbsp; </span>муниципальных образовательных учреждений. Размер<span>&nbsp; </span>ц<span>&nbsp; </span>устанавливается органом местного самоуправления.</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">6.2. Распределение централизованного фонда стимулирования руководителей образовательных учреждений осуществляется в соответствии с нормативным правовым актом органа местного самоуправления.</span> </span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p align="center" style="text-indent: 35.45pt; text-align: center">
+<b><span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt">7. РАСПРЕДЕЛЕНИЕ СТИМУЛИРУЮЩЕЙ ЧАСТИ </span></span></b>
+</p>
+<p align="center" style="text-indent: 35.45pt; text-align: center">
+<span style="font-size: 8pt"><b><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">ФОНДА ОПЛАТЫ ТРУДА ШКОЛЫ</span></b> </span>
+</p>
+<p style="text-indent: 36pt; text-align: justify">
+<span style="font-size: 8pt"></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 8pt"><span>Стимулирующие выплаты</span> работникам по результатам труда распределяются Управляющим Советом школы, обеспечивающим демократический, государственно-общественный характер управления,<span> с учетом мнения </span><span>&nbsp;&nbsp;</span>профсоюзного органа<span>,</span> по представлению руководителя образовательного учреждения. </span>
+</p>
+<p style="text-align: justify">
+<span style="font-size: 8pt"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Директор школы представляет в Управляющий Совет школы аналитическую информацию о показателях деятельности работников, являющихся основанием для их премирования. <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>Порядок рассмотрения Управляющим Советом школы вопроса о стимулировании работников устанавливается в соответствии с &laquo;Регламентом государственно- общественного распределения стимулирующей части заработной платы работников Муниципального учреждения средней общеобразовательной школы № 1&raquo;, &laquo;Положением о выплатах стимулирующего характера работникам Муниципального учреждения <span>&nbsp;</span>средней общеобразовательной школы №1&raquo;. </span>
+</p>
+<p style="text-align: justify">
+<span style="font-size: 8pt"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Стимулирующие выплаты работникам по результатам труда устанавливаются локальным актом образовательного учреждения и выплачиваются ежемесячно за счет средств<span>&nbsp; </span>стимулирующей<span>&nbsp; </span>части фонда оплаты труда.<span>&nbsp; </span></span>
+</p>
+<p style="text-indent: 35.45pt; text-align: justify">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p align="center" style="text-indent: 35.45pt; text-align: center">
+<span style="font-size: 8pt"><b>8. ГАРАНТИИ ПО ОПЛАТЕ ТРУДА</b><span style="background: yellow"></span> </span>
+</p>
+<p style="margin-top: 15.35pt; background: white; text-indent: 24pt; line-height: 15.85pt; text-align: justify; tab-stops: 48.0pt">
+<span style="font-size: 8pt"><span>&nbsp;</span>8.1. Месячная заработная плата работника, полностью отработавшего за этот период норму рабочего времени и выполнившего норму труда (трудовые обязанности) не может быть ниже установленного федеральным законодательством минимального размера оплаты труда. </span>
+</p>
+<p style="margin-top: 15.35pt; background: white; text-indent: 24pt; line-height: 15.85pt; text-align: justify; tab-stops: 48.0pt">
+<span style="font-size: 8pt">8.2<span>&nbsp; </span>Заработная плата работников (без учета премий и иных стимулирующих выплат), устанавливаемая в соответствии с новой системой оплаты труда, не может быть меньше<br />
+заработной платы (без учета премий и иных стимулирующих выплат), выплачиваемой на основе предыдущей методики при условии сохранения объема должностных обязанностей работников и выполнения ими работ той же квалификации. </span>
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">.</span> </span>
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+<span style="font-size: 8pt"><span style="font-size: 12pt; font-family: 'Times New Roman','serif'">8.3. В случае, когда установленная в соответствии с настоящим Положением заработная плата работника, полностью отработавшего норму рабочего времени и выполнившего нормы труда, оказывается ниже установленного федеральным законом минимального размера оплаты труда, работнику выплачивается соответствующая разница в заработной плате.</span> </span>
+</p>
+<p align="right" style="text-indent: 0cm; text-align: right">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><span style="font-size: 8pt"></span></span>
+</p>
+<p align="right" style="text-indent: 35.45pt; text-align: right">
+<span style="font-size: 8pt">Рассмотрено на собрании трудового </span>
+</p>
+<p align="right" style="text-indent: 35.45pt; text-align: right">
+<span style="font-size: 8pt">коллектива 29.06.2010. </span>
+</p>
+<p align="right" style="text-indent: 35.45pt; text-align: right">
+&nbsp;
+</p>
+			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+					<table align="center" style="margin-top: 15px;">
+			<tr>
+									<th class="pagenav_prev">
+					<a href="index.php?option=com_content&amp;task=view&amp;id=308&amp;Itemid=2" title="Положение о порядке и условиях распределения стимулирующей части фонда оплаты труда  работников МУСОШ№1">
+							&laquo; Положение о порядке и условиях распределения стимулирующей части фонда оплаты труда  работников МУСОШ№1</a>
+					</th>
+										<td width="50">&nbsp;
+
+					</td>
+										<th class="pagenav_next">
+					<a href="index.php?option=com_content&amp;task=view&amp;id=306&amp;Itemid=2" title="ОБЪЕКТОВАЯ ТРЕНИРОВКА">
+							ОБЪЕКТОВАЯ ТРЕНИРОВКА &raquo;</a>
+					</th>
+								</tr>
+			</table>
+									<div class="back_button">
+						<a href='javascript:history.go(-1)'>
+					Вернуться</a>
+						</div>
+																																				<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+									</td>
+								</tr>
+							</table>
+						</div>
+						<div id="rightcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+						<div id="search">
+							
+<form action="index.php?option=com_search" method="get">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="100" alt="search" class="inputbox" type="text" size="20" value="Поиск..."  onblur="if(this.value=='') this.value='Поиск...';" onfocus="if(this.value=='Поиск...') this.value='';" />	</div>
+
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="" />	
+</form>						</div>
+													</div>
+						<div class="clr">&nbsp;</div>
+					  </div> 					  </div> 					  </div> 					</div>
+					<div class="clr">&nbsp;</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="bag">&nbsp;</div>
+		<div id="footer">
+							<div id="footer_r">Copyright 2010  ·  Дизайн <a target='_blank' href='http://www.desunk.com'>www.desunk.com</a>  ·  All Rights Reserved
+				</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

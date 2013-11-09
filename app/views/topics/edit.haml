@@ -1,0 +1,29 @@
+- content_for :css do
+  =stylesheet_link_tag 'modern/form', :media=>'screen'
+  =stylesheet_link_tag 'markitup/skins/markitup/style', :media=>'screen'
+  =stylesheet_link_tag 'markitup/sets/textile/style', :media=>'screen'
+
+-# MURKITUP EDITOR
+- content_for :js do
+  = javascript_include_tag 'markitup/markitup.js'
+  = javascript_include_tag 'markitup/sets/textile/set.js'
+
+  :javascript
+    $(document).ready(function() {
+      $("#markItUp").markItUp(mySettings);
+    });
+
+= render :partial=>'topics/ql/edit'
+= render :partial=>'topics/bc/edit'
+
+#edit_form.form.overblock
+  = form_for( :topic, :url=>topic_path, :html=>{:method=>:put} ) do |f|
+    =render :partial => 'form', :locals => {:f => f, :topic=>@topic, :button=>'Обновить тему'}
+
+-unless @topic.new_record?
+  .delete_button#delete_button
+    = button_to 'Удалить тему', topic_url(@topic, :subdomain=>@user.subdomain), :method=>:delete, :confirm=>'Уверены, что хотите удалить тему безвозвратно?'
+
+= render :partial => 'preview'
+
+= render :partial=>'comments/block', :locals => {:object=>@topic, :comment => @comment, :comments=>@comments}

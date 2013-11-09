@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="windows-1251"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>ГОРОДСКОЙ БЛАГОТВОРИТЕЛЬНЫЙ МАРАФОН - Средняя общеобразовательная школа № 1 города Иванова</title>
+<meta name="title" content="ГОРОДСКОЙ БЛАГОТВОРИТЕЛЬНЫЙ МАРАФОН" />
+<meta name="author" content="webmaster" />
+<meta name="description" content=" Официальный сайт средней общеобразовательной школы № 1 города Иванова Ивановской области" />
+<meta name="keywords" content=" школа иваново 1 средняя образование новости ученик учитель" />
+<meta name="distribution" content="global" />
+<meta name="rating" content="General" />
+<meta name="document-state" content="Dynamic" />
+<meta name="documentType" content="WebDocument" />
+<meta name="audience" content="all" />
+<meta name="revisit" content="10 days" />
+<meta name="revisit-after" content="10 days" />
+<meta name="allow-search" content="yes" />
+<meta name="language" content="russian" />
+<base href="http://school1.ivedu.ru/" />
+<link href="http://school1.ivedu.ru/templates/school1-1/css/template_css.css" rel="stylesheet" type="text/css" />
+<!--[if lt IE 7]>
+			<script type="text/javascript" src="/js/unitpngfix.js"></script>
+<![endif]-->  
+<!--[if (gt IE 5)&(lt IE 7)]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ieonly.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ie7only.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body id="page_bg">
+<div class="center" align="center">
+	<div id="wrapper">
+		<div id="wrapper_r">
+			<div id="header">
+				<a href="http://school1.ivedu.ru" id="logo">&nbsp;</a>
+				<table cellpadding="0" cellspacing="0" class="pill">
+					<tr>
+						<td class="pill_l">&nbsp;
+						</td>
+						<td class="pill_m">
+						<div id="pillmenu">
+													</div>
+						</td>
+					</tr>
+				</table>
+			</div>
+			<div id="tabarea">&nbsp;
+			</div>
+
+			<div class="clr"></div>
+			<div id="whitebox">
+<!--				<div id="whitebox_t">
+					<div id="whitebox_tl">
+						<div id="whitebox_tr">&nbsp;</div>
+					</div>
+				</div> -->
+
+				<div id="whitebox_m">
+					<div id="area">
+					  <div class="rightback">
+					  <div class="contentback">
+					  <div class="leftback">
+						<div id="leftcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+									<div class="module_menu">
+			<div>
+				<div>
+					<div>
+						<h3>Главное меню</h3>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="." title="Главная" class="mainlevel" >Главная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" title="Новости" class="mainlevel" id="active_menu">Новости</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=445&amp;Itemid=45" title="Портфолио школы" class="mainlevel" >Портфолио школы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=446&amp;Itemid=46" title="Учебный процесс" class="mainlevel" >Учебный процесс</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=448&amp;Itemid=47" title="Педагоги" class="mainlevel" >Педагоги</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=5&amp;Itemid=29" title="Документы" class="mainlevel" >Документы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=449&amp;Itemid=48" title="Публичные отчеты" class="mainlevel" >Публичные отчеты</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=450&amp;Itemid=49" title="Кабинет здоровья" class="mainlevel" >Кабинет здоровья</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=451&amp;Itemid=50" title="Родителям" class="mainlevel" >Родителям</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=452&amp;Itemid=51" title="Общественная приемная" class="mainlevel" >Общественная приемная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=453&amp;Itemid=52" title="Итоговая аттестация" class="mainlevel" >Итоговая аттестация</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=454&amp;Itemid=53" title="Школьная жизнь" class="mainlevel" >Школьная жизнь</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_contact&amp;Itemid=3" title="Контакты" class="mainlevel" >Контакты</a></td></tr>
+</table>					</div>
+				</div>
+			</div>
+		</div>
+																						</div>
+						<div id="maincolumn">
+						<div id="pathway">
+							<span class="pathway"><a href="http://school1.ivedu.ru" class="pathway" title="Главная">Главная</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" class="pathway" title="Новости">Новости</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=category&amp;sectionid=1&amp;id=1&amp;Itemid=2" class="pathway" title="Новое">Новое</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" />   ГОРОДСКОЙ БЛАГОТВОРИТЕЛЬНЫЙ МАРАФОН </span>						</div>
+<!--											<table class="nopad user1user2">
+								<tr valign="top">
+									<td class="half1">
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Последние новости				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="latestnews">
+	<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=491&amp;Itemid=2" title="ЛЕТНИЙ ОТДЫХ" class="latestnews">ЛЕТНИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=490&amp;Itemid=2" title="ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ" class="latestnews">ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=489&amp;Itemid=2" title="ИГАСУ ЖДЕТ ВАС" class="latestnews">ИГАСУ ЖДЕТ ВАС</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+																			<td class="greyline">&nbsp;</td>
+																		<td>
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Популярное				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="mostread">
+	<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=104&amp;Itemid=2" title="Благодарность учителям начальной школы" class="mostread">
+			Благодарность учителям начальной школы</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=59&amp;Itemid=2" title="Слова благодарности" class="mostread">
+			Слова благодарности</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=51&amp;Itemid=2" title="День открытых дверей для родителей будущих первоклассников" class="mostread">
+			День открытых дверей для родителей будущих первоклассников</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+								</tr>
+							</table>
+							<div id="maindivider"></div>
+				 -->
+							<table class="nopad content">
+								<tr valign="top">
+									<td>
+																					
+			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+				<h3>ГОРОДСКОЙ БЛАГОТВОРИТЕЛЬНЫЙ МАРАФОН</h3>				</td>
+										<td align="right" width="100%" class="buttonheading">
+															<a href="http://school1.ivedu.ru/index2.php?option=com_content&amp;task=view&amp;id=393&amp;pop=1&amp;page=0&amp;Itemid=2" target="_blank" title="Печать"><img src="http://school1.ivedu.ru/images/M_images/printButton.png"  alt="Печать" id="print" name="print" align="middle" border="0" /></a>
+													</td>
+								</tr>
+			</table>
+			
+		<table  class="contentpaneopen">
+				<tr>
+			<td width="70%" align="left" valign="top" colspan="2">
+			<span class="small">
+			 Автор webmaster			</span>
+			&nbsp;&nbsp;
+			</td>
+		</tr>
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+				16:02:2011 г.				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+			<div style="text-align: center">
+<img height="242" width="742" src="images/stories/pages/ti_nam_nuzen.jpg" alt="ti_nam_nuzen.jpg" title="ti_nam_nuzen.jpg" style="margin: 5px; width: 486px; height: 150px" /> 
+</div>
+<span style="color: #ff6600"></span>
+<p>
+<span><span style="color: #0000ff; font-size: 10pt"></span></span>
+</p>
+<span style="color: #0000ff"><span style="color: #0000ff"><span style="font-size: 10pt"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span style="font-family: times new roman,times"><b><span style="font-family: times new roman,times; color: #7803b3; font-size: 8pt"></span></b></span></span></span></span></span></span><span style="color: #0000ff"><span style="color: #0000ff"><span style="font-size: 10pt"><span style="font-family: times new roman,times"><span style="font-size: 10pt"><span style="font-family: times new roman,times"><b><span style="font-family: times new roman,times; color: #7803b3; font-size: 8pt"><b><span style="font-family: 'Times New Roman'; color: #7803b3; font-size: 8pt"></span></b><b><span style="font-family: 'Times New Roman'; color: #7803b3; font-size: 8pt">
+<p style="text-align: justify">
+<span style="font-family: 'Times New Roman'; color: #0000ff; font-size: 10pt"></span>
+</p>
+<p style="text-align: justify">
+<b><span style="font-family: 'Times New Roman'; color: #0000ff; font-size: 10pt"></span></b>
+</p>
+<p style="text-align: justify">
+<b><span style="font-family: 'Times New Roman'; color: #0000ff; font-size: 10pt"></span></b>
+</p>
+<p align="center" style="text-align: center; margin-bottom: 0pt">
+<span style="font-family: 'Times New Roman'; color: #0000ff; font-size: 10pt"></span>
+</p>
+<p align="justify" style="text-align: justify; margin-bottom: 0pt">
+<span style="font-family: 'Times New Roman'; color: #0000ff; font-size: 10pt"></span>
+</p>
+<p align="justify" style="text-align: justify; margin-bottom: 0pt">
+<span style="font-family: 'Times New Roman'; color: #0000ff; font-size: 10pt"></span>
+</p>
+<p align="justify" style="text-align: justify; margin-bottom: 0pt">
+<span style="font-family: 'Times New Roman'; color: #0000ff; font-size: 10pt"></span>
+</p>
+<p align="justify" style="text-align: justify; margin-bottom: 0pt">
+<span style="font-family: 'Times New Roman'; color: #0000ff; font-size: 10pt"></span>
+</p>
+<p align="justify" style="text-align: justify; margin-bottom: 0pt">
+<span style="font-family: 'Times New Roman'; color: #0000ff; font-size: 10pt"></span>
+</p>
+<p align="justify" style="text-align: justify; margin-bottom: 0pt">
+<span style="font-family: 'Times New Roman'; color: #0000ff; font-size: 10pt"></span>
+</p>
+<span style="font-family: 'Times New Roman'; color: #0000ff; font-size: 10pt">&nbsp; 
+<div align="center">
+</div>
+<div align="center">
+<table width="462" cellPadding="0" cellSpacing="0" border="1" style="width: 346.75pt; border-collapse: collapse; border: medium none">
+	<tbody>
+		<tr>
+			<td width="462" vAlign="top" style="padding-bottom: 0cm; padding-left: 5.4pt; width: 346.75pt; padding-right: 5.4pt; padding-top: 0cm; border: #ff6600 2.5pt double">
+			<p style="text-align: justify">
+			<b><span style="font-family: 'Times New Roman'; color: #7803b3; font-size: 8pt">ИНДЕКС:&nbsp;&nbsp;&nbsp; Д.О.Б.Р.О.</span></b><span style="font-family: 'Times New Roman'; color: #0000ff; font-size: 10pt"> </span>
+			</p>
+			<p style="text-align: justify">
+			<b><span style="font-family: 'Times New Roman'; color: #0000ff; font-size: 10pt">АДРЕС:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Добрый город, добрый компьютер </span></b>
+			</p>
+			<p style="text-align: justify">
+			<b><span style="font-family: 'Times New Roman'; color: #800080; font-size: 10pt">КОМУ:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Доброму пользователю </span></b><span style="color: #800080"></span>
+			</p>
+			<p align="center" style="text-align: center; margin-bottom: 0pt">
+			<b><span style="font-family: 'Times New Roman'; color: #7803b3; font-size: 8pt">Привет!</span></b><b><span style="font-family: 'Times New Roman'; color: #0000ff; font-size: 10pt"> </span></b>
+			</p>
+			<p style="text-align: justify; margin-bottom: 0pt">
+			<span style="font-family: 'Times New Roman'; color: #0000ff; font-size: 10pt"><span>&nbsp;&nbsp; </span>Наверняка ты знаешь, что лечение и содержание&nbsp;&nbsp; детей-инвалидов требует существенных финансовых затрат. Многие&nbsp; ошибочно полагают, что таким детям&nbsp; необходима лишь материальная помощь. Дети с ограниченными возможностями здоровья очень часто лишены простого человеческого внимания и общения. </span>
+			</p>
+			<p style="text-align: justify; margin-bottom: 0pt">
+			<span style="font-family: 'Times New Roman'; color: #0000ff; font-size: 10pt">Как&nbsp; просто&nbsp; - закрыть глаза и не замечать, сказать: &quot;Каждый сам за себя&quot;. Самое страшное, чем мы можем отреагировать на таких детей, - равнодушие. Просто пройти мимо, не дрогнув ни единой фиброй души. </span>
+			</p>
+			<p style="text-align: justify; margin-bottom: 0pt">
+			<span style="font-family: 'Times New Roman'; color: #0000ff; font-size: 10pt"><span>&nbsp;&nbsp; </span>Ты никогда не задумывался, как это&nbsp; - быть ненужным, нелюбимым, больным, не иметь в сердце ни малейшего лучика надежды?&nbsp; И если ты равнодушен к беде ближнего, если милосердие - это не твое дело, если чужая боль тебя не касается, если ты всё время будешь ждать, что всё сделает ДРУГОЙ, то не заметишь, что ДРУГОЙ - это и есть ты, что ты такой же, как ОНИ...&nbsp; </span>
+			</p>
+			<p style="text-align: justify; margin-bottom: 0pt">
+			<span style="font-family: 'Times New Roman'; color: #0000ff; font-size: 10pt"><span>&nbsp;&nbsp; </span>Твое&nbsp; участие и сопереживание могут &nbsp;сделать счастливым хотя бы одного человека, возможно, твоего ровесника. Подумай, чего тебе будет стоить сказать доброе слово или отправить сообщение посредством Интернета? Это пять минут личного времени в день и огромное желание поддержать кого-то, кому сейчас тяжелее, чем тебе!&nbsp;&nbsp;&nbsp; </span>
+			</p>
+			<p style="text-align: justify">
+			<span style="font-family: 'Times New Roman'; color: #0000ff; font-size: 10pt"><span>&nbsp;&nbsp; </span>Напиши письмо ребенку с ограниченными возможностями здоровья и отправь его&nbsp; на адрес</span><strong><span style="color: #ff0000; font-size: 10pt"> </span></strong><span style="font-family: 'Times New Roman'; color: #7803b3; font-size: 8pt"><a href="mailto:%20%3cscript%20language='JavaScript'%20type='text/javascript'%3e%20%3c!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy63598%20=%20'iv_igud'%20+%20'@';%20addy63598%20=%20addy63598%20+%20'mail'%20+%20'.'%20+%20'ru';%20document.write(%20'%3ca%20'%20+%20path%20+%20'\''%20+%20prefix%20+%20':'%20+%20addy63598%20+%20'\'%3e'%20);%20document.write(%20addy63598%20);%20document.write(%20'%3c\/a%3e'%20);%20//--%3e\n%20%3c/script%3e%3cscript%20language='JavaScript'%20type='text/javascript'%3e%20%3c!--%20document.write(%20'%3cspan%20style=\'display:%20none;\'%3e'%20);%20//--%3e%20%3c/script%3eЭтот%20e-mail%20защищен%20от%20спам-ботов.%20Для%20его%20просмотра%20в%20вашем%20браузере%20должна%20быть%20включена%20поддержка%20Java-script%20%3cscript%20language='JavaScript'%20type='text/javascript'%3e%20%3c!--%20document.write(%20'%3c/'%20);%20document.write(%20'span%3e'%20);%20//--%3e%20%3c/script%3e"><strong><span style="color: #ff0000; font-size: 10pt; text-decoration: none; text-underline: none">
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy44826 = '&#105;v_&#105;g&#117;d' + '&#64;';
+ addy44826 = addy44826 + 'm&#97;&#105;l' + '&#46;' + 'r&#117;';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy44826 + '\'>' );
+ document.write( addy44826 );
+ document.write( '<\/a>' );
+ //-->\n </script><script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script>Этот e-mail защищен от спам-ботов. Для его просмотра в вашем браузере должна быть включена поддержка Java-script
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script></span></strong></a></span><span style="font-family: 'Times New Roman'; color: #0000ff; font-size: 10pt"> и тысячи мальчишек и девчонок,&nbsp; поддержав твою инициативу, сделают наш город ДОБРЕЕ! </span>
+			</p>
+			<p style="text-align: justify">
+			<b><span style="font-family: 'Times New Roman'; color: #7803b3; font-size: 8pt">ОТ КОГО: неравнодушные</span></b><span style="font-family: 'Times New Roman'; color: #0000ff; font-size: 10pt"> </span>
+			</p>
+			<p style="text-align: justify">
+			<strong><span style="color: #0000ff; font-size: 10pt">АДРЕС:</span></strong><strong><span style="color: #ff0000; font-size: 10pt"> </span></strong><span style="font-family: 'Times New Roman'; color: #7803b3; font-size: 8pt"><a href="mailto:%20%3cscript%20language='JavaScript'%20type='text/javascript'%3e%20%3c!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy63598%20=%20'iv_igud'%20+%20'@';%20addy63598%20=%20addy63598%20+%20'mail'%20+%20'.'%20+%20'ru';%20document.write(%20'%3ca%20'%20+%20path%20+%20'\''%20+%20prefix%20+%20':'%20+%20addy63598%20+%20'\'%3e'%20);%20document.write(%20addy63598%20);%20document.write(%20'%3c\/a%3e'%20);%20//--%3e\n%20%3c/script%3e%3cscript%20language='JavaScript'%20type='text/javascript'%3e%20%3c!--%20document.write(%20'%3cspan%20style=\'display:%20none;\'%3e'%20);%20//--%3e%20%3c/script%3eЭтот%20e-mail%20защищен%20от%20спам-ботов.%20Для%20его%20просмотра%20в%20вашем%20браузере%20должна%20быть%20включена%20поддержка%20Java-script%20%3cscript%20language='JavaScript'%20type='text/javascript'%3e%20%3c!--%20document.write(%20'%3c/'%20);%20document.write(%20'span%3e'%20);%20//--%3e%20%3c/script%3e"><strong><span style="color: #ff0000; font-size: 10pt; text-decoration: none; text-underline: none">
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy44826 = '&#105;v_&#105;g&#117;d' + '&#64;';
+ addy44826 = addy44826 + 'm&#97;&#105;l' + '&#46;' + 'r&#117;';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy44826 + '\'>' );
+ document.write( addy44826 );
+ document.write( '<\/a>' );
+ //-->\n </script><script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script>Этот e-mail защищен от спам-ботов. Для его просмотра в вашем браузере должна быть включена поддержка Java-script
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script></span></strong></a></span><span style="font-family: 'Times New Roman'; color: #0000ff; font-size: 10pt"> </span>
+			</p>
+			<p>
+			&nbsp;
+			</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+</span></span></b></span></b></span></span></span></span></span></span>
+			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+					<table align="center" style="margin-top: 15px;">
+			<tr>
+									<th class="pagenav_prev">
+					<a href="index.php?option=com_content&amp;task=view&amp;id=395&amp;Itemid=2" title="УРОК С ОТКРЫТОЙ ДУШОЙ">
+							&laquo; УРОК С ОТКРЫТОЙ ДУШОЙ</a>
+					</th>
+										<td width="50">&nbsp;
+
+					</td>
+										<th class="pagenav_next">
+					<a href="index.php?option=com_content&amp;task=view&amp;id=391&amp;Itemid=2" title="ПРИЕМ В 1 КЛАСС">
+							ПРИЕМ В 1 КЛАСС &raquo;</a>
+					</th>
+								</tr>
+			</table>
+									<div class="back_button">
+						<a href='javascript:history.go(-1)'>
+					Вернуться</a>
+						</div>
+																																				<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+									</td>
+								</tr>
+							</table>
+						</div>
+						<div id="rightcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+						<div id="search">
+							
+<form action="index.php?option=com_search" method="get">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="100" alt="search" class="inputbox" type="text" size="20" value="Поиск..."  onblur="if(this.value=='') this.value='Поиск...';" onfocus="if(this.value=='Поиск...') this.value='';" />	</div>
+
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="" />	
+</form>						</div>
+													</div>
+						<div class="clr">&nbsp;</div>
+					  </div> 					  </div> 					  </div> 					</div>
+					<div class="clr">&nbsp;</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="bag">&nbsp;</div>
+		<div id="footer">
+							<div id="footer_r">Copyright 2010  ·  Дизайн <a target='_blank' href='http://www.desunk.com'>www.desunk.com</a>  ·  All Rights Reserved
+				</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

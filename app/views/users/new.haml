@@ -1,0 +1,32 @@
+-#raw t('users.signup_new_user')
+-# @user.password = @user.password_confirmation = nil
+= object_errors(:prereg)
+
+%h3
+  Получить приглашение:
+
+= form_for :prereg, :url => preregs_path do |f|
+  -#%p{:style=>'font-size:20pt;'}= label_tag :name, '' #t('base.email')
+  %p
+    Для регистрации введите свои настоящие:
+    %br
+    Фимилию, Имя и Отчество
+    %br
+    %span{:style=>'font-size:9pt; color:green;'}
+      Например: Николаева Ирина Викторовна
+    = f.text_field :name, :style=>'font-size:24pt; width:500px; padding:3px;'
+
+  %p
+    и адрес электронной почты, куда будет выслано приглашение
+    %br
+    %span{:style=>'font-size:9pt; color:green;'}
+      Например: nikolaeva@yandex.ru
+    = f.text_field :email, :style=>'font-size:24pt; width:500px; padding:3px;'
+
+  -#%p{:style=>'font-size:20pt;'}= label_tag :email, t('base.email')
+
+  %p
+    = submit_tag t('base.signup'), :style=>'font-size:20pt;'
+
+%p
+  После проверки модератором вам будет выслан пароль для доступа к личному кабинету.

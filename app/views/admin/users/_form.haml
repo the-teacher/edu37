@@ -1,0 +1,148 @@
+:css
+  #current_password, #show_current_password{
+    border:1px solid gray;
+    padding:3px;
+  }
+  .user_info, .counters, .karma{
+    padding:10px;
+    margin-bottom:10px;
+  } 
+  .user_info{
+    background-color:PowderBlue;
+  }
+  .counters{
+    background-color:Plum;
+  }
+  .karma{
+    background-color:Pink;
+  }
+  .input.open_password{
+    color:gray;
+    border-color:red;
+  }
+  .pass_link{
+    color: OrangeRed;
+    font-size: 8pt;
+  }
+
+:javascript
+  function show_password(){
+    pass = $('#user_password').val();
+    $('#open_password').val(pass);   
+    $('#p_user_password').hide();
+    $('#show_password_link').hide();
+    $('#p_open_password').show();
+  }
+  function hide_password(){
+    $('#p_open_password').hide();
+    $('#p_user_password').show();
+    $('#show_password_link').show();
+  }
+
+  function show_password_confirmation(){
+    pass = $('#user_password_confirmation').val();
+    $('#open_password_confirmation').val(pass);   
+    $('#p_user_password_confirmation').hide();
+    $('#show_password_confirmation_link').hide();
+    $('#p_open_password_confirmation').show();
+  }
+  function hide_password_confirmation(){
+    $('#p_open_password_confirmation').hide();
+    $('#p_user_password_confirmation').show();
+    $('#show_password_confirmation_link').show();
+  }
+  function show_current_password(){
+    $('#show_current_password').hide();
+    $('#current_password').show();
+  }
+  function hide_current_password(){
+    $('#show_current_password').show();
+    $('#current_password').hide();
+  }
+
+%p
+  = f.label :login, t('users.form.login')
+  = f.text_field :login, :class=>:input
+
+  = state_icon(@user)
+  = moderation_state_icon(@user)
+%p
+  = f.label :zip, t('users.form.zip')
+  = f.text_field :zip, :class=>:input
+%p
+  = f.label :name, t('users.form.name')
+  = f.text_field :name, :class=>:input
+%p
+  = f.label :email, t('users.form.email')
+  = f.text_field :email, :class=>:input
+-#
+  %p
+    = f.label :sex, t('users.form.sex')
+    = f.text_field :sex, :class=>:input
+
+%p= link_to_function t('users.form.show_current_password'), "show_current_password()", :class=>:pass_link, :id=>:show_current_password
+
+%p#current_password{:style=>'display:none;'}
+  = @user.crypted_password
+  %br
+  = link_to_function t('users.form.hide_current_password'), "hide_current_password()", :class=>:pass_link
+
+%p#p_user_password
+  = f.label :password, t('users.form.password')
+  = f.password_field :password, :class=>:input
+  %br
+  = link_to_function t('users.form.show_password'), "show_password()", :id=>:show_password_link, :class=>:pass_link
+%p#p_open_password{:style=>'display:none;'}
+  = f.label :open_password, t('users.form.open_password')
+  = content_tag :input, '', :type=>:text, :class=>'input open_password', :id=>:open_password
+  %br
+  = link_to_function t('users.form.hide_password'), "hide_password()", :class=>:pass_link
+
+%p#p_user_password_confirmation
+  = f.label :password_confirmation, t('users.form.password_confirmation')
+  = f.password_field :password_confirmation, :class=>:input
+  %br
+  = link_to_function t('users.form.show_password_confirmation'), "show_password_confirmation()", :id=>:show_password_confirmation_link, :class=>:pass_link
+%p#p_open_password_confirmation{:style=>'display:none;'}
+  = f.label :open_password_confirmation, t('users.form.open_password_confirmation')
+  = content_tag :input, '', :type=>:text, :class=>'input open_password', :id=>:open_password_confirmation
+  %br
+  = link_to_function t('users.form.hide_password_confirmation'), "hide_password_confirmation()", :class=>:pass_link
+
+
+%p
+  = f.label :login, t('users.form.change_role')
+  = select(:user, :role_id, Role.all.collect {|role| [ role.title, role.id ] })
+
+-#
+  .user_info
+    %p
+      = f.label :created_at, t('users.form.created_at')
+      = f.text_field :created_at, :class=>:input
+    %p
+      = f.label :last_login_at, t('users.form.last_login_at')
+      = f.text_field :last_login_at, :class=>:input
+    %p
+      = f.label :time_zone, t('users.form.time_zone')
+      = f.text_field :time_zone, :class=>:input
+
+  .counters
+    %p
+      = f.label :show_count, t('users.form.show_count')
+      = f.text_field :show_count, :class=>:input
+
+  .karma
+    %p
+      = f.label :karma, t('users.form.karma')
+      = f.text_field :karma, :class=>:input
+    %p
+      = f.label :raiting, t('users.form.raiting')
+      = f.text_field :raiting, :class=>:input
+    %p
+      = f.label :power, t('users.form.power')
+      = f.text_field :power, :class=>:input
+
+.submit_button
+  = submit_tag button, :class=>:submit
+
+= moderation_buttons_for(@user)

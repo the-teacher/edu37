@@ -1,0 +1,12 @@
+%p
+  = f.label :title, 'от:'
+  = f.text_field :title, :class=>'input comment_title'
+%p
+  = f.label :contacts, 'контакты:'
+  = f.text_field :contacts, :class=>'input comment_contacts'
+%p
+  = f.label :textile_content, 'сообщение:'
+  = f.text_area :textile_content, :class=>'input comment_content', :rows=>8
+.submit_button
+  = submit_tag button, :class=>:submit
+

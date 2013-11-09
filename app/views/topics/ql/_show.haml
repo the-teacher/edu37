@@ -1,0 +1,23 @@
+-if logged_in?
+  - content_for :quick_links do
+    %li
+      = link_to t('base.cabinet'), cabinet_users_url(:subdomain=>current_user.subdomain)
+      = link_to_function(image_tag('basic/ext_link.gif'), popup_window(:left=>100, :top=>100), :href=>cabinet_users_url(:subdomain=>current_user.subdomain))
+ 
+    - if current_user.has_access?(:forums, :manage)
+      %li
+        = link_to 'Управление форумами', manage_forums_url(:subdomain=>current_user.subdomain)
+        = link_to_function(image_tag('basic/ext_link.gif'), popup_window(:left=>100, :top=>100), :href=>manage_forums_url(:subdomain=>current_user.subdomain))
+
+    -if current_user.owner?(@topic)
+      - if current_user.has_access?(:forums, :edit)
+        %li
+          = link_to 'Редактировать форум', edit_forum_url(@forum, :subdomain=>@user.subdomain)
+          = link_to_function(image_tag('basic/ext_link.gif'), popup_window(:left=>100, :top=>100), :href=>edit_forum_url(@forum, :subdomain=>@user.subdomain))
+
+      - if current_user.has_access?(:topics, :edit)
+        %li
+          = link_to 'Редактировать тему', edit_topic_url(@topic, :subdomain=>@user.subdomain)
+          = link_to_function(image_tag('basic/ext_link.gif'), popup_window(:left=>100, :top=>100), :href=>edit_topic_url(@topic, :subdomain=>@user.subdomain))
+
+

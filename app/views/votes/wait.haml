@@ -1,0 +1,8 @@
+- obj_id=         object_id(@object, :raiting_block)
+- vote_block_id=  object_id(@object, :vote_block)
+- ajax_loader_id= object_id(@object, :ajax_loader)
+- raiting=        vote_rating_for(@object)
+$('##{obj_id}').html('#{raiting}, ожидайте #{@minutes}:#{@seconds}').show();
+$('##{vote_block_id}').hide();
+$('##{ajax_loader_id}').hide();
+

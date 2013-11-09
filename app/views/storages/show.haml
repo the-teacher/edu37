@@ -1,0 +1,80 @@
+- content_for :title do
+  = raw t('storages.show')
+  = @storage.title
+
+-# JS
+= render :partial => 'uploaded_files/lightbox_init'
+
+- content_for :js do
+  :javascript
+    function show_other_codes(id){
+      $('#other_codes_link_'+id).hide();
+      $('#other_codes_'+id).show();
+    }
+    function hide_other_codes(id){
+      $('#other_codes_'+id).hide();
+      $('#other_codes_link_'+id).show();
+    }
+
+- content_for :css do
+  =stylesheet_link_tag 'modern/form', :media=>:screen
+  =stylesheet_link_tag 'modern/pagination', :media=>:screen
+  =stylesheet_link_tag '/javascripts/gallery/gallery', :media=>:screen
+  :css
+    .upload_file_header{
+      margin-bottom:10px;
+    }
+    .upload_file_header .file_size{
+      margin-bottom:10px;
+      color: Navy;
+      display:block;
+    }
+    .upload_file_header .title{
+      margin-bottom:10px;
+    }
+    .upload_file_header .title a{
+      font-size:16pt;
+      font-style:italic;
+      color:DodgerBlue;
+    }
+    .upload_file_header .icon{
+      border:1px solid #CCC;
+      float: right;
+    }
+    .uploaded_files_list input.input{
+      width:75%;
+    }
+    .uploaded_files_list a.button,
+    .uploaded_files_list a.button{
+      display:block;
+      float:right;
+      color:white;
+      border:1px solid green;
+      background:MidnightBlue;
+      font-size:8pt;
+      padding: 3px 15px;
+      margin: 0 10px 0 0;
+      text-align: center;
+      text-decoration: none;
+      font-weight:bold;
+      -moz-border-radius:10px;
+    }
+    .uploaded_files_list a.button.delete{
+      background:Maroon;
+    }
+    .uploaded_files_list a.other_codes:hover,
+    .uploaded_files_list a.hide_other_codes:hover{
+      text-decoration: underline;
+    }
+
+= render :partial => 'storages/ql/show'
+= render :partial => 'storages/bc/show'
+
+= render :partial=>'uploaded_files/new', :locals => { :uploaded_file => @uploaded_file, :storage=>@storage }
+
+= will_paginate @uploaded_files
+ 
+%ul.uploaded_files_list
+  = render :partial=>'uploaded_files/list', :collection => @uploaded_files, :as => :uploaded_file
+
+= will_paginate @uploaded_files

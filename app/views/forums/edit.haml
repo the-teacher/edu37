@@ -1,0 +1,22 @@
+- content_for :css do
+  =stylesheet_link_tag 'modern/form', :media=>'screen'
+  =stylesheet_link_tag 'modern/nested_set/style', :media=>'screen'
+
+= render :partial => 'forums/ql/edit'
+= render :partial => 'forums/bc/edit'
+= object_errors(@forum)
+
+#edit_form.form.overblock
+  = form_for( :forum, :url=>forum_path, :html=>{:method=>:put} ) do |f|
+    = render :partial => 'form', :locals => {:f => f, :forum => @forum, :button => 'Обновить форум'}
+
+- unless @forum.new_record?
+  .delete_button#delete_button
+    = button_to 'Удалить форум', forum_url(@forum, :subdomain=>@user.subdomain), :method=>:delete, :confirm=>'Уверены, что хотите удлить форум безвозвратно?'
+
+%br
+
+%h3 Управление темами форума
+.nested_set
+  = raw ans_tree(@topics, :path=>'topics/nested_set', :admin=>true, :clean=>false)
+  

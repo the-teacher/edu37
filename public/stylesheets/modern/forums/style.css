@@ -1,0 +1,46 @@
+/*FORUMS*/
+.forum{
+  -moz-border-radius:5px;
+  border:2px solid #77a2d9;
+  padding:8px;
+  margin-bottom:10px;
+}
+.forum .title{
+  display:block;
+  font-size:15pt;
+  margin-bottom:15px;
+}
+.forum p.description{
+  font-size:14pt;
+  font-style:italic;
+}
+.forum p.info{
+  font-size:10pt;
+  margin-bottom:5px;
+}
+.forum p.info a{
+  color:#ff4300;
+}
+/*TOPICS*/
+.topic{
+  -moz-border-radius:5px;
+  border:2px solid #ff920a;
+  padding:8px;
+  margin-bottom:10px;
+}
+.topic .title{
+  display:block;
+  font-size:15pt;
+  margin-bottom:15px;
+}
+.topic p.description{
+  font-size:14pt;
+  font-style:italic;
+}
+.topic p.info{
+  font-size:10pt;
+  margin-bottom:5px;
+}
+.topic p.info a{
+  color:#ff4300;
+}

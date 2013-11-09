@@ -1,0 +1,19 @@
+%p
+  = f.label :title, t('storages.form.title')
+  = f.text_field :title, :class=>:input
+
+  = state_icon(@storage) if current_user.has_role? :storages, :state_icon
+  = moderation_state_icon(@storage)  if current_user.has_role? :storages, :moderations_state_icon
+
+-if current_user.has_role? :storages, :tags
+  %p
+    = f.label :tag_list, raw(t('storages.form.tags_list'))
+    = f.text_field :tag_list
+
+- if current_user.has_role? :storages, :state_buttons
+  = form_buttons_for(@storage)
+
+.submit_button
+  = submit_tag button, :class=>:submit
+
+= moderation_buttons_for(@storage)

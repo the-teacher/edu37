@@ -1,0 +1,5 @@
+- content_for :css do
+  =stylesheet_link_tag 'modern/comments/style', :media=>'screen'
+
+= render :partial=>'comments/new', :locals => { :comment => @comment, :object=>object }
+= render :partial=>'comments/element', :collection => @comments, :as => :comment

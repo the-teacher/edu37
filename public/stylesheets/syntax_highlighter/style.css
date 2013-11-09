@@ -1,0 +1,8 @@
+.syntaxhighlighter, .syntaxhighlighter div, .syntaxhighlighter code, .syntaxhighlighter span{
+  font-size: 12pt !important;
+  line-height: 120% !important;
+}
+.syntaxhighlighter .line .content .block {
+  white-space: pre;
+}
+.syntaxhighlighter{width: 575px !important;}

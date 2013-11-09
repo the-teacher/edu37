@@ -1,0 +1,24 @@
+- comment_id = comment.to_param
+.title
+  %b от: 
+  = comment.title
+.contacts
+  %b контакты: 
+  = comment.contacts
+.content
+  %b сообщение: 
+  = comment.html_content
+.commentator
+  = commentator_name(comment)
+  оставил комментарий к
+  = link_to comment_for(comment.object_type),  link_to_commented_object(comment.object_type, comment.object_zip)
+.controls
+  %span{:id=>object_id(comment, :edit), :class=>:edit}
+    = link_to_function 'редактировать', "edit('#{comment_id}', '#{inplace_edit_comment_url(comment)}')"
+  - unless comment.safe?
+    %span{:id=>object_id(comment, :publicate), :class=>:publicate}
+      = link_to_function 'опубликовать', "publicate('#{comment_id}', '#{inplace_publicate_comment_url(comment)}')"
+  %span{:id=>object_id(comment, :undesirable), :class=>:undesirable}
+    = link_to_function 'нежелательный', "undesirable('#{comment_id}')"
+  %span{:id=>object_id(comment, :delete), :class=>:delete}
+    = link_to_function 'удалить', "delete('#{comment_id}')"

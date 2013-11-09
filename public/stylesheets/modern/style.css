@@ -1,0 +1,286 @@
+/* #DA8900 */
+/* SYSTEM MESSAGES */
+.system_messages{
+  margin:0 0 15px 0;
+  overflow: hidden;
+  zoom:1;
+}
+.system_messages li{
+  line-height:150%;
+  margin:0 0 7px 0;
+  list-style-position:inside;
+  list-style-type:disc;
+  font-size:14pt;
+}
+.system_messages .notice{
+  background:#E0ECFF none repeat scroll 0 0;
+  border:1px solid #A5C9FF;
+  padding:10px;
+  margin:0 0 10px 0;
+}
+.system_messages .error{
+  background:#FFABAB none repeat scroll 0 0;
+  border:1px solid #F77;
+  padding:10px;
+  margin:0 0 10px 0;
+}
+.system_messages .warning{
+  background:#FFF6BF none repeat scroll 0 0;
+  border:1px solid #FFD324;
+  padding:10px;
+  margin:0 0 10px 0;
+}
+/*HEADER*/
+.header{
+  background: none repeat scroll 0 0 #38ABE3;
+  margin-bottom:25px;
+  height: 180px;
+}
+.header ul.sections{
+  font-size: 16pt;
+  text-shadow: 0 1px 0 #2595BA;
+  margin:10px 0 15px 20px;
+}
+.header ul.sections li{
+  -moz-border-radius: 5px 5px 5px 5px;
+  background-color: Maroon;
+  float: left;
+  margin-right: 40px;
+  padding: 5px;
+}
+.header ul.sections a{
+  color: #E4F7FE;
+}
+.header .domain{
+  text-align:center;
+  line-height: 250%;
+}
+.header .domain a{
+  font-size: 22pt;
+  color:#7bb70a;
+  font-family:Times, Times New Roman, Trebuchet MS, Arial;
+}
+/*CREATE SITE*/
+.create_site{
+  font-size: 16pt;
+  line-height: 150%;
+  text-align:center;
+  margin:0 0 10px 0;
+}
+.create_site a{
+  color:grey;
+  text-decoration:none;
+}
+.create_site a:hover{
+  text-decoration:underline;
+}
+/*LEFT and RIGHT COLUMN*/
+.layout .left h3, .layout .right h3{
+  font-family:Trebuchet MS,Arial;
+  font-weight:normal;
+  padding-left:10px;
+  font-size: 14pt;
+  margin-bottom:0;
+  line-height:100%;
+  color:#FFF;
+}
+/*RIGHT COLUMN SEARCH*/
+.layout .right .search{
+  margin:0 0 15px 0;
+}
+.layout .right .search form input{
+  width:170px;
+}
+/*RIGHT COLUMN NEW MESSAGE*/
+.layout .right a.new_message{
+  background:blue;
+  display:block;
+  text-align:center;
+  font-size:14pt;
+  padding:10px;
+  color:white;
+  line-height:120%;
+  margin-bottom:15px;
+  -moz-border-radius:10px;
+}
+/*RIGHT COLUMN STATE*/
+.layout .right .state{
+  margin-bottom:15px;
+}
+.layout .right .state ul{
+  margin:0;
+}
+.layout .right .state ul li{
+  margin-bottom:5px;
+}
+/*RIGHT COLUMN LOGIN*/
+.layout .right .login{
+  margin-bottom:15px;
+}
+.layout .right .login form .input{
+  width:170px;
+}
+.layout .right .login p{
+  margin-bottom:10px;
+}
+.layout .right .login .unsefty_workplace{
+  font-size:10pt;
+}
+.layout .right .login .submit{
+  font-size:16pt;
+}
+/*RIGHT COLUMN TRICKS*/
+.layout .right .tricks{
+  margin-bottom:15px;
+}
+.layout .right .tricks p{
+  margin:0 10px;
+}
+/*LEFT COLUMN MENU*/
+.layout .left .menu a{
+  display: block;
+  font-size: 16pt;
+  line-height: 150%;
+  text-align: center;
+  color:#f8802a;
+  text-decoration:none;
+}
+.layout .left .menu a:hover{
+  text-decoration:underline;
+}
+.layout .left .menu .content_rounder{
+  padding:0;
+}
+.layout .left .menu .element{
+  margin-bottom:10px;
+}
+/*FOOTER MENU*/
+.footer .menu{
+  margin:20px 15px 15px 15px;
+}
+.footer .menu a{
+  color:#FFF;
+  width:200px;
+  float:left;
+  display:block;
+  margin-bottom:6px;
+  line-height:200%;
+  font-size:9pt;
+  text-decoration: none;
+}
+.footer .menu a:hover{
+  text-decoration:underline;
+}
+.footer .info{margin-left:15px;}
+.footer .info a{color:white;}
+/*QUICK LINKS*/
+.quick_links{
+  margin-bottom:15px;
+}
+.quick_links ul{margin:0;}
+.quick_links ul li{
+  margin-bottom:5px;
+}
+/*PREVIEW IFRAME*/
+#preview iframe{
+  margin:0 0 10px 0;
+  padding:10px 0;
+  border:1px dashed black;
+}
+/*CAPTCHA*/
+.layout .center .captcha p{
+  background-color:DarkGreen;
+  color: white;
+  font-size: 13pt;
+  font-weight: bold;
+  text-align: center;
+}
+.captcha li{
+  float: left;
+  margin-right: 15px;
+}
+.captcha li input{
+  border: 1px solid Black;
+  color: Purple;
+  font-size: 33pt;
+  height: 90px;
+  text-align: center;
+  width: 200px;
+}
+/* COMMON CONTENT STYLE*/
+.layout .center .content{
+  color: #444;
+  font-size: 12pt;
+  margin-bottom: 15px;
+  line-height: 150%;
+}
+.layout .center .content .youtube_block,
+.layout .center .content .vimeo_block,
+.layout .center .content .slideshare_block,
+.layout .center .content .google_doc_block{
+  background-color:#CCC;
+  border:1px solid gray;
+  display:block;
+  margin-bottom:15px;
+  text-align:center;
+}
+.layout .center .content p{
+  color: #444;
+  font-size: 12pt;
+  margin-bottom: 15px;
+}
+.layout .center .content ul, .layout .center .content ol{
+  font-size: 12pt;
+  margin:0 0 15px 30px;
+}
+.layout .center .content ul li, .layout .center .content ol li{
+  margin-bottom:10px;
+}
+.layout .center .content ul{
+   list-style-type: square;
+}
+.layout .center .content ol{
+   list-style-type: decimal;
+}
+.layout .center .content blockquote{
+  background:#EEE url("/images/modern/bq_top.png") no-repeat scroll 10px 10px;
+  overflow: hidden;
+  zoom:1;
+  padding: 15px 15px 0;
+  margin-bottom: 15px;
+  -moz-border-radius:5px;
+}
+.layout .center .content blockquote p{
+  background: url("/images/modern/bq_bottom.png") no-repeat scroll right bottom transparent;
+  color: SaddleBrown;
+  font-style: italic;
+  padding-bottom: 5px;
+}
+.layout .center .content del{
+  background-color: Tan;
+  padding: 0 5px;
+}
+.layout .center .content p.info{
+  border-top:1px dashed gray;
+  border-bottom:1px dashed gray;
+  padding:10px 0;
+  color:black;
+  font-size:10pt;
+}
+.center p.breadcrumbs,
+p.breadcrumbs a{
+  font-size:14pt;
+}
+/* TAGS and TAG CLOUD*/
+.tags img{vertical-align: middle;}
+.tags a{text-decoration:none; font-size:10pt;}
+.tags a:hover{text-decoration:underline;}
+
+.tag_cloud{margin-bottom:15px; text-align:center; line-height: 160%;}
+.tag_cloud a{text-decoration:none; color:MediumVioletRed;}
+.tag_cloud a:hover{text-decoration:underline;}
+.tag_cloud a img{vertical-align: middle;}
+.tag_cloud .big    {font-size:16pt;}
+.tag_cloud .normal {font-size:13pt;}
+.tag_cloud .small  {font-size:10pt;}
+.tag_cloud .mini   {font-size:8pt;}

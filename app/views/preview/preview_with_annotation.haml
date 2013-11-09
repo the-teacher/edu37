@@ -1,0 +1,14 @@
+- @js_addons=   get_array_from_yaml(@pub.js_addons)
+- @css_addons=  get_array_from_yaml(@pub.css_addons)
+
+- content_for :meta do
+  -# helpers/meta_helper
+  =raw array_to_js_include_tags(@js_addons)
+  =raw array_to_css_include_tags(@css_addons)
+
+= render :partial=>'shared/syntax_highlighter_initializer'
+
+.content
+  = raw @pub.html_annotation
+  %div{:style=>'border-bottom:4px dashed #DDD; padding-bottom:5px; margin-bottom:10px;'}
+  = raw @pub.html_content

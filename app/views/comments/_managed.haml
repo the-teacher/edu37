@@ -1,0 +1,9 @@
+- content_for :css do
+  =stylesheet_link_tag 'modern/comments/style', :media=>:screen
+
+.comment_managed{:id=>object_id(comment, :comment_managed)}
+  .inplace_edit{:style=>'display:none;'} &nbsp;
+  .item
+    = render :partial=>'comments/inplace/item', :locals => { :comment => comment }
+  .loader{:style=>'display:none;'}
+    = image_tag('modern/loader.gif', :title=>"Ожидайте", :alt=>"Ожидайте")

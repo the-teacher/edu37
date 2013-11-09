@@ -1,0 +1,109 @@
+!!! Strict
+%html{:xmlns=>"http://www.w3.org/1999/xhtml", 'xml:lang'=>:ru, :lang=>:ru}
+  %head
+    %meta{'http-equiv'=>"content-type", :content=>"text/html; charset=utf-8"}
+    %meta{:content => "IE=EmulateIE7", "http-equiv" => "X-UA-Compatible"}
+    %link{:href=>"/images/modern/favicon.ico", :rel=>"shortcut icon"}
+    %title
+      = yield :title
+
+    %meta{'http-equiv' => :cms, :content => "Joseph Stalin CMS"}
+    %meta{'http-equiv' => :description, :content => "Social(izm) oriented CMS"}
+    %meta{'http-equiv' => :keywords, :content => "JosephStalin.com"}
+    %meta{'http-equiv' => :author, :content => "zykin-ilya@ya.ru"}
+    = yield :meta
+
+    = stylesheet_link_tag 'modern/reset', :media=>'screen'
+    = stylesheet_link_tag 'modern/base', :media=>'screen'
+    = stylesheet_link_tag 'modern/style', :media=>'screen'
+    = stylesheet_link_tag 'modern/rounders', :media=>'screen'
+
+    = yield :css
+
+    = csrf_meta_tag
+    = javascript_include_tag :defaults
+    = yield :gallery_lightbox
+    = yield :js
+  :css
+    .header{
+      background: url(#{@user.site_header(:normal)}) no-repeat scroll 0 0 #38ABE3;
+    }
+  %body
+    .body
+      .header.overblock
+        %ul.sections.overblock
+          %li
+            = link_to @user.site_name, root_path(:subdomain=>@subdomain)
+            =# link_to(image_tag('iconza/gray/mail.png'), new_message_url(:to=>@user), :alt=>'Написать письмо', :title=>'Написать письмо')
+          %li= link_to t('users.about'),      profiles_url(:subdomain=>false)
+          %li= link_to t('header.section_1'), users_url(:subdomain=>false, :role=>:school)
+          %li= link_to t('header.section_2'), users_url(:subdomain=>false, :role=>:user)
+          %li= link_to t('header.section_3'), login_url(:subdomain=>false)
+
+      .content.overblock
+        %table.layout
+          %tr
+            %td.left
+              .block
+                - unless yield(:quick_links).blank?
+                  .quick_links
+                    .violet_header
+                      =top_rounder
+                      %h3= t('base.quick_links')
+                      =bottom_rounder
+                    .gray_rounder
+                      .content_rounder
+                        %ul
+                          = yield(:quick_links)
+                      =bottom_bordered_rounder
+
+                :ruby
+                  menu=[
+                    link_to(t('base.versitcard'),     profiles_url(:subdomain=>@user.subdomain)),
+                    link_to(t('publications.title'),  news_index_url(:subdomain=>@user.subdomain)),
+                    link_to(t('base.pages'),          pages_url(:subdomain=>@user.subdomain))
+                    #link_to(t('base.forums'),         forums_url(:subdomain=>@user.subdomain))
+                    #link_to(t('base.documents'),  documents_url(:subdomain=>@user.subdomain)),
+                    #link_to(t('base.methods'),    pages_url(:subdomain=>@user.subdomain)),
+                    #link_to(t('base.albums'),     albums_url(:subdomain=>@user.subdomain)),
+                    #link_to(t('base.questions'),  questions_url(:subdomain=>@user.subdomain)),
+                    #link_to(t('base.updates'),    updates_url(:subdomain=>@user.subdomain))
+                  ]
+
+                .menu
+                  -menu.each do |link|
+                    .element
+                      .orange_rounder
+                        =top_bordered_rounder
+                        .content_rounder
+                          = link
+                        = bottom_bordered_rounder
+                
+                =# render :partial=>'shared/left_block'
+            
+            %td.center
+              .block
+                = raw app_flash(flash)
+                = yield
+
+            %td.right
+              .block
+                = render :partial=>'users/state'      if logged_in?
+                =# render :partial=>'sessions/new'     unless logged_in?
+                =# render :partial=>'shared/right_block'
+ 
+      .footer_guarantor
+        &nbsp;
+
+    .footer.overblock
+      .overblock
+        .menu
+          = link_to t('users.about'),      profiles_url(:subdomain=>false)
+          = link_to t('header.section_1'), root_url(:subdomain=>'ruby-on-rails')
+          = link_to t('header.section_2'), root_url(:subdomain=>'recipces')
+          = link_to t('header.section_3'), root_url(:subdomain=>'informatica')
+
+      .info
+        = link_to Project::ADDRESS, root_url(:subdomain=>false), :class=>'logolink'
+        &copy;
+        &nbsp;2006 &mdash; 2011

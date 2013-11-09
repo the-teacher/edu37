@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="windows-1251"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>ПОМНИМ И ГОРДИМСЯ! - Средняя общеобразовательная школа № 1 города Иванова</title>
+<meta name="title" content="ПОМНИМ И ГОРДИМСЯ!" />
+<meta name="author" content="webmaster" />
+<meta name="description" content=" Официальный сайт средней общеобразовательной школы № 1 города Иванова Ивановской области" />
+<meta name="keywords" content=" школа иваново 1 средняя образование новости ученик учитель" />
+<meta name="distribution" content="global" />
+<meta name="rating" content="General" />
+<meta name="document-state" content="Dynamic" />
+<meta name="documentType" content="WebDocument" />
+<meta name="audience" content="all" />
+<meta name="revisit" content="10 days" />
+<meta name="revisit-after" content="10 days" />
+<meta name="allow-search" content="yes" />
+<meta name="language" content="russian" />
+<base href="http://school1.ivedu.ru/" />
+<link href="http://school1.ivedu.ru/templates/school1-1/css/template_css.css" rel="stylesheet" type="text/css" />
+<!--[if lt IE 7]>
+			<script type="text/javascript" src="/js/unitpngfix.js"></script>
+<![endif]-->  
+<!--[if (gt IE 5)&(lt IE 7)]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ieonly.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ie7only.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body id="page_bg">
+<div class="center" align="center">
+	<div id="wrapper">
+		<div id="wrapper_r">
+			<div id="header">
+				<a href="http://school1.ivedu.ru" id="logo">&nbsp;</a>
+				<table cellpadding="0" cellspacing="0" class="pill">
+					<tr>
+						<td class="pill_l">&nbsp;
+						</td>
+						<td class="pill_m">
+						<div id="pillmenu">
+													</div>
+						</td>
+					</tr>
+				</table>
+			</div>
+			<div id="tabarea">&nbsp;
+			</div>
+
+			<div class="clr"></div>
+			<div id="whitebox">
+<!--				<div id="whitebox_t">
+					<div id="whitebox_tl">
+						<div id="whitebox_tr">&nbsp;</div>
+					</div>
+				</div> -->
+
+				<div id="whitebox_m">
+					<div id="area">
+					  <div class="rightback">
+					  <div class="contentback">
+					  <div class="leftback">
+						<div id="leftcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+									<div class="module_menu">
+			<div>
+				<div>
+					<div>
+						<h3>Главное меню</h3>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="." title="Главная" class="mainlevel" >Главная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" title="Новости" class="mainlevel" id="active_menu">Новости</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=445&amp;Itemid=45" title="Портфолио школы" class="mainlevel" >Портфолио школы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=446&amp;Itemid=46" title="Учебный процесс" class="mainlevel" >Учебный процесс</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=448&amp;Itemid=47" title="Педагоги" class="mainlevel" >Педагоги</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=5&amp;Itemid=29" title="Документы" class="mainlevel" >Документы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=449&amp;Itemid=48" title="Публичные отчеты" class="mainlevel" >Публичные отчеты</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=450&amp;Itemid=49" title="Кабинет здоровья" class="mainlevel" >Кабинет здоровья</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=451&amp;Itemid=50" title="Родителям" class="mainlevel" >Родителям</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=452&amp;Itemid=51" title="Общественная приемная" class="mainlevel" >Общественная приемная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=453&amp;Itemid=52" title="Итоговая аттестация" class="mainlevel" >Итоговая аттестация</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=454&amp;Itemid=53" title="Школьная жизнь" class="mainlevel" >Школьная жизнь</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_contact&amp;Itemid=3" title="Контакты" class="mainlevel" >Контакты</a></td></tr>
+</table>					</div>
+				</div>
+			</div>
+		</div>
+																						</div>
+						<div id="maincolumn">
+						<div id="pathway">
+							<span class="pathway"><a href="http://school1.ivedu.ru" class="pathway" title="Главная">Главная</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" class="pathway" title="Новости">Новости</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=category&amp;sectionid=1&amp;id=1&amp;Itemid=2" class="pathway" title="Новое">Новое</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" />   ПОМНИМ И ГОРДИМСЯ! </span>						</div>
+<!--											<table class="nopad user1user2">
+								<tr valign="top">
+									<td class="half1">
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Последние новости				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="latestnews">
+	<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=491&amp;Itemid=2" title="ЛЕТНИЙ ОТДЫХ" class="latestnews">ЛЕТНИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=490&amp;Itemid=2" title="ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ" class="latestnews">ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=489&amp;Itemid=2" title="ИГАСУ ЖДЕТ ВАС" class="latestnews">ИГАСУ ЖДЕТ ВАС</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+																			<td class="greyline">&nbsp;</td>
+																		<td>
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Популярное				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="mostread">
+	<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=104&amp;Itemid=2" title="Благодарность учителям начальной школы" class="mostread">
+			Благодарность учителям начальной школы</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=59&amp;Itemid=2" title="Слова благодарности" class="mostread">
+			Слова благодарности</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=51&amp;Itemid=2" title="День открытых дверей для родителей будущих первоклассников" class="mostread">
+			День открытых дверей для родителей будущих первоклассников</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+								</tr>
+							</table>
+							<div id="maindivider"></div>
+				 -->
+							<table class="nopad content">
+								<tr valign="top">
+									<td>
+																					
+			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+				<h3>ПОМНИМ И ГОРДИМСЯ!</h3>				</td>
+										<td align="right" width="100%" class="buttonheading">
+															<a href="http://school1.ivedu.ru/index2.php?option=com_content&amp;task=view&amp;id=235&amp;pop=1&amp;page=0&amp;Itemid=2" target="_blank" title="Печать"><img src="http://school1.ivedu.ru/images/M_images/printButton.png"  alt="Печать" id="print" name="print" align="middle" border="0" /></a>
+													</td>
+								</tr>
+			</table>
+			
+		<table  class="contentpaneopen">
+				<tr>
+			<td width="70%" align="left" valign="top" colspan="2">
+			<span class="small">
+			 Автор webmaster			</span>
+			&nbsp;&nbsp;
+			</td>
+		</tr>
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+				19:04:2010 г.				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+			<p>
+<img width="336" src="images/stories/_j0435777.png" alt="Вечный огонь" height="336" style="float: left; margin: 5px; width: 124px; height: 121px" title="Вечный огонь" /> 
+</p>
+<p>
+&nbsp;
+</p>
+<p>
+&nbsp;
+</p>
+<p>
+<span style="font-size: 12pt">Во всех классах нашей школы проходят <span style="color: #800000">классные часы, посвященные Великой Победе</span>. Ученики узнают о подвигах защитников фронта и тыла из рассказов классных руководителей, презентаций старшеклассников, выступлений ветеранов. Никто не остается безучастным! Вот выдержки из отзывов учеников 6В класса, написанные после одного такого занятия. </span>
+</p>
+<p>
+<span style="font-size: 12pt"></span>
+</p>
+<p>
+<span style="font-size: 12pt"></span>Война &ndash; это бессердечный поступок нелюдей, фашистов. Война &ndash; это страх, разлука, постоянные смерти невинных людей, защищавших свою Родину, своих родных, семью, отечество. Война принесла очень много потерь! Всеми людьми, заставшими войну правило очень сильное чувство - любовь! Любовь к близким, родным, любовь к Родине, любовь к жизни! Потери, принесенные войной ужасны! Чтобы описать все не хватит духа. 
+</p>
+<p align="right">
+<em>Шишкина Даша.</em> 
+</p>
+<p>
+Война &ndash; это убийство за убийством. A дети в ней как муравьишки среди людей, маленькие и беззащитные. Мой прадед был артиллеристом, а прабабушка работала на заводе, изготовляла оружие для фронта. 
+</p>
+<p align="right">
+&nbsp;<em>Мазуров Денис</em> 
+</p>
+<p>
+Война &ndash; это страх, мучение людей, вой разных орудий. Моя прабабушка и прадедушка участвовали в войне. 
+</p>
+<p align="right">
+<em>Терентьев Женя</em>. 
+</p>
+<p>
+Война &ndash; это печаль, разлука с родными, потеря друзей, сильная боль, крики близких. Моя прабабушка была на войне, ей было 18 лет. Она копала окопы для солдат. Она видела немцев. 
+</p>
+<p align="right">
+&nbsp;<em>Смирнов Коля.</em> 
+</p>
+<p>
+Война &ndash; это очень страшно. Брат моего дедушки воевал. Он пошел на фронт с 14 лет. Он сейчас жив. Мой прадедушка тоже воевал и выжил. 
+</p>
+<p align="right">
+<em>&nbsp;Самарина Настя.</em> 
+</p>
+<p>
+&nbsp;Война &ndash; это страшнейшая напасть, которая может случиться со страной и ее жителями. Война &ndash; это голодные, холодные и страшнейшие дни. Это дети, которые не испытали радостей безоблачного и беззаботного детства, с отпечатком страха в их глазах и лицах. Победа в войне &ndash; это настоящий подвиг, люди запомнят его навсегда. На этой войне воевали мои прадеды Николай Сергеевич Свищев и Дмитрий Николаевич Шибаев и три его 3 брата: Павел Николаевич, Иван Николаевич, Михаил Николаевич. Мы помним их и гордимся! 
+</p>
+<p align="right">
+<em>Степанов Сергей.</em> 
+</p>
+<p>
+У меня был прадедушка, он воевал, он командовал и отвечал за свою команду. Он вернулся с войны и ему дали много звезд за отвагу и участие в войне. На войне выживают самые выносливые и сильные. Война &ndash; это когда все люди защищают свою Родину и могут погибнуть за свою свободу. 
+</p>
+<p align="right">
+<em>Бышев Саша.</em> 
+</p>
+<p>
+Моя прабабушка работала в госпитале. Она спасла многих людей. Моя соседка тоже воевала. Война- это страшная мука, где гибнут сотни тысяч людей. Но победили мы в этой страшной войне, восстановили свою жизнь и сейчас мы живем. 
+</p>
+<p align="right">
+<em>Звонов Даниил.</em> 
+</p>
+<p>
+Из моей семьи воевали мои прадедушки и прабабушки. Мой прадед Николай участвовал в боях под Москвой, дошел до Курска и вернулся домой живым. Мы гордимся своими прадедами. 
+</p>
+<p align="right">
+<em>Зыгалов Егор.</em> 
+</p>
+<p>
+Война &ndash; это самое страшное на свете. Когда погибают люди, сжигаются деревни и города. У меня воевал мой прадедушка. Он был летчиком. Он сбил много немецких самолетов, и сам был сбит 2 раза. 
+</p>
+<p align="right">
+&nbsp;Третчикова Оля. 
+</p>
+<p>
+&nbsp;Война &ndash; это конец мирной жизни, ужас, хаос, много потерь и крови&hellip; А еще война &ndash; это убийство, жестокое убийство, в котором гибнут ни в чем неповинные люди, дети, старики. 
+</p>
+<p align="right">
+<em>Акбари Кучай.</em> 
+</p>
+<p>
+Война &ndash; это очень страшно, потому что погибло очень много людей. Разрушались города и деревни. Моя прабабушка Поля работала в тылу, а мой прадед Виктор воевал. 
+</p>
+<p align="right">
+<em>&nbsp;Броцкина Аня</em>. 
+</p>
+<p>
+Война &ndash; это ад на земле, разрушающий все и вся на своем пути, это ужасный момент в жизни каждого, это смерть, идущая по душам сотней людей и забирающая их. Мой прадед воевал, он обезвреживал подводные немецкие мины. 
+</p>
+<p align="right">
+<em>Ершов Эдик</em>. 
+</p>
+<p>
+&nbsp;Моя прабабушка Шубина Галина Ивановна была ребенком войны. Она родилась 21 ноября 1940 года. Дети войны &ndash; это дети, которые потеряли свое детство, и которых воспитывала не своя семья, а война. 
+</p>
+<p align="right">
+<em>Буленок Елена.</em> 
+</p>
+<p>
+Моему прадедушке 90 лет. Он воевал и у него много ранений, но он остался жив и получил много медалей. Он мне много рассказывал о войне. У моего дедушки убили маму и папу на войне, он остался с сестрой и старшим братом, они воспитывались в детском доме. Сейчас мой прадедушка жив. У него много медалей. В этом году его опять наградили медалью за Победу в этой страшной войне. Он мне очень интересно рассказывает об этом, я люблю его слушать. Я горжусь своими родственниками и никогда не забуду их подвигов. 
+</p>
+<p align="right">
+&nbsp;<em>Чекалова Дарина.</em> 
+</p>
+<p>
+&nbsp;В войне погибло очень много людей, которые защищали нашу страну. Мы должны их помнить, любить, и за все мы им благодарны. Спасибо всем людям, которые защищали нас!!! 
+</p>
+<p align="right">
+&nbsp;<em>Макарова Катя.</em> 
+</p>
+<p>
+У нас воевали и погибли прадедушка Савва и Емельян. Мы помним их и гордимся их подвигом. Война &ndash; это ужас и смерть. Пусть она никогда не повторится! 
+</p>
+<p align="right">
+<em>Мараковы Настя и Ксюша.</em> 
+</p>
+<p>
+&nbsp;У меня в семье воевал прадедушка. Он прошел всю войну. Война &ndash; это страшное событие. Когда на твоих глазах погибают родные и близкие &ndash; это ужасно. Давайте жить в мире! 
+</p>
+<p align="right">
+<em>Ткаченко Стас</em>. 
+</p>
+<p align="center">
+&nbsp;
+</p>
+<p align="center">
+<span style="color: #0000ff"><span style="font-size: 12pt"><em>На фотографии в газете<br />
+Нечетко изображены<br />
+Бойцы, ещё почти что дети,<br />
+Герои мировой войны<br />
+Они снимались перед боем -<br />
+В обнимку, четверо у рва.<br />
+И было небо голубое,<br />
+Была зеленая трава<br />
+Никто не знает их фамилий,<br />
+О них ни песен нет, ни книг.<br />
+Здесь чей-то сын, и чей-то милый,<br />
+И чей-то первый ученик.<br />
+Они легли на поле боя, -<br />
+Жить начинавшие едва.<br />
+И было небо голубое,<br />
+Была зеленая трава<br />
+Забыть тот горький год неблизкий<br />
+Мы никогда бы не смогли<br />
+По всей России обелиски,<br />
+Как души, рвутся из земли.<br />
+...Они прикрыли жизнь собою, -<br />
+Жизнь начинавшие едва,<br />
+Чтоб было небо голубое,<br />
+Была зеленая трава.</em></span> </span>
+</p>
+<p align="center">
+<span style="font-size: 12pt"><em><br />
+<span style="color: #0000ff">Казакова Р. Ф.</span></em></span><span style="color: #0000ff"> </span>
+</p>
+<p align="right">
+&nbsp;
+</p>
+			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+					<table align="center" style="margin-top: 15px;">
+			<tr>
+									<th class="pagenav_prev">
+					<a href="index.php?option=com_content&amp;task=view&amp;id=236&amp;Itemid=2" title="МОЛОДЕЖНЫЙ МАТЕМАТИЧЕСКИЙ ЧЕМПИОНАТ">
+							&laquo; МОЛОДЕЖНЫЙ МАТЕМАТИЧЕСКИЙ ЧЕМПИОНАТ</a>
+					</th>
+										<td width="50">&nbsp;
+
+					</td>
+										<th class="pagenav_next">
+					<a href="index.php?option=com_content&amp;task=view&amp;id=234&amp;Itemid=2" title="ДОБРАЯ ТРАДИЦИЯ">
+							ДОБРАЯ ТРАДИЦИЯ &raquo;</a>
+					</th>
+								</tr>
+			</table>
+									<div class="back_button">
+						<a href='javascript:history.go(-1)'>
+					Вернуться</a>
+						</div>
+																																				<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+									</td>
+								</tr>
+							</table>
+						</div>
+						<div id="rightcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+						<div id="search">
+							
+<form action="index.php?option=com_search" method="get">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="100" alt="search" class="inputbox" type="text" size="20" value="Поиск..."  onblur="if(this.value=='') this.value='Поиск...';" onfocus="if(this.value=='Поиск...') this.value='';" />	</div>
+
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="" />	
+</form>						</div>
+													</div>
+						<div class="clr">&nbsp;</div>
+					  </div> 					  </div> 					  </div> 					</div>
+					<div class="clr">&nbsp;</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="bag">&nbsp;</div>
+		<div id="footer">
+							<div id="footer_r">Copyright 2010  ·  Дизайн <a target='_blank' href='http://www.desunk.com'>www.desunk.com</a>  ·  All Rights Reserved
+				</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

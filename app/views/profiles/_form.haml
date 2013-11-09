@@ -1,0 +1,79 @@
+%p
+  =# state_icon(@profile)
+  =# moderation_state_icon(@profile)
+%p
+  = f.label :textile_content, t('profiles.form.content')
+  = f.text_area :textile_content, :id=>:markItUp
+
+:css
+  #external_fields_show_link, #external_fields_hide_link{
+    -moz-border-radius:5px;
+    background-color: Maroon;
+    color: white;
+    padding: 4px;
+    text-decoration: none; 
+  }
+  #external_fields{
+    background-color:Beige;
+    margin-bottom: 10px;
+    padding:5px;
+    border:1px solid gray;
+  }
+  #api{
+    border:1px solid green;
+    padding:5px;
+    background-color:lightSteelBlue;
+  }
+
+- if current_user.has_role? :profiles, :advanced_fields
+  %p
+    = link_to_function t('profiles.form.show_external_fields'),
+    "$('#external_fields').show(); $('#external_fields_show_link').hide();", :id=>:external_fields_show_link
+
+  #external_fields{:style=>'display:none;'}
+    %p
+      = link_to_function t('profiles.form.hide_external_fields'),
+        "$('#external_fields').hide(); $('#external_fields_show_link').show();", :id=>:external_fields_hide_link
+    %p
+      = f.label :www, t('profiles.form.www')
+      = f.text_field :www, :class=>:input
+    %p
+      = f.label :icq, t('profiles.form.icq')
+      = f.text_field :icq, :class=>:input
+    %p
+      = f.label :skype, t('profiles.form.skype')
+      = f.text_field :skype, :class=>:input
+    %p
+      = f.label :phone, t('profiles.form.phone')
+      = f.text_field :phone, :class=>:input
+    %p
+      = f.label :address, t('profiles.form.address')
+      = f.text_field :address, :class=>:input
+    %p
+      = f.label :facebook, t('profiles.form.facebook')
+      = f.text_field :facebook, :class=>:input
+    %p
+      = f.label :twitter, t('profiles.form.twitter')
+      = f.text_field :twitter, :class=>:input
+
+  - if current_user.has_role? :profiles, :api
+    #api
+      %p
+        = f.label :facebook_api_key, t('profiles.form.facebook_api_key')
+        = f.text_field :facebook_api_key, :class=>:input
+      %p
+        = f.label :twitter_api_key, t('profiles.form.twitter_api_key')
+        = f.text_field :twitter_api_key, :class=>:input
+
+- if current_user.has_role? :profiles, :tags
+  %p
+    = f.label :tag_list, raw(t('profiles.form.tags_list'))
+    = f.text_field :tag_list
+
+- if current_user.has_role? :profiles, :state_buttons
+  %p= form_buttons_for(@profile)
+
+.submit_button
+  = submit_tag button, :class=>:submit
+
+= moderation_buttons_for(@profile)

@@ -1,0 +1,7 @@
+- content_for :quick_links do
+  %li
+    = link_to t('users.show_this'), root_url(:subdomain=>@user.subdomain)
+    = link_to_function(image_tag('basic/ext_link.gif'), popup_window(:left=>100, :top=>100), :href=>user_url(@page, :subdomain=>@user.subdomain))
+  %li
+    = link_to t('storages.title'), storages_url(:subdomain=>@user.subdomain)
+    = link_to_function(image_tag('basic/ext_link.gif'), popup_window(:left=>100, :top=>100), :href=>storages_url(:subdomain=>@user.subdomain))

@@ -1,0 +1,630 @@
+# https://github.com/svenfuchs/rails-i18n/blob/master/rails/locale/ru.yml
+ru:
+  # BASE
+  base:
+    versitcard: 'Визитка'
+    news: 'Новости'
+    documents: 'Документы'
+    methods: 'Методичка'
+    albums: 'Фотоальбомы'
+    questions: 'Вопросы'
+    forums: 'Форум'
+    updates: 'Обновления'
+
+    files: 'Файлы'
+    comments: 'Комментарии'
+    messages: 'Сообщения'
+    site_settings: 'Настройки'
+    roles: 'Роли'
+    administrator_panel: 'Панель администратора'
+    image_for_your_site: 'Изображение для шапки Вашего сайта (900x250 точек)'
+    to_set: 'Установить'
+    to_upload: 'Загрузить'
+
+    site_map: 'Карта сайта'
+    login: 'Вход'
+    signup: 'Регистрация'
+    exit: 'Выход'
+    enter: 'Вход'
+    cabinet: 'Личный кабинет'
+
+    project_description: 'Портал JosephStalin.com'
+
+    pages_manage: 'Управление страницами'
+    files_manage: 'Управление файлами'
+    profile_manage: 'Управление профилем'
+    invalid_captcha: 'ошибка при вводе значения'
+    captcha_description: 'Программы-роботы не смогут ввести эти контрольные символы в текстовое поле, а вы сможете'
+    megabytes: 'Мбайт'
+    name_undefined: 'без имени'
+    email: 'Адрес электронной почты'
+    select_your_locale: 'Выбор языка'
+    quick_links: 'Быстрый переход'
+    can_be_interesting: 'Также интересуются: '
+    information: 'Информация'
+    read_more: 'читать&nbsp;далее&nbsp;&raquo;'
+    access_denied: 'Доступ ограничен. Вероятно, недостаточно прав для выполнение данного действия.'
+
+    about: 'О проекте'
+    schools: 'Школы'
+    teachers: 'Учителя'
+    students: 'Ученики'
+    users: 'Пользователи'
+
+    create_new_site_for: 'Создать сайт для: '
+    school: 'Школы'
+    teacher: 'Учителя'
+    student: 'Ученика'
+    user: 'Пользователя'
+
+# ===============================================
+  # HEADER
+  header:
+    section_1: 'Школы'
+    section_2: 'Пользователи'
+    section_3: 'Вход'
+
+  # FILE TYPES
+  file_types:
+    text_document: 'Текстовый документ'
+    text_file: 'Текстовый файл'
+    presentation: 'Презентация'
+    e_table: 'Электронная таблица'
+    pdf: 'PDF файл'
+    psd: 'Файл ФотоШоп'
+    media: 'Мульти-медиа файл'
+    archive: 'Архив'
+    file: 'Файл'
+    
+  # STATES
+  states:
+    unsafe: 'Нуждается в модерации.'
+    draft: 'Черновик. Видит только автор.'
+    published: 'Опубликовано. Видят все.'
+    personal: 'Персональное. Видите только вы.'
+    restricted: 'Ограниченный доступ. Видят только зарегистрированные.'
+    archived: 'Перемещено в архив.'
+    deleted: 'Удалено.'
+
+  # MODERATION STATES
+  moderation_states:
+    moderation_unsafe: 'Ожидает проверки модератором.'
+    moderation_safe: 'Просмотрено модератором.'
+    moderation_blocked: 'Заблокировано модератором.'
+
+  # SHARED
+  shared:
+    megabytes: 'Мбайт'
+    read_more: 'Читать далее &raquo;'
+    to_comments: 'Перейти к комментариям &raquo;'
+    show_count: 'Количество просмотров'
+    comments_count: 'Количество кмментариев'
+    topics_count: 'Количество тем'
+    url_address: 'URL адрес'
+
+  # BUTTONS
+  buttons:
+    preview: 'Предпросмотр'
+    to_draft: 'В черновики'
+    to_published: 'Опубликовать'
+    to_archived: 'В архив!'
+    to_restricted: 'Для зарегистрированных'
+    back_to_edit: 'Назад к редактированию'
+    to_blocked_moderation: 'Заблокировать' 
+    to_safe_moderation: 'Утверждено'
+    to_unsafe_moderation: 'Нежелательный контент'
+
+  # CONFIRMS
+  confirms:
+    to_draft: 'Черновик никто не увидит, до момента публикации'
+    to_published: 'Опубликовать для всех?'
+    to_archived:  'Из архива еще никто не возврящялся!'
+    to_restricted:  'Увидят только зарегистрированные пользователи'
+    to_blocked_moderation: 'Заблокировать от имени модератора'
+    to_safe_moderation: 'Утвердить от имени модератора'
+    to_unsafe_moderation: 'Нежелательный контент'
+
+  # SYNTAX HIGHLIGHTER
+  syntax_highlighter:
+    print: 'Печать исходного кода'
+    view_source: 'Просмотр исходного кода'
+
+  # USERS
+  users:
+    new: 'Создать нового пользователя'
+    about: 'О сайте'
+    cabinet: 'Личный кабинет'
+    list: 'Список пользователей'
+
+    manage: 'Управлять пользователями'
+    show_this: 'К сайту пользователя'
+
+    edit: 'Редактирование пользователя'
+    edit_this: 'Правка пользователя'
+    editing: 'Редактирование пользователя: '
+
+    site_header_title: 'Загрузить шапку сайта'
+    basic_info_title: 'Базовая информация'
+    vcard_content_title: 'Информация вашей визитки'
+
+    create: 'Вы успешно зарегистрированы в системе'
+    created: 'Новый пользователь создан'
+    update: 'Обновить базовую информацию'
+    updated: 'Информация о пользователе успешно обновлена'
+    not_updated: 'Обновить информацию о пользователе не удалось'
+
+    error_on_create: 'Во время регистрации возникли проблемы. Попробуйте еще раз.'
+    signup_new_user: 'Просто введите<br />АДРЕС ЭЛЕКТРОННОЙ ПОЧТЫ и<br />станьте полноправным пользователем сайта'
+
+    uniqueness:
+      zip: 'такой уже есть'
+
+    form:
+      login: 'Логин (имя в системе)'
+      zip: 'Специальный идентификатор'
+      name: 'Ваше имя'
+      email: 'Ваш адрес электронной почты'
+      change_role: 'Сменить роль'
+      sex: 'Пол'
+      password: 'Пароль'
+      password_confirmation: 'Подтвердить пароль'
+      created_at: 'Создан'
+      last_login_at: 'Последний вход'
+      time_zone: 'Часовой пояс'
+      show_count: 'Количесво просмотров'
+      karma: 'Карма'
+      raiting: 'Рейтинг'
+      power: 'Сила'
+
+      open_password: 'Вы ввели пароль'
+      show_password: 'Показать введенный пароль'
+      hide_password: 'Скрыть введенный пароль'
+
+      open_password_confirmation: 'Вы ввели подтверждение пароля'
+      show_password_confirmation: 'Показать подтверждение пароля'
+      hide_password_confirmation: 'Скрыть введенное подтверждение пароля'
+
+      show_current_password: 'Показать текущий пароль'
+      hide_current_password: 'Скрыть текущий пароль'
+
+    avatar:
+      uploaded: 'Ваше фото загружено'
+      not_uploaded: 'Не удалось загрузить фото. Тип файла не поддерживатся или размер фото слишком велик'
+      photo_uploading: 'Загрузите свою фотографию'
+      photo_best_size: 'Лучше всего: 200x300 точек (Ширина x Высота)'
+      photo_best_volume: 'Объём от 2 до 300 Кбайт'
+    site_header:
+      uploaded: 'Шапка сайта загружена'
+      not_uploaded: 'Не удалось загрузить картинку для шапки сайта. Тип файла не поддерживатся или размер фото слишком велик'
+      uploading: 'Загрузите новую картинку для шапки сайта'
+      best_size: 'Лучше всего: 1000x180 точек (Ширина x Высота)'
+      best_volume: 'Объём от 2 до 500 Кбайт'
+
+    admin:
+      edit: 'Редактировать'
+      login_as: 'Войти под этим именем'
+
+  # PROFILES
+  profiles:
+    title: 'Визитка'
+
+    index: 'Визитка пользователя: '
+    show: 'Просмотр пользователя: '
+    show_this: 'Просмотр визитки'
+
+    edit: 'Редактировать визитку'
+    edit_this: 'Правка этой визитки'
+    editing: 'Редактирование&nbsp;визитки: '
+
+    update: 'Обновить визитку'
+    updated: 'Визитка успешно обновлена'
+
+    form:
+      content: 'Информация вашей визитки'
+      tags_list: 'Ваши интересы и компетенции <b>(через запятую)</b>'
+
+      show_external_fields: 'Показать дополнительные поля'
+      hide_external_fields: 'Скрыть дополнительные поля'
+
+      www: 'Ваш сайт'
+      icq: 'Ваш номер ICQ'
+      skype: 'Имя в skype'
+      phone: 'Ваш контактный телефон'
+      address: 'Ваш адрес'
+      facebook: 'Ваша страница на facebook'
+      twitter: 'Ваша страница на twetter'
+
+      facebook_api_key: 'API ключ facebook'
+      facebook_password: 'Пароль facebook'
+
+      twitter_api_key: 'API ключ twitter'
+      twitter_password: 'Пароль twitter'
+    
+  # PUBLICATIONS aka NEWS
+  publications:
+    title: 'Публикации'
+
+    list: 'Публикации сайта'
+    index: 'Список публикаций'
+    index_of: 'Список публикаций сайта'
+
+    manage: 'Управлять публикациями'
+    manage_of: 'Управлять публикациями сайта'
+
+    new: 'Создать&nbsp;новую&nbsp;публикацию'
+
+    create: 'Создать публикацию'
+    create_for: 'Создать публикацию для'
+    created: 'Публикация успешно создана'
+
+    show: 'Просмотр публикации: '
+    show_this: 'Просмотр публикации'
+
+    edit: 'Редактировать'
+    edit_this: 'Правка этой публикации'
+    editing: 'Редактирование&nbsp;публикации: '
+
+    update: 'Обновить публикацию'
+    delete_confirm: 'Уверены, что хотите удалить папку?'
+    updated: 'Публикация успешно обновлена'
+
+    delete: 'Удалить публикацию'
+    delete_confirm: 'Уверены, что хотите удалить публикацию?'
+    delete_nested_elements: 'Удалите вложенные элементы'
+    cant_be_deleted: 'Невозможно удалить'
+    hard_delete: 'Удалить из БД физически'
+    hard_delete_confirm: "Удалить публикацию ФИЗИЧЕСКИ? Восстановление невозможно!"
+
+    tags_cloud: 'Популярные ключевые слова публикаций'
+    move: 'Перетащите в необходимую позицию.'
+
+    form:
+      title: 'Заголовок публикации'
+      annotation: 'Аннотация публикации <b>(кратко о содержимом)</b>'
+      content: 'Основное содержимое публикации'
+      tags_list: 'Ключевые слова публикации <b>(через запятую)</b>'
+
+    persence:
+      title:  'укажите заголовок'
+      tag_list: 'укажите ключевые слова'
+
+  # PAGES
+  pages:
+    title: 'Страницы'
+
+    list: 'Страницы сайта'
+    index: 'Дерево страниц'
+    index_of: 'Дерево страниц сайта'
+
+    manage: 'Управлять страницами'
+    manage_of: 'Управлять страницами сайта'
+
+    new: 'Создать&nbsp;новую&nbsp;страницу'
+
+    create: 'Создать страницу'
+    create_for: 'Создать страницу для'
+    created: 'Страница успешно создана'
+
+    show: 'Просмотр страницы: '
+    show_this: 'Просмотр страницы'
+
+    edit: 'Редактировать'
+    edit_this: 'Правка этой страницы'
+    editing: 'Редактирование&nbsp;страницы: '
+
+    update: 'Обновить страницу'
+    updated: 'Страница успешно обновлена'
+
+    delete: 'Удалить страницу'
+    delete_confirm: 'Уверены, что хотите удалить страницу?'
+    delete_nested_elements: 'Удалите вложенные страницы'
+    cant_be_deleted: 'Невозможно удалить'
+    hard_delete: 'Удалить из БД физически'
+    hard_delete_confirm: "Удалить страницу ФИЗИЧЕСКИ? Восстановление невозможно!"
+
+    tags_cloud: 'Популярные ключевые слова страниц'
+    move: 'Перетащите в необходимую позицию.'
+
+    form:
+      title: 'Заголовок страницы'
+      content: 'Основное содержимое страницы'
+      tags_list: 'Ключевые слова страницы <b>(через запятую)</b>'
+
+    persence:
+      title:  'укажите заголовок'
+      tag_list: 'укажите ключевые слова'
+
+  #COMMENTS
+  comments:
+    income: 'Новые комментарии '
+    post: 'Отправить комментарий'
+    title: 'Ваше имя и/или тема сообщения'
+    content: 'Ваше сообщение'
+    contacts: 'Контактные данные для ответа (увидит только администратор сайта)'
+    commentable_object_type_error: 'Объект данного типа недоступен для комментирования'
+    commentable_object_id_blank: 'Не удалось обратиться к комментируемому объекту'
+    commentable_object_not_found: 'Комментируемый объект не найден'
+    commented: 'Успешно прокомментировано'
+    commenting_failure: 'При создании комментария возникли проблемы'
+
+    for:
+      publication: 'публикации'
+      page: 'странице'
+      user: 'визитке'
+      topic: 'теме форума'
+    from:
+      guest: 'Случайный прохожий'
+    descriptions:
+      unsafe_and_show: 'Ваш комментарий ожидает модерации'
+      unsafe: 'Комментарий ожидает модерации'
+      deleted: 'Комментарий был удален'
+      blocked: 'Комментарий был заблокирован'
+      undesirable: 'Комментарий отмечен, как нежелательный'
+
+  # STORAGES
+  storages:
+    title: 'Папки c файлами'
+
+    list: 'Список папок'
+    index: 'Папки с файлами'
+    index_of: 'Папки с файлами'
+
+    manage: 'Управлять папками'
+    manage_of: 'Управлять папками файлов | '
+
+    new: 'Создать&nbsp;новую&nbsp;папку'
+
+    create: 'Создать папку'
+    create_for: 'Создать папку для '
+    created: 'Папка успешно создана'
+
+    show: 'Просмотр папки с файлами: '
+    show_this: 'Просмотр этой папки'
+
+    edit: 'Редактировать'
+    edit_this: 'Правка этой папки'
+    editing: 'Редактирование&nbsp;папки'
+
+    update: 'Обновить папку'
+    updated: 'Папка успешно обновлена'
+
+    delete: 'Удалить папку'
+    delete_confirm: 'Уверены, что хотите удалить папку?'
+    delete_nested_elements: 'Удалите вложенные папки'
+    cant_be_deleted: 'Невозможно удалить'
+    hard_delete: 'Удалить из БД физически'
+    hard_delete_confirm: "Удалить папку ФИЗИЧЕСКИ? Восстановление невозможно!"
+
+    tags_cloud: 'Популярные ключевые слова папок'
+    move: 'Перетащите в необходимую позицию.'
+    files_size: 'Объем: '
+
+    form:
+      title: 'Название папки'
+      tags_list: 'Ключевые слова папки <b>(через запятую)</b>'
+
+    persence:
+      title:  'укажите название'
+      tag_list: 'укажите ключевые слова'
+
+    uploaded_files_size: 'Размер загруженных файлов: '
+    total_files_size: 'Объём загруженных файлов: '
+
+  # UPLOADED FILES
+  uploaded_files:
+    persence:
+      title: 'Укажите имя файла'
+    uniqueness:
+      file_name: 'Придумайте другое имя'
+    attachment_size: 'Размер файла должен быть от 1 кб до 2 Мб'
+    form:
+      title: 'Укажите название файла'
+      file: 'Выбрать файл для загрузки'
+
+    create: 'Загрузить файл'
+    created: 'Файл успешно загружен'
+    edit: 'Редактировать'
+    edit_this: 'Правка этого файла'
+    editing: 'Редактирование&nbsp;файла'
+
+    delete: 'Удалить файл'
+    delete_confirm: 'Уверены, что хотите удалить этот файл?'
+    deleted: 'Файл был успешно удален'
+
+    show_upload_new_file_form: 'Загрузить ещё один файл'
+    hide_upload_new_file_form: 'Скрыть форму'
+    file_size_for_uploading_notice: '1 Мегабайт - ПРЕДЕЛ!'
+    file_foto_for_uploading_notice: '600x400 (Ширина X Высота) - максимум для картинки!'
+
+    other_codes: 'Другие коды для вставки'
+    hide_other_codes: 'Скрыть другие коды для вставки'
+    textile_link: 'TEXTILE ссылка'
+    center_code: 'Код вставки по центру'
+
+# ===============================================
+
+  # MESSAGES
+  messages:
+    send_message: 'Отправить сообщение'
+    income: 'Входящие сообщения '
+  #QUESTIONS
+  questions:
+    income: 'Новые вопросы'
+  # FORUMS
+  forums:
+    income: 'Новые темы форума '
+  #TRICKS
+  tricks:
+    title: 'Хитрости'
+
+  old_uploaded_files:
+    created: 'Файл был успешно загружен'
+    deleted: 'Файл был успешно удален'
+    attachment_size: 'Размер должен быть более 1 Килобайта и менее 1 Мегабайта'
+    title_is_blank: 'Заголовок пуст'
+    file_name_must_be_uniqueness: 'Имя файла должно быть уникально'
+    storage_not_found: 'Хранилище не найдено'
+    uploaded_file_not_found: 'Загружаемый файл не инициализирован'
+    failure_on_create: 'Во время загрузки возникли проблемы'
+    upload_new_file: 'Мне нужно добавить еще один файл'
+    add_file: 'Добавить файл'
+    upload_file_warn: 'Пожалуйста, давайте файлам осмысленные имена'
+    file_name: 'Название файла'
+    file_path: 'Путь к файлу'
+    file_show: 'Просмотр файла'
+    url_paste_code: 'URL адрес файла'
+    link_paste_code: 'Код для вставки ссылки на этот файл'
+    table_paste_code: 'Код для вставки таблицы'
+    image_paste_code: 'Код для вставки изображения'
+    image_center_paste_code: 'Код для вставки изображения по центру'
+    file_size: 'Размер файла:'
+    zoom_image: 'Увеличить изображение'
+    delete_confirm: 'Вы уверены, что хотите удалить этот файл безвозвратно?'
+    delete_file: 'Удалить Файл'
+
+  # COMMENTS
+
+
+  # EDITOR
+  editor:
+    view:
+      textile_title: 'Исходное содержимое'
+      html_title: 'Конечное содержимое'
+      help_title: 'Инстркуция по оформлению'
+      
+      markup: 'Разметка'
+      preview: 'Предпросмотр'
+      instruction: 'Инструкция'
+      read_markup_instruction: 'РАЗМЕТКА (см. Инструкцию)'
+
+  # AWESOME NESTED SET VIEW HELPER (HELPER IS AWESOME TOO)
+  ansvh:
+    page:
+      id_of_element: 'Идентификатор страницы: '
+      cant_be_moved: 'Элемент не может быть перемещен'
+      move_up: 'Переместить элемент вверх: '
+      move_down: 'Переместить элемент вниз: '
+      edit: 'Редактировать элемент: '
+      delete: 'Удалить элемент: '
+      create_child: 'Создать дочерний элемент для: '
+      delete_confirm: 'Вы уверенны, что хотите удалить элемент?'
+      sub_sections_must_be_deleted: 'Невозможно удалить элемент, пока существуют дочерние элементы.'
+
+  #ROLES
+  roles:
+    name: 'Правовая группа: '
+    new: 'Создать новую роль'
+    title: 'Управление правами пользователей'
+    sections: '&laquo; Правовые разделы'
+    empty: 'Еще не создано ни одной правовой группы'
+    destroy_section_confirm: 'Удалить правовой набор?'
+    delete_policy_confirm: 'Удалить эту политику доступа?'
+    delete: 'Удалить'
+    update: 'Обновить'
+    create_access_policy: 'Создать политику доступа в группе'
+    create_policy: "Создать политику"
+    create_section: 'Создать правовую группу'
+    section_needs: 'Пожалуйста создайте сначала хотя бы одну правовую группу'
+    created: 'Роль успешно создана'
+    updated: 'Роль успешно обновлена'
+    roles: 'Роль успешно обновлена'
+    list: 'Список ролей в системе'
+    section_name_is_blank: 'Пустое имя группового набора'
+    section_name_is_wrong: 'Имя группы прав задано неверно'
+    section_exists: 'Такой правовой раздел уже существует'
+    section_created: 'Группа прав успешно создана'
+    section_destroyed: 'Группа прав успешно удалена'
+    section_rule_wrong_name: 'Имя политики доступа задано неверно'
+    section_rule_created: 'Политика доступа успешно создана'
+    section_rule_destroyed: 'Политика доступа была удалена'
+
+  # PREREGS
+  preregs:
+    blank_email: 'пожалуйста, укажите адрес'
+    instruction_sended: 'На указанный адрес отправлена Инструкция с описанием дальнейшего процесса регистрации. Пожалуйста, проверьте свой почтовый ящик.'
+    email_notice: 'Обратите внимание, что могут быть зарегистрированы только адреса электронных ящиков самых популярных в России почтовых сервисов: '
+    wrong_email: 'Вы допустили ошибку при вводе адреса электронной почты. Попробуйте еще раз.'
+
+  # SESSIONS
+  sessions:
+    new:
+      welcome: "Вход на сайт"
+      login_label: "Логин <strong>(имя в системе)</strong>"
+      password_label: "Пароль"
+      unsefty_workplace: 'Чужой компьютер'
+    forgotten_password: 'Забыли пароль?'
+    notice:
+      logined: "Вы успешно вошли на сайт"
+      logged_out: "Вы успешно вышли из системы"
+    error:
+      wrong_login_data: 'Ошибка ввода логина или пароля'
+
+  # FLASH
+  flash:
+    notice:
+      title: 'Системное уведомление'
+    error:
+      title: 'Уведомление об ошибках'
+
+  # SYSTEM
+  system:
+    have_no_users: 'NOBODY HERE! Please, signup or execute rake: rake db:users:create or rake app:create:data'
+
+  # VIEW ERRORS HELPER
+  object_errors:
+    errors:
+      one: 'Ошибка при вводе данных в форму'
+      many: 'Ошибки при вводе данных в форму'
+
+  # AUTH MESSAGES
+  authentication:
+    login_presence: 'это поле не может быть пустым'
+    login_uniqueness: 'по каким-то причинам не может быть использовано'
+    bad_login_message: 'используйте только латинские символы, точку, тире и символ нижнего подчеркивания'
+    bad_name_message: 'такое имя недопустимо'
+    bad_email_message: 'недопустимый формат'
+
+  # SEARCH
+  search:
+    title: 'Поиск'    
+
+  # ACTIVE RECORD
+  activerecord:
+    errors:
+      models:
+        page:
+          attributes:
+            state:
+              invalid: 'Ошибка состояния'
+    attributes:
+      users:
+        login: "Логин: "
+        zip: "Специальный идентификатор: "
+        email: "Электронная почта: "
+        password_confirmation: "Подтверждение пароля: "
+        password: "Пароль: "
+        name: "Полное имя: "
+
+      preregs:
+        email: 'Адрес электронной почты: '
+        name: 'Имя: '
+
+      pages:
+        user_id: 'Идентификатор пользователя: '
+        title: 'Заголовок страницы: '
+        tag_list: 'Ключевые слова: '
+        state: 'Состояние страницы: '
+        captcha: 'Контрольные цифры: '
+    
+      publications:
+        title: 'Заголовок: '
+        tag_list: 'Ключевые слова: '
+
+      storages:
+        title: 'Название папки: '
+        tag_list: 'Ключевые слова: '
+
+      uploadedfiles:
+        title: 'Название файла: '
+        file_file_size: 'Размер файла: '
+        file_file_name: 'Имя файла: '

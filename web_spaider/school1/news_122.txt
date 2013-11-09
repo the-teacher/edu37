@@ -1,0 +1,1301 @@
+<?xml version="1.0" encoding="windows-1251"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>Положение об оплате труда - Средняя общеобразовательная школа № 1 города Иванова</title>
+<meta name="title" content="Положение об оплате труда" />
+<meta name="author" content="webmaster" />
+<meta name="robots" content="index, follow" />
+<meta name="description" content=" Официальный сайт средней общеобразовательной школы № 1 города Иванова Ивановской области" />
+<meta name="keywords" content=" школа иваново 1 средняя образование новости ученик учитель" />
+<meta name="distribution" content="global" />
+<meta name="rating" content="General" />
+<meta name="document-state" content="Dynamic" />
+<meta name="documentType" content="WebDocument" />
+<meta name="audience" content="all" />
+<meta name="revisit" content="10 days" />
+<meta name="revisit-after" content="10 days" />
+<meta name="allow-search" content="yes" />
+<meta name="language" content="russian" />
+<base href="http://school1.ivedu.ru/" />
+<link href="http://school1.ivedu.ru/templates/school1-1/css/template_css.css" rel="stylesheet" type="text/css" />
+<!--[if lt IE 7]>
+			<script type="text/javascript" src="/js/unitpngfix.js"></script>
+<![endif]-->  
+<!--[if (gt IE 5)&(lt IE 7)]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ieonly.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ie7only.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body id="page_bg">
+<div class="center" align="center">
+	<div id="wrapper">
+		<div id="wrapper_r">
+			<div id="header">
+				<a href="http://school1.ivedu.ru" id="logo">&nbsp;</a>
+				<table cellpadding="0" cellspacing="0" class="pill">
+					<tr>
+						<td class="pill_l">&nbsp;
+						</td>
+						<td class="pill_m">
+						<div id="pillmenu">
+													</div>
+						</td>
+					</tr>
+				</table>
+			</div>
+			<div id="tabarea">&nbsp;
+			</div>
+
+			<div class="clr"></div>
+			<div id="whitebox">
+<!--				<div id="whitebox_t">
+					<div id="whitebox_tl">
+						<div id="whitebox_tr">&nbsp;</div>
+					</div>
+				</div> -->
+
+				<div id="whitebox_m">
+					<div id="area">
+					  <div class="rightback">
+					  <div class="contentback">
+					  <div class="leftback">
+						<div id="leftcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+									<div class="module_menu">
+			<div>
+				<div>
+					<div>
+						<h3>Главное меню</h3>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="." title="Главная" class="mainlevel" >Главная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" title="Новости" class="mainlevel" id="active_menu">Новости</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=445&amp;Itemid=45" title="Портфолио школы" class="mainlevel" >Портфолио школы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=446&amp;Itemid=46" title="Учебный процесс" class="mainlevel" >Учебный процесс</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=448&amp;Itemid=47" title="Педагоги" class="mainlevel" >Педагоги</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=5&amp;Itemid=29" title="Документы" class="mainlevel" >Документы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=449&amp;Itemid=48" title="Публичные отчеты" class="mainlevel" >Публичные отчеты</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=450&amp;Itemid=49" title="Кабинет здоровья" class="mainlevel" >Кабинет здоровья</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=451&amp;Itemid=50" title="Родителям" class="mainlevel" >Родителям</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=452&amp;Itemid=51" title="Общественная приемная" class="mainlevel" >Общественная приемная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=453&amp;Itemid=52" title="Итоговая аттестация" class="mainlevel" >Итоговая аттестация</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=454&amp;Itemid=53" title="Школьная жизнь" class="mainlevel" >Школьная жизнь</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_contact&amp;Itemid=3" title="Контакты" class="mainlevel" >Контакты</a></td></tr>
+</table>					</div>
+				</div>
+			</div>
+		</div>
+																						</div>
+						<div id="maincolumn">
+						<div id="pathway">
+							<span class="pathway"><a href="http://school1.ivedu.ru" class="pathway" title="Главная">Главная</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" class="pathway" title="Новости">Новости</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=category&amp;sectionid=&amp;id=0&amp;Itemid=2" class="pathway" title=""></a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" />   Положение об оплате труда </span>						</div>
+<!--											<table class="nopad user1user2">
+								<tr valign="top">
+									<td class="half1">
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Последние новости				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="latestnews">
+	<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=491&amp;Itemid=2" title="ЛЕТНИЙ ОТДЫХ" class="latestnews">ЛЕТНИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=490&amp;Itemid=2" title="ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ" class="latestnews">ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=489&amp;Itemid=2" title="ИГАСУ ЖДЕТ ВАС" class="latestnews">ИГАСУ ЖДЕТ ВАС</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+																			<td class="greyline">&nbsp;</td>
+																		<td>
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Популярное				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="mostread">
+	<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=104&amp;Itemid=2" title="Благодарность учителям начальной школы" class="mostread">
+			Благодарность учителям начальной школы</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=59&amp;Itemid=2" title="Слова благодарности" class="mostread">
+			Слова благодарности</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=51&amp;Itemid=2" title="День открытых дверей для родителей будущих первоклассников" class="mostread">
+			День открытых дверей для родителей будущих первоклассников</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+								</tr>
+							</table>
+							<div id="maindivider"></div>
+				 -->
+							<table class="nopad content">
+								<tr valign="top">
+									<td>
+																					
+			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+				<h3>Положение об оплате труда</h3>				</td>
+										<td align="right" width="100%" class="buttonheading">
+															<a href="http://school1.ivedu.ru/index2.php?option=com_content&amp;task=view&amp;id=122&amp;pop=1&amp;page=0&amp;Itemid=2" target="_blank" title="Печать"><img src="http://school1.ivedu.ru/images/M_images/printButton.png"  alt="Печать" id="print" name="print" align="middle" border="0" /></a>
+													</td>
+								</tr>
+			</table>
+			
+		<table  class="contentpaneopen">
+				<tr>
+			<td width="70%" align="left" valign="top" colspan="2">
+			<span class="small">
+			 Автор webmaster			</span>
+			&nbsp;&nbsp;
+			</td>
+		</tr>
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+				26:03:2009 г.				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+			<b><span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">Согласовано<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Согласовано<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Утверждаю<o:p></o:p></span></span></span></b><b><span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">Председатель Управляющего Совета Председатель ПК<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Директор МУСОШ№1<o:p></o:p></span></span></span></b><b><span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">___________А.Е.Гужова<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>_____С.М.Аверина<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>___________Н.В.Степович<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>22.01.2009<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>22.01.2009<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>22.01.2009<span>&nbsp;&nbsp;&nbsp;&nbsp; </span><o:p></o:p></span></span></span></b><b><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></b> 
+<h1 style="margin: 0cm 0cm 0pt"><a name="_Toc211239885"></a><span><span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">Положение <o:p></o:p></span></span></span></span></h1>
+<h1 style="margin: 0cm 0cm 0pt"><span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span><span>об оплате труда работников муниципального<span>&nbsp; </span>учреждения средней общеобразовательной школы №1</span></span><span><o:p></o:p></span></span></span></span></h1>
+<h1 style="margin: 0cm 0cm 0pt"><span><span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">город Иваново <o:p></o:p></span></span></span></span></h1><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p> 
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Настоящее <span>&nbsp;</span>Положение разработано в целях формирования единых подходов к регулированию заработной платы работников учреждения, повышения заинтересованности в конечных результатах труда, совершенствования управления финансовыми, материальными и кадровыми ресурсами.</span>
+</p>
+<o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p><a name="_Toc178743295"></a><b><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">1.Основные понятия</span></b><b><o:p></o:p></b><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p> 
+<p style="margin: 0cm 0cm 10pt; text-indent: 26.95pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><u>Заработная плата (оплата труда работника)</u> - вознаграждение за труд в зависимости от квалификации работника, сложности, количества, качества и условий выполняемой работы, а также компенсационные и стимулирующие выплаты.</span></span></span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 26.95pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><u>Д<span>олжностной оклад</span></u> (ставка заработной платы)- фиксированный размер оплаты труда работника за исполнение трудовых (должностных) обязанностей определенной сложности и в пределах нормы часов рабочего времени за календарный месяц без учета компенсационных, стимулирующих выплат, состоящий из минимального оклада, увеличенного на повышающие коэффициенты.</span></span></span>
+</p>
+<span style="color: #000000"><u><span style="font-size: 12pt; font-family: 'Times New Roman'">Минимальные оклады (ставки заработной платы) по квалификационным уровням</span></u><span style="font-size: 12pt; font-family: 'Times New Roman'"> -<span>&nbsp; </span>минимальный размер оплаты труда работника определенного квалификационного уровня и определенной профессиональной квалификационной группы за выполнение нормы труда определенной сложности (квалификации) за единицу времени без учета компенсационных, стимулирующих выплат.<u><o:p></o:p></u></span></span><span style="color: #000000"><u><span style="font-size: 12pt; font-family: 'Times New Roman'">Повышающий коэффициент к минимальному окладу (ставке заработной платы) - </span></u><span style="font-size: 12pt; font-family: 'Times New Roman'">размер увеличения минимального оклада (ставки заработной платы).</span><span style="font-family: Arial"><u><span style="font-size: 12pt"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></u><span style="font-size: 12pt; background: yellow"><span>&nbsp;</span></span><span style="font-size: 12pt"><o:p></o:p></span></span></span> 
+<p style="margin: 0cm 0cm 10pt; text-indent: 27pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><u><span>Компенсационные выплаты</span></u><b> &ndash; </b>дополнительные выплаты работнику за работы: во вредных и (или) опасных и иных особых условиях труда; в условиях труда, отклоняющихся от нормальных; не входящие в круг основных обязанностей и другие. </span></span></span>
+</p>
+<span style="color: #000000"><span style="font-family: Times New Roman"><u><span style="font-size: 12pt">Стимулирующие выплаты</span></u><b><span style="font-size: 12pt"> &ndash; </span></b><span style="font-size: 12pt">выплаты, предусматриваемые системой оплаты труда работников учреждения с целью повышения мотивации качественного труда работников и их поощрения за результаты труда.<o:p></o:p></span></span></span><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">Заместителям директора МУСОШ№1 стимулирующие выплаты по результатам работы устанавливаются <span>&nbsp;</span>как процент от стимулирующих выплат директору школы, установленных управлением<span>&nbsp; </span>образования администрации города Иванова с учетом наличия достаточных средств.<o:p></o:p></span></span><span style="font-size: 12pt"><o:p><span style="color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></span><a name="_Toc178743297"></a><b><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">2. Порядок расчета заработной платы работников</span></b><b><span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"> муниципального <o:p></o:p></span></span></span></b><b><span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span>&nbsp;</span>учреждения<o:p></o:p></span></span></span></b><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p> 
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">2.1. Заработная плата работников МУСОШ№1 <span>&nbsp;</span>определяется на основе:</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">- отнесения должностей работников к соответствующим профессиональным квалификационным группам должностей работников образования (ПКГ) и квалификационным уровням в составе профессиональных групп;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">- установления минимальных окладов (ставок заработной платы) по ПКГ и квалификационным уровням (приложение 1 к настоящему постановлению);</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">- установления должностных окладов (ставок заработной платы) по соответствующим ПКГ путем умножения минимальных окладов на повышающие коэффициенты;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">- установления выплат компенсационного характера;</span>
+</p>
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>- установления выплат стимулирующего характера.</span><span style="font-family: Arial"> <a name="sub_10106"></a><o:p></o:p></span></span></span>
+<p style="margin: 0cm 0cm 10pt" class="MsoNormal">
+<span><span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>2.1.1 Изменение размеров должностных окладов производится:</span></span></span></span>
+</p>
+<span></span>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span>&nbsp;</span>- при увеличении стажа педагогической работы, стажа работы по специальности - со дня достижения соответствующего стажа, если документы находятся в образовательном учреждении, или со дня представления документа о стаже, дающем право на повышение размера ставок заработной платы;</span></span></span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span>&nbsp;</span>- при получении образования или восстановлении документов об образовании - со дня представления соответствующего документа;</span></span></span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span>&nbsp;</span>- при присвоении квалификационной категории - со дня вынесения решения аттестационной комиссией;</span></span></span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span>&nbsp;</span>- при присвоении почетного звания - со дня присвоения;</span></span></span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span>&nbsp;</span>- при присуждении ученой степени кандидата наук - со дня вынесения решения Высшей аттестационной комиссией федерального органа управления образованием о выдаче диплома;</span></span></span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span>&nbsp;</span>- при присуждении ученой степени доктора наук - со дня присуждения Высшей аттестационной комиссией федерального органа управления образованием ученой степени доктора наук.</span></span></span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span>&nbsp;</span>При наступлении у работника права на изменение размера ставки заработной платы (должностного оклада) в период пребывания его в ежегодном или другом отпуске, а также в период его временной нетрудоспособности выплата заработной платы исходя из более высокого должностного оклада производится со дня окончания отпуска или временной нетрудоспособности.</span></span></span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span>&nbsp;</span>2.1.2. Администрация МУСОШ№1:</span></span></span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span>&nbsp;</span>- проверяет документы об образовании и стаже педагогической работы (работы по специальности, в определенной должности) и других оснований, в соответствии с которыми определяются размеры ставок заработной платы<span>&nbsp; </span>(должностных окладов) учителей, воспитателей, других работников, исчисляет их заработную плату;</span></span></span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span>&nbsp;</span>- ежегодно составляет и утверждает на работников, выполняющих педагогическую работу, включая работников, выполняющих эту работу в том же образовательном учреждении помимо основной работы, тарификационные списки;</span></span></span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span>&nbsp;</span>- несет ответственность за своевременное и правильное определение размеров заработной платы работников образовательных учреждений.</span></span></span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">2.2. Месячная заработная плата работника ПКГ должностей<b> </b>педагогических работников определяется как сумма оплаты труда, исчисленной с учетом фактически установленного объема учебной нагрузки, компенсационных и стимулирующих выплат по формуле: </span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Зп = Оф+К+С,<span>&nbsp; </span>где: </span>
+</p>
+<o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p> 
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Зп &ndash; месячная заработная плата;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Оф &ndash; оплата за фактическую учебную нагрузку;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">К &ndash; компенсационные выплаты;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">С &ndash; <span>стимулирующие выплаты</span>.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">2.3. Оплата за фактическую учебную нагрузку работника ПКГ должностей педагогических работников за фактически установленный ему объем учебной нагрузки определяется путем умножения размеров окладов по квалификационным уровням профессиональной квалификационной группы должностей педагогических работников на фактическую учебную нагрузку в неделю <span>&nbsp;</span>и деления полученного произведения на норму часов педагогической работы в неделю<span>&nbsp; </span>за должностной оклад по следующей формуле:</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Оф = <u>Ст х Фн ,</u><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>где:</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Нчс</span></span></span>
+</p>
+<o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p> 
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Оф - оплата за фактическую учебную нагрузку педагогического работника;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Ст &ndash; оклад (ставка заработной платы) по квалификационному уровню ПКГ должностей педагогических работников;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Фн - фактическая учебная нагрузка в неделю ;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Нчс - норма часов педагогической работы в неделю <span>&nbsp;</span>за должностной оклад в соответствии с постановлением Правительства Российской Федерации от 3 апреля 2003 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>№ 191 &laquo;О продолжительности рабочего времени (норме часов педагогической работы за ставку заработной платы) педагогических работников образовательных учреждений&raquo;.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Объем учебной нагрузки педагогических работников устанавливается исходя из количества часов по учебному плану и программам, обеспеченности кадрами, других конкретных условий в образовательном учреждении.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Установленная при тарификации оплата<span>&nbsp; </span>за фактическую нагрузку педагогического работника выплачивается ежемесячно независимо от числа недель и рабочих дней в разные месяцы года.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">В период школьных каникул педагогические работники привлекаются к педагогической, методической и организационной работе в пределах своей фактической нагрузки, оплата труда осуществляется в соответствии с периодом, предшествующим каникулам.</span>
+</p>
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">2.4. Размеры окладов (ставок заработной платы) по квалификационным уровням ПКГ должностей педагогических работников определяется путем умножения минимальных окладов (ставок заработной платы) по квалификационным уровням ПКГ должностей педагогических работников на повышающие коэффициенты, предусмотренные в зависимости от имеющегося уровня образования, квалификационной категории, присвоенной по результатам аттестации:<b><i><o:p></o:p></i></b></span></span></span> 
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Ст = Мо х Ко х Кк, где </span>
+</p>
+<o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p> 
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Ст &ndash; должностной оклад педагогического работника;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Мо &ndash; минимальный оклад по квалификационному уровню ПКГ должностей педагогических работников;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Ко &ndash; коэффициент образования или стажа;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Кк &ndash; коэффициент квалификации.</span>
+</p>
+<o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p> 
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.4pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Значения коэффициентов представлены в приложении 1 к настоящему положению.</span>
+</p>
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">2.5. Месячная з<span>аработная плата, размеры ставок заработной платы или должностных окладов других педагогических работников (в т.ч. педагогов дополнительного образования, воспитателей, педагогов-психологов, педагогов-организаторов и т.п.) определяются в порядке, предусмотренном для педагогических работников, в том числе для отдельных педагогических работников (педагогов дополнительного образования, воспитателей, музыкальных руководителей и др.) с учетом определения оплаты за педагогическую работу в зависимости от ее объема и норм часов педагогической работы, установленных за ставку.<o:p></o:p></span></span></span></span> 
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span>Должностные оклады педагогических работников, для которых не предусмотрены отдельные нормы часов работы за ставку, определяются </span>путем умножения минимальных окладов (ставок) по квалификационным уровням ПКГ должностей педагогических работников на повышающие коэффициенты, предусмотренные в зависимости от имеющегося уровня образования, квалификационной категории, присвоенной по результатам аттестации: </span></span></span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">О = Мо х Ко х Кк, где </span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">О &ndash; должностной оклад работника; </span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Мо &ndash; минимальный оклад по квалификационному уровню ПКГ должностей педагогических работников;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Ко &ndash;коэффициент образования или стажа;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Кк &ndash; коэффициент квалификации.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">2.6. Заработная плата работников ПКГ должностей работников учебно-вспомогательного персонала первого уровня, должностей работников учебно-вспомогательного персонала второго уровня, должностей руководителей структурных подразделений определяется как сумма <span>должностного </span>оклада работника, компенсационных выплат, и стимулирующих выплат:</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Зп = О+К+С, где: </span>
+</p>
+<o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p> 
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Зп &ndash; заработная плата работника;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">О &ndash; <span>должностной </span>оклад<span> </span>работника;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">К &ndash; <span>компенсационные выплаты;</span></span></span></span>
+</p>
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">С &ndash; с<span>тимулирующие выплаты.<o:p></o:p></span></span></span></span> 
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">2.7. Должностные оклады работников ПКГ должностей работников учебно-вспомогательного персонала первого уровня, должностей работников учебно-вспомогательного персонала второго уровня, должностей руководителей структурных подразделений определяются путем умножения минимальных окладов по квалификационному уровню ПКГ должностей педагогических работников на повышающие коэффициенты предусмотренные в зависимости от имеющегося уровня образования, стажа, квалификационной категории, присвоенной по результатам аттестации:</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">О= Мох Ко х Кк, где </span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">О &ndash; должностной оклад работника; </span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Мо &ndash; минимальный оклад по квалификационному уровню ПКГ должностей работников учебно-вспомогательного персонала первого уровня, должностей работников учебно-вспомогательного персонала второго уровня, должностей руководителей структурных подразделений;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Ко &ndash; коэффициент образования или стажа;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Кк &ndash; коэффициент квалификации.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Размеры повышающих коэффициентов устанавливаются руководителем учреждения в пределах средств, предусмотренных на оплату труда.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">2.8. Заработная плата работников ПКГ общеотраслевых должностей руководителей, специалистов и служащих определяется как сумма <span>должностного </span>оклада работника, компенсационных выплат, и стимулирующих выплат:</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Зп = О+К+С, где: </span>
+</p>
+<o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p> 
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Зп &ndash; заработная плата работника;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">О &ndash; <span>должностной </span>оклад<span> </span>работника;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">К &ndash; <span>компенсационные выплаты;</span></span></span></span>
+</p>
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">С &ndash; с<span>тимулирующие выплаты.<o:p></o:p></span></span></span></span> 
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">2.9. Должностные оклады работников ПКГ общеотраслевых должностей руководителей, специалистов и служащих определяются путем умножения минимальных окладов по квалификационному уровню ПКГ общеотраслевых должностей руководителей, специалистов и служащих на повышающие коэффициенты предусмотренные в зависимости от имеющегося уровня образования, стажа, квалификационной категории, присвоенной по результатам аттестации:</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">О= Мо х Ко х <span>&nbsp;</span>Кк<b>,</b> где </span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">О &ndash; должностной оклад работника; </span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Мо &ndash; минимальный оклад по квалификационному уровню ПКГ общеотраслевых должностей руководителей, специалистов и служащих;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Ко &ndash; коэффициент образования или стажа;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 36pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Кк &ndash; коэффициент квалификации.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Размеры повышающих коэффициентов устанавливаются руководителем учреждения в пределах средств, предусмотренных на оплату труда.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">2.10. Заработная плата работников ПКГ общеотраслевых профессий<b> </b>рабочих определяется как сумма <span>должностного оклада (ставки заработной платы) </span>работника, компенсационных выплат, и стимулирующих выплат:</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Зп = О+К+С, где: </span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Зп &ndash; заработная плата работника;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">О &ndash; <span>должностная оклад (ставка заработной платы) </span>работника;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">К &ndash; <span>компенсационные выплаты;</span></span></span></span>
+</p>
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">С &ndash; с<span>тимулирующие выплаты.<o:p></o:p></span></span></span></span> 
+<p style="margin: 0cm 0cm 10pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>2.11. Должностные ставки работников ПКГ общеотраслевых профессий рабочих соответствует минимальным окладам по квалификационным уровням ПКГ общеотраслевых профессий рабочих. </span></span></span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">2.12. <span>Т</span><span>арификация работ производится с учетом Единого тарифно-квалификационного справочника работ и профессий рабочих (ЕТКС), утверждение и применение, которого определяется в порядке, устанавливаемом Правительством Российской Федерации. </span></span></span></span>
+</p>
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">2.13. Должностные оклады (ставки заработной платы), а также другие условия оплаты труда работников, с которыми в порядке, предусмотренном<span>&nbsp; </span>трудовым законодательством Российской Федерации, заключен трудовой договор о работе по совместительству, устанавливаются в порядке и размерах, предусмотренных для аналогичных категорий работников данного учреждения. <span style="font-family: Arial"><o:p></o:p></span></span></span></span>
+<p style="margin: 0cm 0cm 10pt; text-indent: 1cm; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Другие гарантии и компенсации, предусмотренные трудовым законодательством и иными нормативными правовыми актами, содержащими нормы трудового права, коллективными договорами, соглашениями, локальными нормативными актами, предоставляются лицам, работающим по совместительству, в полном объеме.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 1cm; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Оплата труда работников, занятых по совместительству, а также на условиях неполного рабочего времени, производится пропорционально отработанному<span>&nbsp; </span>времени либо на других условиях, определенных трудовым договором. </span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 1cm; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Определение размеров<span>&nbsp; </span>и начисления заработной платы по основной должности и по должности, занимаемой в порядке совместительства, производится раздельно по каждой из должностей.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">2.14. Заработная плата руководителей учреждений, их заместителей<b> </b>и главных бухгалтеров состоит из должностного оклада, выплат компенсационного и стимулирующего характера:</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Зп = О+К+С, где: </span>
+</p>
+<o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p> 
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Зп &ndash; заработная плата работника;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">О &ndash; <span>должностной </span>оклад<span> </span>работника;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">К &ndash; <span>компенсационные выплаты, за исключением выплаты за работу с учетом специфики образовательного учреждения (классов, групп);</span></span></span></span>
+</p>
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">С &ndash; с<span>тимулирующие выплаты.<o:p></o:p></span></span></span></span> 
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">2.15. Должностной оклад руководителя учреждения, определяемый трудовым договором, устанавливается в кратном отношении к средней заработной плате работников, которые относятся к основному персоналу возглавляемого им учреждения: </span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">О = Сзп х Кг</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">О - оклад руководителя учреждения</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Сзп - средняя заработная плата основного персонала учреждения</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Кг &ndash; повышающий коэффициент в зависимости от группы по оплате труда руководителя учреждения. </span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">К основному персоналу учреждения относятся работники, непосредственно обеспечивающие выполнение основных функций, для реализации которых создано учреждение (приложение 2 к<span>&nbsp; </span>настоящему постановлению).</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Порядок исчисления средней заработной платы для определения размера должностного оклада руководителя<span>&nbsp; </span>учреждения осуществляется в соответствии с Приказом<span>&nbsp; </span>Министерства здравоохранения и социального развития Российской Федерации от 08.04.2008 № 167н &laquo;Об утверждении Порядка исчисления размера средней заработной платы для определения размера должностного оклада руководителя федерального бюджетного учреждения&raquo;.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Размеры повышающих коэффициентов и порядок отнесения к группам по оплате труда установлены<span>&nbsp; </span>приложением 3 к<span>&nbsp; </span>настоящему постановлению. </span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">2.16. Должностные оклады заместителей руководителя <span>&nbsp;</span>и главных бухгалтеров учреждения <span>&nbsp;</span>устанавливаются на 10-30 процентов ниже должностного оклада руководителя учреждения приказом руководителя.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">2.17. С учетом условий труда руководителю учреждения и его заместителям, главному бухгалтеру устанавливаются выплаты<span>&nbsp; </span>компенсационного характера. </span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">2.18. Стимулирующие выплаты руководителю<span>&nbsp; </span>учреждения устанавливаются в соответствии с положением о стимулирующих выплатах к должностным окладам руководителям. Указанное положение принимается Коллегией управления образования администрации города Иванова, утвержденной приказом начальника управления образования администрации города от 29.08.2007 № 309. </span>
+</p>
+<span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">2.19. Выплаты стимулирующего и компенсационного характера устанавливаются руководителю и заместителям руководителя<span>&nbsp; </span>в пределах средств фонда оплаты труда.<o:p></o:p></span></span><b><span style="letter-spacing: -0.4pt"><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></span></b><b><span style="letter-spacing: -0.4pt"><span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">3. Порядок и условия установления выплат компенсационного характера<o:p></o:p></span></span></span></span></b><b><span style="letter-spacing: -0.4pt"><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></span></b> 
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">3.1. Выплаты компенсационного характера, размеры и условия их осуществления устанавливаются коллективным договором, соглашениями, локальными нормативными актами, трудовыми договорами в соответствии с трудовым законодательством Российской Федерации и иными нормативными правовыми актами, содержащими нормы трудового права.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 26.95pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Размер компенсационных выплат может устанавливаться как в абсолютном значении, так и в процентном отношении к должностному окладу (ставке заработной платы). </span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">3.2. Могут быть осуществлены следующие выплаты компенсационного характера:</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">- выплаты работникам, занятым на тяжелых работах, работах с вредными и (или) опасными и иными особыми условиями труда;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">-<span>&nbsp; </span>выплаты за работу в условиях,<span>&nbsp; </span>отклоняющихся от нормальных (при совмещении профессий (должностей), при расширении зон обслуживания, при увеличении объема работы или при исполнении обязанностей временно отсутствующего работника без освобождения от работы, определенной трудовым договором, сверхурочной работе, работе в ночное время, за работу в выходные и нерабочие<span>&nbsp; </span>праздничные дни, а также при выполнении работ в других условиях, отклоняющихся от нормальных); </span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">- выплаты за выполнение дополнительных работ, не входящих в круг основных обязанностей педагогического работника;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">- выплаты с учетом специфики работы в образовательных учреждениях (приложение 1 к настоящему положению). </span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">3.3. Выплата работникам, занятым на тяжелых работах, работах с вредными и (или) опасными и иными особыми условиями труда устанавливается в соответствии со статьей 147 Трудового<span>&nbsp; </span>кодекса Российской Федерации.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Размер указанных выплат определяется путем умножения<span>&nbsp; </span>должностных окладов на соответствующий повышающий коэффициент и составляет до 12 процентов<span>&nbsp; </span>должностного оклада.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">На момент введения новых систем оплаты труда указанная выплата устанавливается всем работникам, получавшим ее ранее. При этом работодатель принимает меры по проведению аттестации рабочих мест с целью разработки и реализации программы действий по обеспечению безопасных условий и охраны труда.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Если по итогам аттестации рабочее место признается безопасным, то осуществление указанной выплаты прекращается.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">3.4. Выплаты за работу в условиях, отклоняющихся от нормальных (совмещение профессий (должностей), сверхурочная работа, работа в ночное время, расширение зон обслуживания, увеличение объема работы или исполнение обязанностей временно отсутствующего работника без освобождения от работы, определенной трудовым договором, работа в выходные и нерабочие праздничные дни) устанавливаются в соответствии с трудовым законодательством Российской Федерации и иными нормативными правовыми актами, содержащими нормы трудового права коллективным договором.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">3.4.1. Размер выплаты за совмещение профессий (должностей); за расширение зон обслуживания; за увеличение объема работы или исполнение обязанностей временно отсутствующего работника без освобождения от работы, определенной трудовым договором; и срок, на который она устанавливается, определяется по соглашению сторон трудового договора с учетом содержания и (или) объема дополнительной работы. </span>
+</p>
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">3.4.2.<span style="letter-spacing: -0.4pt"> <span>Выплата за работу в ночное время</span> производится работникам за каждый час работы в ночное время. <o:p></o:p></span></span></span></span><span style="letter-spacing: -0.4pt"><span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">Ночным считается время с 22 часов до 6 часов утра.<o:p></o:p></span></span></span></span> 
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Размер выплаты &ndash; от 20 до 35 процентов оклада (должностного оклада) за каждый час работы работника в ночное время. </span>
+</p>
+<span style="font-size: 12pt; letter-spacing: -0.4pt"><span style="color: #000000"><span style="font-family: Times New Roman">Расчет выплаты за час работы в ночное время определяется путем деления оклада (должностного оклада, ставки заработной платы) работника на среднемесячное количество<span>&nbsp; </span>рабочих часов в году<span>&nbsp; </span>в зависимости от установленной продолжительности рабочего времени для данной категории работников.<o:p></o:p></span></span></span><span style="letter-spacing: -0.4pt"><span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">3.4.3. Выплата <span>за работу в выходные и нерабочие праздничные </span>дни производится работникам, привлекавшимся к работе в выходные и нерабочие праздничные дни. <o:p></o:p></span></span></span></span><span style="letter-spacing: -0.4pt"><span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">Размер выплаты составляет:<o:p></o:p></span></span></span></span> 
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span style="letter-spacing: -0.4pt">- не менее одинарной дневной ставки </span>(должностного оклада, ставки заработной платы) <span style="letter-spacing: -0.4pt">сверх</span> оклада (должностного оклада, ставки) при работе полный день, если работа в выходной или нерабочий праздничный день производилась в пределах месячной нормы рабочего времени и в размере не менее двойной<span>&nbsp; </span>дневной ставки (должностного оклада, ставки заработной платы) сверх оклада (должностного оклада, ставки), если работа производилась сверх месячной нормы рабочего времени;</span></span></span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">- не менее одинарной часовой ставки (должностного оклада, ставки заработной платы) сверх оклада (должностного оклада, ставки) за каждый час работы, если работа в выходной или нерабочий праздничный день производилась в пределах месячной нормы рабочего времени и в размере не менее двойной дневной ставки (должностного оклада, ставки заработной платы) сверх оклада (должностного оклада, ставки заработной платы) за каждый час работы, если работа производилась сверх месячной нормы рабочего времени. </span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">По желанию работника, работавшего в выходной или нерабочий праздничный день, ему может быть представлен другой день отдыха. В этом случае работа в выходной или<span>&nbsp; </span>нерабочий праздничный день оплачивается в одинарном размере, а день отдыха оплате не подлежит.</span>
+</p>
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span style="letter-spacing: -0.4pt">3.4.4. Сверхурочная работа оплачивается за первые два часа работы не менее чем в полуторном размере, за последующие часы &ndash; не менее чем в двойном размере </span><span style="letter-spacing: -0.3pt">в соответствии со статьей 152 Трудового кодекса Российской Федерации. Конкретные размеры оплаты за сверхурочную работу определяются коллективным договором, локальным нормативным актом или трудовым договором.<o:p></o:p></span></span></span></span><span style="letter-spacing: -0.3pt"><span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">По желанию работника сверхурочная работа вместо повышенной оплаты может компенсироваться предоставлением дополнительного времени отдыха, но не менее времени, отработанного сверхурочно.<o:p></o:p></span></span></span></span><span style="letter-spacing: -0.3pt"><span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">Для<span>&nbsp; </span>пп.. 3.4.2 - 3.4.4 <span>&nbsp;</span>в случае выплат за час (день) последняя определяется путем деления оклада (должностного оклада), ставки заработной платы на<span>&nbsp; </span>среднемесячное количество рабочих часов (дней) в году, в зависимости от установленной продолжительности<span>&nbsp; </span>рабочего времени для данной категории работников.<o:p></o:p></span></span></span></span> 
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span style="letter-spacing: -0.3pt">3.5. </span>Перечень и размеры выплат за выполнение дополнительных работ, связанных с образовательным процессом и не входящих в круг основных обязанностей педагогического работника, а также порядок их установления определяются учреждением образования самостоятельно, но не менее 6% в пределах выделенных бюджетных ассигнований<span>&nbsp; </span>и устанавливаются локальным нормативным актом учреждения с учетом мнения представительного органа работников или коллективным договором (соглашением).</span></span></span>
+</p>
+<span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">В перечень видов дополнительно оплачиваемых работ могут включаться: классное руководство, проверка тетрадей, заведование отделениями, учебными мастерскими, лабораториями, учебно-опытными участками; руководство предметными комиссиями, цикловыми и методическими комиссиями; проведение работы по дополнительным образовательным программам; организация трудового обучения, профессиональной ориентации, пополнение школьного сайта и другие.<o:p></o:p></span></span> 
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span>&nbsp; </span>3.6. Размер выплаты за работу с учетом специфики образовательных учреждений (классов, групп) определяется путем умножения<span>&nbsp; </span>должностных окладов на соответствующий коэффициент специфики работы, указанный в приложении 1 к настоящему положению.</span></span></span>
+</p>
+<b><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></b><b><span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">4. Порядок и условия<span>&nbsp; </span>выплат стимулирующего характера<o:p></o:p></span></span></span></b><b><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></b> 
+<p style="margin: 0cm 0cm 10pt; text-indent: 26.95pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">4.1. Выплаты стимулирующего характера производятся по основаниям, предусмотренным настоящим Положением и локальными нормативными актами, принимаемыми<span>&nbsp; </span>учреждением<span>&nbsp; </span>в пределах фонда оплаты труда. Размеры и условия осуществления выплат стимулирующего характера устанавливаются коллективными договорами, соглашениями, локальными нормативными актами, трудовыми договорами.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 26.95pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">4.2. Размер стимулирующих выплат (в том числе премии) может устанавливаться как в абсолютном значении, так и в процентном отношении к должностному окладу (ставке заработной платы). </span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 26.95pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">4.3. В целях поощрения работников муниципальных образовательных учреждений за выполненную работу могут быть установлены следующие виды выплат стимулирующего характера:</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 26.95pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">- выплаты за интенсивность, высокие результаты работы;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 26.95pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">- выплаты за качество выполняемых работ;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 26.95pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">- выплаты за стаж непрерывной работы, выслугу лет;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 26.95pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">- премиальные выплаты по итогам работы.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 26.95pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">4.4. Выплаты за интенсивность и высокие результаты работы осуществляются в зависимости от интенсивности, напряженности, трудоемкости работы и работы в условиях ненормированного рабочего дня. </span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 27pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">4.4.1. Выплаты за ученую степень, почетное звание:</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 27pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">- за почетные звания &laquo;Народный учитель&raquo;, &laquo; Заслуженный учитель&raquo; и другие почетные звания по профилю учреждения или педагогической деятельности (преподаваемых дисциплин) - 20%;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">- за ученую степень по профилю образовательного учреждения или педагогической деятельности (преподаваемых дисциплин):</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span>&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>-<span>&nbsp; </span>кандидат наук<span>&nbsp; </span>25%;</span></span></span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>-<span>&nbsp; </span>доктор наук<span>&nbsp;&nbsp;&nbsp;&nbsp; </span>- 45%.</span></span></span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">-<span>&nbsp;&nbsp; </span>за ведомственный нагрудный знак -10%</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 27pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">4.5. Выплаты за качество выполняемых работ осуществляются с учетом оценки критериев качества оказанных услуг и выполненной работы, разработанных и утвержденных коллективными договорами, соглашениями, локальными нормативными актами.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 27pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Могут быть установлены следующие виды выплат за качество выполняемых работ:</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 27pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">- выплата<span>&nbsp; </span>за содействие в обеспечении платных услуг и иной приносящей доход деятельности; </span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">- за оперативное выполнение особо важных заданий руководства учреждения;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">- персональная выплата в зависимости от степени самостоятельности и ответственности<span>&nbsp; </span>при выполнении поставленных задач, сложности и важности выполняемой работы;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">- иные виды выплат, которые можно использовать в качестве стимулирования за выполняемую работу.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">4.6. Работникам муниципальных образовательных учреждений могут быть установлены выплаты за выслугу лет или за стаж непрерывной работы в образовательных учреждениях. </span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">4.7. Премиальные выплаты по итогам работы: </span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">- премия по итогам работы за месяц, квартал, полугодие, 9 месяцев, год;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">- премия за образцовое качество выполняемых работ;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">- премия за выполнение особо важных и срочных работ;</span>
+</p>
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">4.8. Решение о введении каждой конкретной стимулирующей выплаты принимает руководитель учреждения, при этом:<o:p></o:p></span></span></span><span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">- показатели,<o:p></o:p></span></span></span><span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">- условия<span>&nbsp; </span>начисления,<o:p></o:p></span></span></span><span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">- категории работников, которым она устанавливается,<o:p></o:p></span></span></span><span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">- период, за который выплачивается премия или<span>&nbsp; </span>назначается надбавка,<o:p></o:p></span></span></span> 
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span>&nbsp;</span><span>&nbsp;</span>определяются в положении о стимулирующих выплатах соответствующего учреждения с учетом мнения представительного органа работников учреждения.</span></span></span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">4.9. При премировании учитывается:</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">- успешное и добросовестное исполнение работником своих должностных обязанностей в соответствующем периоде;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">-<span>&nbsp; </span>инициатива, творчество и применение в работе современных форм и методов организации труда;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">- качественная подготовка и проведение мероприятий, связанных с уставной деятельностью учреждения;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">-<span>&nbsp; </span>выполнение порученной работы, связанной с обеспечением рабочего процесса или уставной деятельности учреждения;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">-<span>&nbsp; </span>качественная подготовка и своевременная сдача отчетности;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">- участие в течение<span>&nbsp; </span>соответствующего рабочего периода в выполнении важных работ, мероприятий и т.д.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">- особый режим работы, связанный с обеспечение безаварийной, безотказной и бесперебойной работы инженерных и хозяйственно-эксплуатационных систем жизнеобеспечения учреждения, обеспечение платных образовательных услуг<span>&nbsp; </span>и иной внебюджетной деятельностью;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">- организация и проведение мероприятий, направленных на повышение авторитета и имиджа учреждения среди населения;</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">- непосредственное участие в реализации национальных проектов, федеральных и региональных целевых программ и т.д.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span>&nbsp;</span>Размеры премии предельными размерами не ограничиваются.</span></span></span>
+</p>
+<b><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></b><b><span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">5.Другие вопросы оплаты труда<o:p></o:p></span></span></span></b><b><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></b> 
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">5.1. В случае задержки выплаты работникам заработной платы и других нарушений оплаты труда руководитель учреждения несет ответственность в соответствии с законодательством Российской Федерации.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">5.2.<span>&nbsp; </span>По должностям служащих и профессиям рабочих, по которым размеры минимальных окладов (ставок заработной платы) не определены настоящим<span>&nbsp; </span>Положением, размеры окладов устанавливаются по решению руководителя учреждения.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">5.3. Оплата труда педагогических работников устанавливается исходя из тарифицируемой педагогической нагрузки. Норма часов преподавательской работы за ставку заработной платы, являющейся нормируемой частью педагогической работы, устанавливается в соответствии с постановлением Правительства Российской Федерации от 03.04.2003 №191 &laquo;О продолжительности рабочего времени (норме часов педагогической работы за ставку заработной платы) педагогических работников образовательных учреждений&raquo;.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Для педагогических работников образовательного учреждения может применяться<span>&nbsp; </span>почасовая оплата:<span>&nbsp; </span>за часы, отработанные за отсутствующих по болезни или другим причинам учителей, преподавателей, воспитателей и других педагогических работников с их письменного согласия, продолжавшегося не свыше двух месяцев, за педагогическую работу специалистов других учреждений и организаций (в том числе работников органов государственной власти и местного самоуправления, методических и учебно-методических кабинетов), привлекаемых к проведению учебных занятий в учреждениях.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Размер оплаты за один час педагогической работы определяется путем деления установленной месячной ставки заработной платы педагогического работника за установленную норму часов педагогической работы в неделю на среднемесячное количество рабочих часов.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Оплата труда педагогического работника за замещение отсутствующего работника, если оно осуществлялось свыше двух месяцев, производится<span>&nbsp; </span>со дня начала замещения за все часы фактической преподавательской работы на общих основаниях с соответствующим увеличением его начальной (месячной) учебной нагрузки путем внесения изменений в тарификацию. </span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">5.4. Условия оплаты труда, включая размер оклада (ставки заработной платы, должностного оклада) работника, повышающие коэффициенты к окладам, выплаты компенсационного характера, выплаты стимулирующего характера являются обязательными для включения в трудовой договор. </span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">5.5. Заработная плата работника предельными размерами не ограничивается.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">5.6. Штатное расписание учреждения утверждается руководителем учреждения и включает в себя все должности служащих и профессии рабочих данного учреждения.</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.45pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">5.7.Численный состав работников учреждения должен быть достаточным для гарантированного выполнения его функций, задач, объемов работ. </span>
+</p>
+<o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p> 
+<p align="right" style="margin: 0cm 0cm 10pt 252pt; text-align: right" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Приложение № 1</span>
+</p>
+<span style="font-size: 14pt; line-height: 115%"><o:p><span style="color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></span> 
+<h1 style="margin: 0cm 0cm 0pt"><a name="_Toc211239882"></a><span><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Минимальные оклады (ставки) по квалификационным уровням профессиональных квалификационных групп</span></span><span><span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"> должностей работников образования (ПКГ)<o:p></o:p></span></span></span></span></h1><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p><b><span style="color: #000000"><span style="font-family: Times New Roman"><span style="font-size: 14pt; line-height: 115%"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size: 12pt">ПКГ<span>&nbsp; </span></span><span style="font-size: 12pt">должностей работников образования:<o:p></o:p></span></span></span></b><span style="color: #000000"><span style="font-family: Times New Roman"><b><span style="font-size: 14pt; line-height: 115%">-</span><span style="font-size: 12pt">ПКГ должностей работников учебно-вспомогательного персонала первого уровня</span></b><b><span style="font-size: 14pt; line-height: 115%"><o:p></o:p></span></b></span></span><span style="font-size: 14pt; line-height: 115%"><o:p><span style="color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></span> 
+<div align="center">
+<table border="0" width="634" cellPadding="0" cellSpacing="0" style="margin: auto auto auto -89.75pt; width: 475.65pt; border-collapse: collapse" class="MsoNormalTable">
+	<tbody>
+		<tr style="height: 12.75pt">
+			<td width="202" noWrap="true" vAlign="bottom" style="padding-right: 5.4pt; padding-left: 5.4pt; padding-bottom: 0cm; width: 151.25pt; padding-top: 0cm; height: 12.75pt; background-color: transparent; border: windowtext 1pt solid">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">ПКГ должностей работников учебно-вспомогательного персонала первого уровня</span>
+			</p>
+			</td>
+			<td width="295" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: windowtext 1pt solid; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 221.3pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Должности, отнесенные к квалификационным уровням</span>
+			</p>
+			</td>
+			<td width="137" noWrap="true" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: windowtext 1pt solid; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 103.1pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Минимальный оклад, </span>
+			</p>
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">руб.</span>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 12.75pt">
+			<td width="202" noWrap="true" vAlign="bottom" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 151.25pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">1 квалификационный уровень</span>
+			</p>
+			</td>
+			<td width="295" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 221.3pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent">
+			<p style="margin: 0cm 0cm 10pt; text-align: justify" class="MsoNormal">
+			<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span>&nbsp;</span>вожатый;<span>&nbsp; </span>секретарь учебной части</span></span></span>
+			</p>
+			</td>
+			<td width="137" noWrap="true" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 103.1pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">2100</span>
+			</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<span style="font-size: 14pt; line-height: 115%"><o:p><span style="color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></span><span style="color: #000000"><span style="font-family: Times New Roman"><b><span style="font-size: 14pt; line-height: 115%">-</span><span style="font-size: 12pt">ПКГ должностей педагогических работников</span></b><b><span style="font-size: 14pt; line-height: 115%"><o:p></o:p></span></b></span></span><span style="font-size: 14pt; line-height: 115%"><o:p><span style="color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></span> 
+<div align="center">
+<table border="0" width="642" cellPadding="0" cellSpacing="0" style="margin: auto auto auto -31.05pt; width: 481.45pt; border-collapse: collapse" class="MsoNormalTable">
+	<tbody>
+		<tr style="height: 12.75pt">
+			<td width="185" noWrap="true" vAlign="bottom" style="padding-right: 5.4pt; padding-left: 5.4pt; padding-bottom: 0cm; width: 139pt; padding-top: 0cm; height: 12.75pt; background-color: transparent; border: windowtext 1pt solid">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">ПКГ должностей педагогических работников</span>
+			</p>
+			</td>
+			<td width="304" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: windowtext 1pt solid; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 227.85pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Должности, отнесенные к квалификационным уровням</span>
+			</p>
+			</td>
+			<td width="153" noWrap="true" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: windowtext 1pt solid; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 114.6pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Минимальный оклад,</span>
+			</p>
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">руб.</span>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 12.75pt">
+			<td width="185" noWrap="true" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 139pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">1 квалификационный уровень</span>
+			</p>
+			</td>
+			<td width="304" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 227.85pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent">
+			<p style="margin: 0cm 0cm 10pt; text-align: justify" class="MsoNormal">
+			<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span>&nbsp;</span>старший вожатый</span></span></span>
+			</p>
+			</td>
+			<td width="153" noWrap="true" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 114.6pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">2500</span>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 12.75pt">
+			<td width="185" noWrap="true" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 139pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">2 квалификационный уровень</span>
+			</p>
+			</td>
+			<td width="304" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 227.85pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent">
+			<p style="margin: 0cm 0cm 10pt; text-align: justify" class="MsoNormal">
+			<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span>&nbsp;</span>педагог<span>&nbsp; </span>дополнительного<span>&nbsp;&nbsp;&nbsp;&nbsp; </span>образования;<span>&nbsp; </span>социальный<span>&nbsp;&nbsp; </span>педагог; </span></span></span>
+			</p>
+			</td>
+			<td width="153" noWrap="true" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 114.6pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">2700</span>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 12.75pt">
+			<td width="185" noWrap="true" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 139pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">3 квалификационный уровень</span>
+			</p>
+			</td>
+			<td width="304" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 227.85pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent">
+			<p style="margin: 0cm 0cm 10pt; text-align: justify" class="MsoNormal">
+			<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">воспитатель;<span>&nbsp; </span>педагог-психолог<span>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></span>
+			</p>
+			</td>
+			<td width="153" noWrap="true" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 114.6pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">2800</span>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 12.75pt">
+			<td width="185" noWrap="true" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 139pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">4 квалификационный уровень</span>
+			</p>
+			</td>
+			<td width="304" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 227.85pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent">
+			<p style="margin: 0cm 0cm 10pt; text-align: justify" class="MsoNormal">
+			<span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span>&nbsp;</span>преподаватель-организатор<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>основ безопасности<span>&nbsp;&nbsp;&nbsp;&nbsp; </span>жизнедеятельности;<span>&nbsp; </span>учитель-дефектолог; учитель-логопед (логопед)</span></span></span>
+			</p>
+			</td>
+			<td width="153" noWrap="true" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 114.6pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">2900</span>
+			</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<span style="font-size: 14pt; line-height: 115%"><o:p><span style="color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></span><b><span style="color: #000000"><span style="font-family: Times New Roman"><span style="font-size: 14pt; line-height: 115%">-</span><span style="font-size: 12pt">ПКГ должностей руководителей структурных подразделений<o:p></o:p></span></span></span></b><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p><b><span style="font-size: 14pt; line-height: 115%"><o:p><span style="color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></span></b><b><span style="color: #000000"><span style="font-family: Times New Roman"><span style="font-size: 14pt; line-height: 115%"><span>&nbsp;</span></span><span style="font-size: 12pt">ПКГ общеотраслевых<span>&nbsp; </span></span><span style="font-size: 12pt">должностей руководителей, специалистов и служащих<o:p></o:p></span></span></span></b><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p> 
+<div align="center">
+<table border="0" width="648" cellPadding="0" cellSpacing="0" style="margin: auto auto auto 1.5pt; width: 485.65pt; border-collapse: collapse" class="MsoNormalTable">
+	<tbody>
+		<tr style="height: 26.45pt">
+			<td colSpan="2" width="154" noWrap="true" style="padding-right: 5.4pt; padding-left: 5.4pt; padding-bottom: 0cm; width: 115.5pt; padding-top: 0cm; height: 26.45pt; background-color: transparent; border: windowtext 1pt solid">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Квалификационный уровень</span>
+			</p>
+			</td>
+			<td colSpan="2" width="327" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: windowtext 1pt solid; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 245.45pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 26.45pt; background-color: transparent">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Должности, отнесенные к квалификационным уровням</span>
+			</p>
+			</td>
+			<td width="164" noWrap="true" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: windowtext 1pt solid; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 123pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 26.45pt; background-color: transparent">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Минимальный оклад, </span>
+			</p>
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">руб.</span>
+			</p>
+			</td>
+			<td width="2" style="background-color: transparent; border: #d4d0c8; padding: 0cm">
+			<p style="margin: 0cm 0cm 10pt" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman"></span>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 23.5pt">
+			<td colSpan="5" width="645" noWrap="true" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 483.95pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 23.5pt; background-color: transparent"><b><span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">ПКГ &laquo;Общеотраслевые должности служащих первого уровня&raquo;<o:p></o:p></span></span></span></b></td>
+			<td width="2" style="background-color: transparent; border: #d4d0c8; padding: 0cm">
+			<p style="margin: 0cm 0cm 10pt" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman"></span>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 12.75pt">
+			<td colSpan="2" width="154" noWrap="true" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 115.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">1 квалификационный уровень</span>
+			</p>
+			</td>
+			<td colSpan="2" width="327" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 245.45pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent"><span style="color: #000000"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span>&nbsp;&nbsp; </span>секретарь; секретарь-машинистка; делопроизводитель</span><span style="font-size: 12pt"><o:p></o:p></span></span></td>
+			<td width="164" noWrap="true" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 123pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">2100</span>
+			</p>
+			</td>
+			<td width="2" style="background-color: transparent; border: #d4d0c8; padding: 0cm">
+			<p style="margin: 0cm 0cm 10pt" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman"></span>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 3.5pt">
+			<td colSpan="2" width="154" noWrap="true" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 115.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 3.5pt; background-color: transparent"><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></td>
+			<td colSpan="2" width="327" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 245.45pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 3.5pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><o:p><span style="color: #000000">&nbsp;</span></o:p></span></td>
+			<td width="164" noWrap="true" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 123pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 3.5pt; background-color: transparent"><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></td>
+			<td width="2" style="background-color: transparent; border: #d4d0c8; padding: 0cm">
+			<p style="margin: 0cm 0cm 10pt" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman"></span>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 22.8pt">
+			<td colSpan="5" width="645" noWrap="true" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 483.95pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 22.8pt; background-color: transparent"><b><span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">ПКГ &laquo;Общеотраслевые должности служащих второго уровня&raquo;<o:p></o:p></span></span></span></b></td>
+			<td width="2" style="background-color: transparent; border: #d4d0c8; padding: 0cm">
+			<p style="margin: 0cm 0cm 10pt" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman"></span>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 12.75pt">
+			<td width="149" noWrap="true" vAlign="bottom" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 111.6pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">1 квалификационный уровень</span>
+			</p>
+			</td>
+			<td colSpan="2" width="328" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 245.95pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent"><span style="color: #000000"><span style="font-size: 12pt; font-family: 'Times New Roman'">лаборант;<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size: 12pt"><span style="font-family: Courier New"><span>&nbsp;</span><o:p></o:p></span></span></span></td>
+			<td colSpan="3" width="171" noWrap="true" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 128.1pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">2200</span>
+			</p>
+			</td>
+		</tr>
+		<tr style="height: 12.75pt">
+			<td width="149" noWrap="true" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 111.6pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent"><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></td>
+			<td colSpan="2" width="328" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 245.95pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent"><span style="font-size: 12pt"><o:p><span style="color: #000000; font-family: Courier New">&nbsp;</span></o:p></span></td>
+			<td colSpan="3" width="171" noWrap="true" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 128.1pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent"><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></td>
+		</tr>
+		<tr style="height: 12.75pt">
+			<td width="149" noWrap="true" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 111.6pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent"><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></td>
+			<td colSpan="2" width="328" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 245.95pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent"><span style="font-size: 12pt"><o:p><span style="color: #000000; font-family: Courier New">&nbsp;</span></o:p></span></td>
+			<td colSpan="3" width="171" noWrap="true" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 128.1pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12.75pt; background-color: transparent"><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></td>
+		</tr>
+		<tr>
+			<td width="165" style="background-color: transparent; border: #d4d0c8"><span style="font-size: 12pt; color: #000000; font-family: Times New Roman"></span></td>
+			<td width="5" style="background-color: transparent; border: #d4d0c8"><span style="font-size: 12pt; color: #000000; font-family: Times New Roman"></span></td>
+			<td width="307" style="background-color: transparent; border: #d4d0c8"><span style="font-size: 12pt; color: #000000; font-family: Times New Roman"></span></td>
+			<td width="5" style="background-color: transparent; border: #d4d0c8"><span style="font-size: 12pt; color: #000000; font-family: Times New Roman"></span></td>
+			<td width="164" style="background-color: transparent; border: #d4d0c8"><span style="font-size: 12pt; color: #000000; font-family: Times New Roman"></span></td>
+			<td width="2" style="background-color: transparent; border: #d4d0c8"><span style="font-size: 12pt; color: #000000; font-family: Times New Roman"></span></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<b><span style="font-size: 14pt; line-height: 115%"><o:p><span style="color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></span></b><span style="font-size: 14pt; line-height: 115%"><o:p><span style="color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></span><span style="font-size: 14pt; line-height: 115%"><o:p><span style="color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></span><span style="font-size: 14pt; line-height: 115%; font-family: Calibri"><br clear="all" style="page-break-before: always" />
+</span><span style="font-size: 14pt; line-height: 115%"><o:p><span style="color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></span><span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">Приложение № 2 <span style="font-size: 14pt; line-height: 115%"><o:p></o:p></span></span></span></span><span style="font-size: 14pt; line-height: 115%"><o:p><span style="color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></span> 
+<h1 style="margin: 0cm 0cm 0pt"><a name="_Toc211239883"></a><span><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Перечень</span></span><span><span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"> должностей работников муниципальных образовательных учреждений, относимых к основному персоналу, для расчета средней заработной платы и определения размеров должностных окладов руководителей муниципальных образовательных учреждений, подведомственных управлению образования администрации города <o:p></o:p></span></span></span></span></h1><b><span style="font-size: 14pt; line-height: 115%"><o:p><span style="color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></span></b><span style="font-size: 14pt; line-height: 115%"><o:p><span style="color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></span><span style="font-size: 14pt; line-height: 115%"><o:p><span style="color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></span> 
+<p style="margin: 0cm 0cm 10pt" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Учитель</span>
+</p>
+<p style="margin: 0cm 0cm 10pt" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Воспитатель</span>
+</p>
+<p style="margin: 0cm 0cm 10pt" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Педагог дополнительного образования</span>
+</p>
+<p style="margin: 0cm 0cm 10pt" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Педагог-психолог</span>
+</p>
+<p style="margin: 0cm 0cm 10pt" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Логопед</span>
+</p>
+<p style="margin: 0cm 0cm 10pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Мастер производственного обучения</span>
+</p>
+<b><u><o:p><span style="text-decoration: none"><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></span></o:p></u></b><span style="font-size: 14pt; line-height: 115%; font-family: Calibri"><br clear="all" style="page-break-before: always" />
+</span><span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman">Приложение № 3 <span style="font-size: 14pt; line-height: 115%"><o:p></o:p></span></span></span></span>
+<h1 style="margin: 0cm 0cm 0pt"><a name="_Toc211239884"></a><span><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Коэффициенты групп по оплате труда руководителей</span></span><span><span style="font-size: 12pt"><span style="color: #000000"><span style="font-family: Times New Roman"> муниципальных образовательных учреждений, подведомственных управлению образования администрации города<o:p></o:p></span></span></span></span></h1><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p> 
+<p style="margin: 0cm 0cm 10pt; text-indent: 35.4pt; text-align: justify" class="MsoNormal">
+<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Коэффициенты применяются для руководителей учреждений образования.</span>
+</p>
+<o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p> 
+<table border="1" cellPadding="0" cellSpacing="0" style="border-collapse: collapse; border: medium none" class="MsoNormalTable">
+	<tbody>
+		<tr style="height: 30.3pt">
+			<td width="270" style="padding-right: 5.4pt; padding-left: 5.4pt; padding-bottom: 0cm; width: 202.35pt; padding-top: 0cm; height: 30.3pt; background-color: transparent; border: windowtext 1pt solid">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Группа</span>
+			</p>
+			</td>
+			<td width="363" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: windowtext 1pt solid; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 272.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 30.3pt; background-color: transparent">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Коэффициент, применяемый при установлении должностного оклада</span>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="270" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 202.35pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; background-color: transparent">
+			<p style="margin: 0cm 0cm 10pt" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Первая</span>
+			</p>
+			</td>
+			<td width="363" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 272.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; background-color: transparent">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">2</span>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="270" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 202.35pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; background-color: transparent">
+			<p style="margin: 0cm 0cm 10pt" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Вторая</span>
+			</p>
+			</td>
+			<td width="363" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 272.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; background-color: transparent">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">1,85</span>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="270" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 202.35pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; background-color: transparent">
+			<p style="margin: 0cm 0cm 10pt" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Третья</span>
+			</p>
+			</td>
+			<td width="363" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 272.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; background-color: transparent">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">1,7</span>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="270" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 202.35pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; background-color: transparent">
+			<p style="margin: 0cm 0cm 10pt" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">Четвертая</span>
+			</p>
+			</td>
+			<td width="363" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: #d4d0c8; padding-left: 5.4pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 272.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; background-color: transparent">
+			<p align="center" style="margin: 0cm 0cm 10pt; text-align: center" class="MsoNormal">
+			<span style="font-size: 12pt; color: #000000; font-family: Times New Roman">1,5</span>
+			</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<span style="font-size: 12pt; font-family: 'Times New Roman'"><o:p><span style="color: #000000">&nbsp;</span></o:p></span><b><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">Группы по оплате труда руководителей образовательных учреждений:<o:p></o:p></span></span></b><span style="font-size: 14pt; line-height: 115%"><o:p><span style="color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></span> 
+<table border="0" cellPadding="0" cellSpacing="0" style="margin: auto auto auto -24.85pt; border-collapse: collapse" class="MsoNormalTable">
+	<tbody>
+		<tr style="height: 24pt">
+			<td rowSpan="2" width="45" vAlign="top" style="padding-right: 3.5pt; padding-left: 3.5pt; padding-bottom: 0cm; width: 33.75pt; padding-top: 0cm; height: 24pt; background-color: transparent; border: windowtext 1pt solid"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span></span><br />
+			<span style="color: #000000">п/п<o:p></o:p></span></span></td>
+			<td rowSpan="2" width="295" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: windowtext 1pt solid; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 221.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 24pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">Образовательные учреждения<o:p></o:p></span></span></td>
+			<td colSpan="4" width="348" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: windowtext 1pt solid; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 261pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 24pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">Группа по оплате труда руководителей <br />
+			в зависимости от суммы баллов <br />
+			по объемным показателям<o:p></o:p></span></span></td>
+		</tr>
+		<tr style="height: 12pt">
+			<td width="87" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 65.25pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">1 группа<o:p></o:p></span></span></td>
+			<td width="87" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 65.25pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">2 группа<o:p></o:p></span></span></td>
+			<td width="87" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 65.25pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">3 группа<o:p></o:p></span></span></td>
+			<td width="87" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 65.25pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">4 группа<o:p></o:p></span></span></td>
+		</tr>
+		<tr style="height: 12pt">
+			<td width="45" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 33.75pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">1<o:p></o:p></span></span></td>
+			<td width="295" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 221.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">2<o:p></o:p></span></span></td>
+			<td width="87" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 65.25pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">3<o:p></o:p></span></span></td>
+			<td width="87" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 65.25pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">4<o:p></o:p></span></span></td>
+			<td width="87" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 65.25pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">5<o:p></o:p></span></span></td>
+			<td width="87" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 65.25pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">6<o:p></o:p></span></span></td>
+		</tr>
+		<tr style="height: 102.05pt">
+			<td width="45" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 33.75pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 102.05pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">1.<o:p></o:p></span></span></td>
+			<td width="295" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 221.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 102.05pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">Общеобразовательные<span>&nbsp; </span>учреждения; дошкольные образовательные учреждения, учреждения дополнительного образования детей, межшкольные учебно-производственные комбинаты (центры), учебно-методические кабинеты (центры)<o:p></o:p></span></span><span style="font-size: 12pt; font-family: 'Times New Roman'"><o:p><span style="color: #000000">&nbsp;</span></o:p></span></td>
+			<td width="87" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 65.25pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 102.05pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">свыше <br />
+			500<o:p></o:p></span></span></td>
+			<td width="87" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 65.25pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 102.05pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">от 351 <o:p></o:p></span></span><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">до 500<o:p></o:p></span></span></td>
+			<td width="87" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 65.25pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 102.05pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">от 201<o:p></o:p></span></span><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">до 350<o:p></o:p></span></span></td>
+			<td width="87" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 65.25pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 102.05pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">до 200<o:p></o:p></span></span></td>
+		</tr>
+		<tr style="height: 24pt">
+			<td width="45" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 33.75pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 24pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">2.<o:p></o:p></span></span></td>
+			<td width="295" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 221.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 24pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">Общеобразовательные лицеи и гимназии<o:p></o:p></span></span></td>
+			<td width="87" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 65.25pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 24pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">свыше<span>&nbsp;&nbsp; </span><br />
+			400<o:p></o:p></span></span></td>
+			<td width="87" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 65.25pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 24pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">от 301<o:p></o:p></span></span><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">до 400<o:p></o:p></span></span></td>
+			<td width="87" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 65.25pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 24pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">до 300<o:p></o:p></span></span></td>
+			<td width="87" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 65.25pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 24pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">-<o:p></o:p></span></span></td>
+		</tr>
+		<tr style="height: 54pt">
+			<td width="45" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 33.75pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 54pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">3.<o:p></o:p></span></span></td>
+			<td width="295" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 221.4pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 54pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">Специальные (коррекционные) образовательные учреждения для детей с отклонениями в развитии, оздоровительные образовательные учреждения санаторного типа для детей, нуждающихся в длительном лечении<o:p></o:p></span></span><span style="font-size: 12pt; font-family: 'Times New Roman'"><o:p><span style="color: #000000">&nbsp;</span></o:p></span></td>
+			<td width="87" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 65.25pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 54pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">свыше <br />
+			350<o:p></o:p></span></span></td>
+			<td width="87" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 65.25pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 54pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">от 251<o:p></o:p></span></span><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">до 350<o:p></o:p></span></span></td>
+			<td width="87" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 65.25pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 54pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">от 151<o:p></o:p></span></span><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">до 250<o:p></o:p></span></span></td>
+			<td width="87" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 65.25pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 54pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">до 150<o:p></o:p></span></span></td>
+		</tr>
+	</tbody>
+</table>
+<span style="font-size: 14pt; line-height: 115%"><o:p><span style="color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></span><b><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">Объемные показатели масштаба управления образовательными учреждениями<o:p></o:p></span></span></b><span style="font-size: 12pt; font-family: 'Times New Roman'"><o:p><span style="color: #000000">&nbsp;</span></o:p></span> 
+<table border="0" cellPadding="0" cellSpacing="0" style="margin: auto auto auto 3.5pt; border-collapse: collapse" class="MsoNormalTable">
+	<tbody>
+		<tr style="height: 18pt">
+			<td width="54" vAlign="top" style="padding-right: 3.5pt; padding-left: 3.5pt; padding-bottom: 0cm; width: 40.5pt; padding-top: 0cm; height: 18pt; background-color: transparent; border: windowtext 1pt solid"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">№ <br />
+			п/п<o:p></o:p></span></span></td>
+			<td width="270" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: windowtext 1pt solid; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 202.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 18pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">Объемные показатели<o:p></o:p></span></span></td>
+			<td width="228" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: windowtext 1pt solid; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 171pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 18pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">Условия расчета<o:p></o:p></span></span></td>
+			<td width="96" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: windowtext 1pt solid; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 72pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 18pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">Количество <br />
+			баллов<o:p></o:p></span></span></td>
+		</tr>
+		<tr style="height: 12pt">
+			<td width="54" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 40.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">1<o:p></o:p></span></span></td>
+			<td width="270" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 202.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">2<o:p></o:p></span></span></td>
+			<td width="228" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 171pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">3<o:p></o:p></span></span></td>
+			<td width="96" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 72pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">4<o:p></o:p></span></span></td>
+		</tr>
+		<tr style="height: 24pt">
+			<td width="54" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 40.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 24pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">1.<o:p></o:p></span></span></td>
+			<td width="270" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 202.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 24pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">Количество обучающихся (воспитанников) в образовательных учреждениях<o:p></o:p></span></span></td>
+			<td width="228" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 171pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 24pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">за каждого обучающегося (воспитанника)<o:p></o:p></span></span></td>
+			<td width="96" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 72pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 24pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">0,3<o:p></o:p></span></span></td>
+		</tr>
+		<tr style="height: 42pt">
+			<td width="54" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 40.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 42pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">2.<o:p></o:p></span></span></td>
+			<td width="270" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 202.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 42pt; background-color: transparent"><span style="font-size: 12pt; color: black; font-family: 'Times New Roman'">Количество групп в дошкольных образовательных учреждениях, дошкольных групп при общеобразовательных школах<o:p></o:p></span></td>
+			<td width="228" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 171pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 42pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">из расчета за группу<o:p></o:p></span></span></td>
+			<td width="96" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 72pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 42pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">10<o:p></o:p></span></span></td>
+		</tr>
+		<tr style="height: 42pt">
+			<td width="54" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 40.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 42pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">3.<o:p></o:p></span></span></td>
+			<td width="270" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 202.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 42pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">Количество обучающихся в учреждениях дополнительного образования детей:<o:p></o:p></span></span><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">- в многопрофильных<o:p></o:p></span></span><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">- в однопрофильных<o:p></o:p></span></span></td>
+			<td width="228" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 171pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 42pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><o:p><span style="color: #000000">&nbsp;</span></o:p></span><span style="font-size: 12pt; font-family: 'Times New Roman'"><o:p><span style="color: #000000">&nbsp;</span></o:p></span><span style="font-size: 12pt; font-family: 'Times New Roman'"><o:p><span style="color: #000000">&nbsp;</span></o:p></span><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">за каждого обучающегося<o:p></o:p></span></span><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">за каждого обучающегося<o:p></o:p></span></span></td>
+			<td width="96" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 72pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 42pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><o:p><span style="color: #000000">&nbsp;</span></o:p></span><span style="font-size: 12pt; font-family: 'Times New Roman'"><o:p><span style="color: #000000">&nbsp;</span></o:p></span><span style="font-size: 12pt; font-family: 'Times New Roman'"><o:p><span style="color: #000000">&nbsp;</span></o:p></span><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">0,3<o:p></o:p></span></span><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">0,5<o:p></o:p></span></span></td>
+		</tr>
+		<tr style="height: 54pt">
+			<td width="54" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 40.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 54pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">4.<o:p></o:p></span></span></td>
+			<td width="270" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 202.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 54pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">Количество работников в образовательном учреждении<o:p></o:p></span></span></td>
+			<td width="228" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 171pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 54pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">за каждого работника<span>&nbsp;&nbsp;&nbsp; </span><br />
+			дополнительно за каждого работника, имеющего:<br />
+			первую квалификационную <br />
+			категорию;<o:p></o:p></span></span><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">высшую квалификационную<span>&nbsp;&nbsp; </span><br />
+			категорию <o:p></o:p></span></span></td>
+			<td width="96" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 72pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 54pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">1<br />
+			<br />
+			<o:p></o:p></span></span><span style="font-size: 12pt; font-family: 'Times New Roman'"><br />
+			<span style="color: #000000">0,5<br />
+			<br />
+			<o:p></o:p></span></span><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">1<o:p></o:p></span></span></td>
+		</tr>
+		<tr style="height: 12pt">
+			<td width="54" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 40.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">5.<o:p></o:p></span></span></td>
+			<td width="270" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 202.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">Наличие групп дошкольного образования, продленного дня<o:p></o:p></span></span></td>
+			<td width="228" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 171pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">за наличие групп<o:p></o:p></span></span></td>
+			<td width="96" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 72pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 12pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">до 20<o:p></o:p></span></span></td>
+		</tr>
+		<tr style="height: 27.4pt">
+			<td width="54" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 40.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 27.4pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">6.<o:p></o:p></span></span></td>
+			<td width="270" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 202.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 27.4pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">Круглосуточное пребывание обучающихся (воспитанников) в образовательных учреждениях<o:p></o:p></span></span></td>
+			<td width="228" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 171pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 27.4pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">за наличие до 4 групп<span>&nbsp; </span>с круглосуточным пребыванием воспитанников,<o:p></o:p></span></span><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">4 и более групп<span>&nbsp;&nbsp; </span>с<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><br />
+			круглосуточным пребыванием воспитанников в учреждениях, работающих в таком режиме <o:p></o:p></span></span></td>
+			<td width="96" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 72pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 27.4pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">до 10<span>&nbsp;&nbsp;&nbsp; </span><br />
+			<br />
+			<br />
+			до 30<o:p></o:p></span></span></td>
+		</tr>
+		<tr style="height: 48pt">
+			<td width="54" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 40.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 48pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">7.<o:p></o:p></span></span></td>
+			<td width="270" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 202.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 48pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">Наличие при образовательном учреждении филиалов, учебно-консультационных пунктов<span>&nbsp; </span>и др. с количеством обучающихся (проживающих)<o:p></o:p></span></span></td>
+			<td width="228" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 171pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 48pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">за каждое указанное структурное подразделение:<br />
+			- до 100 человек<br />
+			- от 100 до 200 человек<br />
+			- свыше 200 человек<o:p></o:p></span></span></td>
+			<td width="96" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 72pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 48pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><br />
+			<br />
+			<span style="color: #000000">до<span>&nbsp; </span>20<span>&nbsp;&nbsp;&nbsp; </span><br />
+			до<span>&nbsp; </span>30<span>&nbsp;&nbsp; </span><span>&nbsp;</span><br />
+			до<span>&nbsp; </span>50<o:p></o:p></span></span></td>
+		</tr>
+		<tr style="height: 24pt">
+			<td width="54" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 40.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 24pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">8.<o:p></o:p></span></span></td>
+			<td width="270" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 202.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 24pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">Наличие оборудованных и используемых в образовательном процессе компьютерных классов<o:p></o:p></span></span></td>
+			<td width="228" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 171pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 24pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">за каждый класс<o:p></o:p></span></span></td>
+			<td width="96" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 72pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 24pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000"><span>&nbsp;</span>10<o:p></o:p></span></span></td>
+		</tr>
+		<tr style="height: 48pt">
+			<td width="54" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 40.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 48pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">9.<o:p></o:p></span></span></td>
+			<td width="270" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 202.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 48pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">Наличие оборудованных и используемых в образовательном <br />
+			процессе: спортивной площадки, стадиона, бассейна и других спортивных сооружений (в зависимости от их состояния и степени их использования)<o:p></o:p></span></span></td>
+			<td width="228" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 171pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 48pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">за каждый вид<o:p></o:p></span></span></td>
+			<td width="96" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 72pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 48pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000"><span>&nbsp;</span>15<o:p></o:p></span></span></td>
+		</tr>
+		<tr style="height: 74pt">
+			<td width="54" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 40.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 74pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">10.<o:p></o:p></span></span></td>
+			<td width="270" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 202.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 74pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">Наличие собственного оборудованного здравпункта, медицинского кабинета, оздоровительно-восстановительного центра, столовой, мастерской<o:p></o:p></span></span></td>
+			<td width="228" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 171pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 74pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">за каждый вид<o:p></o:p></span></span></td>
+			<td width="96" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 72pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 74pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000"><span>&nbsp;</span>15<o:p></o:p></span></span></td>
+		</tr>
+		<tr style="height: 68.9pt">
+			<td width="54" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 40.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 68.9pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">11.<o:p></o:p></span></span></td>
+			<td width="270" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 202.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 68.9pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">Наличие:<br />
+			- автотранспортных средств на балансе образовательного учреждения<o:p></o:p></span></span></td>
+			<td width="228" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 171pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 68.9pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><o:p><span style="color: #000000">&nbsp;</span></o:p></span><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">за каждую единицу<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><br />
+			<br />
+			<br />
+			<br />
+			<o:p></o:p></span></span></td>
+			<td width="96" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 72pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 68.9pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><o:p><span style="color: #000000">&nbsp;</span></o:p></span><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">до 3, <o:p></o:p></span></span><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">но не <br />
+			более 20<span>&nbsp;&nbsp; </span><o:p></o:p></span></span></td>
+		</tr>
+		<tr style="height: 26.25pt">
+			<td width="54" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 40.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 26.25pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">12.<o:p></o:p></span></span></td>
+			<td width="270" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 202.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 26.25pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">Наличие учебно-опытных участков (площадью не менее <st1:metricconverter ProductID="0,5 га" w:st="on">0,5 га</st1:metricconverter>, а при орошаемом земледелии &ndash; <st1:metricconverter ProductID="0,25 га" w:st="on">0,25 га</st1:metricconverter>), парникового хозяйства, учебного хозяйства, теплиц<o:p></o:p></span></span></td>
+			<td width="228" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 171pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 26.25pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">за каждый вид<o:p></o:p></span></span></td>
+			<td width="96" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 72pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 26.25pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000"><span>&nbsp;</span>40<o:p></o:p></span></span></td>
+		</tr>
+		<tr style="height: 24pt">
+			<td width="54" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 40.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 24pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">13.<o:p></o:p></span></span></td>
+			<td width="270" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 202.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 24pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">Наличие отдельно стоящих зданий, котельной, очистных и других сооружений <o:p></o:p></span></span></td>
+			<td width="228" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 171pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 24pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">за каждый вид<o:p></o:p></span></span></td>
+			<td width="96" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 72pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 24pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000"><span>&nbsp;</span>20<o:p></o:p></span></span></td>
+		</tr>
+		<tr style="height: 66pt">
+			<td width="54" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 40.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 66pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">14.<o:p></o:p></span></span></td>
+			<td width="270" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 202.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 66pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">Наличие обучающихся (воспитанников) в образовательных учреждениях, посещающих бесплатные секции, кружки, студии, организованные этими учреждениями или на их базе<o:p></o:p></span></span></td>
+			<td width="228" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 171pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 66pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">за каждого обучающегося<br />
+			(воспитанника)<o:p></o:p></span></span></td>
+			<td width="96" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 72pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 66pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">0,5<o:p></o:p></span></span></td>
+		</tr>
+		<tr style="height: 66pt">
+			<td width="54" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 40.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 66pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">15.<o:p></o:p></span></span></td>
+			<td width="270" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 202.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 66pt; background-color: transparent"><span style="font-size: 12pt; color: black; font-family: 'Times New Roman'">Наличие оборудованных и используемых в дошкольных образовательных учреждениях, дошкольных группах при общеобразовательных школах помещений для разных видов активности (изостудия, театральная студия, зимний сад и др.)<o:p></o:p></span></td>
+			<td width="228" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 171pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 66pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">за каждый вид<o:p></o:p></span></span></td>
+			<td width="96" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 72pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 66pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000"><span>&nbsp;</span>15<o:p></o:p></span></span></td>
+		</tr>
+		<tr style="height: 66pt">
+			<td width="54" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: windowtext 1pt solid; width: 40.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 66pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">16.<o:p></o:p></span></span></td>
+			<td width="270" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 202.5pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 66pt; background-color: transparent"><span style="font-size: 12pt; color: black; font-family: 'Times New Roman'">Наличие в образовательных учреждениях (классах, группах) общего назначения обучающихся (воспитанников) со специальными потребностями, охваченных квалифицированной<span>&nbsp; </span>коррекцией физического и психического развития (кроме специальных (коррекционных образовательных учреждений (классов, групп) и дошкольных учреждений (групп) компенсирующего вида)<o:p></o:p></span></td>
+			<td width="228" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 171pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 66pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">за каждого обучающегося (воспитанника)<o:p></o:p></span></span></td>
+			<td width="96" style="border-right: windowtext 1pt solid; padding-right: 3.5pt; border-top: #d4d0c8; padding-left: 3.5pt; padding-bottom: 0cm; border-left: #d4d0c8; width: 72pt; padding-top: 0cm; border-bottom: windowtext 1pt solid; height: 66pt; background-color: transparent"><span style="font-size: 12pt; font-family: 'Times New Roman'"><span style="color: #000000">1<o:p></o:p></span></span></td>
+		</tr>
+	</tbody>
+</table>
+<span style="font-size: 12pt"><o:p><span style="color: #000000; font-family: Arial">&nbsp;</span></o:p></span><span style="font-size: 14pt; line-height: 115%"><o:p><span style="color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></span><span style="font-size: 14pt; line-height: 115%"><o:p><span style="color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></span><span style="font-size: 14pt; line-height: 115%"><o:p><span style="color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></span><span style="font-size: 14pt; line-height: 115%"><o:p><span style="color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></span> 
+<p align="center" style="margin: 0cm 0cm 0pt; text-indent: 0cm; text-align: center" class="ConsNormal">
+<span style="font-size: 10pt"><span style="color: #000000"><span style="font-family: Arial"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span></span>
+</p>
+<span style="font-size: 11pt; line-height: 115%; font-family: Calibri"><br clear="all" style="page-break-before: always" />
+</span><o:p><span style="font-size: 12pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p>
+			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+								<div class="back_button">
+						<a href='javascript:history.go(-1)'>
+					Вернуться</a>
+						</div>
+																																				<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+									</td>
+								</tr>
+							</table>
+						</div>
+						<div id="rightcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+						<div id="search">
+							
+<form action="index.php?option=com_search" method="get">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="100" alt="search" class="inputbox" type="text" size="20" value="Поиск..."  onblur="if(this.value=='') this.value='Поиск...';" onfocus="if(this.value=='Поиск...') this.value='';" />	</div>
+
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="" />	
+</form>						</div>
+													</div>
+						<div class="clr">&nbsp;</div>
+					  </div> 					  </div> 					  </div> 					</div>
+					<div class="clr">&nbsp;</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="bag">&nbsp;</div>
+		<div id="footer">
+							<div id="footer_r">Copyright 2010  ·  Дизайн <a target='_blank' href='http://www.desunk.com'>www.desunk.com</a>  ·  All Rights Reserved
+				</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

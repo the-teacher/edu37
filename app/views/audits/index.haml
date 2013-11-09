@@ -1,0 +1,30 @@
+%h3 Список клиентов
+
+%ol
+  - @user_agents.each do |agent|
+    %li= raw agent.user_agent.to_s.gsub('Google', '<b>Google</b>').gsub('Yandex', '<b>Yandex</b>').gsub('Nigma', '<b>Nigma</b>').gsub('bing', '<b>bing</b>')
+
+%h3 Последнее посещение яндексом
+
+%p= @yandex_01_last_visit
+%p= @yandex_02_last_visit
+
+%h3 Последнее посещение Гуглом
+
+%p= @google_01_last_visit
+%p 
+  = @google_02_last_visit
+  (превью)
+
+%h3 Страницы просмотренные Яндексом
+
+%ol
+  - @publications_ya.each do |pub|
+    %li{:style=>'list-style: decimal inside none;'}= link_to pub.object_zip, news_url(pub.object_zip)
+
+%h3 Страницы просмотренные Гуглом
+
+%ol
+  - @publications_goo.each do |pub|
+    %li{:style=>'list-style: decimal inside none;'}= link_to pub.object_zip, news_url(pub.object_zip)
+

@@ -1,0 +1,23 @@
+%p
+  = f.label :title, t('pages.form.title')
+  = f.text_field :title, :class=>:input
+
+  = state_icon(@page)
+  = moderation_state_icon(@page)  if current_user.has_role? :pages, :moderation_state_icon
+
+%p
+  = f.label :textile_content, t('pages.form.content')
+  = f.text_area :textile_content, :id=>:markItUp
+
+-if current_user.has_role? :pages, :tags
+  %p
+    = f.label :tag_list, raw(t('pages.form.tags_list'))
+    = f.text_field :tag_list
+
+= form_buttons_for(@page)
+
+.submit_button
+  = submit_tag button, :class=>:submit
+  = preview_button
+
+= moderation_buttons_for(@page)

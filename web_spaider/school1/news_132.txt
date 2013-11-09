@@ -1,0 +1,1325 @@
+<?xml version="1.0" encoding="windows-1251"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>Новости с родительских собраний - Средняя общеобразовательная школа № 1 города Иванова</title>
+<meta name="title" content="Новости с родительских собраний" />
+<meta name="author" content="webmaster" />
+<meta name="description" content=" Официальный сайт средней общеобразовательной школы № 1 города Иванова Ивановской области" />
+<meta name="keywords" content=" школа иваново 1 средняя образование новости ученик учитель" />
+<meta name="distribution" content="global" />
+<meta name="rating" content="General" />
+<meta name="document-state" content="Dynamic" />
+<meta name="documentType" content="WebDocument" />
+<meta name="audience" content="all" />
+<meta name="revisit" content="10 days" />
+<meta name="revisit-after" content="10 days" />
+<meta name="allow-search" content="yes" />
+<meta name="language" content="russian" />
+<base href="http://school1.ivedu.ru/" />
+<link href="http://school1.ivedu.ru/templates/school1-1/css/template_css.css" rel="stylesheet" type="text/css" />
+<!--[if lt IE 7]>
+			<script type="text/javascript" src="/js/unitpngfix.js"></script>
+<![endif]-->  
+<!--[if (gt IE 5)&(lt IE 7)]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ieonly.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ie7only.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body id="page_bg">
+<div class="center" align="center">
+	<div id="wrapper">
+		<div id="wrapper_r">
+			<div id="header">
+				<a href="http://school1.ivedu.ru" id="logo">&nbsp;</a>
+				<table cellpadding="0" cellspacing="0" class="pill">
+					<tr>
+						<td class="pill_l">&nbsp;
+						</td>
+						<td class="pill_m">
+						<div id="pillmenu">
+													</div>
+						</td>
+					</tr>
+				</table>
+			</div>
+			<div id="tabarea">&nbsp;
+			</div>
+
+			<div class="clr"></div>
+			<div id="whitebox">
+<!--				<div id="whitebox_t">
+					<div id="whitebox_tl">
+						<div id="whitebox_tr">&nbsp;</div>
+					</div>
+				</div> -->
+
+				<div id="whitebox_m">
+					<div id="area">
+					  <div class="rightback">
+					  <div class="contentback">
+					  <div class="leftback">
+						<div id="leftcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+									<div class="module_menu">
+			<div>
+				<div>
+					<div>
+						<h3>Главное меню</h3>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="." title="Главная" class="mainlevel" >Главная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" title="Новости" class="mainlevel" id="active_menu">Новости</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=445&amp;Itemid=45" title="Портфолио школы" class="mainlevel" >Портфолио школы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=446&amp;Itemid=46" title="Учебный процесс" class="mainlevel" >Учебный процесс</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=448&amp;Itemid=47" title="Педагоги" class="mainlevel" >Педагоги</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=5&amp;Itemid=29" title="Документы" class="mainlevel" >Документы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=449&amp;Itemid=48" title="Публичные отчеты" class="mainlevel" >Публичные отчеты</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=450&amp;Itemid=49" title="Кабинет здоровья" class="mainlevel" >Кабинет здоровья</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=451&amp;Itemid=50" title="Родителям" class="mainlevel" >Родителям</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=452&amp;Itemid=51" title="Общественная приемная" class="mainlevel" >Общественная приемная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=453&amp;Itemid=52" title="Итоговая аттестация" class="mainlevel" >Итоговая аттестация</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=454&amp;Itemid=53" title="Школьная жизнь" class="mainlevel" >Школьная жизнь</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_contact&amp;Itemid=3" title="Контакты" class="mainlevel" >Контакты</a></td></tr>
+</table>					</div>
+				</div>
+			</div>
+		</div>
+																						</div>
+						<div id="maincolumn">
+						<div id="pathway">
+							<span class="pathway"><a href="http://school1.ivedu.ru" class="pathway" title="Главная">Главная</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" class="pathway" title="Новости">Новости</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=category&amp;sectionid=1&amp;id=1&amp;Itemid=2" class="pathway" title="Новое">Новое</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" />   Новости с родительских собраний </span>						</div>
+<!--											<table class="nopad user1user2">
+								<tr valign="top">
+									<td class="half1">
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Последние новости				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="latestnews">
+	<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=491&amp;Itemid=2" title="ЛЕТНИЙ ОТДЫХ" class="latestnews">ЛЕТНИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=490&amp;Itemid=2" title="ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ" class="latestnews">ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=489&amp;Itemid=2" title="ИГАСУ ЖДЕТ ВАС" class="latestnews">ИГАСУ ЖДЕТ ВАС</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+																			<td class="greyline">&nbsp;</td>
+																		<td>
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Популярное				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="mostread">
+	<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=104&amp;Itemid=2" title="Благодарность учителям начальной школы" class="mostread">
+			Благодарность учителям начальной школы</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=59&amp;Itemid=2" title="Слова благодарности" class="mostread">
+			Слова благодарности</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=51&amp;Itemid=2" title="День открытых дверей для родителей будущих первоклассников" class="mostread">
+			День открытых дверей для родителей будущих первоклассников</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+								</tr>
+							</table>
+							<div id="maindivider"></div>
+				 -->
+							<table class="nopad content">
+								<tr valign="top">
+									<td>
+																					
+			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+				<h3>Новости с родительских собраний</h3>				</td>
+										<td align="right" width="100%" class="buttonheading">
+															<a href="http://school1.ivedu.ru/index2.php?option=com_content&amp;task=view&amp;id=132&amp;pop=1&amp;page=0&amp;Itemid=2" target="_blank" title="Печать"><img src="http://school1.ivedu.ru/images/M_images/printButton.png"  alt="Печать" id="print" name="print" align="middle" border="0" /></a>
+													</td>
+								</tr>
+			</table>
+			
+		<table  class="contentpaneopen">
+				<tr>
+			<td width="70%" align="left" valign="top" colspan="2">
+			<span class="small">
+			 Автор webmaster			</span>
+			&nbsp;&nbsp;
+			</td>
+		</tr>
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+				07:05:2009 г.				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+			&nbsp; 
+<p>
+<span style="font-size: 16pt; line-height: 115%">28, 29 апреля 2009года состоялись заключительные родительские собрания. Практически в каждом классе прозвучал отчет директора школы о расходовании в 2008-2009 учебном году финансовых ( бюджетных и внебюджетных) средств :</span>
+</p>
+<p style="margin-left: 70.8pt">
+<b><span style="font-size: 16pt; line-height: 115%"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>ОТЧЕТ </span></b>
+</p>
+<p style="margin-left: 70.8pt">
+<b><span style="font-size: 16pt; line-height: 115%">о расходовании финансовых средств</span></b>
+</p>
+<p style="margin-left: 70.8pt">
+<b><span style="font-size: 16pt; line-height: 115%">в период с 01.09.2008 по 28.04.2009</span></b>
+</p>
+<table border="1" cellPadding="0" cellSpacing="0" style="border-collapse: collapse; border: medium none">
+	<tbody>
+		<tr>
+			<td colSpan="2" width="211" vAlign="top" style="padding-right: 5.4pt; padding-left: 5.4pt; padding-bottom: 0cm; width: 158.4pt; padding-top: 0cm; border: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Бюджет города и области</span></b>
+			</p>
+			</td>
+			<td colSpan="2" width="212" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: black 1pt solid; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 159.2pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Федеральный бюджет</span></b>
+			</p>
+			</td>
+			<td colSpan="2" width="120" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: black 1pt solid; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 90.15pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Внебюджетные средства</span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="142" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 106.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Оборудование в медкабинет</span></b>
+			</p>
+			</td>
+			<td width="69" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 51.9pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">30000р</span></b>
+			</p>
+			</td>
+			<td width="124" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 92.7pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">стенды</span></b>
+			</p>
+			</td>
+			<td width="89" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 66.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">21281р</span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 44.8pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Ремонт пола лестничных клеток</span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 45.35pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">99939р</span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="142" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 106.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Установка</span></b>
+			</p>
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">рольставней</span></b>
+			</p>
+			</td>
+			<td width="69" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 51.9pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">58042р</span></b>
+			</p>
+			</td>
+			<td width="124" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 92.7pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Магнитные держатели</span></b>
+			</p>
+			</td>
+			<td width="89" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 66.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">11880р</span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 44.8pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Командировочные расходы ( съезд библиотекарей)</span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 45.35pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">615р</span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="142" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 106.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Ремонт канализации</span></b>
+			</p>
+			</td>
+			<td width="69" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 51.9pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">29994р</span></b>
+			</p>
+			</td>
+			<td width="124" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 92.7pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Картриджи</span></b>
+			</p>
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Кабель </span></b><b><span style="font-size: 12pt; line-height: 115%">USB</span></b>
+			</p>
+			</td>
+			<td width="89" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 66.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">22286</span></b><b><span style="font-size: 12pt; line-height: 115%">р</span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 44.8pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Материалы для ремонта туалетов на 3 этаже</span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 45.35pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">50371,39р</span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="142" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 106.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Ремонт системы вентиляции</span></b>
+			</p>
+			</td>
+			<td width="69" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 51.9pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">203460р</span></b>
+			</p>
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+			<td width="124" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 92.7pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Мониторы ЖК 15шт.</span></b>
+			</p>
+			</td>
+			<td width="89" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 66.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">81225р</span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 44.8pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">медикаменты</span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 45.35pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">2374,32р</span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="142" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 106.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Благоустройство территории</span></b>
+			</p>
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">(асфальтирование)</span></b>
+			</p>
+			</td>
+			<td width="69" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 51.9pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">300000р</span></b>
+			</p>
+			</td>
+			<td width="124" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 92.7pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Копировальные аппараты 3</span></b>
+			</p>
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Принтеры 5</span></b>
+			</p>
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Проекторы -4</span></b>
+			</p>
+			</td>
+			<td width="89" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 66.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">178251р</span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 44.8pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Вышка-тура</span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 45.35pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">42189р</span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="142" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 106.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Аварийные работы</span></b>
+			</p>
+			</td>
+			<td width="69" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 51.9pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">6000р</span></b>
+			</p>
+			</td>
+			<td width="124" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 92.7pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Телевизор с кронштейном</span></b>
+			</p>
+			</td>
+			<td width="89" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 66.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">29885р</span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 44.8pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Охранные услуги</span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 45.35pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">132000р</span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="142" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 106.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Заправка картриджей</span></b>
+			</p>
+			</td>
+			<td width="69" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 51.9pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">3000р</span></b>
+			</p>
+			</td>
+			<td width="124" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 92.7pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">подписка</span></b>
+			</p>
+			</td>
+			<td width="89" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 66.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">28633,16</span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 44.8pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">На счету учреждения</span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 45.35pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">96000р</span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="142" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 106.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Приобретение 4 банкеток</span></b>
+			</p>
+			</td>
+			<td width="69" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 51.9pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">3245р</span></b>
+			</p>
+			</td>
+			<td width="124" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 92.7pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Книги, учебники</span></b>
+			</p>
+			</td>
+			<td width="89" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 66.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">187637р</span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 44.8pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Из средств ПДОУ:</span></b>
+			</p>
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Установка 2 металлических дверей на запасные выходы;</span></b>
+			</p>
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Огнезащитная обработка занавесей сцены</span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 45.35pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">16796р</span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="142" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 106.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">хознужды</span></b>
+			</p>
+			</td>
+			<td width="69" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 51.9pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">31293р</span></b>
+			</p>
+			</td>
+			<td width="124" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 92.7pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">канцтовары</span></b>
+			</p>
+			</td>
+			<td width="89" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 66.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">3709р</span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 44.8pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 45.35pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="142" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 106.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Приобретение мела</span></b>
+			</p>
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Испытание диэлектических перчаток</span></b>
+			</p>
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Обрезка деревьев</span></b>
+			</p>
+			</td>
+			<td width="69" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 51.9pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">14393р</span></b>
+			</p>
+			</td>
+			<td width="124" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 92.7pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Системные блоки 7 шт.</span></b>
+			</p>
+			</td>
+			<td width="89" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 66.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">99981р</span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 44.8pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 45.35pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="142" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 106.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+			<td width="69" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 51.9pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+			<td width="124" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 92.7pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">DVD</span></b>
+			</p>
+			</td>
+			<td width="89" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 66.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">3708</span></b><b><span style="font-size: 12pt; line-height: 115%">р</span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 44.8pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 45.35pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="142" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 106.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+			<td width="69" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 51.9pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+			<td width="124" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 92.7pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Интерактивные доски 2 шт.</span></b>
+			</p>
+			</td>
+			<td width="89" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 66.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">99980р</span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 44.8pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 45.35pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="142" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 106.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+			<td width="69" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 51.9pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+			<td width="124" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 92.7pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Крепления для проекторов</span></b>
+			</p>
+			</td>
+			<td width="89" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 66.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">56460р</span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 44.8pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 45.35pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="142" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 106.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+			<td width="69" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 51.9pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+			<td width="124" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 92.7pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Учебно-наглядные пособия по истории, физике</span></b>
+			</p>
+			</td>
+			<td width="89" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 66.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">154592,35р</span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 44.8pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 45.35pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="142" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 106.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+			<td width="69" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 51.9pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+			<td width="124" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 92.7pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Микроскопы 15шт</span></b>
+			</p>
+			</td>
+			<td width="89" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 66.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">85176р</span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 44.8pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 45.35pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="142" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 106.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+			<td width="69" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 51.9pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+			<td width="124" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 92.7pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Устройство бесперебойного питания</span></b>
+			</p>
+			</td>
+			<td width="89" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 66.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">8537,6р</span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 44.8pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 45.35pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="142" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 106.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+			<td width="69" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 51.9pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+			<td width="124" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 92.7pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Лицензионные программы</span></b>
+			</p>
+			</td>
+			<td width="89" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 66.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">12100р</span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 44.8pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 45.35pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="142" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 106.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">итого</span></b>
+			</p>
+			</td>
+			<td width="69" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 51.9pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">679426р</span></b>
+			</p>
+			</td>
+			<td width="124" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 92.7pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+			<td width="89" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 66.5pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">1087334р</span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: windowtext 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 44.8pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+			</p>
+			</td>
+			<td width="60" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 45.35pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">440284,71р</span></b>
+			</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style="margin-left: 70.8pt">
+<b><span style="font-size: 12pt; line-height: 115%">Кроме того на родительских собраниях в начальной школе выступил врач-психиатр клиники ИГМА Урсу Александр Васильевич с беседой о пользе и вреде компьютера. Краткие тезисы его выступления предлагаем<span>&nbsp; </span>вашему вниманию: </span></b>
+</p>
+<p style="margin-left: 88.8pt; text-indent: -18pt">
+<b><span style="font-size: 12pt; line-height: 115%"><span>&bull;1.<span style="font-family: 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></b><b><span style="font-size: 12pt; line-height: 115%">Обращайте внимание на то, во что играет Ваш ребенок. Вникните в суть игры, в итоге вы сможете оценить ее степень полезности, а у ребенка появиться чувство, что его понимают. Однако не забывайте, что играя в обычную игру, ребенок хочет стать в жизни таким как в игре, играя же в ролевую компьютерную игру, он уже стал тем, кем хочет быть. Поэтому нужно помнить, что в норме игра подготовливает ребенка к взрослой жизни, он учится, осваивает необходимые навыки, общается, развивается.</span></b>
+</p>
+<p style="margin-left: 88.8pt; text-indent: -18pt">
+<b><span style="font-size: 12pt; line-height: 115%"><span>&bull;2.<span style="font-family: 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></b><b><span style="font-size: 12pt; line-height: 115%">Обращайте внимание на возрастные ограничения, которые указываются на коробке с игрой, это поможет избежать очень многих нежелательных последствий, влияющих на психику. Игра учит, а чему будет учить игра решайте вы. Ряд игр в европейских странах уже запрещен</span></b>
+</p>
+<p style="margin-left: 88.8pt; text-indent: -18pt">
+<b><span style="font-size: 12pt; line-height: 115%"><span>&bull;3.<span style="font-family: 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></b><b><span style="font-size: 12pt; line-height: 115%"><span>&nbsp;</span>Четко определите время пребывания ребенка за компьютером. Возьмите за правило принцип: &laquo; Делу время, а потехе час&raquo;. В этом случае ребенок приобретает очень полезный навык: он учится говорить себе &laquo;нет&raquo;.</span></b>
+</p>
+<p style="margin-left: 88.8pt; text-indent: -18pt">
+<b><span style="font-size: 12pt; line-height: 115%"><span>&bull;4.<span style="font-family: 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></b><b><span style="font-size: 12pt; line-height: 115%">Детям до 5 лет компьютер противопоказан. В этом возрасте ребенок сильнее идентифицирует себя с игровым образом, и у мозга нет защитных механизмов и способности быстро &laquo; возвращаться&raquo; в реальность. Компьютерный мир ребенку освоить намного проще,<span>&nbsp; </span>чем мир реальный. Если он не изучит реальный мир, у него тогда возникнут проблемы с адаптацией в реальности, а чем хуже он будет адаптироваться в жизни, тем больше у него будет желание покинуть реальный мир, &laquo; уйти&raquo; в компьютерное пространство.</span></b>
+</p>
+<p style="margin-left: 88.8pt; text-indent: -18pt">
+<b><span style="font-size: 12pt; line-height: 115%"><span>&bull;5.<span style="font-family: 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></b><b><span style="font-size: 12pt; line-height: 115%">Чем бы ребенок ни занимался в отведенное время на компьютере, относитесь к этому как к дополнительной психической нагрузке. Это не отдых! Ребенок, обычно, тратит свободное время на компьютерные игры, якобы отдыхая. Если же внимательно за ним понаблюдать, то Вы увидите, что поисходит с ним: он сосредоточен, напряжен, находится весь на вхводе. По результатам исследований в процессе игры мозг испытывает достаточно большие нагрузки. Именно поэтому после &laquo;отдыха&raquo; за компьютером возникает чувство усталости.</span></b>
+</p>
+<p style="margin-left: 88.8pt; text-indent: -18pt">
+<b><span style="font-size: 12pt; line-height: 115%"><span>&bull;6.<span style="font-family: 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></b><b><span style="font-size: 12pt; line-height: 115%">Обратите особое внимание на физическую активность ребенка. За компьтерной игрой ребенок практически неподвижен, он как бы застывает, направив свой взор в бесконечность виртуального пространства. Ребенок испытывает достаточно сильные эмоции, но при этом практически неподвижен. Для организма это не естественно и в результате нарушается работа вегетативного отдела нервной системы. Поэтому адекватным способом отдыха от школьных нагрузок и компьютерных игр является подвижная<span>&nbsp; </span>игра и физический труд. Включите в распорядок дня ребенка подвижные игры. Сами принимайте активное участие в этих играх. Ваше участие очень важно, так как ребенок получит эмоциональный контакт от близкого ему человека. Этого не дает ни одна спортивная секция.</span></b>
+</p>
+<p style="margin-left: 88.8pt">
+<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+</p>
+<p style="margin-left: 88.8pt">
+<b><i><span style="font-size: 12pt; line-height: 115%">ДОПУСТИМОЕ ВРЕМЯ РАБОТЫ ЗА КОМПЬЮТЕРОМ</span></i></b>
+</p>
+<table border="1" cellPadding="0" cellSpacing="0" style="margin-left: 88.8pt; border-collapse: collapse; border: medium none">
+	<tbody>
+		<tr>
+			<td width="159" vAlign="top" style="padding-right: 5.4pt; padding-left: 5.4pt; padding-bottom: 0cm; width: 119.6pt; padding-top: 0cm; border: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">возраст</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: black 1pt solid; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Максимальное время непрерывной работы</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: black 1pt solid; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Максимальное время работы за день</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: black 1pt solid; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Рекомендуемая кратность в неделю</span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="159" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 119.6pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">До 5 лет</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Противопоказано</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Противопоказано</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Противопоказано</span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="159" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 119.6pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">5лет</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">7мин</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">15мин</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">1-2 раза</span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="159" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 119.6pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">6лет</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">10</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">20</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">1-3</span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="159" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 119.6pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">7 лет</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">15</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">25</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">2-3</span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="159" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 119.6pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">8 лет</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">15</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">30</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">2-4</span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="159" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 119.6pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">9 лет</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">15</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">40</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">3-4</span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="159" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 119.6pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">10 лет</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">15</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">50</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">3-5</span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="159" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 119.6pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">11 лет</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">20</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">60</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">4-5</span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="159" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 119.6pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">12 лет</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">20</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">70</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">4-6</span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="159" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 119.6pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">13 лет</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">20</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">80</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">5-6</span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="159" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 119.6pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">14 лет</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">25</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">90</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">5-7</span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="159" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 119.6pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">15 лет</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">25</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">100</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">6-7</span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="159" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 119.6pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">16 лет</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">30</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">110</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">7</span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="159" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 119.6pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">17лет</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">30</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">120</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">7</span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="159" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 119.6pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">18 лет</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">45</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">140</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">7</span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="159" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 119.6pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">19-22 года</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">45</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">180</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">7</span></b>
+			</p>
+			</td>
+		</tr>
+		<tr>
+			<td width="159" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: black 1pt solid; width: 119.6pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">Более 23</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">50-55мин</span></b>
+			</p>
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">( до 2 часов)</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">360мин</span></b>
+			</p>
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">(6 часов)</span></b>
+			</p>
+			</td>
+			<td width="160" vAlign="top" style="border-right: black 1pt solid; padding-right: 5.4pt; border-top: medium none; padding-left: 5.4pt; padding-bottom: 0cm; border-left: medium none; width: 119.65pt; padding-top: 0cm; border-bottom: black 1pt solid">
+			<p>
+			<b><span style="font-size: 12pt; line-height: 115%">7</span></b>
+			</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style="margin-left: 88.8pt">
+<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+</p>
+<p style="margin-left: 70.8pt">
+<b><span style="font-size: 12pt; line-height: 115%"></span></b>
+</p>
+<p>
+<span style="font-size: 16pt; line-height: 115%"></span>
+</p>
+			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+					<table align="center" style="margin-top: 15px;">
+			<tr>
+									<th class="pagenav_prev">
+					<a href="index.php?option=com_content&amp;task=view&amp;id=133&amp;Itemid=2" title="День Победы">
+							&laquo; День Победы</a>
+					</th>
+										<td width="50">&nbsp;
+
+					</td>
+										<th class="pagenav_next">
+					<a href="index.php?option=com_content&amp;task=view&amp;id=131&amp;Itemid=2" title="Встреча с российским кинематографом">
+							Встреча с российским кинематографом &raquo;</a>
+					</th>
+								</tr>
+			</table>
+									<div class="back_button">
+						<a href='javascript:history.go(-1)'>
+					Вернуться</a>
+						</div>
+																																				<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+									</td>
+								</tr>
+							</table>
+						</div>
+						<div id="rightcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+						<div id="search">
+							
+<form action="index.php?option=com_search" method="get">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="100" alt="search" class="inputbox" type="text" size="20" value="Поиск..."  onblur="if(this.value=='') this.value='Поиск...';" onfocus="if(this.value=='Поиск...') this.value='';" />	</div>
+
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="" />	
+</form>						</div>
+													</div>
+						<div class="clr">&nbsp;</div>
+					  </div> 					  </div> 					  </div> 					</div>
+					<div class="clr">&nbsp;</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="bag">&nbsp;</div>
+		<div id="footer">
+							<div id="footer_r">Copyright 2010  ·  Дизайн <a target='_blank' href='http://www.desunk.com'>www.desunk.com</a>  ·  All Rights Reserved
+				</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

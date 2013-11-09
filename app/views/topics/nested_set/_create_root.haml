@@ -1,0 +1,7 @@
+- unless opts[:top_root]
+  - if opts[:admin]
+    - is = 'vertical-align:middle; border:none;'
+    - ls = 'font-weight:bold;'
+    - image= image_tag('iconza/blue/add.png', :style=>is)+raw('&nbsp;')
+    - link = link_to image+'Cоздать в форуме новую тему',  new_topic_path(:top_root=>opts[:top_root], :forum=>@forum)
+    = content_tag(:div, link, :style=>'margin:25px 0;')

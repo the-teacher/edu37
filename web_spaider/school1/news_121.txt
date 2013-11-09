@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="windows-1251"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>Положение о новой системе оплаты труда - Средняя общеобразовательная школа № 1 города Иванова</title>
+<meta name="title" content="Положение о новой системе оплаты труда" />
+<meta name="author" content="webmaster" />
+<meta name="robots" content="index, follow" />
+<meta name="description" content=" Официальный сайт средней общеобразовательной школы № 1 города Иванова Ивановской области" />
+<meta name="keywords" content=" школа иваново 1 средняя образование новости ученик учитель" />
+<meta name="distribution" content="global" />
+<meta name="rating" content="General" />
+<meta name="document-state" content="Dynamic" />
+<meta name="documentType" content="WebDocument" />
+<meta name="audience" content="all" />
+<meta name="revisit" content="10 days" />
+<meta name="revisit-after" content="10 days" />
+<meta name="allow-search" content="yes" />
+<meta name="language" content="russian" />
+<base href="http://school1.ivedu.ru/" />
+<link href="http://school1.ivedu.ru/templates/school1-1/css/template_css.css" rel="stylesheet" type="text/css" />
+<!--[if lt IE 7]>
+			<script type="text/javascript" src="/js/unitpngfix.js"></script>
+<![endif]-->  
+<!--[if (gt IE 5)&(lt IE 7)]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ieonly.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ie7only.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body id="page_bg">
+<div class="center" align="center">
+	<div id="wrapper">
+		<div id="wrapper_r">
+			<div id="header">
+				<a href="http://school1.ivedu.ru" id="logo">&nbsp;</a>
+				<table cellpadding="0" cellspacing="0" class="pill">
+					<tr>
+						<td class="pill_l">&nbsp;
+						</td>
+						<td class="pill_m">
+						<div id="pillmenu">
+													</div>
+						</td>
+					</tr>
+				</table>
+			</div>
+			<div id="tabarea">&nbsp;
+			</div>
+
+			<div class="clr"></div>
+			<div id="whitebox">
+<!--				<div id="whitebox_t">
+					<div id="whitebox_tl">
+						<div id="whitebox_tr">&nbsp;</div>
+					</div>
+				</div> -->
+
+				<div id="whitebox_m">
+					<div id="area">
+					  <div class="rightback">
+					  <div class="contentback">
+					  <div class="leftback">
+						<div id="leftcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+									<div class="module_menu">
+			<div>
+				<div>
+					<div>
+						<h3>Главное меню</h3>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="." title="Главная" class="mainlevel" >Главная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" title="Новости" class="mainlevel" id="active_menu">Новости</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=445&amp;Itemid=45" title="Портфолио школы" class="mainlevel" >Портфолио школы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=446&amp;Itemid=46" title="Учебный процесс" class="mainlevel" >Учебный процесс</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=448&amp;Itemid=47" title="Педагоги" class="mainlevel" >Педагоги</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=5&amp;Itemid=29" title="Документы" class="mainlevel" >Документы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=449&amp;Itemid=48" title="Публичные отчеты" class="mainlevel" >Публичные отчеты</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=450&amp;Itemid=49" title="Кабинет здоровья" class="mainlevel" >Кабинет здоровья</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=451&amp;Itemid=50" title="Родителям" class="mainlevel" >Родителям</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=452&amp;Itemid=51" title="Общественная приемная" class="mainlevel" >Общественная приемная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=453&amp;Itemid=52" title="Итоговая аттестация" class="mainlevel" >Итоговая аттестация</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=454&amp;Itemid=53" title="Школьная жизнь" class="mainlevel" >Школьная жизнь</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_contact&amp;Itemid=3" title="Контакты" class="mainlevel" >Контакты</a></td></tr>
+</table>					</div>
+				</div>
+			</div>
+		</div>
+																						</div>
+						<div id="maincolumn">
+						<div id="pathway">
+							<span class="pathway"><a href="http://school1.ivedu.ru" class="pathway" title="Главная">Главная</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" class="pathway" title="Новости">Новости</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=category&amp;sectionid=&amp;id=0&amp;Itemid=2" class="pathway" title=""></a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" />   Положение о новой системе оплаты труда </span>						</div>
+<!--											<table class="nopad user1user2">
+								<tr valign="top">
+									<td class="half1">
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Последние новости				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="latestnews">
+	<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=491&amp;Itemid=2" title="ЛЕТНИЙ ОТДЫХ" class="latestnews">ЛЕТНИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=490&amp;Itemid=2" title="ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ" class="latestnews">ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=489&amp;Itemid=2" title="ИГАСУ ЖДЕТ ВАС" class="latestnews">ИГАСУ ЖДЕТ ВАС</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+																			<td class="greyline">&nbsp;</td>
+																		<td>
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Популярное				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="mostread">
+	<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=104&amp;Itemid=2" title="Благодарность учителям начальной школы" class="mostread">
+			Благодарность учителям начальной школы</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=59&amp;Itemid=2" title="Слова благодарности" class="mostread">
+			Слова благодарности</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=51&amp;Itemid=2" title="День открытых дверей для родителей будущих первоклассников" class="mostread">
+			День открытых дверей для родителей будущих первоклассников</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+								</tr>
+							</table>
+							<div id="maindivider"></div>
+				 -->
+							<table class="nopad content">
+								<tr valign="top">
+									<td>
+																					
+			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+				<h3>Положение о новой системе оплаты труда</h3>				</td>
+										<td align="right" width="100%" class="buttonheading">
+															<a href="http://school1.ivedu.ru/index2.php?option=com_content&amp;task=view&amp;id=121&amp;pop=1&amp;page=0&amp;Itemid=2" target="_blank" title="Печать"><img src="http://school1.ivedu.ru/images/M_images/printButton.png"  alt="Печать" id="print" name="print" align="middle" border="0" /></a>
+													</td>
+								</tr>
+			</table>
+			
+		<table  class="contentpaneopen">
+				<tr>
+			<td width="70%" align="left" valign="top" colspan="2">
+			<span class="small">
+			 Автор webmaster			</span>
+			&nbsp;&nbsp;
+			</td>
+		</tr>
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+				26:03:2009 г.				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+			<span style="font-size: 14pt; color: black; line-height: 115%; letter-spacing: -0.1pt"><span style="font-family: Times New Roman">СОГЛАСОВАНО<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>УТВЕРЖДАЮ<o:p></o:p></span></span><span style="font-size: 14pt; color: black; line-height: 115%; letter-spacing: -0.1pt"><span style="font-family: Times New Roman">Председатель Управляющего Совета<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Директор МУСОШ№1<o:p></o:p></span></span><span style="font-size: 14pt; color: black; line-height: 115%; letter-spacing: -0.1pt"><span style="font-family: Times New Roman"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>__________А.Е.Гужова<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>___________Н.В.Степович<o:p></o:p></span></span><span style="font-size: 14pt; color: black; line-height: 115%; letter-spacing: -0.1pt"><span style="font-family: Times New Roman"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><o:p></o:p></span></span><span style="font-size: 14pt; color: black; line-height: 115%; letter-spacing: -0.1pt"><span style="font-family: Times New Roman"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><o:p></o:p></span></span><b><span style="font-size: 14pt; color: black; line-height: 115%"><span style="font-family: Times New Roman">ПОЛОЖЕНИЕ<o:p></o:p></span></span></b><span style="font-family: Times New Roman"><span style="font-size: 14pt; color: black; line-height: 115%; letter-spacing: -0.1pt">о порядке и условиях распределения стимулирующей части фонда оплаты </span><span style="font-size: 14pt; color: black; line-height: 115%">труда<span>&nbsp; </span>работников МУСОШ№1<o:p></o:p></span></span><span style="font-family: Times New Roman"><span style="font-size: 14pt; color: black; line-height: 115%">город Иваново <span>&nbsp;</span>Ивановской области.</span><span style="font-size: 10pt; line-height: 115%"><o:p></o:p></span></span><b><span style="font-family: Times New Roman"><span style="font-size: 14pt; color: black; line-height: 115%; letter-spacing: -0.1pt">1. Общие положения</span><o:p></o:p></span></b><span style="font-family: Times New Roman"><span style="font-size: 14pt; color: black; letter-spacing: 0.15pt"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>1.1. Настоящее Положение разработано<span>&nbsp; </span>в соответствии с Трудовым кодексом<span>&nbsp; </span>Российской Федерации, Законом Российской<span>&nbsp; </span>Федерации &laquo;Об образовании&raquo;,<span>&nbsp; </span></span><span style="color: #000000"><span style="font-size: 14pt">В соответствии с <span style="color: black; letter-spacing: -0.1pt">Постановлением Правительства Ивановской области №117-п от 19.05.08 &laquo;О системе оплаты труда работников общеобразовательных учреждений в рамках комплексного проекта модернизации образования Ивановской области&raquo;</span>, Постановлением Главы города Иванова № ___ от _____ <span style="color: black; letter-spacing: -0.1pt">&laquo;О <span>&nbsp;</span>системе оплаты труда работников муниципальных <span>&nbsp;</span>учреждений образования, подведомственных управлению образования администрации города Иванова&raquo; </span><span style="color: black; letter-spacing: 0.15pt">и </span></span><span style="font-size: 14pt">другими нормативными правовыми актами Российской Федерации и Ивановской области, </span><span style="font-size: 14pt; color: black; letter-spacing: 0.15pt">в целях </span><span style="font-size: 14pt; color: black">установления механизма связи заработной платы с результативностью труда и усиления мотивации работников <span style="letter-spacing: 0.1pt">МУСОШ№1 (далее &ndash; учреждение) к </span><span style="letter-spacing: 0.05pt">повышению качества образовательного процесса.</span><span style="letter-spacing: 0.15pt"><o:p></o:p></span></span></span></span><span style="font-size: 14pt; color: black; letter-spacing: 0.05pt"><span style="font-family: Times New Roman">1.2. Система стимулирующих выплат работникам учреждения включает в себя ежемесячные поощрительные выплаты по результатам труда (премии и надбавки) и<span>&nbsp; </span>разовые поощрительные выплаты по результатам труда (премии).<o:p></o:p></span></span><span style="color: #000000"><span style="font-family: Times New Roman"><span style="font-size: 14pt">1.3.<span>&nbsp; </span>Распределение выплат стимулирующего характера работникам учреждения (кроме директора учреждения) по результатам труда производится директором учреждения по согласованию с Управляющим Советом и профсоюзным органом. Определение размера выплат стимулирующего характера по результатам труда<span>&nbsp; </span>директору<span>&nbsp; </span>учреждения производится<span>&nbsp; </span>управлением образования администрации города Иванова.<span>&nbsp; </span></span><span style="font-size: 14pt"><o:p></o:p></span></span></span><span style="font-size: 14pt"><span style="color: #000000"><span style="font-family: Times New Roman">1.4.<span>&nbsp; </span>Конкретный размер<span>&nbsp; </span>выплат из <span style="color: black; letter-spacing: -0.1pt">стимулирующей части фонда оплаты </span><span style="color: black">труда<span>&nbsp; </span>для<span>&nbsp; </span>каждого работника<span>&nbsp; </span>учреждения (кроме директора учреждения) устанавливается<span>&nbsp; </span>на основании приказа директора учреждения<i>. </i>Для руководителя учреждения размер выплат из стимулирующей части фонда оплаты труда устанавливается на основании приказа </span>начальника<span>&nbsp; </span>управления образованием администрации <span>&nbsp;</span>города Иванова.<i><o:p></o:p></i></span></span></span><span style="font-size: 10pt"><o:p><span style="color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></span><span style="font-size: 14pt"><o:p><span style="color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></span><b><span style="font-size: 14pt; line-height: 115%"><span style="color: #000000"><span style="font-family: Times New Roman">2. Порядок установления<span>&nbsp; </span>размера выплат <o:p></o:p></span></span></span></b><span style="color: #000000"><span style="font-family: Times New Roman"><b><span style="font-size: 14pt; line-height: 115%">из стимулирующей части фонда оплаты труда работникам МУСОШ№1</span></b><span style="font-size: 14pt; line-height: 115%"><o:p></o:p></span></span></span><span style="font-size: 14pt; line-height: 115%"><o:p><span style="color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></span><span style="font-size: 14pt; line-height: 115%"><span style="color: #000000"><span style="font-family: Times New Roman">2.1. Размеры выплат из стимулирующей части фонда оплаты труда работникам учреждения устанавливаются по результатам мониторинга и оценки результативности деятельности всех работников учреждения, проводимых<span>&nbsp; </span>на основании утвержденных критериев и показателей (приказ № ___2___ от _01.01.09_______)<o:p></o:p></span></span></span><span style="font-size: 14pt; line-height: 115%"><span style="color: #000000"><span style="font-family: Times New Roman">2.2. Мониторинг и оценка результативности профессиональной деятельности работников МУСОШ№1 ведется с участием Управляющего Совета <i><span>&nbsp;</span>(</i>Положение об Управляющем Совете, п.11.5), что обеспечивает гласность и прозрачность процедур мониторинга и оценки. <o:p></o:p></span></span></span><span style="font-size: 14pt; line-height: 115%"><span style="color: #000000"><span style="font-family: Times New Roman">2.3. В системе государственно-общественного мониторинга и оценки результативности профессиональной деятельности всех работников учреждения учитываются результаты, полученные в рамках внутришкольного контроля, представляемые администрацией <span>&nbsp;</span>учреждения, результаты самооценки работников учреждения в соответствии с представленными директору учреждения отчетами работников <span>&nbsp;</span>учреждения.<i> <o:p></o:p></i></span></span></span><span style="font-family: Times New Roman"><span style="font-size: 14pt; color: black; letter-spacing: 0.2pt"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>2.4. Директор учреждения представляет в Управляющий Совет</span><span style="font-size: 14pt; color: black; letter-spacing: -0.05pt"> </span><span style="font-size: 14pt; color: black">аналитическую информацию о показателях результативности деятельности работников, <span style="letter-spacing: -0.05pt">являющихся основанием для осуществления выплат из стимулирующей части фонда оплаты труда<span style="background: yellow">, </span></span></span><span style="color: #000000"><span style="font-size: 14pt; background: yellow">2</span><span style="font-size: 14pt"> раза в<i> </i>год.<i><span style="color: black; letter-spacing: -0.45pt"><o:p></o:p></span></i></span></span></span><span style="font-size: 14pt; color: black; line-height: 115%"><span style="font-family: Times New Roman">2.5. Порядок рассмотрения управляющим советом<span style="letter-spacing: 0.3pt"> вопроса о стимулировании работников учреждения </span>устанавливается данным Положением (Раздел 3. Регламент участия управляющего совета в распределении стимулирующей части фонда оплаты труда работников учреждения ).<o:p></o:p></span></span><span style="color: #000000"><span style="font-family: Times New Roman"><span style="font-size: 14pt; line-height: 115%">2.6 Выплата стимулирующих надбавок работникам учреждения осуществляется ежемесячно на основе критериев и показателей, утвержденных<span style="letter-spacing: 0.1pt"> приказом руководителя учреждения по согласованию с Управляющим советом и профсоюзным органом учреждения.</span></span><span style="font-size: 14pt; line-height: 115%"><o:p></o:p></span></span></span><span style="font-size: 14pt; line-height: 115%"><span style="color: #000000"><span style="font-family: Times New Roman">2.7. Поощрительные выплаты из стимулирующей части фонда оплаты труда <span style="letter-spacing: 0.1pt">работникам<span>&nbsp; </span>учреждения могут осуществляться в виде единовременных премий за особо значимые достижения и по итогам года. Размеры и основания выплаты единовременных премий устанавливаются на основании приказа руководителя учреждения по согласованию с Управляющим советом и профсоюзным органом учреждения.</span><o:p></o:p></span></span></span> 
+<p style="margin: 0cm 0cm 0pt; text-indent: 36pt; tab-stops: 35.4pt 57.95pt" class="21">
+<span style="font-size: 18pt; color: #000000; font-family: Times New Roman">2.8. При определении размера стимулирующих надбавок по результатам труда на основе проведенного мониторинга и оценки профессиональной деятельности работников учреждения в конце каждого полугодия производится подсчет баллов<i> </i>за соответствующий период по всем показателям для каждого работника. После подсчета баллов для оценки результативности работы составляется итоговый оценочный лист, отражающий количество баллов, набранное каждым работником.</span> 
+</p>
+<span style="font-size: 18pt"><span style="color: #000000"><span style="font-family: Times New Roman">2.9 Для определения денежного веса одного балла, размер стимулирующей части фонда оплаты труда, запланированный на период с сентября по декабрь<span>&nbsp; </span>включительно, за минусом суммы, необходимой на уплату ЕСН, делится на общую сумму баллов, набранную работниками учреждения<i>.<o:p></o:p></i></span></span></span><span style="font-size: 18pt"><span style="color: #000000"><span style="font-family: Times New Roman">2.10. Для определения<i> </i>размера ежемесячных поощрительных<span>&nbsp; </span>надбавок по результатам труда каждому работнику на период с сентября по декабрь включительно,<i> </i>денежный вес 1 балла умножается на сумму баллов каждого работника учреждения.<i><o:p></o:p></i></span></span></span> 
+<p style="margin: 0cm 0cm 0pt; tab-stops: 35.4pt 57.95pt" class="21">
+<span style="font-size: 18pt"><span style="color: #000000"><span style="font-family: Times New Roman"><i><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></i>2.11. Определение размеров поощрительных<span>&nbsp; </span>надбавок за результаты труда на январь &ndash; август очередного года происходит по описанной схеме в январе очередного года.</span></span></span> 
+</p>
+<p style="margin: 0cm 0cm 0pt; tab-stops: 35.4pt 57.95pt" class="21">
+<span style="font-size: 18pt"><span style="color: #000000"><span style="font-family: Times New Roman"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>2.12. При изменении в течение периода, на который установлены размеры надбавок по результатам труда, размера стимулирующей части фонда оплаты труда учреждения, производится корректировка денежного веса 1 балла и, соответственно, размера поощрительных выплат, в соответствии с новым размером стимулирующей части фонда оплаты труда МУСОШ№1.<span>&nbsp; </span></span></span></span>
+</p>
+<o:p><span style="font-size: 18pt; color: #000000; font-family: Times New Roman">&nbsp;</span></o:p><b><span style="font-size: 14pt; line-height: 115%"><span style="color: #000000"><span style="font-family: Times New Roman">3. Регламент участия Управляющего совета в распределении стимулирующей части фонда оплаты труда работников МУСОШ№1<o:p></o:p></span></span></span></b><span style="font-size: 14pt; line-height: 115%"><o:p><span style="color: #000000; font-family: Times New Roman">&nbsp;</span></o:p></span><span style="font-size: 14pt; line-height: 115%"><span style="color: #000000"><span style="font-family: Times New Roman">3.1. Управляющий совет учреждения в соответствии с Положением об Управляющем Совете, п.11.5<i> </i><span>&nbsp;</span>участвует в распределении стимулирующих выплат работникам учреждения, в том числе определяет суммы баллов для оценки результативности работы по каждому работнику учреждения (кроме директора учреждения).<o:p></o:p></span></span></span><span style="font-size: 14pt; line-height: 115%"><span style="color: #000000"><span style="font-family: Times New Roman">3.2. Управляющий совет учреждения имеет право представлять результаты, полученные в рамках государственно-общественной оценки деятельности директора учреждения со стороны трудового коллектива учреждения, обучающихся и их родителей (законных представителей), на рассмотрение муниципального общественного совета при рассмотрении вопроса о распределении стимулирующих выплат руководителям муниципальных общеобразовательных учреждений.<o:p></o:p></span></span></span><span style="font-size: 14pt; line-height: 115%"><span style="color: #000000"><span style="font-family: Times New Roman">3.3. Вопросы распределения стимулирующей части фонда оплаты труда рассматриваются управляющим советом по мере необходимости<span>&nbsp; </span>в течение года на заседаниях.<o:p></o:p></span></span></span><span style="font-size: 14pt; line-height: 115%"><span style="font-family: Times New Roman"><span style="color: #000000">3.4. На заседаниях<span>&nbsp; </span>управляющий совет рассматривает и согласовывает:<o:p></o:p></span></span></span><span style="color: #000000"><span style="font-size: 14pt; font-family: Symbol"><span>-<span style="font-family: 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size: 14pt"><span style="font-family: Times New Roman">итоговый протокол мониторинга и оценки профессиональной деятельности работников учреждения<i>,</i> в котором администрацией МУ СОШ должны быть отражены полученные в результате осуществления процедур мониторинга суммы баллов для оценки результативности работы по каждому работнику учреждения (кроме директора учреждения);<o:p></o:p></span></span></span><span style="color: #000000"><span style="font-size: 14pt; font-family: Symbol"><span>-<span style="font-family: 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size: 14pt"><span style="font-family: Times New Roman">денежный вес одного балла;<o:p></o:p></span></span></span><span style="color: #000000"><span style="font-size: 14pt; font-family: Symbol"><span>-<span style="font-family: 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size: 14pt"><span style="font-family: Times New Roman">рассчитанные на предстоящий период, исходя из денежного веса и из суммы баллов оценки результативности работы, размеры поощрительных надбавок каждому работнику, а также размеры премий. <o:p></o:p></span></span></span><span style="font-size: 14pt; line-height: 115%"><span style="color: #000000"><span style="font-family: Times New Roman">3.5. Решения управляющего совета принимаются простым большинством голосов в соответствии с общим регламентом управляющего совета. <o:p></o:p></span></span></span><span style="font-size: 14pt; line-height: 115%"><span style="color: #000000"><span style="font-family: Times New Roman">3.6. Управляющий совет вправе создать специальную комиссию, в которую входит руководитель учреждения, члены управляющего совета.<o:p></o:p></span></span></span><span style="font-size: 14pt; line-height: 115%"><span style="color: #000000"><span style="font-family: Times New Roman">3.7. В комиссию из числа членов управляющего совета обязательно включаются представители педагогических и других работников учреждения, представители родителей (законных представителей) обучающихся. Комиссия формируется и осуществляет свою деятельность решением управляющего совета в порядке, предусмотренном общим регламентом управляющего совета. Управляющий совет определяет название комиссии &ndash; комиссия по распределению стимулирующей части фонда оплаты труда работников учреждения или иное наименование, указывающее на характер деятельности комиссии. <o:p></o:p></span></span></span><span style="font-size: 14pt; line-height: 115%"><span style="color: #000000"><span style="font-family: Times New Roman">3.8. В том случае, если такая комиссия не создается, функции комиссии выполняются управляющим советом и администрацией учреждения совместно.<o:p></o:p></span></span></span><span style="font-size: 14pt; line-height: 115%"><span style="color: #000000"><span style="font-family: Times New Roman">3.9. Комиссия осуществляет анализ и оценку объективности представленных результатов<span>&nbsp; </span>мониторинга профессиональной деятельности работников в части соблюдения установленных настоящим Положением критериев, показателей, формы, порядка и процедур оценки профессиональной деятельности. В случае установления комиссией существенных нарушений представленные результаты возвращаются субъекту, представившему результаты для исправления и доработки.<o:p></o:p></span></span></span><span style="font-size: 14pt; line-height: 115%"><span style="color: #000000"><span style="font-family: Times New Roman">3.10. Комиссия по распределению стимулирующей части фонда оплаты труда работников на основании всех материалов мониторинга составляет итоговый оценочный лист с указанием баллов по каждому работнику и утверждает его на своем заседании. Работники МУСОШ вправе ознакомиться с данными оценки собственной профессиональной деятельности.<o:p></o:p></span></span></span><span style="font-size: 14pt; line-height: 115%"><span style="color: #000000"><span style="font-family: Times New Roman">3.11. С момента опубликования оценочного листа в течение 5 дней работники вправе подать, а комиссия обязана принять обоснованное письменное заявление работника о его несогласии с оценкой результативности его профессиональной деятельности. Основанием для подачи такого заявления работником может быть только факт (факты) нарушения установленных настоящим Положением норм, а также технические ошибки при работе с текстами, таблицами, цифровыми данными и т.п. Апелляции работников по другим основаниям комиссией не принимаются и не рассматриваются. <o:p></o:p></span></span></span><span style="font-size: 14pt; line-height: 115%"><span style="color: #000000"><span style="font-family: Times New Roman">3.12. Комиссия обязана осуществить проверку обоснованного заявления работника и дать ему обоснованный ответ по результатам проверки в течение 5 дней после принятия заявления работника. В случае установления в ходе проверки факта нарушения норм настоящего Положения, повлекшего ошибочную оценку профессиональной деятельности работника, выраженную в оценочных баллах, комиссия принимает меры для исправления допущенного ошибочного оценивания. <o:p></o:p></span></span></span><span style="font-size: 14pt; line-height: 115%"><span style="color: #000000"><span style="font-family: Times New Roman">3.13. По истечении 10 дней решение комиссии об утверждении оценочного листа вступает в силу. <o:p></o:p></span></span></span>
+<p style="margin: 0cm 0cm 10pt" class="MsoNormal">
+<span style="font-size: 14pt; line-height: 115%"><span style="color: #000000; font-family: Times New Roman">3.14. Итоговые оценочные листы, а также представленные администрацией школы данные по персональным размерам надбавок по результатам труда на предстоящий период, и данные по размерам премий рассматриваются на заседании управляющего совета по вопросу распределения стимулирующей части фонда оплаты труда работников учреждения. После принятия решения управляющего совета об их согласовании издается приказ директора учреждения<span>&nbsp; </span>об утверждении размеров поощрительных надбавок и премий по результатам работы работникам учреждения на<span>&nbsp; </span>соответствующий период</span></span> 
+</p>
+			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+								<div class="back_button">
+						<a href='javascript:history.go(-1)'>
+					Вернуться</a>
+						</div>
+																																				<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+									</td>
+								</tr>
+							</table>
+						</div>
+						<div id="rightcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+						<div id="search">
+							
+<form action="index.php?option=com_search" method="get">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="100" alt="search" class="inputbox" type="text" size="20" value="Поиск..."  onblur="if(this.value=='') this.value='Поиск...';" onfocus="if(this.value=='Поиск...') this.value='';" />	</div>
+
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="" />	
+</form>						</div>
+													</div>
+						<div class="clr">&nbsp;</div>
+					  </div> 					  </div> 					  </div> 					</div>
+					<div class="clr">&nbsp;</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="bag">&nbsp;</div>
+		<div id="footer">
+							<div id="footer_r">Copyright 2010  ·  Дизайн <a target='_blank' href='http://www.desunk.com'>www.desunk.com</a>  ·  All Rights Reserved
+				</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

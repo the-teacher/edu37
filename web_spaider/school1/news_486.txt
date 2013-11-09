@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="windows-1251"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>НЕЗНАНИЕ ЗАКОНА НЕ ОСВОБОЖДАЕТ ОТ ОТВЕТСТВЕННОСТИ - Средняя общеобразовательная школа № 1 города Иванова</title>
+<meta name="title" content="НЕЗНАНИЕ ЗАКОНА НЕ ОСВОБОЖДАЕТ ОТ ОТВЕТСТВЕННОСТИ" />
+<meta name="author" content="webmaster" />
+<meta name="description" content=" Официальный сайт средней общеобразовательной школы № 1 города Иванова Ивановской области" />
+<meta name="keywords" content=" школа иваново 1 средняя образование новости ученик учитель" />
+<meta name="distribution" content="global" />
+<meta name="rating" content="General" />
+<meta name="document-state" content="Dynamic" />
+<meta name="documentType" content="WebDocument" />
+<meta name="audience" content="all" />
+<meta name="revisit" content="10 days" />
+<meta name="revisit-after" content="10 days" />
+<meta name="allow-search" content="yes" />
+<meta name="language" content="russian" />
+<base href="http://school1.ivedu.ru/" />
+<link href="http://school1.ivedu.ru/templates/school1-1/css/template_css.css" rel="stylesheet" type="text/css" />
+<!--[if lt IE 7]>
+			<script type="text/javascript" src="/js/unitpngfix.js"></script>
+<![endif]-->  
+<!--[if (gt IE 5)&(lt IE 7)]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ieonly.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ie7only.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body id="page_bg">
+<div class="center" align="center">
+	<div id="wrapper">
+		<div id="wrapper_r">
+			<div id="header">
+				<a href="http://school1.ivedu.ru" id="logo">&nbsp;</a>
+				<table cellpadding="0" cellspacing="0" class="pill">
+					<tr>
+						<td class="pill_l">&nbsp;
+						</td>
+						<td class="pill_m">
+						<div id="pillmenu">
+													</div>
+						</td>
+					</tr>
+				</table>
+			</div>
+			<div id="tabarea">&nbsp;
+			</div>
+
+			<div class="clr"></div>
+			<div id="whitebox">
+<!--				<div id="whitebox_t">
+					<div id="whitebox_tl">
+						<div id="whitebox_tr">&nbsp;</div>
+					</div>
+				</div> -->
+
+				<div id="whitebox_m">
+					<div id="area">
+					  <div class="rightback">
+					  <div class="contentback">
+					  <div class="leftback">
+						<div id="leftcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+									<div class="module_menu">
+			<div>
+				<div>
+					<div>
+						<h3>Главное меню</h3>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="." title="Главная" class="mainlevel" >Главная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" title="Новости" class="mainlevel" id="active_menu">Новости</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=445&amp;Itemid=45" title="Портфолио школы" class="mainlevel" >Портфолио школы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=446&amp;Itemid=46" title="Учебный процесс" class="mainlevel" >Учебный процесс</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=448&amp;Itemid=47" title="Педагоги" class="mainlevel" >Педагоги</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=5&amp;Itemid=29" title="Документы" class="mainlevel" >Документы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=449&amp;Itemid=48" title="Публичные отчеты" class="mainlevel" >Публичные отчеты</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=450&amp;Itemid=49" title="Кабинет здоровья" class="mainlevel" >Кабинет здоровья</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=451&amp;Itemid=50" title="Родителям" class="mainlevel" >Родителям</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=452&amp;Itemid=51" title="Общественная приемная" class="mainlevel" >Общественная приемная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=453&amp;Itemid=52" title="Итоговая аттестация" class="mainlevel" >Итоговая аттестация</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=454&amp;Itemid=53" title="Школьная жизнь" class="mainlevel" >Школьная жизнь</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_contact&amp;Itemid=3" title="Контакты" class="mainlevel" >Контакты</a></td></tr>
+</table>					</div>
+				</div>
+			</div>
+		</div>
+																						</div>
+						<div id="maincolumn">
+						<div id="pathway">
+							<span class="pathway"><a href="http://school1.ivedu.ru" class="pathway" title="Главная">Главная</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" class="pathway" title="Новости">Новости</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=category&amp;sectionid=1&amp;id=1&amp;Itemid=2" class="pathway" title="Новое">Новое</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" />   НЕЗНАНИЕ ЗАКОНА НЕ ОСВОБОЖДАЕТ ОТ ОТВЕТСТВЕННОСТИ </span>						</div>
+<!--											<table class="nopad user1user2">
+								<tr valign="top">
+									<td class="half1">
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Последние новости				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="latestnews">
+	<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=491&amp;Itemid=2" title="ЛЕТНИЙ ОТДЫХ" class="latestnews">ЛЕТНИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=490&amp;Itemid=2" title="ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ" class="latestnews">ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=489&amp;Itemid=2" title="ИГАСУ ЖДЕТ ВАС" class="latestnews">ИГАСУ ЖДЕТ ВАС</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+																			<td class="greyline">&nbsp;</td>
+																		<td>
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Популярное				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="mostread">
+	<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=104&amp;Itemid=2" title="Благодарность учителям начальной школы" class="mostread">
+			Благодарность учителям начальной школы</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=59&amp;Itemid=2" title="Слова благодарности" class="mostread">
+			Слова благодарности</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=51&amp;Itemid=2" title="День открытых дверей для родителей будущих первоклассников" class="mostread">
+			День открытых дверей для родителей будущих первоклассников</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+								</tr>
+							</table>
+							<div id="maindivider"></div>
+				 -->
+							<table class="nopad content">
+								<tr valign="top">
+									<td>
+																					
+			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+				<h3>НЕЗНАНИЕ ЗАКОНА НЕ ОСВОБОЖДАЕТ ОТ ОТВЕТСТВЕННОСТИ</h3>				</td>
+										<td align="right" width="100%" class="buttonheading">
+															<a href="http://school1.ivedu.ru/index2.php?option=com_content&amp;task=view&amp;id=486&amp;pop=1&amp;page=0&amp;Itemid=2" target="_blank" title="Печать"><img src="http://school1.ivedu.ru/images/M_images/printButton.png"  alt="Печать" id="print" name="print" align="middle" border="0" /></a>
+													</td>
+								</tr>
+			</table>
+			
+		<table  class="contentpaneopen">
+				<tr>
+			<td width="70%" align="left" valign="top" colspan="2">
+			<span class="small">
+			 Автор webmaster			</span>
+			&nbsp;&nbsp;
+			</td>
+		</tr>
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+				24:05:2011 г.				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+			&nbsp; 
+<p style="text-indent: 27pt; text-align: justify">
+<span style="color: #008080"><strong>Статья 4.3</strong></span>
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+<span style="color: #4bacc6"><strong></strong></span>
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+<span style="color: #ff0000"><strong>(в ред. </strong><a href="consultantplus://offline/main?base=RLAW224;n=44760;fld=134;dst=100030"><span style="color: #ff0000; text-decoration: none; text-underline: none"><strong>Закона</strong></span></a><strong> Ивановской области от 05.04.2010 N 30-ОЗ)</strong></span>
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+<span style="color: #ff0000"><strong></strong></span>
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+<strong><span style="color: #4bacc6">1. </span><span style="color: #ff0000">Допущение нахождения детей (лиц, не достигших возраста 18 лет) на объектах</span><span style="color: #4bacc6"> (на территориях, в помещениях) юридических лиц или граждан, осуществляющих предпринимательскую деятельность без образования юридического лица, которые предназначены для </span><span style="color: #ff0000">реализации товаров только сексуального характера, в пивных ресторанах, винных барах, пивных барах, рюмочных, в других местах, которые предназначены для реализации только алкогольной продукции, пива и напитков, изготавливаемых на его основе, -</span></strong>
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+<strong><span style="color: #4bacc6">влечет наложение </span><span style="color: #ff0000">административного штрафа</span><span style="color: #4bacc6"> на должностных лиц </span><span style="color: #ff0000">в размере трех тысяч рублей;</span><span style="color: #4bacc6"> на граждан, осуществляющих предпринимательскую деятельность без образования юридического лица, в размере </span><span style="color: #ff0000">четырех тысяч рублей;</span><span style="color: #4bacc6"> на юридических лиц в размере </span><span style="color: #ff0000">пятнадцати тысяч рублей</span><span style="color: #4bacc6">.</span></strong>
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+<span style="color: #4bacc6"><strong>2. Повторное совершение административного правонарушения, предусмотренного </strong><a href="consultantplus://offline/main?base=RLAW224;n=52349;fld=134;dst=100409"><span style="color: #4bacc6; text-decoration: none; text-underline: none"><strong>частью 1</strong></span></a><strong> настоящей статьи, -</strong></span>
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+<span style="color: #4bacc6"><strong>влечет наложение административного штрафа на должностных лиц в размере пяти тысяч рублей; на граждан, осуществляющих предпринимательскую деятельность без образования юридического лица, в размере шести тысяч рублей; на юридических лиц в размере двадцати пяти тысяч рублей.</strong></span>
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+<strong><span style="color: #4bacc6">3. </span><span style="color: #ff0000">Допущение нахождения детей (лиц, не достигших возраста 16 лет) с 22 до 6 часов, а в летний период времени (с 1 июня по 31 августа) - с 23 до 6 часов на объектах (на территориях, в помещениях</span><span style="color: #4bacc6">) юридических лиц или граждан, осуществляющих предпринимательскую деятельность без образования юридического лица, которые предназначены для обеспечения доступа к сети &quot;Интернет&quot;, а также для реализации услуг в сфере торговли и общественного питания (организациях или пунктах), для развлечений, досуга, где в установленном законом порядке предусмотрена розничная продажа алкогольной продукции, пива и напитков, изготавливаемых на его основе, и в иных общественных местах без сопровождения родителей (лиц, их заменяющих) или лиц, осуществляющих мероприятия с участием детей, -</span></strong>
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+<strong><span style="color: #4bacc6">влечет наложение </span><span style="color: #ff0000">административного штрафа </span><span style="color: #4bacc6">на должностных лиц </span><span style="color: #ff0000">в размере двух</span><span style="color: #4bacc6"> </span><span style="color: #ff0000">тысяч рублей</span><span style="color: #4bacc6">; на граждан, осуществляющих предение принимательскую деятельность без образования юридического лица</span><span style="color: #ff0000">, в размере трех тысяч рублей</span><span style="color: #4bacc6">; на юридических лиц в размере </span><span style="color: #ff0000">десяти тысяч рублей</span><span style="color: #4bacc6">.</span></strong>
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+<span style="color: #4bacc6"><strong>4. Повторное совершение административного правонарушения, предусмотренного </strong><a href="consultantplus://offline/main?base=RLAW224;n=52349;fld=134;dst=100413"><span style="color: #4bacc6; text-decoration: none; text-underline: none"><strong>частью 3</strong></span></a><strong> настоящей статьи, -</strong></span>
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+<span style="color: #4bacc6"><strong>влечет наложение административного штрафа на должностных лиц в размере четырех тысяч рублей; на граждан, осуществляющих предпринимательскую деятельность без образования юридического лица, в размере пяти тысяч рублей; на юридических лиц в размере двадцати тысяч рублей.</strong></span>
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+<strong><span style="color: #4bacc6">5. </span><span style="color: #ff0000">Непринятие родителями (лицами, их заменяющими), лицами, осуществляющими мероприятия с участием детей, надлежащих мер по недопущению пребывания детей (лиц, не достигших возраста 16 лет) с 22 до 6 часов, а в летний период времени (с 1 июня по 31 августа) - с 23 до 6 часов</span><span style="color: #4bacc6"> в общественных местах, в том числе на улицах, стадионах, в парках, скверах, транспортных средствах общего пользования, на объектах (на территориях, в помещениях) юридических лиц или граждан, осуществляющих предпринимательскую деятельность без образования юридического лица, которые предназначены для обеспечения доступа к сети &quot;Интернет&quot;, а также для реализации услуг в сфере торговли и общественного питания (организациях или пунктах), для развлечений, досуга, где в установленном законом порядке предусмотрена розничная продажа алкогольной продукции, пива и напитков, изготавливаемых на его основе, и в иных общественных местах без сопровождения родителей (лиц, их заменяющих) или лиц, осуществляющих мероприятия с участием детей, -</span></strong>
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+<strong><span style="color: #ff0000">влечет предупреждение</span><span style="color: #4bacc6">.</span></strong>
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+<span style="color: #4bacc6"><strong>6. Повторное совершение административного правонарушения, предусмотренного </strong><a href="consultantplus://offline/main?base=RLAW224;n=52349;fld=134;dst=100417"><span style="color: #4bacc6; text-decoration: none; text-underline: none"><strong>частью 5</strong></span></a><strong> настоящей статьи, -</strong></span>
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+<strong><span style="color: #4bacc6">влечет наложение </span><span style="color: #ff0000">административного штрафа в размере пятисот рублей.</span></strong>
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+<span style="color: #ff0000"><strong></strong></span>
+</p>
+<p style="text-indent: 27pt; text-align: justify">
+<strong><i><span style="color: #4bacc6">(ст. 4.3, Закон Ивановской области от 24.04.2008 N 11-ОЗ (ред. от 03.03.2011) &quot;Об административных правонарушениях в Ивановской области&quot; (принят Ивановской областной Думой 24.04.2008))</span></i><span style="color: #4bacc6"></span></strong>
+</p>
+			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+					<table align="center" style="margin-top: 15px;">
+			<tr>
+									<th class="pagenav_prev">
+					<a href="index.php?option=com_content&amp;task=view&amp;id=487&amp;Itemid=2" title="ПОДУМАЙТЕ О ЛЕТНЕМ ОТДЫХЕ">
+							&laquo; ПОДУМАЙТЕ О ЛЕТНЕМ ОТДЫХЕ</a>
+					</th>
+										<td width="50">&nbsp;
+
+					</td>
+										<th class="pagenav_next">
+					<a href="index.php?option=com_content&amp;task=view&amp;id=485&amp;Itemid=2" title="ПОДДЕРЖИМ БОЛЬНЫХ ДЕТЕЙ!">
+							ПОДДЕРЖИМ БОЛЬНЫХ ДЕТЕЙ! &raquo;</a>
+					</th>
+								</tr>
+			</table>
+									<div class="back_button">
+						<a href='javascript:history.go(-1)'>
+					Вернуться</a>
+						</div>
+																																				<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+									</td>
+								</tr>
+							</table>
+						</div>
+						<div id="rightcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+						<div id="search">
+							
+<form action="index.php?option=com_search" method="get">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="100" alt="search" class="inputbox" type="text" size="20" value="Поиск..."  onblur="if(this.value=='') this.value='Поиск...';" onfocus="if(this.value=='Поиск...') this.value='';" />	</div>
+
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="" />	
+</form>						</div>
+													</div>
+						<div class="clr">&nbsp;</div>
+					  </div> 					  </div> 					  </div> 					</div>
+					<div class="clr">&nbsp;</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="bag">&nbsp;</div>
+		<div id="footer">
+							<div id="footer_r">Copyright 2010  ·  Дизайн <a target='_blank' href='http://www.desunk.com'>www.desunk.com</a>  ·  All Rights Reserved
+				</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

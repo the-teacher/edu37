@@ -1,0 +1,3 @@
+#edit_form.form.overblock
+  = form_for(:comment, :url=>comment_url(@comment, :subdomain=>@user.subdomain), :html=>{:method => :put}) do |f|
+    =render :partial => 'comments/inplace/form', :locals => {:f => f, :button => 'Обновить'}

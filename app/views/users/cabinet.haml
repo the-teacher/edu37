@@ -1,0 +1,63 @@
+- content_for :css do
+  = stylesheet_link_tag 'modern/users/cabinet', :media=>'screen'
+
+- content_for :title do
+  = [t('base.cabinet'), @user.login].join(': ')
+
+=render :partial => 'ql_cabinet'
+
+%h3= t('base.cabinet')
+
+.block
+  %ul.main_menu
+    %li
+      - text = content_tag :span, t('base.versitcard'), :class=>:title
+      = link_to text, edit_profile_url(@user, :subdomain=>@user.subdomain), :class=>:versitcard
+
+      - text = content_tag :span, t('publications.title'), :class=>:title
+      = link_to text, manage_news_index_url(:subdomain=>@user.subdomain), :class=>:news
+      
+      - text = content_tag :span, t('pages.title'), :class=>:title
+      = link_to text, manage_pages_url(:subdomain=>@user.subdomain), :class=>:pages
+
+    %li
+      - text = content_tag :span, t('storages.title'), :class=>:title
+      = link_to text, manage_storages_url(:subdomain=>@user.subdomain), :class=>:files
+    
+    %li
+      - if current_user.has_role?(:system, :administrator)
+        - text = content_tag :span, t('base.roles'), :class=>:title
+        = link_to text, admin_roles_url(:subdomain=>@user.subdomain), :class=>'roles'
+
+      - if current_user.has_role?(:system, :administrator)
+        - text = content_tag :span, t('base.administrator_panel'), :class=>:title
+        = link_to text, admin_users_url(:subdomain=>false), :class=>'settings'
+
+-# text = content_tag :span, t('base.site_settings'), :class=>:title
+=# link_to text, storages_url(:subdomain=>@user.subdomain), :class=>:settings
+
+-# text = content_tag :span, t('base.versitcard'), :class=>:title
+=# link_to text, profile_users_url(:subdomain=>@user.subdomain), :class=>:versitcard
+
+-# text = content_tag :span, t('base.updates'), :class=>:title
+=# link_to text, manage_pages_url(:subdomain=>@user.subdomain), :class=>:updates
+
+-# text = content_tag :span, t('base.forums'), :class=>:title
+=# link_to text, manage_forums_url(:subdomain=>@user.subdomain), :class=>:forum 
+
+-# text = content_tag :span, t('base.comments'), :class=>:title
+=# link_to text, manage_comments_url(:subdomain=>@user.subdomain), :class=>:forum
+
+-# text = content_tag :span, t('base.albums'), :class=>:title
+=# link_to text, manage_pages_url(:subdomain=>@user.subdomain), :class=>:albums
+
+-# text = content_tag :span, t('base.documents'), :class=>:title
+=# link_to text, manage_pages_url(:subdomain=>@user.subdomain), :class=>:documents
+
+-# text = content_tag :span, t('base.methods'), :class=>:title
+=# link_to text, manage_pages_url(:subdomain=>@user.subdomain), :class=>:methods
+
+-# nqs= 2 # @user.new_questions.size
+-# new_questions_size = ( nqs > 0 ? "<b class='red'>#{nqs}</b>" : "")
+-# text= content_tag :span, raw([t('base.questions'), new_questions_size].join(': ')), :class=>:title
+=# link_to text, questions_url(:subdomain=>@user.subdomain), :class=>:questions

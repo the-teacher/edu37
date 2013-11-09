@@ -1,0 +1,31 @@
+- content_for :title do
+  = t('users.list')
+
+- content_for :css do
+  = stylesheet_link_tag 'modern/pagination', :media=>'screen'
+  = stylesheet_link_tag 'modern/users/style', :media=>'screen'
+
+= will_paginate @users
+
+%p= link_to t('users.new'), new_admin_user_url(:subdomain=>false)
+
+.users
+  -@users.each do |user|
+    .black_rounder
+      =top_bordered_rounder
+      .content_rounder
+        .user
+          .overblock
+            .avatar
+              = image_tag user.avatar(:mini), :alt=>user.name
+            %p.login
+              %span.name
+                = user.login
+            %p.site_name
+              = link_to(user.name, root_url(:subdomain=>user.subdomain))
+            %p.actions
+              = link_to t('users.admin.edit'), edit_admin_user_url(user, :subdomain=>false)
+              = link_to t('users.admin.login_as'), login_as_admin_user_url(user, :subdomain=>false), :method=>:post
+      =bottom_bordered_rounder
+
+= will_paginate @users

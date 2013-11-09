@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="windows-1251"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>КОЛЛЕКТИВНЫЙ ДОГОВОР - Средняя общеобразовательная школа № 1 города Иванова</title>
+<meta name="title" content="КОЛЛЕКТИВНЫЙ ДОГОВОР" />
+<meta name="author" content="webmaster" />
+<meta name="robots" content="index, follow" />
+<meta name="description" content=" Официальный сайт средней общеобразовательной школы № 1 города Иванова Ивановской области" />
+<meta name="keywords" content=" школа иваново 1 средняя образование новости ученик учитель" />
+<meta name="distribution" content="global" />
+<meta name="rating" content="General" />
+<meta name="document-state" content="Dynamic" />
+<meta name="documentType" content="WebDocument" />
+<meta name="audience" content="all" />
+<meta name="revisit" content="10 days" />
+<meta name="revisit-after" content="10 days" />
+<meta name="allow-search" content="yes" />
+<meta name="language" content="russian" />
+<base href="http://school1.ivedu.ru/" />
+<link href="http://school1.ivedu.ru/templates/school1-1/css/template_css.css" rel="stylesheet" type="text/css" />
+<!--[if lt IE 7]>
+			<script type="text/javascript" src="/js/unitpngfix.js"></script>
+<![endif]-->  
+<!--[if (gt IE 5)&(lt IE 7)]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ieonly.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link href="http://school1.ivedu.ru/templates/school1-1/css/ie7only.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body id="page_bg">
+<div class="center" align="center">
+	<div id="wrapper">
+		<div id="wrapper_r">
+			<div id="header">
+				<a href="http://school1.ivedu.ru" id="logo">&nbsp;</a>
+				<table cellpadding="0" cellspacing="0" class="pill">
+					<tr>
+						<td class="pill_l">&nbsp;
+						</td>
+						<td class="pill_m">
+						<div id="pillmenu">
+													</div>
+						</td>
+					</tr>
+				</table>
+			</div>
+			<div id="tabarea">&nbsp;
+			</div>
+
+			<div class="clr"></div>
+			<div id="whitebox">
+<!--				<div id="whitebox_t">
+					<div id="whitebox_tl">
+						<div id="whitebox_tr">&nbsp;</div>
+					</div>
+				</div> -->
+
+				<div id="whitebox_m">
+					<div id="area">
+					  <div class="rightback">
+					  <div class="contentback">
+					  <div class="leftback">
+						<div id="leftcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+									<div class="module_menu">
+			<div>
+				<div>
+					<div>
+						<h3>Главное меню</h3>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="." title="Главная" class="mainlevel" >Главная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" title="Новости" class="mainlevel" id="active_menu">Новости</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=445&amp;Itemid=45" title="Портфолио школы" class="mainlevel" >Портфолио школы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=446&amp;Itemid=46" title="Учебный процесс" class="mainlevel" >Учебный процесс</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=448&amp;Itemid=47" title="Педагоги" class="mainlevel" >Педагоги</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=5&amp;Itemid=29" title="Документы" class="mainlevel" >Документы</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=449&amp;Itemid=48" title="Публичные отчеты" class="mainlevel" >Публичные отчеты</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=450&amp;Itemid=49" title="Кабинет здоровья" class="mainlevel" >Кабинет здоровья</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=451&amp;Itemid=50" title="Родителям" class="mainlevel" >Родителям</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=452&amp;Itemid=51" title="Общественная приемная" class="mainlevel" >Общественная приемная</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=453&amp;Itemid=52" title="Итоговая аттестация" class="mainlevel" >Итоговая аттестация</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_content&amp;task=view&amp;id=454&amp;Itemid=53" title="Школьная жизнь" class="mainlevel" >Школьная жизнь</a></td></tr>
+<tr align="left"><td><a href="index.php?option=com_contact&amp;Itemid=3" title="Контакты" class="mainlevel" >Контакты</a></td></tr>
+</table>					</div>
+				</div>
+			</div>
+		</div>
+																						</div>
+						<div id="maincolumn">
+						<div id="pathway">
+							<span class="pathway"><a href="http://school1.ivedu.ru" class="pathway" title="Главная">Главная</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=section&amp;id=1&amp;Itemid=2" class="pathway" title="Новости">Новости</a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" /> <a href="index.php?option=com_content&amp;task=category&amp;sectionid=&amp;id=0&amp;Itemid=2" class="pathway" title=""></a> <img src="http://school1.ivedu.ru/templates/school1-1/images/arrow.png" border="0" alt="arrow" />   КОЛЛЕКТИВНЫЙ ДОГОВОР </span>						</div>
+<!--											<table class="nopad user1user2">
+								<tr valign="top">
+									<td class="half1">
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Последние новости				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="latestnews">
+	<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=491&amp;Itemid=2" title="ЛЕТНИЙ ОТДЫХ" class="latestnews">ЛЕТНИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=490&amp;Itemid=2" title="ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ" class="latestnews">ПРЕДЛАГАЕМ ХОРОШИЙ ОТДЫХ</a>
+	</li>
+		<li class="latestnews">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=489&amp;Itemid=2" title="ИГАСУ ЖДЕТ ВАС" class="latestnews">ИГАСУ ЖДЕТ ВАС</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+																			<td class="greyline">&nbsp;</td>
+																		<td>
+												<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Популярное				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="mostread">
+	<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=104&amp;Itemid=2" title="Благодарность учителям начальной школы" class="mostread">
+			Благодарность учителям начальной школы</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=59&amp;Itemid=2" title="Слова благодарности" class="mostread">
+			Слова благодарности</a>
+	</li>
+		<li class="mostread">
+		<a href="index.php?option=com_content&amp;task=view&amp;id=51&amp;Itemid=2" title="День открытых дверей для родителей будущих первоклассников" class="mostread">
+			День открытых дверей для родителей будущих первоклассников</a>
+	</li>
+	</ul>
+			</td>
+		</tr>
+		</table>
+											</td>
+								</tr>
+							</table>
+							<div id="maindivider"></div>
+				 -->
+							<table class="nopad content">
+								<tr valign="top">
+									<td>
+																					
+			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+				<h3>КОЛЛЕКТИВНЫЙ ДОГОВОР</h3>				</td>
+										<td align="right" width="100%" class="buttonheading">
+															<a href="http://school1.ivedu.ru/index2.php?option=com_content&amp;task=view&amp;id=313&amp;pop=1&amp;page=0&amp;Itemid=2" target="_blank" title="Печать"><img src="http://school1.ivedu.ru/images/M_images/printButton.png"  alt="Печать" id="print" name="print" align="middle" border="0" /></a>
+													</td>
+								</tr>
+			</table>
+			
+		<table  class="contentpaneopen">
+				<tr>
+			<td width="70%" align="left" valign="top" colspan="2">
+			<span class="small">
+			 Автор webmaster			</span>
+			&nbsp;&nbsp;
+			</td>
+		</tr>
+					<tr>
+				<td valign="top" colspan="2" class="createdate">
+				13:10:2010 г.				</td>
+			</tr>
+					<tr>
+			<td valign="top" colspan="2">
+			<span style="color: #000000"><span style="font-family: Times New Roman"><b><span style="font-size: 12pt; font-variant: small-caps"></span></b><b><span style="font-size: 12pt"><o:p></o:p></span></b></span></span>&nbsp;&nbsp; 
+<p align="center" style="background: white; margin-left: 26.9pt; text-align: center">
+<b><span style="font-size: 8pt; font-family: times new roman,times; font-variant: small-caps">коллективный договор</span></b><b><span></span></b> 
+</p>
+<p style="background: white; margin-left: 26.4pt; line-height: 13.45pt">
+<span style="font-size: 8pt; font-family: times new roman,times">между администрацией и работниками муниципального учреждения средней общеобразовательной школы № 1 г. Иваново на 2010-2011 год.</span> 
+</p>
+<p align="center" style="background: white; margin: 0cm 0cm 0pt 26.9pt; text-align: center" class="MsoNormal">
+<span><br clear="all" style="page-break-before: auto" />
+<span style="font-size: 8pt; font-family: times new roman,times"></span></span>
+</p>
+<p style="background: white; margin: 13.2pt 0cm 0pt 23.5pt; line-height: 13.7pt; tab-stops: 40.8pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><b><span style="letter-spacing: -1.75pt">1.</span></b><b><span><span>&nbsp;&nbsp;&nbsp; </span>Общие положения</span></b></span></span> 
+</p>
+<p style="background: white; margin: 0cm 46.1pt 0pt 62.9pt; text-indent: -19.7pt; line-height: 13.7pt; tab-stops: 62.9pt">
+<span style="font-size: 8pt; font-family: times new roman,times; letter-spacing: -0.9pt">1.1.</span><span><span style="font-size: 8pt"><span style="font-family: times new roman,times"><span>&nbsp; </span>Коллективный договор заключен между работниками с одной<br />
+стороны и<span>&nbsp; </span>администрацией муниципального учреждения средней</span></span></span> 
+</p>
+<p style="background: white; margin-left: 63.85pt; line-height: 13.7pt">
+<span style="font-size: 8pt; font-family: times new roman,times">общеобразовательной<span>&nbsp; </span>школы № 1, с другой, именуемыми в дальнейшем сторонами, начиная с 01.09.2010 по 31.12.2011. Работники муниципального</span> 
+</p>
+<p style="background: white; margin-left: 63.35pt; line-height: 13.7pt">
+<span style="font-size: 8pt; font-family: times new roman,times">учреждения средней общеобразовательной школы № 1 доверяют и</span> 
+</p>
+<p style="background: white; margin-left: 63.85pt; line-height: 13.7pt">
+<span style="font-size: 8pt; font-family: times new roman,times">поручают профсоюзному комитету представлять их интересы в переговорах, заключать коллективный договор (КД) и</span> 
+</p>
+<p style="background: white; margin-left: 63.85pt; line-height: 13.7pt">
+<span style="font-size: 8pt; font-family: times new roman,times">контролировать его исполнение.</span> 
+</p>
+<p style="background: white; margin: 0cm 69.1pt 0pt 62.9pt; text-indent: -19.7pt; line-height: 13.7pt; tab-stops: 62.9pt">
+<span style="font-size: 8pt; font-family: times new roman,times; letter-spacing: -0.85pt">1.2.</span><span><span style="font-size: 8pt"><span style="font-family: times new roman,times"><span>&nbsp; </span>КД является документом, определяющим взаимоотношения<br />
+администрации и работников, обязательства и ответственность сторон. Настоящий КД принимается как средство согласования интересов коллектива и администрации, регулирования трудовых отношений на предприятии. Целью КД является усовершенствование и укрепление социально партнерства, регулирование социально-трудовых отношений, согласования социально-экономических интересов всех работников школы </span></span></span>
+</p>
+<p style="background: white; margin: 0cm 69.1pt 0pt 62.9pt; text-indent: 0.9pt; line-height: 13.7pt; tab-stops: 62.9pt">
+<span style="font-size: 8pt; font-family: times new roman,times">№ 1 г. Иваново.</span> 
+</p>
+<p style="background: white; margin-left: 62.9pt; text-indent: -19.7pt; line-height: 13.7pt; tab-stops: 62.9pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.9pt"><span>&bull;1.3.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Действие КД распространяется на всех работников учреждения, гарантирует защиту их прав и интересов, обеспечение занятости всех работников и не может нарушать нормы трудового законодательства.<span style="letter-spacing: -0.9pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin-left: 62.9pt; text-indent: -19.7pt; line-height: 13.7pt; tab-stops: 62.9pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.85pt"><span>&bull;1.4.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>КД заключен при полномочности представителей сторон, равноправии сторон, при свободе обсуждения содержания КД, при добровольности принятия обязательств, с учетом реальности обеспечения принимаемых обязательств, систематичности контроля и неотвратимости ответственности сторон, с соблюдением норм законодательства РФ.<span style="letter-spacing: -0.85pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin-left: 62.9pt; text-indent: -19.7pt; line-height: 13.7pt; tab-stops: 62.9pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.9pt"><span>&bull;1.5.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Изменения и дополнения в КД могут вноситься любой стороной по взаимному согласию сторон в течение срока действия КД и утверждаться в качестве приложения к КД решением трудового коллектива.<span style="letter-spacing: -0.9pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 0cm 23.05pt 0pt 63.1pt; text-indent: -17.05pt; line-height: 13.7pt">
+<span style="font-size: 8pt; font-family: times new roman,times">1 .6.Настоящий коллективный договор действует в течение трёх лет со дня его подписания.</span> 
+</p>
+<p style="background: white; margin-left: 43.9pt; text-indent: 0cm; line-height: 13.7pt; tab-stops: 63.35pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.95pt"><span>&bull;1.7.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Стороны осуществляют контроль за выполнением КД.<span style="letter-spacing: -0.95pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 0cm 23.05pt 0pt 63.35pt; text-indent: -19.45pt; line-height: 13.7pt; tab-stops: 63.35pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.95pt"><span>&bull;1.8.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Администрация и профсоюзный комитет отчитываются о выполнении своих обязательств на собрании трудового коллектива не реже одного раза в год.<span style="letter-spacing: -0.95pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin-left: 63.35pt; text-indent: -19.45pt; line-height: 13.7pt; tab-stops: 63.35pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.9pt"><span>&bull;1.9.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>В течение 3 месяцев до окончания срока действия данного КД стороны начнут переговоры о заключении нового КД.<span style="letter-spacing: -0.9pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin-left: 63.35pt; line-height: 13.7pt; tab-stops: 63.35pt">
+<span style="font-size: 8pt; font-family: times new roman,times; letter-spacing: -0.9pt"></span>
+</p>
+<p style="background: white; margin: 0cm -4.1pt 0pt 40.8pt; text-indent: -17.3pt; line-height: 13.7pt; tab-stops: 40.8pt">
+<b><span style="font-size: 8pt; font-family: times new roman,times; letter-spacing: -0.7pt">2.</span></b><span style="font-size: 8pt"><span style="font-family: times new roman,times"><b><span><span>&nbsp;&nbsp; </span>Вопросы занятости, профессиональной подготовки и переподготовки<br />
+кадров</span></b><span>.</span></span></span> 
+</p>
+<p style="background: white; margin-left: 40.8pt; line-height: 13.7pt">
+<b><u><span><span style="font-size: 8pt"><span style="font-family: times new roman,times">Администрация обязуется:<span>&nbsp;&nbsp;&nbsp; </span></span></span></span></u></b>
+</p>
+<p style="background: white; margin-left: 42.55pt; line-height: 13.9pt">
+<span style="font-size: 8pt; font-family: times new roman,times">2.1. Обеспечить использование работников в соответствии с их профессией, квалификацией и трудовым договором.</span> 
+</p>
+<p style="background: white; margin-left: 42.55pt; line-height: 13.7pt; tab-stops: 42.55pt">
+<span style="font-size: 8pt; font-family: times new roman,times">2.2. <span>&nbsp;</span>Уведомлять профком в письменной форме о сокращении численности штата работников не позднее, чем за 2 месяца до его начала, а в случаях, которые могут повлечь массовое высвобождение не позднее, чем за три месяца до его начала(ст. 82 ТК РФ). В случае массового (средне списочной численности работников) уведомление должно содержать социально-экономическое обоснование.</span> 
+</p>
+<p style="background: white; margin-left: 42.55pt; line-height: 13.7pt; tab-stops: 42.55pt">
+<span><span style="font-size: 8pt"><span style="font-family: times new roman,times"><span>&nbsp;</span>2.3. В случае сокращения штатов отнести к льготной категории, имеющей преимущественное право оставления на работе сверх перечня, предусмотренного статьей 179 ТК РФ, лиц предпенсионного возраста (2 года до пенсии), одиноких матерей, имеющих детей в возрасте до 16 лет и до окончания ими учебного заведения.</span></span></span> 
+</p>
+<p style="background: white; margin: 0cm 23.05pt 0pt 42.55pt; text-indent: 0cm; line-height: 13.7pt; tab-stops: 38.4pt 42.55pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.55pt"><span>&bull;2.4.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Обеспечить аттестацию работника при подаче соответствующего заявления в установленные сроки с участием ПК.<span style="letter-spacing: -0.55pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin-left: 42.55pt; text-indent: 0cm; line-height: 13.7pt; tab-stops: 38.4pt 42.55pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.55pt"><span>&bull;2.5.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>В случае закрытия учебных классов (групп), изменения учебного плана предоставлять работникам, с их согласия, возможность работы в режиме неполной нагрузки.<span style="letter-spacing: -0.55pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin-left: 42.55pt; text-indent: 0cm; line-height: 13.7pt; tab-stops: 38.4pt 42.55pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.55pt"><span>&bull;2.6.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Совместно с ПК готовить материалы на награждение работников, присвоение им почетных званий.<span style="letter-spacing: -0.55pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin-left: 42.55pt; line-height: 13.7pt; tab-stops: 38.4pt 42.55pt">
+<span style="font-size: 8pt; font-family: times new roman,times; letter-spacing: -0.55pt"></span>
+</p>
+<p style="background: white; margin-left: 42.55pt; line-height: 13.7pt; tab-stops: 42.55pt">
+<b><u><span style="font-size: 8pt; font-family: times new roman,times">Работники обязуются:</span></u></b> 
+</p>
+<p style="background: white; margin-left: 42.55pt; line-height: 13.7pt; tab-stops: 42.55pt">
+<span style="font-size: 8pt; font-family: times new roman,times">-<span>&nbsp;&nbsp;&nbsp; </span>повышать уровень квалификации по своей профессии,</span> 
+</p>
+<p style="background: white; margin-left: 42.55pt; line-height: 13.7pt; tab-stops: 42.55pt">
+<span style="font-size: 8pt; font-family: times new roman,times">способствовать и по возможности участвовать в проводимых в школе семинарах всех уровней, школьных и иных конкурсах, других мероприятиях.</span> 
+</p>
+<p style="background: white; margin: 0cm 276.5pt 0pt 17.5pt; text-indent: -17.5pt; line-height: 13.7pt; tab-stops: 17.5pt">
+<span style="font-size: 8pt; font-family: times new roman,times; letter-spacing: -0.9pt"></span>
+</p>
+<p style="background: white; margin: 0cm -4.1pt 0pt 17.5pt; text-indent: -17.5pt; line-height: 13.7pt; tab-stops: 17.5pt">
+<b><span style="font-size: 8pt; font-family: times new roman,times; letter-spacing: -0.9pt">3.</span></b><b><span><span style="font-size: 8pt; font-family: times new roman,times">&nbsp;&nbsp; </span><span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.1pt">Прием и увольнение работников.<br />
+</span><u>Администрация обязуется:</u></span></span></span></b> 
+</p>
+<p style="background: white; margin-left: 38.65pt; text-indent: -20.4pt; line-height: 13.7pt; tab-stops: 38.65pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.7pt"><span>&bull;3.1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Заключать трудовой договор о приеме на работу в письменной форме и, как правило, без указания срока. Срочный трудовой договор заключается только на временную или сезонную работу.<span style="letter-spacing: -0.7pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 0cm 23.05pt 0pt 38.65pt; text-indent: -20.4pt; line-height: 13.7pt; tab-stops: 38.65pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.65pt"><span>&bull;3.2.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Ознакомить работника с полученной работой, условиями и оплатой труда, должностной инструкцией, правилами внутреннего трудового распорядка и настоящим коллективным договором под роспись.<span style="letter-spacing: -0.65pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin-left: 18.25pt; text-indent: 0cm; line-height: 13.7pt; tab-stops: 38.65pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.6pt"><span>&bull;3.3.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Согласовать с ПК прием работника на работу с испытательным сроком 3 месяца.<span style="letter-spacing: -0.6pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin-left: 38.65pt; text-indent: -20.4pt; line-height: 13.7pt; tab-stops: 38.65pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.6pt"><span>&bull;3.4.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Произвести окончательный расчет и выдать работнику трудовую книжку в день увольнения (последний день работы).<span style="letter-spacing: -0.6pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 0cm 46.1pt 0pt 38.65pt; text-indent: -20.4pt; line-height: 13.7pt; tab-stops: 38.65pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span><span>&bull;3.5.<span>&nbsp; </span></span></span><span>Не допускать перевода работника на срочный трудовой договор без его письменного согласия.</span></span></span> 
+</p>
+<p style="background: white; margin-left: 6.25pt; text-indent: 9.1pt; line-height: 13.7pt; tab-stops: 36.25pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.35pt"><span>&bull;3.6.<span>&nbsp; </span></span></span><span>Прекращение трудового договора с работником может производиться только по основаниям предусмотренным ТК и иными Федеральными законами(ст.77 ТК Р)<span style="letter-spacing: -0.35pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 0cm 23.05pt 0pt 6.25pt; text-indent: 9.1pt; line-height: 13.7pt; tab-stops: 36.25pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.35pt"><span>&bull;3.7.<span>&nbsp; </span></span></span><span>Администрация обязуется обеспечить полную и стабильную занятость и использование работающих в соответствии с их профессией и трудовым договором.<span style="letter-spacing: -0.35pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 0cm 23.05pt 0pt 15.35pt; line-height: 13.7pt; tab-stops: 36.25pt">
+<span style="font-size: 8pt; font-family: times new roman,times; letter-spacing: -0.35pt"></span>
+</p>
+<p style="background: white; margin: 0.25pt -4.1pt 0pt 17.5pt; text-indent: -17.5pt; line-height: 13.7pt; tab-stops: 17.5pt 460.7pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><b><span style="letter-spacing: -0.7pt">4.</span></b><b><span><span>&nbsp;&nbsp; </span><span style="letter-spacing: -0.1pt">Организация труда, режим работы, время отдыха.</span></span></b></span></span><span style="letter-spacing: -0.1pt"><br />
+</span><b><u><span style="font-size: 8pt; font-family: times new roman,times">Администрация обязуется:</span></u></b><span></span> 
+</p>
+<p style="background: white; margin: 0.25pt 0cm 0pt 39.35pt; text-indent: -20.9pt; line-height: 13.7pt; tab-stops: 39.35pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.35pt"><span>&bull;4.1.<span>&nbsp; </span></span></span><span>Разработать совместно с ПК и утвердить на общем собрании правила внутреннего трудового распорядка.<span style="letter-spacing: -0.35pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin-left: 39.35pt; text-indent: -20.9pt; line-height: 13.7pt; tab-stops: 39.35pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.3pt"><span>&bull;4.2.<span>&nbsp; </span></span></span><span>Рабочее время в каникулы работников школы рассчитывается исходя из недельной нагрузки, <span>&nbsp;</span>поделённой на пять рабочих дней в неделю.<span style="letter-spacing: -0.3pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 0cm 23.05pt 0pt 39.35pt; text-indent: -20.9pt; line-height: 13.7pt; tab-stops: 39.35pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.55pt"><span>&bull;4.3.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Разрабатывать расписание занятий не позднее, чем за 3 дня до начала нового учебного года (полугодия). Расписание составляется с учетом требований ГосСанЭпидНадзора и рационального использования времени учителя и, по возможности, индивидуальных условий жизни работников школы.<span style="letter-spacing: -0.55pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin-left: 39.35pt; text-indent: -20.9pt; line-height: 13.7pt; tab-stops: 39.35pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.55pt"><span>&bull;4.4.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Обеспечивать четкую организацию труда в школе согласно правилам внутреннего трудового распорядка.<span style="letter-spacing: -0.55pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin-left: 39.35pt; text-indent: -20.9pt; line-height: 13.7pt; tab-stops: 39.35pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.45pt"><span>&bull;4.5.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Разрабатывать и согласовывать с ПК должностные обязанности, инструкции на рабочем месте.<span style="letter-spacing: -0.45pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin-left: 39.35pt; text-indent: -20.9pt; line-height: 13.7pt; tab-stops: 39.35pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.45pt"><span>&bull;4.6.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Предоставлять ежегодные отпуска в согласованные с работником сроки, согласно графику отпусков. Составлять график отпусков не позднее 15 декабря текущего года, согласовывать его с ПК.<span style="letter-spacing: -0.45pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 0cm 46.1pt 0pt 42.55pt; text-indent: -20.9pt; line-height: 13.7pt; tab-stops: 39.35pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.55pt"><span>&bull;4.7.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Объявлять нагрузку на будущий год до ухода работников в отпуск, вносить изменения по нагрузке после согласования с работником в присутствии .<span style="letter-spacing: -0.55pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 0.25pt 23.05pt 0pt 42.55pt; text-indent: -20.9pt; line-height: 13.7pt; tab-stops: 39.35pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.6pt"><span>&bull;4.8.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Не изменять учебную нагрузку в течение учебного года без письменного согласия работника, за исключением случаев, предусмотренных законодательством.<span style="letter-spacing: -0.6pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 0cm 69.1pt 0pt 42.55pt; text-indent: -20.9pt; line-height: 13.7pt; tab-stops: 39.35pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span><span>&bull;4.9.<span>&nbsp; </span></span></span><span>Педагогическим работникам, работающим в течение учебного года без больничных листов, предоставлять 4 дня к отпуску. Работникам, прошедшим плановую диспансеризацию, предоставляется один день к отпуску.</span></span></span> 
+</p>
+<p style="background: white; margin: 0.95pt 0cm 0pt 42.55pt; text-indent: -21.25pt; line-height: 13.7pt; tab-stops: -155.95pt 42.55pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.4pt"><span>&bull;4.10.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Предоставлять возможность использования отпуска в течение учебного года при наличии санаторной путевки, путевки на отдых (по медицинским показаниям). Предоставлять сотрудникам школы в каникулярное время и время отмены занятий по причине карантина, морозов и др. на основании заявления отпуск без сохранения заработной платы, если это не наносит ущерба процессу работы школы.<span style="letter-spacing: -0.4pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 0cm 3pt 0pt 42.55pt; text-indent: -21.25pt; line-height: 13.7pt; tab-stops: 42.55pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.4pt"><span>&bull;4.11.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Предупреждать учителя за сутки о посещении его уроков с целью внеплановой проверки занятий, кроме случаев:<span style="letter-spacing: -0.4pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 0.7pt 3pt 0pt 42.55pt; text-indent: -21.25pt; line-height: 13.9pt; tab-stops: 42.55pt 460.7pt">
+<span><span style="font-size: 8pt"><span style="font-family: times new roman,times"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>класс находится на контроле в соответствии с планом школы, наличие рекламаций по поводу деятельности учителя.</span></span></span> 
+</p>
+<p style="background: white; margin: 0.95pt 3pt 0pt 42.55pt; text-indent: -21.25pt; line-height: 13.7pt; tab-stops: 42.55pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.5pt"><span>&bull;4.12.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Информировать работников о текущей деятельности школы.<span style="letter-spacing: -0.5pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 0cm 3pt 0pt 42.55pt; text-indent: -21.25pt; line-height: 13.7pt; tab-stops: 42.55pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.4pt"><span>&bull;4.13.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Для решения неотложных вопросов, связанных с охраной здоровья, осуществлением родственного долга, предоставлять работникам кратковременные отпуска за счет экономии фонда заработной платы:<span style="letter-spacing: -0.4pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 0cm 3pt 0pt 42.55pt; text-indent: -21.25pt; line-height: 13.7pt; tab-stops: 42.55pt">
+<span style="font-size: 8pt; font-family: times new roman,times">на похороны - 3 дня (в другой местности - 5 дней), на медицинское обследование - </span>
+</p>
+<p style="background: white; margin: 0cm 3pt 0pt 42.55pt; text-indent: -21.25pt; line-height: 13.7pt; tab-stops: 42.55pt">
+<span style="font-size: 8pt; font-family: times new roman,times">1 день,<span>&nbsp;&nbsp;&nbsp; </span>на свадьбу - 3 дня.</span> 
+</p>
+<p style="background: white; margin: 0cm 3pt 0pt 42.55pt; text-indent: -1cm; line-height: 13.7pt; tab-stops: 42.55pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.35pt">4.14.</span><span><span>&nbsp; </span>Гарантировать учебную нагрузку не менее 18 часов в неделю.</span></span></span> 
+</p>
+<p style="background: white; margin: 0cm 3pt 0pt 42.55pt; text-indent: -1cm; line-height: 13.7pt; tab-stops: 27.85pt 42.55pt">
+<span style="font-size: 8pt; font-family: times new roman,times; letter-spacing: -0.25pt">4.15.</span><span><span style="font-size: 8pt"><span style="font-family: times new roman,times"><span>&nbsp; </span>Заработную плату за отпуск выплачивать работникам не позднее, чем за 3<br />
+дня до начала отпуска. В противном случае за работником остается право не<br />
+уходить в отпуск до выплаты отпускных.</span></span></span> 
+</p>
+<p style="background: white; margin: 0cm 46.1pt 0pt 42.55pt; text-indent: -1cm; line-height: 13.7pt; tab-stops: 42.55pt 53.3pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.4pt"><span>&bull;4.16.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Сокращать уроки в предпраздничные дни и в последний учебный день перед каникулами до 30 минут.<span style="letter-spacing: -0.4pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 0cm 115.2pt 0pt 42.55pt; text-indent: -1cm; line-height: 13.7pt; tab-stops: 42.55pt 53.3pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.45pt"><span>&bull;4.17.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Производственные совещания проводить не чаще 1 раза в месяц продолжительностью не более 1 часа.<span style="letter-spacing: -0.45pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 0cm 46.1pt 0pt 42.55pt; text-indent: -42.55pt; line-height: 13.7pt; tab-stops: 42.55pt">
+<span><span style="font-size: 8pt"><span style="font-family: times new roman,times"><span>&nbsp;&nbsp;&nbsp; </span>4.18.<span>&nbsp; </span>Тематические педагогические советы проводить в каникулярное время <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>продолжительностью не более 2 часов.<span style="letter-spacing: -0.45pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin-left: 22.55pt; text-indent: -21.25pt; line-height: 13.7pt; tab-stops: 42.55pt">
+<b><u><span style="font-size: 8pt; font-family: times new roman,times">Работники обязуются:</span></u></b> 
+</p>
+<p style="background: white; margin: 0.25pt 46.1pt 0pt 42.55pt; text-indent: -1cm; line-height: 13.7pt; tab-stops: 42.55pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.45pt"><span>&bull;4.19.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Строго соблюдать правила внутреннего трудового распорядка, Устав МУ средняя общеобразовательная школа № 1, приказы, распоряжения по школе, требования ТК РФ, Закон об образовании РФ.<span style="letter-spacing: -0.45pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 0cm 23.05pt 0pt 21.6pt; text-indent: -7.4pt; line-height: 13.7pt; tab-stops: 42.55pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.4pt"><span>&bull;4.20.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Участвовать в работе по сохранности здания, имущества, учебно-наглядных пособий и других ценностей средней школы № 1.<span style="letter-spacing: -0.4pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin-left: 21.3pt; text-indent: -7.1pt; line-height: 13.7pt; tab-stops: 42.55pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.4pt"><span>&bull;4.21.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Рационально использовать учебное рабочее время.<span style="letter-spacing: -0.4pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 0cm 23.05pt 0pt 21.6pt; text-indent: -7.4pt; line-height: 13.7pt; tab-stops: 42.55pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.45pt"><span>&bull;4.22.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Участвовать в поддержании санитарного состояния территории школьного двора и помещений школы. В последний день перед каникулами проводить генеральные уборки закреплённых территорий.<span style="letter-spacing: -0.45pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 0cm -4.1pt 0pt 21.6pt; text-indent: -0.3pt; line-height: 13.7pt; tab-stops: 42.55pt 460.7pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.4pt"><span>&bull;4.23.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Участвовать в косметическом ремонте учебных и производственных помещений за счет средств добровольных пожертвований родителей и иных средств с учетом их возможностей.<span style="letter-spacing: -0.4pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 0.5pt -4.1pt 0pt 0.25pt; text-indent: 13.95pt; line-height: 13.7pt; tab-stops: 42.55pt 460.7pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.4pt"><span>&bull;4.24.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Не допускать антипедагогических приемов в работе.<span style="letter-spacing: -0.4pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 0cm -4.1pt 0pt 21.6pt; text-indent: -7.4pt; line-height: 13.7pt; tab-stops: 53.3pt 460.7pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span><span>&bull;4.25.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Проходить флюорографическое обследование и диспансеризацию сотрудникам в обозначенные администрацией сроки.</span></span></span> 
+</p>
+<p style="background: white; margin: 0cm -4.1pt 0pt 21.85pt; text-indent: -7.65pt; line-height: 13.7pt; tab-stops: 52.8pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.5pt"><span>&bull;4.26.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Проводить уроки замещения в количестве не более 240 часов в год по графику, составленному администрацией школы.<span style="letter-spacing: -0.5pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 0cm -4.1pt 0pt 21.85pt; text-indent: -7.65pt; line-height: 13.7pt; tab-stops: 52.8pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.6pt"><span>&bull;4.27.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Использовать разнообразные формы и методы обучения и воспитания школьников.<span style="letter-spacing: -0.6pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 0cm -4.1pt 0pt 21.85pt; line-height: 13.7pt; tab-stops: 52.8pt">
+<span style="font-size: 8pt; font-family: times new roman,times; letter-spacing: -0.6pt"></span>
+</p>
+<p style="background: white; margin: 0cm 265.25pt 0pt 0.95pt; line-height: 13.7pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><b><span style="letter-spacing: -0.15pt">5.Оплата и стимулирование труда.</span></b><span style="letter-spacing: -0.15pt"> </span><b><u><span>Администрация обязуется:</span></u></b><span></span></span></span> 
+</p>
+<p style="background: white; margin-left: 21.85pt; text-indent: -20.4pt; line-height: 13.7pt; tab-stops: 21.85pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.8pt"><span>&bull;5.1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Информировать коллектив о размерах финансовых поступлений из всех источников (бюджет, доходы от хозяйственной деятельности, спонсорские и другие средства), отчитываться об их использовании не реже 1 раза в полугодие.<span style="letter-spacing: -0.8pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin-left: 21.85pt; text-indent: -20.4pt; line-height: 13.7pt; tab-stops: 21.85pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.7pt"><span>&bull;5.2.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Способствовать своевременной оплате труда согласно тарификации (сроки выплаты заработной платы: аванс - 27 , заработная плата - 13 числа ежемесячно.<span style="letter-spacing: -0.7pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 0cm 22.1pt 0pt 21.85pt; text-indent: -20.4pt; line-height: 13.7pt; tab-stops: 21.85pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.7pt"><span>&bull;5.3.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Обеспечить обязательную выдачу каждому работнику ежемесячного расчетного листка с указанием начислений и удержаний из зарплаты.<span style="letter-spacing: -0.7pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin-left: 1.45pt; text-indent: 0cm; line-height: 13.7pt; tab-stops: 21.85pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.75pt"><span>&bull;5.4.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Производить оплату замещений согласно имеющейся у учителя квалификации.<span style="letter-spacing: -0.75pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 0cm 44.15pt 0pt 0.7pt; line-height: 13.7pt; tab-stops: 22.1pt">
+<span style="font-size: 8pt; font-family: times new roman,times; letter-spacing: -0.7pt">5.5.</span><span><span style="font-size: 8pt"><span style="font-family: times new roman,times"><span>&nbsp; </span>Поручить совету школы контроль за использованием внебюджетных средств.<br />
+Улучшение условий и охраны труда.</span></span></span> 
+</p>
+<p style="background: white; margin: 0cm 44.15pt 0pt 0.7pt; line-height: 13.7pt; tab-stops: 22.1pt">
+<span style="font-size: 8pt; font-family: times new roman,times"></span>
+</p>
+<p style="background: white; margin: 0cm 44.15pt 0pt 0.5pt; line-height: 13.7pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><b><span>6. Стороны признают свою обязанность сотрудничать в деле сохранения</span></b><span> <b>здоровья и безопасности труда и обязуются обеспечить:</b></span></span></span> 
+</p>
+<p style="background: white; margin-left: 18.5pt; text-indent: -4.3pt; line-height: 13.7pt">
+<span style="font-size: 8pt; font-family: times new roman,times">- организацию и ведение охраны труда с соблюдением всех нормативных</span> 
+</p>
+<p style="background: white; margin: 0cm -11.2pt 0pt 17.5pt; text-indent: -4.3pt; line-height: 13.7pt">
+<span style="font-size: 8pt; font-family: times new roman,times">требований,</span> 
+</p>
+<p style="background: white; margin: 0cm -11.2pt 0pt 17.05pt; text-indent: -4.3pt; line-height: 13.7pt; tab-stops: 17.05pt">
+<span style="font-size: 8pt; font-family: times new roman,times">-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>распределение функциональных обязанностей и ответственности руководителей,<br />
+должностных лиц в этих вопросах,</span> 
+</p>
+<p style="background: white; margin: 0cm -11.2pt 0pt 18pt; text-indent: -4.3pt; line-height: 13.7pt">
+<span style="font-size: 8pt; font-family: times new roman,times">- оценку состояния условий труда на рабочем месте,</span> 
+</p>
+<p style="background: white; margin: 0cm -11.2pt 0pt 17.05pt; text-indent: -4.3pt; line-height: 13.7pt; tab-stops: 17.05pt">
+<span><span style="font-size: 8pt"><span style="font-family: times new roman,times">-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.1pt">проведение паспортизации условий труда и обучения,<br />
+</span>- своевременное расследование несчастных случаев.</span></span></span> 
+</p>
+<p style="background: white; margin-left: 20.65pt; text-indent: -20.4pt; line-height: 13.7pt; tab-stops: 20.65pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.65pt"><span>&bull;6.1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Распределить функциональные обязанности по охране труда между руководителями. От ПК школы ответственным за охрану труда считать Смирнову Л.В., уполномоченного по охране труда.<span style="letter-spacing: -0.65pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 0.25pt 0cm 0pt 0.25pt; text-indent: 0cm; line-height: 13.7pt; tab-stops: 20.65pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.65pt"><span>&bull;6.2.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Совместно с ПК проводить оценку условий труда на рабочих местах.<span style="letter-spacing: -0.65pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin-left: 0.25pt; text-indent: 0cm; line-height: 13.7pt; tab-stops: 20.65pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span><span>&bull;6.3.<span>&nbsp; </span></span></span><span>Обновлять и утверждать инструкции по охране труда 1 раз в 5 лет.</span></span></span> 
+</p>
+<p style="background: white; margin-left: 0cm; text-indent: 0cm; line-height: 13.7pt; tab-stops: 20.9pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.65pt"><span>&bull;6.4.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Проводить со всеми поступающими на работу, а также переведёнными на другую работу работниками учреждения обучение и инструктаж по охране труда , сохранности жизни и здоровья детей, безопасным методам и приёмам выполнения работ, оказанию первой помощи пострадавшим. Организовать на начало учебного года проверку знания работниками учреждения правил охраны труда.<span style="letter-spacing: -0.65pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin-left: 0cm; text-indent: 0cm; line-height: 13.7pt; tab-stops: 20.9pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.6pt"><span>&bull;6.5.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Работники обязуются:<span style="letter-spacing: -0.6pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 0.25pt 0cm 0pt 18.7pt; line-height: 13.7pt">
+<span style="font-size: 8pt; font-family: times new roman,times">-соблюдать правила и нормы охраны труда и производственной санитарии,</span> 
+</p>
+<p style="background: white; margin: 0cm 44.15pt 0pt 17.05pt; text-indent: -5.05pt; line-height: 13.7pt; tab-stops: 17.05pt">
+<span style="font-size: 8pt; font-family: times new roman,times">-<span> </span>отвечать за жизнь и здоровье детей во время учебных занятий и внеклассных<br />
+мероприятий.</span> 
+</p>
+<p style="background: white; margin-left: 21.1pt; text-indent: -20.15pt; line-height: 13.7pt; tab-stops: 21.1pt">
+<span style="font-size: 8pt; font-family: times new roman,times; letter-spacing: -0.65pt">6.6.</span><span><span style="font-size: 8pt"><span style="font-family: times new roman,times"><span>&nbsp; </span>Привлечение работников учреждения к выполнению работы, не предусмотренной<br />
+Уставом учреждения, Правилами внутреннего трудового распорядка учреждения,<br />
+должностными обязанностями, допускаются только по письменному распоряжению<br />
+работодателя с письменного согласия работниками с дополнительной оплатой в<br />
+порядке, предусмотренном Положением об оплате труда.</span></span></span> 
+</p>
+<p style="background: white; margin-left: 21.1pt; text-indent: -20.15pt; line-height: 13.7pt; tab-stops: 21.1pt">
+<span style="font-size: 8pt; font-family: times new roman,times"></span>
+</p>
+<p style="background: white; margin: 0.25pt 0cm 0pt 0.7pt; line-height: 13.7pt">
+<b><span style="font-size: 8pt; font-family: times new roman,times">7.Разрешение трудовых споров (конфликтов).</span></b> 
+</p>
+<p style="background: white; margin-left: 22.3pt; text-indent: -20.9pt; line-height: 13.7pt; tab-stops: 22.3pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.6pt"><span>&bull;7.1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Индивидуальные и трудовые споры работников, работающих по трудовому договору, и администрации школы по вопросам оплаты труда, нагрузки, возвращения денежных сумм, удержания из заработной платы, предоставления ежегодных отпусков, наложения дисциплинарных взысканий, перевода на другую работу, прекращения трудового договора не по инициативе администрации, внесения изменений и исправлений в трудовую книжку разрешаются в соответствии с Трудовым Кодексом и инструкцией о порядке ведения трудовых книжек.<span style="letter-spacing: -0.6pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin-left: 1.45pt; text-indent: 0cm; line-height: 13.7pt; tab-stops: 22.3pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.45pt"><span>&bull;7.2.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Порядок разрешение коллективных трудовых споров (конфликтов) по вопросам<span style="letter-spacing: -0.45pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin-left: 21.35pt; line-height: 13.7pt">
+<span style="font-size: 8pt; font-family: times new roman,times">установления в школе новых или изменения существующих социально-экономических условий труда, заключения и исполнения коллективного договора и соглашений между администрацией и трудовым коллективом или ПК регулируются в соответствии с законом РФ &laquo;О порядке разрешения коллективных трудовых споров (конфликтов)&raquo; от 23.11.1995 г.</span> 
+</p>
+<p style="background: white; margin-left: 40.3pt; text-indent: -20.65pt; line-height: 13.7pt">
+<span style="font-size: 8pt; font-family: times new roman,times">7.3. В период действия КД ПК не организует забастовок по вопросам, включенным в данный договор, при условии их выполнения.</span> 
+</p>
+<p style="background: white; margin-left: 40.3pt; text-indent: -20.65pt; line-height: 13.7pt">
+<span style="font-size: 8pt; font-family: times new roman,times"></span>
+</p>
+<p style="background: white; margin-left: 1.2pt; line-height: 13.7pt; tab-stops: 18.7pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><b><span style="letter-spacing: -1pt">8.</span></b><b><span><span>&nbsp;&nbsp; </span>Права профсоюзной организации при выполнении коллективного договора</span></b></span></span> 
+</p>
+<p style="background: white; margin-left: 40.1pt; text-indent: -20.65pt; line-height: 13.7pt; tab-stops: 40.1pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.6pt"><span>&bull;8.1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Выступая представителем работников и являясь стороной коллективного договора ПК принимает на себя обязательства по всем разделам коллективного договора.<span style="letter-spacing: -0.6pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin-left: 19.45pt; text-indent: 0cm; line-height: 13.7pt; tab-stops: 40.1pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.7pt"><span>&bull;8.2.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Администрация обязуется:<span style="letter-spacing: -0.7pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 0.25pt 0cm 0pt 36pt; line-height: 13.7pt">
+<span style="font-size: 8pt; font-family: times new roman,times">-разрешить обучение председателя ПК по вопросам профсоюзной работы, правовым вопросам и проблемам трудового законодательства с отрывом от производства с сохранением среднего заработка в течение 7 дней в календарном году,</span> 
+</p>
+<p style="background: white; margin: 0.25pt 0cm 0pt 36pt; line-height: 13.7pt">
+<span><span style="font-size: 8pt"><span style="font-family: times new roman,times"><span>&nbsp;</span>-включить председателя ПК в состав аттестационной комиссии, обеспечить его участие в совещаниях при директоре.</span></span></span> 
+</p>
+<p style="background: white; margin: 0.25pt 0cm 0pt 36pt; line-height: 13.7pt">
+<span style="font-size: 8pt; font-family: times new roman,times"></span>
+</p>
+<p style="background: white; margin-left: 1.2pt; line-height: 13.7pt; tab-stops: 18.7pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><b><span style="letter-spacing: -0.95pt">9.</span></b><b><span><span>&nbsp;&nbsp; </span>Приложения к коллективному договору.</span></b></span></span> 
+</p>
+<p style="background: white; margin-left: 22.1pt; line-height: 13.7pt">
+<span style="font-size: 8pt; font-family: times new roman,times">Приложения к КД являются его составной частью. Приложения могут быть приняты</span> 
+</p>
+<p style="background: white; margin-left: 22.1pt; line-height: 13.7pt">
+<span><span style="font-size: 8pt"><span style="font-family: times new roman,times">на более длительный срок, чем сам договор, с последующим внесением дополнений и <span style="letter-spacing: -0.1pt">изменений.</span></span></span></span> 
+</p>
+<p style="background: white; margin-left: 22.1pt; line-height: 13.7pt">
+<span style="font-size: 8pt; font-family: times new roman,times">К договору прилагаются:</span> 
+</p>
+<p style="background: white; margin-left: 18.7pt; text-indent: 0cm; line-height: 13.7pt; tab-stops: 36.25pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span><span>&bull;-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Правила внутреннего трудового распорядка,</span></span></span> 
+</p>
+<p style="background: white; margin-left: 18.7pt; text-indent: 0cm; line-height: 13.7pt; tab-stops: 36.25pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span><span>&bull;-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Соглашения по охране труда.</span></span></span> 
+</p>
+<p style="background: white; margin: 12.95pt 23.05pt 0pt 0.95pt; line-height: 13.9pt">
+<span style="font-size: 8pt; font-family: times new roman,times">ТЕКСТ КОЛЛЕКТИВНОГО ДОГОВОРА ОДОБРЕН НА СОБРАНИИ ТРУДОВОГО КОЛЛЕКТИВА МУНИЦИПАЛЬНОГО УЧРЕЖДЕНИЯ СРЕДНЯЯ ОБЩЕОБРАЗОВАТЕЛЬНАЯ ШКОЛА № 1 15 МАЯ-2О08 ГОДА И ПОДПИСАН</span> 
+</p>
+<p style="background: white; margin: 12.7pt 0cm 0pt 1.2pt; tab-stops: 162.5pt 258.0pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.2pt">От администрации</span><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>От профкома</span></span></span> 
+</p>
+<p style="background: white; tab-stops: 257.75pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span>Директор</span><i><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></i><span>Председателем ПК</span></span></span> 
+</p>
+<p style="background: white; margin-left: 0.7pt; tab-stops: 258.0pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.2pt">Н.В.Степович</span><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Г.Г.Хрящева</span></span></span> 
+</p>
+<p style="margin: 0cm 142.55pt 0pt 300pt">
+<span style="font-size: 8pt; font-family: times new roman,times"></span>
+</p>
+<p style="background: white; margin: 64.3pt 0cm 0pt 27.1pt">
+<span style="font-size: 8pt; font-family: times new roman,times">ЮРИДИЧЕСКИЙ АДРЕС: 153004, Г. ИВАНОВО, УЛ 9 ЯНВАРЯ, Д.39МУСОШ №1.КОНТАКТНЫЙ ТЕЛЕФОН: 37 67 82</span> 
+</p>
+<p style="background: white; line-height: 13.9pt">
+<span style="font-size: 8pt; font-family: times new roman,times"></span>
+</p>
+<p style="background: white; line-height: 13.9pt">
+<span style="font-size: 8pt; font-family: times new roman,times"></span>
+</p>
+<p style="background: white; line-height: 13.9pt">
+<span style="font-size: 8pt; font-family: times new roman,times"></span>
+</p>
+<p style="background: white; line-height: 13.9pt">
+<span style="font-size: 8pt; font-family: times new roman,times"></span>
+</p>
+<p style="background: white; margin-left: 0.7pt; line-height: 17.05pt">
+<b><span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.1pt">Текст дополнений к коллективному договору принят на общем собрании работников </span>31.08.2010 и подписан</span></span></b> 
+</p>
+<p style="background: white; margin: 12.5pt 0cm 0pt 0.7pt; tab-stops: 199.9pt">
+<b><span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.05pt">от работников<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="letter-spacing: -0.1pt">от администрации</span></span></span></b> 
+</p>
+<p style="background: white; margin-left: 0.95pt; tab-stops: 215.5pt">
+<b><span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.5pt">Председатель</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Директор МУСОШ 1</span></span></b> 
+</p>
+<p style="background: white; margin-left: 60.5pt; tab-stops: dashed 95.05pt blank 194.15pt 263.3pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><b><i><span>-</span></i></b><b><span><span>------- </span></span></b><span></span></span></span>
+</p>
+<p style="background: white; margin-left: 43.2pt; tab-stops: 198.25pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><b><span style="letter-spacing: -0.2pt">Г.Г.Хрящева</span></b><b><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Н.В.Стёпович</span></b><span></span></span></span> 
+</p>
+<p style="background: white; margin: 28.3pt 0cm 0pt 36.25pt">
+<b><span style="font-size: 8pt; font-family: times new roman,times; letter-spacing: -0.45pt">ДОПОЛНЕНИЯ К КОЛЛЕКТИВНОМУ ДОГОВОРУ</span></b><span></span> 
+</p>
+<p style="background: white; margin: 0.7pt 27.85pt 0pt 0.7pt; line-height: 19.7pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><b><span style="letter-spacing: -0.2pt">Между администрацией и работниками муниципального учреждения </span></b><b><span>средней общеобразовательной школы №1 <span style="letter-spacing: -0.2pt">г.Иваново на 2010-2011 годы.</span></span></b><span></span></span></span> 
+</p>
+<p style="background: white; margin: 10.3pt 0cm 0pt 0.5pt; line-height: 19.7pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.1pt">В соответсвии с Постановлением Правительства Ивановской области № 117-п </span><span>от 19.05.2008 &laquo; О системе оплаты труда работников общеобразовательных учреждений в рамках комплексного проекта модернизации образования Ивановской области&raquo;, Постановлением Правительства Ивановской области №371 от 31.12.2008 &laquo; О системе оплаты труда работников государственных учреждений Ивановской области, подведомственных Департаменту образования Ивановской области&raquo;, Постановлением Главы города Иванова № 3989 от 31.12.2008 &laquo; О системе оплаты труда работников муниципальных учреждений образования, подведомственных управлению образования администраци города Иванова&raquo;, Положением &laquo;Об оплате труда работников муниципального учреждения средней общеобразовательной школе №1&raquo; </span></span></span>
+</p>
+<p style="background: white; margin: 13.7pt 0cm 0pt 1.45pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><b><span style="letter-spacing: -0.05pt">П.5 Оплата и стимулирование труда </span></b><span style="letter-spacing: -0.05pt">дополнить следующими подпунктами:</span></span></span> 
+</p>
+<p style="background: white; margin: 13.7pt 0cm 0pt 1.45pt">
+<span style="font-size: 8pt; font-family: times new roman,times; letter-spacing: -0.05pt">5.6.Заработная плата работников определяется с учетом:</span><span></span> 
+</p>
+<p style="background: white; margin: 10.3pt 0cm 0pt 1.2pt; line-height: 19.7pt">
+<span style="font-size: 8pt; font-family: times new roman,times">-должностных окладов работников, образованных путем умножения минимальных окладов по профессионально-квалификационным группам на повышающие коэффициенты;</span> 
+</p>
+<p style="background: white; margin: 14.15pt 0cm 0pt 1.2pt">
+<span style="font-size: 8pt; font-family: times new roman,times">-фактического объема учебной нагрузки;</span> 
+</p>
+<p style="background: white; margin: 14.9pt 0cm 0pt 1.2pt">
+<span style="font-size: 8pt; font-family: times new roman,times">-выплат компенсационного характера;</span> 
+</p>
+<p style="background: white; line-height: 13.9pt">
+<span style="font-size: 8pt; font-family: times new roman,times"></span>
+</p>
+<p style="background: white; margin-left: 0.5pt">
+<span style="font-size: 8pt; font-family: times new roman,times">-выплат стимулирующего характера.</span> 
+</p>
+<p style="background: white; margin: 10.55pt 0cm 0pt 0.7pt; line-height: 19.45pt">
+<span style="font-size: 8pt; font-family: times new roman,times">5.7. Условия оплаты труда работника, включая размер должностного оклада, размеры выплат компенсационного характера, с указанием их видов, размеры и ( или) условия выплат стимулирующего характера являются обязательными для включения в трудовой договор.</span> 
+</p>
+<p style="background: white; margin: 9.6pt 0cm 0pt 0.25pt; line-height: 19.45pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.05pt">5.8.Месячная заработная плата работника, полностью отработавшего за этот </span><span>период норму рабочего времени и выполнившего нормы труда (трудовые обязанности), не может быть ниже минимального размера оплаты труда, установленного в соответствии с законодательством.</span></span></span> 
+</p>
+<p style="margin-top: 9.85pt; background: white; line-height: 19.45pt">
+<span style="font-size: 8pt; font-family: times new roman,times">5.9.Месячная заработная плата работников ( без учета премий и иных стимулирующих выплат), установленная по новой системе оплаты труда, не может быть меньше месячной заработной платы ( без учета премий и иных <span style="letter-spacing: -0.05pt">стимулирующих выплат), выплачиваемой до введения этой новой системы, </span>при условии сохранения объема должностных обязанностей работников и выполнения ими работ той же квалификации. Разница в заработной плате доплачивается ежемесячно, включается в систему оплаты труда и учитывается при начислении средней заработной платы работникам учреждения во всех необходимых случаях.</span> 
+</p>
+<p style="background: white; margin: 9.6pt 0cm 0pt; text-indent: 0cm; line-height: 19.7pt; tab-stops: 31.7pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.5pt"><span>&bull;5.10.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Размер и перечень компенсационных выплат работникам учреждения <span style="letter-spacing: -0.05pt">устанавливается в соответствии с Положением о компенсационных выплатах </span>работникам муниципального учреждения средней общеобразовательной школы №1 в условиях новой системы оплаты труда<span style="letter-spacing: -0.5pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 10.55pt 26.9pt 0pt 0cm; text-indent: 0cm; line-height: 19.45pt; tab-stops: 31.7pt 282.7pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.45pt"><span>&bull;5.11.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Выплаты стимулирующего характера работникам учреждения устанавливаются в соответствии с Положением о порядке и условиях <span style="letter-spacing: -0.1pt">распределения стимулирующей части фонда оплаты труда работников </span>МУСОШ№1<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="letter-spacing: -0.45pt"></span></span></span></span>
+</p>
+<p style="background: white; margin: 9.35pt 0cm 0pt; text-indent: 0cm; line-height: 19.7pt; tab-stops: 31.7pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.5pt"><span>&bull;5.12.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Перечень оснований для начисления стимулирующих выплат согласуется с общим собранием работников, профсоюзным комитетом и утверждается директором школы.<span style="letter-spacing: -0.5pt"></span></span></span></span> 
+</p>
+<p style="background: white; margin: 10.1pt 0cm 0pt; text-indent: 0cm; line-height: 19.7pt; tab-stops: 31.7pt">
+<span style="font-size: 8pt"><span style="font-family: times new roman,times"><span style="letter-spacing: -0.5pt"><span>&bull;5.13.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span>Учитывать в составе гарантированного размера заработной платы стимулирующие надбавки в размере 14%, являющиеся видом индексации заработной платы в рамках реализации Правительством РФ мер по увеличению реального содержания заработной платы работников <span style="letter-spacing: -0.5pt"></span></span></span></span>
+</p>
+<span style="font-size: 12pt"><br clear="all" style="page-break-before: auto" />
+</span>
+<p style="background: white; margin: 0.25pt 0cm 0pt 0.5pt; line-height: 29.5pt">
+<span style="font-size: 12pt"></span>
+</p>
+<p align="center" style="background: white; margin: 0cm 0cm 0pt 26.9pt; text-align: center" class="MsoNormal">
+<span style="font-size: 12pt; font-family: 'Times New Roman','serif'"><br clear="all" />
+</span>
+</p>
+<p style="margin-left: 0cm; text-indent: 0cm; line-height: 0.05pt">
+<span style="font-size: 12pt; font-family: 'Arial','sans-serif'"><span>.<span style="font-family: 'Times New Roman'">&nbsp;&nbsp; </span></span></span><span style="font-size: 12pt">&nbsp;</span> 
+</p>
+<p style="background: white; margin: 3.1pt 53.75pt 0pt 0cm; line-height: 19.9pt">
+<span style="font-size: 12pt; color: #000000; font-family: Verdana"></span>
+</p>
+			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+								<div class="back_button">
+						<a href='javascript:history.go(-1)'>
+					Вернуться</a>
+						</div>
+																																				<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+										<br />
+									</td>
+								</tr>
+							</table>
+						</div>
+						<div id="rightcolumn">
+<!-- 						<div id="leftborder_column">&nbsp;</div>
+						<div id="rightborder_column">&nbsp;</div> -->
+						<div id="search">
+							
+<form action="index.php?option=com_search" method="get">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="100" alt="search" class="inputbox" type="text" size="20" value="Поиск..."  onblur="if(this.value=='') this.value='Поиск...';" onfocus="if(this.value=='Поиск...') this.value='';" />	</div>
+
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="" />	
+</form>						</div>
+													</div>
+						<div class="clr">&nbsp;</div>
+					  </div> 					  </div> 					  </div> 					</div>
+					<div class="clr">&nbsp;</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="bag">&nbsp;</div>
+		<div id="footer">
+							<div id="footer_r">Copyright 2010  ·  Дизайн <a target='_blank' href='http://www.desunk.com'>www.desunk.com</a>  ·  All Rights Reserved
+				</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>
