@@ -16,11 +16,11 @@ gem "mail"
 gem 'mysql2'
 gem 'i18n', '>=0.5.0'
 gem 'russian'
-gem 'nokogiri'
 gem 'haml'
 gem "RedCloth", ">=4.0", :require => 'redcloth'
 gem 'will_paginate', '~> 3.0.beta'
-gem 'sanitize'
+gem 'nokogiri', '1.5.10'
+gem 'sanitize', '2.0.3'
 gem 'state_machine'
 gem 'rmagick'
 gem "paperclip", "2.3.6"
@@ -35,6 +35,7 @@ gem 'whenever', :require => false
 gem 'acts-as-taggable-on'
 gem 'nested_set'
 gem "puffer"
+gem "capistrano"
 
 # gem 'acts-as-list'
 # =========================================
