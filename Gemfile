@@ -9,6 +9,7 @@ source 'http://rubygems.org'
 
 # using bundler
 # sudo bundle install
+gem 'unicorn'
 gem "rake", "0.8.7"
 gem "capistrano", "2.15.5"
 
