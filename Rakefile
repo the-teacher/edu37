@@ -6,8 +6,7 @@ require 'rake'
 
 JosephStalin::Application.load_tasks
 
-require 'thinking_sphinx/deltas/datetime_delta'
-require 'thinking_sphinx/deltas/datetime_delta/tasks'
-
-require 'thinking_sphinx/deltas/delayed_delta'
-require 'thinking_sphinx/deltas/delayed_delta/tasks'
+# require 'thinking_sphinx/deltas/datetime_delta'
+# require 'thinking_sphinx/deltas/datetime_delta/tasks'
+# require 'thinking_sphinx/deltas/delayed_delta'
+# require 'thinking_sphinx/deltas/delayed_delta/tasks'

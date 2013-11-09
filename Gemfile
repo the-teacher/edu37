@@ -9,12 +9,18 @@ source 'http://rubygems.org'
 
 # using bundler
 # sudo bundle install
+gem "rake", "0.8.7"
 gem "capistrano", "2.15.5"
 
-gem 'subdomain-fu', '1.0.0.beta2' # :git => "git://github.com/nhowell/subdomain-fu.git"
+# gem 'subdomain-fu', '1.0.0.beta2' # 
+gem 'subdomain-fu', :git => "git://github.com/nhowell/subdomain-fu.git"
+
 gem 'rails', '3.0.7'
 gem "mail"
+
 gem 'mysql2'
+gem 'activerecord-mysql2-adapter'
+
 gem 'i18n', '>=0.5.0'
 gem 'russian'
 gem 'haml'
@@ -29,13 +35,15 @@ gem "haml-rails"
 gem "jquery-rails"
 gem 'faker'
 gem 'delayed_job'
-gem 'thinking-sphinx', '2.0.0', :require => 'thinking_sphinx'
-gem 'ts-datetime-delta'
-gem 'ts-delayed-delta'
+
 gem 'whenever', :require => false
 gem 'acts-as-taggable-on'
 gem 'nested_set'
 gem "puffer"
+
+# gem 'thinking-sphinx', '2.0.0', :require => 'thinking_sphinx'
+# gem 'ts-datetime-delta'
+# gem 'ts-delayed-delta'
 
 # gem 'highline'
 # gem 'net-scp', "1.0.0"
