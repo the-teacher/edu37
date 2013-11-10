@@ -27,7 +27,7 @@
       = f.label t('comments.content')
       = f.text_area :textile_content, :rows=>10, :style=>'width:550px;', :class=>:textarea
     
-    = show_simple_captcha(:object=>:comment, :distortion=>'medium', :image_style=>['embosed_silver', 'simply_red', 'distorted_black', 'charcoal_grey'].rand)
+    = show_simple_captcha(:object=>:comment, :distortion=>'medium', :image_style=>'charcoal_grey')
 
     .actions
       = f.submit t('comments.post'), :class=>:submit
