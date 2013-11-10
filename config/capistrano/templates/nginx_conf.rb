@@ -6,7 +6,12 @@ server{
   listen 80;
   server_name <%= site_name %> *.<%= site_name %>;
   root <%= current_path %>/public;
-  
+
+  # www => no www
+  if ($host = 'www.<%= site_name %>' ) {
+     rewrite  ^/(.*)$  http://<%= site_name %>/$1  permanent;
+  }
+
   location / {
     proxy_redirect off;
     proxy_set_header Host $http_host;
@@ -19,12 +24,13 @@ server{
   }
 
   # serve static content directly
-  # location ~* \.(ico|jpg|gif|png|swf|html|js|css)$ {
-  #   if (-f $request_filename) {
-  #     expires max;
-  #     #gzip_static on;
-  #     #add_header Cache-Control public;
-  #     break;
-  #   }
-  # }
+  location ~* \.(ico|jpg|gif|png|swf|html|js|css)$ {
+    if (-f $request_filename) {
+      expires max;
+      break;
+
+      #gzip_static on;
+      #add_header Cache-Control public;
+    }
+  }
 }
