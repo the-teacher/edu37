@@ -2,19 +2,19 @@ upstream <%= fetch (:web_server_socket) %> {
   server unix:<%= fetch(:web_server_sock) %> fail_timeout=20;
 }
 
-server {
-  listen 80;
-  server_name www.<%= fetch(:domain) %>;
-  
-  access_log <%= current_path %>/log/<%= fetch(:domain) %>-acc;
-  error_log  <%= current_path %>/log/<%= fetch(:domain) %>-err;
-
-  rewrite ^ http://<%= fetch(:domain) %>$uri permanent;
-}
+# server {
+#   listen 80;
+#   server_name www.<%= fetch(:domain) %>;
+#   
+#   access_log <%= current_path %>/log/<%= fetch(:domain) %>-acc;
+#   error_log  <%= current_path %>/log/<%= fetch(:domain) %>-err;
+# 
+#   rewrite ^ http://<%= fetch(:domain) %>$uri permanent;
+# }
 
 server{
   listen 80;
-  server_name <%= fetch(:domain) %>;
+  server_name <%= fetch(:domain) %> *.<%= fetch(:domain) %>;
 
   # Logs
   access_log on;
