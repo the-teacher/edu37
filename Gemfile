@@ -11,7 +11,7 @@ source 'http://rubygems.org'
 # sudo bundle install
 gem 'unicorn'
 gem "rake", "0.8.7"
-gem "capistrano", "2.15.5"
+# gem "capistrano", "2.15.5"
 
 # gem 'subdomain-fu', '1.0.0.beta2' # 
 gem 'subdomain-fu', :git => "git://github.com/nhowell/subdomain-fu.git"
@@ -38,7 +38,7 @@ gem 'faker'
 gem 'delayed_job'
 
 gem 'whenever', :require => false
-gem 'acts-as-taggable-on'
+gem 'acts-as-taggable-on', '~> 2.4.1'
 gem 'nested_set'
 gem "puffer"
 

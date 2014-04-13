@@ -8,8 +8,8 @@ log/*
 db/sphinx/development/*
 
 .rvmrc
-Gemfile.lock
-.Gemfile.lock
+.ruby-version
+.ruby-gemset
 
 vendor/cache
 vendor/cache/*
