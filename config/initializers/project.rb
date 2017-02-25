@@ -2,7 +2,7 @@ module Project
   # base consts
   ROOT_DOMAIN = "edu37.ru"
   ROOT_LOGIN = "root"
-  ADDRESS = "http://edu37.ru"
+  ADDRESS = "http://edu37.ru:3000"
   ADMIN_EMAIL = "zykin-ilya@ya.ru"
   COOKIES_SCOPE = ".edu37.ru" # auth for all subdomains
 
@@ -61,7 +61,7 @@ module Project
         :value   => token,
         :expires => view_token_expires,
         :path => '/',
-        :domain => domain 
+        :domain => domain
       }
     end
     return cookies[view_token]

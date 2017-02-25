@@ -20,7 +20,7 @@ gem 'subdomain-fu', :git => "git://github.com/nhowell/subdomain-fu.git"
 gem 'rails', '3.0.7'
 gem "mail"
 
-gem 'mysql2'
+gem 'mysql2', '0.3.18'
 gem 'activerecord-mysql2-adapter'
 
 gem 'i18n', '>=0.5.0'
