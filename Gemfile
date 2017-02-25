@@ -9,11 +9,12 @@ source 'http://rubygems.org'
 
 # using bundler
 # sudo bundle install
-gem 'unicorn'
+# gem 'unicorn'
+
 gem "rake", "0.8.7"
 # gem "capistrano", "2.15.5"
 
-# gem 'subdomain-fu', '1.0.0.beta2' # 
+# gem 'subdomain-fu', '1.0.0.beta2' #
 gem 'subdomain-fu', :git => "git://github.com/nhowell/subdomain-fu.git"
 
 gem 'rails', '3.0.7'

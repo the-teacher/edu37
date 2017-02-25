@@ -13,6 +13,8 @@ db/sphinx/development/*
 
 vendor/cache
 vendor/cache/*
+OLD/*
 
 config/database.yml
 config/capistrano/templates/database.production.yml
+DeployTool/
